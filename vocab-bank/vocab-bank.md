@@ -18,3 +18,18 @@
 | rest on its laurels | 满足已有成绩而停滞 | Socceroos 胜利后仍需准备下一场 | The team cannot afford to rest on its laurels. | 中 | 基线记录 |
 | bask in the afterglow | 沉浸在余韵/喜悦中 | 球迷仍沉浸在胜利后情绪里 | Fans were basking in the afterglow of the win. | 中 | 基线记录 |
 | learned helplessness | 习得性无助 | UK PM 谈科技公司把社媒包装成不可改变 | We have to resist learned helplessness. | 高 | 基线记录 |
+| receive / take one's lumps | 承受应得的惩罚或挫折 | Star Casino 高管处罚报道中的澳洲口语 | The former executives received their lumps in court. | 中 | 2026-06-17 新收录 |
+| be disqualified from holding directorships | 被取消担任公司董事的资格 | 法院对前高管作出禁任处罚 | He was disqualified from holding directorships for six years. | 高 | 2026-06-17 新收录 |
+| throw the book at someone | 对某人从严惩处 | 法官批评监管机构不能一边轻罚、一边要求重罚其他人 | The regulator asked the judge to throw the book at the executives. | 高 | 2026-06-17 新收录 |
+| walk back a red line | 放宽、收回或淡化原先的明确底线 | 美国为促成停火对伊朗作出让步 | The government walked back one of its red lines during negotiations. | 高 | 2026-06-17 新收录 |
+| get something over the line | 克服最后障碍，把事情最终完成 | 通过让步促成停火协议 | Both sides made concessions to get the deal over the line. | 高 | 2026-06-17 新收录 |
+| hedge one's position | 通过增加其他选择来分散依赖和风险 | 海湾国家可能寻找更多安全伙伴 | Gulf states may hedge their position by working with other partners. | 高 | 2026-06-17 新收录 |
+| economic coercion | 经济胁迫；用贸易、金融或资源施压 | 讨论国家利用金融市场、科技和稀土施压 | Supply restrictions can become a form of economic coercion. | 高 | 2026-06-17 新收录 |
+| take something for granted | 把某事视为理所当然 | 全球经济中原本被认为稳定的规则和供应链正在变化 | We can no longer take secure supply chains for granted. | 高 | 2026-06-17 新收录 |
+| be cognizant of | 意识到并留意 | 主持人问企业董事需要注意哪些风险 | Directors need to be cognizant of hidden supply-chain risks. | 中 | 2026-06-17 新收录 |
+| a noose around the neck | 成为沉重、持续的负担 | 全国实体门店网络由资产变成零售商负担 | High rents have become a noose around the neck of some retailers. | 高 | 2026-06-17 新收录 |
+| ride the highs and lows | 一同经历高峰和低谷 | 运动员谈家人共同承受职业生涯起伏 | Families ride the highs and lows of an athlete's career. | 中 | 2026-06-17 新收录 |
+| a sliding-doors moment | 一个可能令人生走向完全不同的关键节点 | Jack Debreczeni 回顾差点退役、后来完成百场里程碑 | Choosing not to retire became a sliding-doors moment in his career. | 中 | 2026-06-17 新收录 |
+| put someone out of their comfort zone | 让某人走出舒适区 | 学习并表演 Cook Islands 文化舞蹈 | Performing at island night put him out of his comfort zone. | 中 | 2026-06-17 新收录 |
+| buy in | 认同并投入某个理念或做法 | 团队成员理解并接纳彼此文化 | The whole squad bought in to the club's inclusive culture. | 高 | 2026-06-17 新收录 |
+| drive belonging | 促进、增强归属感 | 多元文化实践加强团队联系 | Shared rituals can drive belonging within a team. | 中 | 2026-06-17 新收录 |

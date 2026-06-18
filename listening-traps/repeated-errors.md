@@ -1,9 +1,12 @@
 | 问题类型 | 具体表现 | 例句 | 为什么我容易听错 | 训练建议 | 出现次数 |
 |---|---|---|---|---|---|
-| 潜在易错点：专名被普通词替代 | `Strait of Hormuz` 被 ASR 识别成 `Strait of the Ministry`, `straighter form was`, `Strait of Humwa's` | It all hinges on the Strait of Hormuz reopening unimpeded. | 专名不熟时，大脑会自动套入熟悉普通词；`of` 弱读后边界更模糊。 | 建立专名音形表：Hormuz / Oman / Pyongyang / Mindanao / Hualien，每个读 10 遍。 | 3 |
-| 潜在易错点：澳洲本地词 | `bowsers` 被 ASR 识别成 `bowels` | We'd expect that to flow through to the bowsers. | 澳洲英语里 `bowser` 指加油泵/加油站终端，不熟会误解成完全不相关的词。 | 把 `flow through to the bowsers` 作为整块跟读，不逐词猜。 | 1 |
-| 潜在易错点：经济新闻同义替换 | `leave the rate on hold`, `sit still`, `next move is down` 都指利率路径 | Financial markets expect the RBA to leave the rate on hold. | 听懂单词但没有映射到“利率不变/下一步降息”。 | 做三列表：原句表达 / 政策含义 / 中文转述。 | 3 |
-| 潜在易错点：数字密集段 | 百分比、金额、日期、年龄连续出现 | 116,000 Britons... 90% of parents... minimum age of 16. | 新闻数字不等人，听到第二个数字时第一个已经丢了。 | 听写只抓数字和单位：116,000 / 90% / 16。 | 5 |
-| 潜在易错点：插入结构长句 | 主语和谓语被背景信息隔开 | Australia, being a member of the International Energy Agency, which has advised..., we haven't abided by that. | 中文母语者容易按线性顺序理解，插入语一长就找不到主干。 | 先划主干，再跟读插入结构：Australia... we haven't abided by that。 | 2 |
-| 潜在易错点：ASR 重复和断句异常 | `tens of thousands of thousands`, `Gulf of the Gulf of the Gulf` | Tens of thousands... remain displaced after a 7.8 magnitude earthquake. | ASR 重复会制造假信息，裸听时也可能被重复音节带偏。 | 训练时优先抓新闻语义主干，不被重复片段拖走。 | 2 |
-| 潜在易错点：体育/文化昵称 | `Socceroos` 是澳洲男足，不是普通名词 | The Socceroos and their fans are still basking in the afterglow. | 不熟澳洲文化昵称时，会误判主语。 | 建立澳洲新闻文化词表：Socceroos, Matildas, Wallabies。 | 1 |
+| 潜在易错点：专名被普通词替代 | `Hormuz → Ministry/Hamuz`；`Bekier → Beckia`；`ASIC → ASICH/asset`；`Debreczeni → Deperini` | ASIC couldn't treat some contraventions lightly and then ask the judge to throw the book at others. | 专名不熟时，大脑和 ASR 都会自动套入熟悉普通词；弱读还会进一步模糊词边界。 | 建立“音形—身份—语境”三列表；每次先朗读专名，再听完整句。 | 14 |
+| 潜在易错点：澳洲本地词和口语 | `bowsers`、`get pinged`、`receive their lumps` 容易按字面误解 | The non-executive directors didn't get pinged for this misconduct. | 词本身可能认识，但澳洲语境中的含义或使用频率不同。 | 整块记忆并做同义替换：`get pinged = be penalised`；`receive one's lumps = take punishment`。 | 4 |
+| 潜在易错点：经济新闻同义替换 | 利率路径、谈判让步和经济施压常用非字面表达 | The US walked back a few red lines to get the deal over the line. | 听懂单词但没有及时映射到政策或谈判含义。 | 做三列表：原句表达 / 新闻含义 / 一句中文转述。 | 10 |
+| 潜在易错点：数字密集段 | 百分比、金额、日期、年龄、年限连续出现 | $700,000 and six years; $400,000 and seven years. | 新闻数字不等人，相似结构会让后一个数字覆盖前一个。 | 使用四格听写：对象 / 数字 / 单位 / 对应事件。 | 15 |
+| 潜在易错点：插入结构长句 | 主语和谓语被关系从句、解释块或口语改口隔开 | Things that we took for granted would always be secure are becoming more dubious. | 中文母语者容易线性处理；修饰块过长时会遗失主干。 | 先抓最后谓语，再回填修饰：`Things are becoming more dubious.` | 8 |
+| 潜在易错点：ASR 重复和断句异常 | 词语重复、语义崩坏，以及整份 VTT 的滚动字幕重复 | to take further and hire these really serious allegations... | ASR 异常会制造不存在的句法；滚动字幕还会让同一句看似出现多次。 | 语法和语义同时不通时停止脑补；先去重，再标 `unclear`。 | 2 次局部重复 + 1 份滚动 VTT |
+| 潜在易错点：体育/文化昵称 | `Socceroos`、`Jillaroos`、`Fetu Samoa`、`Waratahs`、`Brumbies` | You've represented the Australian Jillaroos, the Cook Islands Moana and Fetu Samoa. | 不熟球队昵称和文化背景时，会误判主语、国家或运动项目。 | 建立队名卡片：名称 / 国家或地区 / 项目 / 代表人物。 | 9 |
+| 潜在易错点：太平洋岛国文化词 | `Cook Islands`、`Fijian`、`Samoan`、`Tongan`、`Māori`、`Meitaki` 音形密集出现 | It would either be Fijian, Samoan, Tongan, or Māori. | 多个相近文化类别连续出现，且部分词不遵循熟悉的英语拼读预期。 | 先看地图和词表，再做封闭式辨音；不要在第一次听时同时查背景。 | 8 |
+| 潜在易错点：自然口语重启 | 重复主语、填充词、自我修正和未完成句 | Your family and probably your partners, they ride the highs and lows as much as you. | 学习者期待完整书面句，遇到重启时容易误以为漏听了内容。 | Shadowing 时保留一次自然重启；复述时再整理成完整句。 | 7 |
+| 潜在易错点：第二语言英语 | 35:30 后多位 Fijian 说话者的时态、复数和句法不稳定 | My whole family is back home. It's just me here alone. | 如果过度依赖标准语法预测，会忽略清楚的关键词和情感主线。 | 第一遍只抓人物、地点、行动和情绪；第二遍再处理语法细节。 | 1 个长段落 |

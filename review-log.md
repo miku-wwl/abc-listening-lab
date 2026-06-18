@@ -1,3 +1,4 @@
 | 日期 | 原始转写文件 | 主题 | 难度 | 本次核心问题 | 重复问题 | 新增表达 | 下次训练重点 |
 |---|---|---|---|---|---|---|---|
 | 2026-06-15 | raw-transcripts/2026-06-15.txt | ABC 多段新闻：US-Iran ceasefire、油价/RBA、Asia-Pacific、澳洲本地新闻 | 8/10 | 无时间戳长文本；专名/地名密集；ASR 错词影响理解；经济新闻同义替换；数字密集段 | 第一条基线记录，暂无法判断 | in the nick of time; supply crunch; ramp up; leave the rate on hold; flow through to the bowsers; rest on its laurels; learned helplessness | 补裸听 notes；重点训练 Strait of Hormuz 类专名、RBA/油价表达、数字听写和长句断句 |
+| 2026-06-17 | raw-transcripts/2026-06-17.vtt | The Business：Star Casino、US–Iran/油价、经济安全、零售；ABC Pacific：Cook Islands/Fijian 橄榄球与文化社群 | 8/10 | 滚动 VTT 去重；罚款和年限数字配对；地缘经济抽象表达；太平洋人名/队名；自然口语与第二语言英语 | 专名普通词化、数字密集段、经济新闻非字面表达、长句主干丢失、澳洲机构/体育文化词 | throw the book at; walk back a red line; get it over the line; economic coercion; a noose around the neck; ride the highs and lows; buy in | 补 3–5 个带时间戳的裸听卡点；做“人物—金额—年限”数字听写；预习 Pacific 专名后听访谈；练先抓主干再补细节 |
