@@ -174,3 +174,11 @@
 | a speculative conviction | 仅停留在理论层面的确信 | 只知道完整美德符合自身利益，并不足以形成稳定行为 | A speculative conviction about security does not replace secure defaults. | 高 | 2026-06-28 新收录 |
 | fall far short of | 远未达到目标或标准 | Franklin 承认自己离道德完美相差很远 | The first prototype fell far short of production requirements. | 高 | 2026-06-28 新收录 |
 | a speckled ax | 接受仍有瑕疵但已经可用的结果；不再追求彻底完美 | Franklin 用磨斧寓言说明人会因改进太费力而接受不完美 | The design is not flawless, but a speckled ax may be better than an unfinished one. | 高 | 2026-06-28 新收录 |
+| compound with one's creditors | 与债权人协商以折扣、延期或其他安排解决债务 | Denham 破产后曾与债权人和解，后来又偿还全部余款和利息 | The company compounded with its creditors before returning to profitability. | 中 | 2026-06-29 新收录 |
+| carry someone off | 使某人死亡，常用于疾病或事故 | Franklin 的 pleurisy 几乎夺走他的生命 | The infection nearly carried him off. | 高 | 2026-06-29 新收录 |
+| draw someone in with | 用承诺、利益或说法吸引某人加入 | Keimer 用未来加薪的预期吸引廉价学徒 | The employer drew applicants in with promises of rapid promotion. | 高 | 2026-06-29 新收录 |
+| take care that no more ... than ... | 确保不超过某个数量或权限上限 | 委员监督纸币印刷量不得超过法律授权 | Auditors took care that no more licences were issued than the law permitted. | 高 | 2026-06-29 新收录 |
+| be beforehand with someone | 抢在某人前面采取行动 | Keimer 得知 Franklin 的办报计划后抢先发布提案 | The rival tried to be beforehand with us by announcing first. | 中 | 2026-06-29 新收录 |
+| take a debt upon oneself | 承担某笔债务 | Franklin 接下公司债务，换取 Meredith 退出合伙 | She took the company's debts upon herself as part of the settlement. | 高 | 2026-06-29 新收录 |
+| give bail | 提供保释金或诉讼担保 | 商人起诉合伙企业后，Franklin 等人提供担保 | The defendants gave bail while the case proceeded. | 中 | 2026-06-29 新收录 |
+| slacken the opposition | 使反对力量减弱 | 反对纸币扩张的一方无人有效回应，小册子使其阻力下降 | A clear public explanation helped slacken the opposition. | 高 | 2026-06-29 新收录 |

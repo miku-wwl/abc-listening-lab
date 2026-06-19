@@ -1094,3 +1094,85 @@
 - 连读 / 弱读提示：`not wholly without` 是双重限定，不能只听成 `without religion`；区分 `tenets` 与 `tenants`。
 - 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
 - 跟读次数建议：14 次
+
+## 2026-06-29
+
+### 1
+
+- 日期：2026-06-29
+- 时间戳：00:00:36–00:01:00
+- 原句：She had given all her estate to charitable uses, reserving only twelve pounds a year to live on.
+- 慢速拆解：She had given / all her estate / to charitable uses / reserving only twelve pounds a year / to live on.
+- 连读 / 弱读提示：`given all her`、`pounds a year`、`to live on` 可能压缩；重读 `all / charitable / only twelve / live on`。
+- 中文意思：她把全部财产用于慈善，只留下每年 12 英镑生活。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-29
+- 时间戳：00:05:33–00:06:07
+- 原句：As soon as I should be acquainted with mercantile business, he would promote me by sending me with a cargo to the West Indies.
+- 慢速拆解：As soon as I should be acquainted / with mercantile business / he would promote me / by sending me with a cargo / to the West Indies.
+- 连读 / 弱读提示：`as soon as I`、`would promote me`、`with a cargo to` 可能连读；先保持 condition / result 两段。
+- 中文意思：等我熟悉商业后，他会派我携货去西印度群岛，以此提拔我。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-29
+- 时间戳：00:12:52–00:13:22
+- 原句：The expectation of these high wages to come on hereafter was what he had drawn them in with.
+- 慢速拆解：The expectation / of these high wages / to come on hereafter / was what / he had drawn them in with.
+- 连读 / 弱读提示：长主语后才出现 `was`；重读 `expectation / high wages / drawn them in`。
+- 中文意思：正是未来会拿高工资的预期，把他们吸引了进来。
+- 跟读次数建议：14 次
+
+### 4
+
+- 日期：2026-06-29
+- 时间戳：00:20:45–00:21:02
+- 原句：Old friends should not part for a few words, the effect of sudden passion.
+- 慢速拆解：Old friends / should not part / for a few words / the effect / of sudden passion.
+- 连读 / 弱读提示：`should not` 不能丢否定；`a few words` 和 `of sudden` 可能弱读。
+- 中文意思：老朋友不该因为一时冲动说出的几句话而分道扬镳。
+- 跟读次数建议：10 次
+
+### 5
+
+- 日期：2026-06-29
+- 时间戳：00:21:33–00:21:58
+- 原句：They were to attend the press and take care that no more bills were printed than the law directed.
+- 慢速拆解：They were to attend the press / and take care / that no more bills were printed / than the law directed.
+- 连读 / 弱读提示：强读上限结构 `no more / than`；`were to attend`、`than the law` 可能压缩。
+- 中文意思：他们要监督印刷，确保印制的纸币不超过法律规定。
+- 跟读次数建议：14 次
+
+### 6
+
+- 日期：2026-06-29
+- 时间戳：00:23:58–00:24:29
+- 原句：The arguments of the deists which were quoted to be refuted appeared to me much stronger than the refutations.
+- 慢速拆解：The arguments of the deists / which were quoted / to be refuted / appeared to me / much stronger / than the refutations.
+- 连读 / 弱读提示：区分 `refuted / refutations`；重读比较两端 `arguments / stronger / refutations`。
+- 中文意思：那些被引用来驳斥的自然神论观点，在我看来反而比反驳更有力。
+- 跟读次数建议：16 次
+
+### 7
+
+- 日期：2026-06-29
+- 时间戳：00:25:52–00:26:23
+- 原句：Certain actions might not be bad because they were forbidden, but forbidden because they were bad for us.
+- 慢速拆解：Certain actions / might not be bad / because they were forbidden / but forbidden / because they were bad for us.
+- 连读 / 弱读提示：两次 `because` 前后的重音方向必须相反；强读 `not / but / bad for us`。
+- 中文意思：某些行为未必因为被禁止才有害，而可能因为本身有害才被禁止。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-06-29
+- 时间戳：00:41:29–00:42:00
+- 原句：Take the debts of the company upon you, return to my father the hundred pounds he has advanced, pay my little personal debts, and give me thirty pounds and a new saddle.
+- 慢速拆解：Take the debts of the company / upon you / return to my father / the hundred pounds he has advanced / pay my little personal debts / and give me thirty pounds / and a new saddle.
+- 连读 / 弱读提示：按四项义务分拍；重读 `company debts / father / hundred pounds / personal debts / thirty pounds / saddle`。
+- 中文意思：你承担公司债务，退还我父亲投入的 100 英镑，替我偿还个人小债，再给我 30 英镑和一副新马鞍。
+- 跟读次数建议：18 次
