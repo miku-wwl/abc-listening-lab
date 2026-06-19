@@ -766,3 +766,85 @@
 - 连读 / 弱读提示：`whatever public measures`、`appear to be for the`、`forward them` 可能压缩；主句到后半段才出现，重读条件 `good of the people`。
 - 中文意思：只要他提出的公共政策确实有利人民，没有人会比我更积极地支持和推动。
 - 跟读次数建议：14 次
+
+## 2026-06-25
+
+### 1
+
+- 日期：2026-06-25
+- 时间戳：00:01:51–00:02:32
+- 原句：After some inquiry, I found a poor industrious man who was willing to undertake keeping the pavement clean by sweeping it twice a week.
+- 慢速拆解：After some inquiry / I found a poor industrious man / who was willing to undertake / keeping the pavement clean / by sweeping it / twice a week.
+- 连读 / 弱读提示：`after some inquiry`、`who was willing to`、`keeping the pavement` 可能压缩；重读服务内容和频率。
+- 中文意思：经过询问，我找到一名贫困但勤劳的人，愿意每周扫两次路面并负责保持清洁。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-25
+- 时间戳：00:11:50–00:12:16
+- 原句：Human felicity is produced not so much by great pieces of good fortune that seldom happen, as by little advantages that occur every day.
+- 慢速拆解：Human felicity is produced / not so much / by great pieces of good fortune / that seldom happen / as by little advantages / that occur every day.
+- 连读 / 弱读提示：保持 `not so much A as B` 的对称重音；`that seldom happen` 和 `that occur every day` 分别修饰前面的名词。
+- 中文意思：幸福与其说来自罕见的大幸运，不如说来自每天都会出现的小便利。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-25
+- 时间戳：00:17:27–00:17:56
+- 原句：The assemblies did not adopt it, as they thought there was too much prerogative in it, and in England it was judged to have too much of the democratic.
+- 慢速拆解：The assemblies did not adopt it / as they thought / there was too much prerogative in it / and in England / it was judged to have / too much of the democratic.
+- 连读 / 弱读提示：两次 `too much` 要平行重读；不要漏掉第一方 `assemblies` 和第二方 `in England`。
+- 中文意思：殖民地议会认为方案王权过重，而英国方面又认为民主成分过多。
+- 跟读次数建议：14 次
+
+### 4
+
+- 日期：2026-06-25
+- 时间戳：00:21:48–00:22:13
+- 原句：They get victory sometimes, but they never get good will, which would be of more use to them.
+- 慢速拆解：They get victory sometimes / but they never get good will / which would be / of more use to them.
+- 连读 / 弱读提示：用强对比重音练 `victory / never / good will / more use`；`would be of` 可能弱读连在一起。
+- 中文意思：他们有时能赢得争论，却永远赢不到他人的好感，而后者对他们更有用。
+- 跟读次数建议：10 次
+
+### 5
+
+- 日期：2026-06-25
+- 时间戳：00:24:30–00:24:56
+- 原句：They instructed their deputies to pass no act for levying the necessary taxes unless their vast estates were expressly excused.
+- 慢速拆解：They instructed their deputies / to pass no act / for levying the necessary taxes / unless their vast estates / were expressly excused.
+- 连读 / 弱读提示：重读法律逻辑 `no act / unless / estates / expressly excused`；不要把 `unless` 听成附带信息。
+- 中文意思：他们要求代理总督：除非明确豁免其大片地产，否则不得通过必要的征税法案。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-25
+- 时间戳：00:26:31–00:27:10
+- 原句：I proposed that the order should be payable in a year and bear an interest of five percent.
+- 慢速拆解：I proposed / that the order should be payable / in a year / and bear an interest / of five percent.
+- 连读 / 弱读提示：`should be payable in a year` 作为一个条件块；数字 `five percent` 单独重读并绑定 `interest`。
+- 中文意思：我建议这项支付凭证一年后兑付，并按 5% 计息。
+- 跟读次数建议：10 次
+
+### 7
+
+- 日期：2026-06-25
+- 时间戳：00:41:44–00:42:11
+- 原句：He had too much self-confidence, too high an opinion of regular troops, and too mean a one of both Americans and Indians.
+- 慢速拆解：He had too much self-confidence / too high an opinion / of regular troops / and too mean a one / of both Americans and Indians.
+- 连读 / 弱读提示：三项评价保持平行节奏；把 `a one` 在脑中展开为 `an opinion`，重读 `too much / too high / too mean`。
+- 中文意思：他过度自信，高估正规军，又低估美国人和原住民。
+- 跟读次数建议：12 次
+
+### 8
+
+- 日期：2026-06-25
+- 时间戳：00:43:21–00:44:01
+- 原句：The slender line, near four miles long, may expose it to be attacked by surprise in its flanks and to be cut like a thread into several pieces.
+- 慢速拆解：The slender line / near four miles long / may expose it / to be attacked by surprise / in its flanks / and to be cut like a thread / into several pieces.
+- 连读 / 弱读提示：在插入尺寸后恢复主干 `the line may expose it`；重读风险链 `four miles / flanks / cut / pieces`。
+- 中文意思：近四英里的狭长队列可能遭侧翼突袭，并像线一样被截断成数段。
+- 跟读次数建议：14 次

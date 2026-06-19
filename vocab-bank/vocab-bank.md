@@ -119,3 +119,17 @@
 | let something shift for itself | 让某事凭自身力量证明或维持自己 | Franklin 让可重复的实验结果自己接受检验 | He let the papers shift for themselves and returned to new experiments. | 中 | 2026-06-24 新收录 |
 | make amends for a slight | 弥补过去的轻视或怠慢 | Royal Society 后来以会员资格和奖章弥补早先忽视 | The Society made amends for the slight by electing him a member. | 高 | 2026-06-24 新收录 |
 | have a good understanding with someone | 与某人保持良好、互信的关系 | Governor Denny 试图与 Franklin 建立合作关系 | The new governor wanted to have a good understanding with Franklin. | 高 | 2026-06-24 新收录 |
+| undertake doing something | 承担、答应负责做某事 | 一名贫困但勤劳的人愿意负责定期清扫市场路面 | A contractor undertook keeping the walkway clean twice a week. | 高 | 2026-06-25 新收录 |
+| not so much A as B | 与其说是 A，不如说是 B | Franklin 认为幸福主要来自日常小便利，而非罕见的大幸运 | Progress depends not so much on one breakthrough as on steady improvements. | 高 | 2026-06-25 新收录 |
+| bring someone to account | 要求某人交代、核对并承担账务或职责 | Franklin 担任邮政 comptroller，整顿办事处并核查官员账目 | The auditor was asked to bring each office to account. | 高 | 2026-06-25 新收录 |
+| of one's own motion | 主动地、自行决定地 | Cambridge College 主动授予 Franklin 文学硕士学位 | The committee acted of its own motion rather than waiting for a request. | 中 | 2026-06-25 新收录 |
+| hand in hand with | 与……同步进行、密切相伴 | 联盟方案的讨论与原住民事务谈判同步推进 | Security planning went hand in hand with the diplomatic talks. | 高 | 2026-06-25 新收录 |
+| the true medium | 真正的中间立场或折中点 | 两方以相反理由反对 Albany Plan，使 Franklin 认为它可能恰好居中 | The proposal may represent the true medium between control and autonomy. | 中 | 2026-06-25 新收录 |
+| get victory but not good will | 赢得争论却失去他人好感与合作 | Franklin 批评习惯争辩的人只顾胜负、不顾关系 | A manager can get victory in a meeting but lose the team's good will. | 高 | 2026-06-25 新收录 |
+| bear interest | 计息、产生利息 | Assembly 的支付凭证一年后兑付并按 5% 计息 | The notes bear interest until they are redeemed. | 高 | 2026-06-25 新收录 |
+| obtain instant credit | 立即获得市场信用或认可 | 支付凭证有明确收入保障，因此很快被商户和投资者接受 | The government-backed notes obtained instant credit. | 中 | 2026-06-25 新收录 |
+| per diem | 按日；每日的费用或津贴 | Braddock 征集广告按日规定车辆和马匹租金 | The driver was paid fifteen shillings per diem. | 高 | 2026-06-25 新收录 |
+| pay in hand | 当场预付、直接支付 | 合同约定签约时可预付七天费用 | Seven days' hire was paid in hand when the contract was signed. | 中 | 2026-06-25 新收录 |
+| have one's labor for one's pains | 费了力却得不到额外回报；白费辛劳 | Franklin 表示若自愿征集失败，自己只会徒劳无功 | If the plan fails, we may have only our labor for our pains. | 中 | 2026-06-25 新收录 |
+| make an impression on | 对……造成影响；在军事语境中有效打击 | Braddock 断言伏击者不可能对正规军造成影响 | The commander believed irregular forces could make no impression on his troops. | 高 | 2026-06-25 新收录 |
+| cut like a thread into pieces | 像线一样被截断成数段 | Franklin 警告狭长行军队列可能被伏击切断 | The exposed supply line could be cut like a thread into pieces. | 中 | 2026-06-25 新收录 |
