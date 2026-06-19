@@ -602,3 +602,85 @@
 - 连读 / 弱读提示：`it'll take`、`more than just`、`did the` 可能压缩；重读鼓励主线 `tall order / more than talk / saved / hard part`。
 - 中文意思：改变世界确实是艰巨任务，也不能只靠说；但别忘了，我们已经拯救过世界，最难的部分都做过了。
 - 跟读次数建议：12 次
+
+## 2026-06-23
+
+### 1
+
+- 日期：2026-06-23
+- 时间戳：00:00:30–00:00:47
+- 原句：I have given out that she is to sail on Saturday next, but I may let you know, entre nous, that if you are there by Monday morning, you will be in time.
+- 慢速拆解：I have given out / that she is to sail / on Saturday next / but I may let you know / entre nous / that if you are there / by Monday morning / you will be in time.
+- 连读 / 弱读提示：`that she is to`、`but I may`、`if you are there` 可能压缩；法语 `entre nous` 单独练后再放回句中。
+- 中文意思：我已对外宣布船下周六启航，但私下告诉你，只要周一早晨到就还来得及。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-23
+- 时间戳：00:06:15–00:06:32
+- 原句：Having since seen more of the great world, and the means of obtaining, and motives for giving places, my wonder is diminished.
+- 慢速拆解：Having since seen more / of the great world / and the means of obtaining / and motives for giving places / my wonder / is diminished.
+- 连读 / 弱读提示：前置结构较长，直到 `my wonder is diminished` 才落到主句；`places` 在这里重读为“官职”。
+- 中文意思：后来见识到官职如何取得、为何被授予，我便不再那么惊讶。
+- 跟读次数建议：12 次
+
+### 3
+
+- 日期：2026-06-23
+- 时间戳：00:10:00–00:10:31
+- 原句：Everyone concerned in supplying the army finds means in the doing it to fill his own pockets.
+- 慢速拆解：Everyone concerned / in supplying the army / finds means / in the doing it / to fill his own pockets.
+- 连读 / 弱读提示：`concerned in`、`in the doing it` 功能词较轻；重读 `supplying / means / fill / pockets`。
+- 中文意思：所有参与军需供应的人都会设法从中中饱私囊。
+- 跟读次数建议：10 次
+
+### 4
+
+- 日期：2026-06-23
+- 时间戳：00:18:46–00:19:32
+- 原句：You contend that the king's instructions to his governors are not laws, but those instructions are the law of the land.
+- 慢速拆解：You contend / that the king's instructions / to his governors / are not laws / but those instructions / are the law of the land.
+- 连读 / 弱读提示：用明显重音做对比：`not laws / but / the law of the land`；不要漏掉第一次的 `not`。
+- 中文意思：你们主张国王给总督的指示不是法律，但这些指示就是当地法律。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-23
+- 时间戳：00:24:01–00:24:31
+- 原句：The intention of the paper was only to reduce to a certainty, by writing, what in conversation I had delivered viva voce.
+- 慢速拆解：The intention of the paper / was only / to reduce to a certainty / by writing / what in conversation / I had delivered / viva voce.
+- 连读 / 弱读提示：重读主干 `intention / certainty / writing / delivered`；拉丁语 `viva voce` 单独练。
+- 中文意思：这份文件只是为了把我此前口头表达的内容用书面形式确定下来。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-23
+- 时间戳：00:33:45–00:34:15
+- 原句：If time be of all things the most precious, wasting time must be the greatest prodigality, since lost time is never found again.
+- 慢速拆解：If time be / of all things / the most precious / wasting time / must be the greatest prodigality / since lost time / is never found again.
+- 连读 / 弱读提示：`if time be` 是古典虚拟形式；重读逻辑链 `precious / wasting / prodigality / never found again`。
+- 中文意思：如果时间是最宝贵的事物，浪费时间就是最大的挥霍，因为失去的时间永远找不回来。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-23
+- 时间戳：00:39:15–00:39:45
+- 原句：We might all draw more good from this world and suffer less evil if we would take care not to give too much for whistles.
+- 慢速拆解：We might all draw more good / from this world / and suffer less evil / if we would take care / not to give too much / for whistles.
+- 连读 / 弱读提示：`might all`、`from this`、`if we would` 可能压缩；重读对比 `more good / less evil / too much`。
+- 中文意思：如果注意不要为欲望付出过高代价，我们都能从世界获得更多好处、少受一些痛苦。
+- 跟读次数建议：10 次
+
+### 8
+
+- 日期：2026-06-23
+- 时间戳：00:44:01–00:44:23
+- 原句：You are young and have the world before you; stoop as you go through it, and you will miss many hard thumps.
+- 慢速拆解：You are young / and have the world before you / stoop / as you go through it / and you will miss / many hard thumps.
+- 连读 / 弱读提示：`as you go through it` 可按一个意群练；重读双关核心 `stoop / hard thumps`。
+- 中文意思：你还年轻，世界就在前方；一路上懂得低头谦逊，就能避开许多沉重打击。
+- 跟读次数建议：12 次

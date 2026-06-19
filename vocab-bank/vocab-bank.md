@@ -99,3 +99,13 @@
 | drastic times call for drastic measures | 非常时期需要非常手段 | 紧急救治 Yuito 时采用非标准做法 | Drastic times call for drastic measures, but the risks still matter. | 高 | 2026-06-22 新收录 |
 | look at the big picture | 从整体和长远角度看问题 | 角色开始考虑 OSF、城市关系和未来，而非只争强弱 | Leaders need to look at the big picture. | 高 | 2026-06-22 新收录 |
 | a tall order | 艰巨、要求很高而难以完成的任务 | 结尾讨论改变整个社会 | Changing the system is a tall order. | 高 | 2026-06-22 新收录 |
+| be at liberty to do something | 可以、获准做某事 | Franklin 在法案通过后终于可以启程 | Once the approval arrived, she was at liberty to proceed. | 高 | 2026-06-23 新收录 |
+| avail nothing | 毫无作用、没有带来结果 | 商人焦虑等待公文，但催促并未让将军加快 | Their repeated complaints availed nothing. | 中 | 2026-06-23 新收录 |
+| at someone's disposition | 由某人支配或决定 | packet boats 的发船时间由将军决定 | The remaining vessels were at the commander's disposition. | 中 | 2026-06-23 新收录 |
+| on the pretense of | 以……为借口或名义 | 禁运表面为了阻止敌军获得物资，实际压低价格 | The restriction was imposed on the pretense of protecting supply. | 高 | 2026-06-23 新收录 |
+| fill one's own pockets | 借职务或交易中饱私囊 | Loudoun 怀疑军需承办者都会从中获利 | Officials must not use public contracts to fill their own pockets. | 高 | 2026-06-23 新收录 |
+| at one's own discretion | 由某人自行判断决定 | 争论殖民地能否自行决定是否遵守国王指示 | Staff may adjust the schedule at their own discretion. | 高 | 2026-06-23 新收录 |
+| enter into an engagement | 正式作出承诺、达成约定 | Franklin 同意保证税法执行不会损害 proprietary estate | Both parties entered into an engagement to protect the estate. | 中 | 2026-06-23 新收录 |
+| viva voce | 口头地；以口头陈述或考试形式 | Franklin 将此前口头表达的意见写成正式文件 | The evidence was first delivered viva voce and later put in writing. | 中 | 2026-06-23 新收录 |
+| give too much for the whistle | 为某个欲望或目标付出远超其价值的代价 | Franklin 用童年买哨子的经历评论权力、名望、财富和享乐 | Do not give too much for the whistle by sacrificing your health for status. | 高 | 2026-06-23 新收录 |
+| stoop as one goes through the world | 处世保持谦逊，以避开由骄傲带来的挫折 | Samuel Mather 借低头避开横梁教导年轻 Franklin | A little humility helps us stoop as we go through the world. | 高 | 2026-06-23 新收录 |
