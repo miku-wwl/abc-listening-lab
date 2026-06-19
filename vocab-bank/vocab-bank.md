@@ -210,3 +210,15 @@
 | be bred to a trade | 从小接受某种手艺或职业训练；旧式表达 | Franklin 家族的长子通常被培养从事铁匠等行业 | He was bred to the printing trade but later became a publisher. | 中 | 2026-07-02 新收录 |
 | on liking | 先试一段时间，看双方是否合适；旧式表达 | Franklin 被送到 Samuel 那里试学 cutler 手艺 | The apprentice stayed with the craftsman for a month on liking. | 中 | 2026-07-02 新收录 |
 | break away and get to sea | 离家出走去当水手、从事航海 | 父亲担心 Franklin 因厌恶制蜡工作而跑去航海 | His family feared he would break away and get to sea. | 中 | 2026-07-02 新收录 |
+| the fast track from care to detention | 从儿童照护体系迅速滑入拘留或青少年司法体系的路径 | 讨论 residential care 中普通行为冲突被报警和刑事化 | Better support could prevent the fast track from care to detention. | 高 | 2026-07-03 新收录 |
+| have a predisposition to | 有预先形成的倾向，容易采取某种做法 | residential-care 工作人员遇到问题时倾向直接报警 | Some institutions have a predisposition to escalate minor incidents. | 高 | 2026-07-03 新收录 |
+| drop the ball | 疏忽、松懈，没把本应做好的事情做好 | 州长警告民众不能因长期疫情疲劳而放松防疫 | We cannot drop the ball when the risk is increasing. | 高 | 2026-07-03 新收录 |
+| come forward and get tested | 主动接受检测 | 卫生部门要求有症状或到过暴露地点的人接受检测 | Anyone with symptoms should come forward and get tested. | 高 | 2026-07-03；`come forward` 曾出现 |
+| reach capacity | 达到容量上限 | Rosebery mine 的两个尾矿坝将在三年内满载 | The existing storage facility will reach capacity next year. | 高 | 2026-07-03 新收录 |
+| put jobs on the line | 使就业岗位面临风险 | 如果新尾矿坝无法获批，矿山关闭可能危及数百个岗位 | The closure would put hundreds of jobs on the line. | 高 | 2026-07-03 新收录 |
+| be caught between a rock and a hard place | 陷入两难，两种选择都代价很大 | Rosebery 社区在就业和保护 Tarkine 雨林之间两难 | The town is caught between a rock and a hard place. | 高 | 2026-07-03 新收录 |
+| shore up | 加强、支撑薄弱之处 | 讨论如何改善女性长期存在的 superannuation 劣势 | Policy changes could shore up retirement security for women. | 高 | 2026-07-03 新收录 |
+| bring trade to a standstill | 使贸易完全停滞 | 超过 200% 的葡萄酒关税使原本逾十亿澳元的贸易停摆 | The duties brought the export trade to a standstill. | 高 | 2026-07-03 新收录 |
+| front the independent trade umpire | 到独立贸易裁决机构前接受审理；新闻化表达 | 澳洲将中国葡萄酒关税争议提交 WTO | Both sides may have to front the independent trade umpire. | 中 | 2026-07-03 新收录 |
+| get one's arms wrapped around | 全面掌握、控制并妥善处理某问题 | Victoria 官员称隔离病例已被公共卫生团队控制和支持 | Authorities have their arms wrapped around the cluster. | 高 | 2026-07-03 新收录 |
+| for the seventh consecutive month | 连续第七个月 | 澳洲失业率连续第七个月下降 | Unemployment fell for the seventh consecutive month. | 中 | 2026-07-03 新收录 |

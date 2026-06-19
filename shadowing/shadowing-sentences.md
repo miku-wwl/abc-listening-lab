@@ -1422,3 +1422,85 @@
 - 连读 / 弱读提示：分号前后分别是自评和比喻；强读 `rambling / old / methodically / private company / public ball`。
 - 中文意思：从这些散漫的岔题中，我意识到自己老了；不过私下写给家人，本来就不必像参加公共舞会那样正式。
 - 跟读次数建议：16 次
+
+## 2026-07-03
+
+### 1
+
+- 日期：2026-07-03
+- 时间戳：00:01:27–00:02:14
+- 原句：There's a predisposition to simply call the police, instead of—like a normal loving family—you wouldn't call the police if you were having an argument with a child.
+- 慢速拆解：There's a predisposition / to simply call the police / instead of / like a normal loving family / you wouldn't call the police / if you were having an argument / with a child.
+- 连读 / 弱读提示：自然口语中间有重启；先守住 `predisposition → call the police`，再补家庭对比。`wouldn't` 和 `if you were` 可能明显压缩。
+- 中文意思：照护机构有直接报警的倾向，而普通关爱孩子的家庭不会因为和孩子争执就报警。
+- 跟读次数建议：18 次
+
+### 2
+
+- 日期：2026-07-03
+- 时间戳：00:02:30–00:02:45
+- 原句：Sydney's eastern suburbs COVID cluster grows to nine as masks are mandated indoors for seven local government areas.
+- 慢速拆解：Sydney's eastern suburbs / COVID cluster / grows to nine / as masks are mandated indoors / for seven local government areas.
+- 连读 / 弱读提示：新闻标题省略感强；重读 `COVID / nine / masks / seven`，不要把两个数字混到同一对象。
+- 中文意思：悉尼东区疫情群增至 9 例，7 个地方政府区域实施室内口罩令。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-07-03
+- 时间戳：00:07:19–00:07:43
+- 原句：If the situation changes overnight, that is an option that we will have to consider.
+- 慢速拆解：If the situation changes / overnight / that is an option / that we will have to consider.
+- 连读 / 弱读提示：`that is an option that we will` 中功能词可能连成一串；重读条件和不确定性 `if / option / consider`。
+- 中文意思：如果情况一夜之间发生变化，那会成为政府必须考虑的选项。
+- 跟读次数建议：14 次
+
+### 4
+
+- 日期：2026-07-03
+- 时间戳：00:06:30–00:07:12
+- 原句：If you are travelling on public transport and you live in Greater Sydney, the Blue Mountains, the Illawarra or the Shellharbour areas, you are mandated to wear masks on public transport.
+- 慢速拆解：If you are travelling / on public transport / and you live in / Greater Sydney / the Blue Mountains / the Illawarra / or the Shellharbour areas / you are mandated / to wear masks.
+- 连读 / 弱读提示：先抓条件主干 `If you are travelling ... you are mandated`；地名清单逐个停顿，`Illawarra` 和 `Shellharbour` 单独练。
+- 中文意思：在这些大悉尼及周边区域乘坐公共交通时必须佩戴口罩。
+- 跟读次数建议：18 次
+
+### 5
+
+- 日期：2026-07-03
+- 时间戳：00:07:58–00:08:39
+- 原句：There were roughly 24,500 tests in the latest reporting period, but health authorities wanted testing numbers to be between 40,000 and 50,000 tests per day.
+- 慢速拆解：There were roughly 24,500 tests / in the latest reporting period / but health authorities wanted / testing numbers to be / between 40,000 and 50,000 / per day.
+- 连读 / 弱读提示：用 `but` 分开 actual 与 target；每个数字后立刻补单位或标签。
+- 中文意思：最近报告期约有 24,500 次检测，但卫生部门希望每天达到 40,000 至 50,000 次。
+- 跟读次数建议：18 次
+
+### 6
+
+- 日期：2026-07-03
+- 时间戳：00:14:29–00:14:48
+- 原句：Whatever the outcome, this fight is set to continue; the community is caught between a rock and a hard place.
+- 慢速拆解：Whatever the outcome / this fight is set to continue / the community is caught / between a rock / and a hard place.
+- 连读 / 弱读提示：`whatever the outcome` 轻快带过；重读两个结论 `continue / caught / rock / hard place`。
+- 中文意思：无论审批结果如何，争议都会持续，当地社区陷入经济与环境的两难。
+- 跟读次数建议：14 次
+
+### 7
+
+- 日期：2026-07-03
+- 时间戳：00:19:48–00:20:35
+- 原句：Taking China to the World Trade Organization over wine tariffs enables us to begin dispute-settlement consultations.
+- 慢速拆解：Taking China / to the World Trade Organization / over wine tariffs / enables us / to begin / dispute-settlement consultations.
+- 连读 / 弱读提示：`tariffs` 不要被近音熟词吸走；`enables us to` 可能连读，长术语按 `dispute / settlement / consultations` 三块练。
+- 中文意思：就葡萄酒关税把中国诉诸 WTO，使澳洲可以启动争端解决磋商。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-07-03
+- 时间戳：00:23:50–00:24:23
+- 原句：We can never ever be in a situation where, in the face of a pandemic, we are 100 percent reliant on global supply of vaccines.
+- 慢速拆解：We can never ever be / in a situation where / in the face of a pandemic / we are 100 percent reliant / on global supply / of vaccines.
+- 连读 / 弱读提示：插入语前后恢复主干 `We can never be ... reliant`；重读 `never ever / 100 percent / global supply`。
+- 中文意思：面对疫情，我们绝不能处于完全依赖全球疫苗供应的境地。
+- 跟读次数建议：16 次
