@@ -244,3 +244,13 @@
 | be on the right track | 方向正确、正在接近解决方案 | 调整 cloud config 后数据更新速度有所改善 | The shorter refresh delay suggests we are on the right track. | 高 | 2026-07-05 新收录 |
 | weigh up the pros and cons | 权衡利弊 | 讨论太阳能、纽扣电池、尺寸和成本之间的取舍 | The team must weigh up the pros and cons of solar power. | 高 | 2026-07-05 新收录 |
 | make something useful out of | 利用现有材料创造实际价值 | 教师要求组员不要只美化 dashboard，而要做分析、预测或告警 | Try to make something useful out of the sensor data. | 高 | 2026-07-05 新收录 |
+| be on the safe side | 为稳妥起见；确保不会出问题 | 教师说复习 lecture notes 可以较稳妥地应对理论 quiz | Review the definitions once more to be on the safe side. | 高 | 2026-07-06 新收录 |
+| make positive progress towards | 朝目标取得正向进展 | geographic forwarding 判断邻居是否让 packet 更接近 destination | Each hop must make positive progress towards the destination. | 高 | 2026-07-06 新收录 |
+| locally optimal | 在局部信息范围内最优 | greedy forwarding 只依据当前 neighbour table 选下一跳 | A locally optimal choice may still lead to a dead end. | 高 | 2026-07-06 新收录 |
+| fall into a void | 陷入无可用下一跳的网络空洞 | packet 被送到更接近目标却没有后续路径的节点 | Pure greedy forwarding can fall into a void. | 高 | 2026-07-06 新收录 |
+| premature depletion | 过早耗尽，尤指节点电量 | max-min energy-capacity metric 保护低容量节点 | The policy protects low-energy nodes from premature depletion. | 高 | 2026-07-06 新收录 |
+| at any given time | 在任意一个给定时刻 | GAF 每个 cell 同时只保留一个 active forwarder | Only one node is active at any given time. | 高 | 2026-07-06 新收录 |
+| remain reachable | 保持可达 | 平面化删边后仍须保证所有节点连通 | All nodes must remain reachable after the graph is planarised. | 高 | 2026-07-06 新收录 |
+| delve deeper into | 更深入研究 | textbook 提供 SPBM 和层级地址的更多细节 | The paper delves deeper into geographic routing. | 中 | 2026-07-06 新收录 |
+| a trade-off between A and B | A 与 B 之间的权衡 | multicast splitting 在转发节点数和路径最优性之间取舍 | The design is a trade-off between energy use and route quality. | 高 | 2026-07-06 新收录 |
+| room for improvement | 仍有改进空间 | 没有一种 routing algorithm 对所有场景都最优 | The protocol works, but there is still room for improvement. | 高 | 2026-07-06 新收录 |

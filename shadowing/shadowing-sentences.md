@@ -1680,3 +1680,84 @@
 - 中文意思：先确定目标，因为增加传感器可能显著扩大工作量，并让一部分现有方案失去作用。
 - 跟读次数建议：18 次
 
+## 2026-07-06
+
+### 1
+
+- 日期：2026-07-06
+- 时间戳：00:12:01–00:12:31
+- 原句：The goal of the max-min energy-capacity metric is to protect low-capacity nodes from premature depletion.
+- 慢速拆解：The goal / of the max-min energy-capacity metric / is to protect / low-capacity nodes / from premature depletion.
+- 连读 / 弱读提示：长名词串按 `max-min / energy-capacity / metric` 分块；重读 `protect / low-capacity / depletion`。
+- 中文意思：最大最小能量容量指标的目标，是防止低容量节点过早耗尽。
+- 跟读次数建议：18 次
+
+### 2
+
+- 日期：2026-07-06
+- 时间戳：00:19:51–00:20:37
+- 原句：Each forwarding node makes a localised decision based on the location of the destination and its neighbours.
+- 慢速拆解：Each forwarding node / makes a localised decision / based on the location / of the destination / and its neighbours.
+- 连读 / 弱读提示：`based on the` 可能压缩；重读 `forwarding node / localised / destination / neighbours`。
+- 中文意思：每个转发节点根据目标和邻居的位置作出局部决策。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-06
+- 时间戳：00:31:36–00:32:51
+- 原句：A packet may arrive at a node with no neighbour that can bring it closer to the destination, so it falls into a void or hole.
+- 慢速拆解：A packet may arrive / at a node / with no neighbour / that can bring it closer / to the destination / so it falls / into a void or hole.
+- 连读 / 弱读提示：`may arrive at a`、`that can`、`to the` 为弱读区；强读 `no neighbour / closer / void / hole`。
+- 中文意思：数据包可能到达一个没有可使其继续接近目标的邻居节点，因此陷入网络空洞。
+- 跟读次数建议：18 次
+
+### 4
+
+- 日期：2026-07-06
+- 时间戳：00:39:16–00:40:34
+- 原句：GPSR uses greedy forwarding while a closer neighbour is available, and switches to perimeter forwarding when it reaches a void.
+- 慢速拆解：GPSR uses greedy forwarding / while a closer neighbour is available / and switches / to perimeter forwarding / when it reaches a void.
+- 连读 / 弱读提示：GPSR 逐字母读；重读两个 mode 和触发条件 `when it reaches a void`。
+- 中文意思：有更近邻居时 GPSR 使用贪心转发，遇到空洞时切换到周界转发。
+- 跟读次数建议：20 次
+
+### 5
+
+- 日期：2026-07-06
+- 时间戳：00:42:35–00:43:45
+- 原句：The graph must be planarised by removing crossing edges without partitioning the network.
+- 慢速拆解：The graph must be planarised / by removing crossing edges / without partitioning / the network.
+- 连读 / 弱读提示：强读 `planarised / crossing edges / without / partitioning`，尤其不能吞掉 `without`。
+- 中文意思：必须通过移除交叉边使图平面化，同时不能把网络切成不连通分区。
+- 跟读次数建议：18 次
+
+### 6
+
+- 日期：2026-07-06
+- 时间戳：00:51:19–00:56:26
+- 原句：In GAF, only one node in each cell is active at any given time, while the other nodes can sleep to conserve energy.
+- 慢速拆解：In GAF / only one node / in each cell / is active / at any given time / while the other nodes can sleep / to conserve energy.
+- 连读 / 弱读提示：GAF 逐字母读；`at any given time` 整块练，重读 `one / active / sleep / conserve energy`。
+- 中文意思：在 GAF 中，每个网格任一时刻只有一个活动节点，其余节点可休眠节能。
+- 跟读次数建议：18 次
+
+### 7
+
+- 日期：2026-07-06
+- 时间戳：01:08:18–01:10:37
+- 原句：Multicast sends the same packet to a group of receivers while minimising the number of links the packet has to travel.
+- 慢速拆解：Multicast sends / the same packet / to a group of receivers / while minimising / the number of links / the packet has to travel.
+- 连读 / 弱读提示：重读 `same packet / group / minimising / links`；`has to` 可自然弱读。
+- 中文意思：组播向一组接收者发送同一数据包，同时尽量减少数据包经过的链路数。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-07-06
+- 时间戳：01:38:10–01:43:01
+- 原句：No routing algorithm is optimal for every network; the right design depends on the application, security, hardware, energy capacity and cost.
+- 慢速拆解：No routing algorithm / is optimal / for every network / the right design depends on / the application / security / hardware / energy capacity / and cost.
+- 连读 / 弱读提示：强读否定范围 `No ... every`；并列项保持稳定节奏。
+- 中文意思：没有一种路由算法适用于所有网络；正确设计取决于应用、安全、硬件、能量容量和成本。
+- 跟读次数建议：18 次

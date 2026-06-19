@@ -1,0 +1,6880 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:42.840 --> 00:00:45.840
+uh
+
+00:04:12.840 --> 00:04:15.840
+uh
+
+00:05:22.840 --> 00:05:25.840
+laughs
+
+00:05:36.810 --> 00:05:42.479
+[Music]
+
+00:05:38.560 --> 00:05:42.479
+okay how was your experience
+
+00:05:44.240 --> 00:05:51.039
+it was not difficult i think it was
+
+00:05:47.360 --> 00:05:52.160
+fine yes it was purely based on the
+
+00:05:51.039 --> 00:05:55.520
+materials we
+
+00:05:52.160 --> 00:05:57.759
+cover in the class and or just uh
+
+00:05:55.520 --> 00:05:59.120
+while you were doing a quiz i thought
+
+00:05:57.759 --> 00:06:01.199
+probably it's better to give you
+
+00:05:59.120 --> 00:06:02.319
+feedback now because you already
+
+00:06:01.199 --> 00:06:05.680
+reviewed questions
+
+00:06:02.319 --> 00:06:08.720
+pro your brain is ready to
+
+00:06:05.680 --> 00:06:10.560
+get the uh
+
+00:06:08.720 --> 00:06:12.240
+correct response now rather than because
+
+00:06:10.560 --> 00:06:13.600
+i usually give the students feedback
+
+00:06:12.240 --> 00:06:15.360
+within the following week
+
+00:06:13.600 --> 00:06:17.039
+but i think it's better to share with
+
+00:06:15.360 --> 00:06:19.759
+you by feedback i mean
+
+00:06:17.039 --> 00:06:20.800
+correct answers if you agree we can
+
+00:06:19.759 --> 00:06:22.319
+discuss about
+
+00:06:20.800 --> 00:06:24.800
+correct answers correctly and then we
+
+00:06:22.319 --> 00:06:26.479
+can go through our lectures if you don't
+
+00:06:24.800 --> 00:06:28.319
+have enough time by the end of this
+
+00:06:26.479 --> 00:06:30.000
+session to cover everything for water
+
+00:06:28.319 --> 00:06:30.880
+sensor network three we will continue
+
+00:06:30.000 --> 00:06:33.840
+next session
+
+00:06:30.880 --> 00:06:35.120
+if you agree i'll give you uh correct
+
+00:06:33.840 --> 00:06:38.800
+answers now
+
+00:06:35.120 --> 00:06:42.000
+yes please please yeah because you are
+
+00:06:38.800 --> 00:06:45.440
+super excited to see what dance is
+
+00:06:42.000 --> 00:06:45.440
+okay let me share my screen
+
+00:06:47.440 --> 00:06:50.800
+uh let me um let me just record the
+
+00:06:49.759 --> 00:06:53.919
+session or click
+
+00:06:50.800 --> 00:06:56.400
+button just in case if someone missed
+
+00:06:53.919 --> 00:06:58.639
+this session
+
+00:06:56.400 --> 00:06:58.639
+uh
+
+00:06:59.440 --> 00:07:03.280
+oh i mentioned routing one and writing
+
+00:07:01.520 --> 00:07:06.240
+two
+
+00:07:03.280 --> 00:07:07.039
+in the uh in my announcement uh
+
+00:07:06.240 --> 00:07:10.080
+everything from
+
+00:07:07.039 --> 00:07:13.919
+previous week and the uh
+
+00:07:10.080 --> 00:07:16.160
+week before last one so it was based on
+
+00:07:13.919 --> 00:07:17.120
+mainly about that quiz was about uh
+
+00:07:16.160 --> 00:07:18.639
+routing bond
+
+00:07:17.120 --> 00:07:20.319
+because of uh mentioned about
+
+00:07:18.639 --> 00:07:21.919
+hierarchical base writing briefly at
+
+00:07:20.319 --> 00:07:24.319
+very high level in
+
+00:07:21.919 --> 00:07:25.120
+that session but uh because we postponed
+
+00:07:24.319 --> 00:07:27.840
+the police
+
+00:07:25.120 --> 00:07:28.960
+uh um mission announcement we have
+
+00:07:27.840 --> 00:07:31.199
+routing one and two
+
+00:07:28.960 --> 00:07:33.280
+am i right and for next week we have
+
+00:07:31.199 --> 00:07:34.080
+routing one routing two and routing
+
+00:07:33.280 --> 00:07:39.120
+three
+
+00:07:34.080 --> 00:07:39.120
+in our quiz let me
+
+00:07:39.199 --> 00:07:45.840
+share my screen
+
+00:07:49.120 --> 00:08:03.039
+and also start recording
+
+00:07:59.280 --> 00:08:13.840
+okay could you see my screen
+
+00:08:03.039 --> 00:08:13.840
+yes here we can see
+
+00:08:18.240 --> 00:08:22.560
+in the present review am i right
+
+00:08:23.360 --> 00:08:28.639
+in here okay okay here i think this was
+
+00:08:27.360 --> 00:08:30.960
+your first question
+
+00:08:28.639 --> 00:08:32.320
+uh i'm hoping i've got the same order
+
+00:08:30.960 --> 00:08:33.680
+but probably because we should have a
+
+00:08:32.320 --> 00:08:36.640
+question in the quiz
+
+00:08:33.680 --> 00:08:38.399
+you have seen different order but anyway
+
+00:08:36.640 --> 00:08:41.919
+this was one of the questions how many
+
+00:08:38.399 --> 00:08:44.240
+rating pass from end nodes to c
+
+00:08:41.919 --> 00:08:45.360
+can you identify in the blue wireless
+
+00:08:44.240 --> 00:08:49.040
+sensor network
+
+00:08:45.360 --> 00:08:53.279
+field four pass
+
+00:08:49.040 --> 00:08:56.399
+one here the other one from here
+
+00:08:53.279 --> 00:08:57.279
+third one from here and last one from
+
+00:08:56.399 --> 00:09:01.120
+here
+
+00:08:57.279 --> 00:09:01.120
+any question for this one
+
+00:09:01.279 --> 00:09:04.399
+why is this uh not three paths given
+
+00:09:03.680 --> 00:09:06.959
+that
+
+00:09:04.399 --> 00:09:08.000
+um yeah but two of them are using the
+
+00:09:06.959 --> 00:09:10.640
+same path it should be
+
+00:09:08.000 --> 00:09:12.080
+three this is different from here to
+
+00:09:10.640 --> 00:09:15.680
+here is a different path
+
+00:09:12.080 --> 00:09:15.680
+so the starting point is different
+
+00:09:18.240 --> 00:09:22.000
+you change you have a source and
+
+00:09:20.240 --> 00:09:25.279
+destination you change the source
+
+00:09:22.000 --> 00:09:27.519
+uh location so that
+
+00:09:25.279 --> 00:09:29.519
+at the very last stop is basically
+
+00:09:27.519 --> 00:09:32.160
+considered there are two trains
+
+00:09:29.519 --> 00:09:32.720
+the only difference is the last or first
+
+00:09:32.160 --> 00:09:36.000
+stop
+
+00:09:32.720 --> 00:09:38.240
+so we call two different paths
+
+00:09:36.000 --> 00:09:39.360
+only because it's more like the whole
+
+00:09:38.240 --> 00:09:40.800
+network
+
+00:09:39.360 --> 00:09:42.640
+perspective rather than per node
+
+00:09:40.800 --> 00:09:43.200
+perspective because per new perspective
+
+00:09:42.640 --> 00:09:45.839
+there will be
+
+00:09:43.200 --> 00:09:47.519
+one part for those two in the middle
+
+00:09:45.839 --> 00:09:50.880
+right because next hot
+
+00:09:47.519 --> 00:09:52.480
+is the one in the top yes but
+
+00:09:50.880 --> 00:09:54.560
+from the network perspective there's
+
+00:09:52.480 --> 00:09:56.480
+four parts yes
+
+00:09:54.560 --> 00:09:57.760
+okay and this is from routing yes
+
+00:09:56.480 --> 00:10:00.160
+exactly from
+
+00:09:57.760 --> 00:10:01.440
+it's our routing path so in case you
+
+00:10:00.160 --> 00:10:04.399
+lose this source
+
+00:10:01.440 --> 00:10:05.600
+you have another pass here to send your
+
+00:10:04.399 --> 00:10:07.920
+package to the
+
+00:10:05.600 --> 00:10:07.920
+sink
+
+00:10:13.360 --> 00:10:19.760
+so this question troll force
+
+00:10:17.440 --> 00:10:22.079
+first one routing function is a key
+
+00:10:19.760 --> 00:10:25.920
+responsibility of the transport
+
+00:10:22.079 --> 00:10:25.920
+layer true pulse
+
+00:10:31.760 --> 00:10:36.240
+yes it's a key responsibility of uh
+
+00:10:34.560 --> 00:10:39.120
+network layer
+
+00:10:36.240 --> 00:10:40.160
+in the flat base protocols all sensor
+
+00:10:39.120 --> 00:10:42.480
+nodes are
+
+00:10:40.160 --> 00:10:44.839
+treated equally and have the same
+
+00:10:42.480 --> 00:10:47.200
+functionality
+
+00:10:44.839 --> 00:10:50.720
+truefalls
+
+00:10:47.200 --> 00:10:52.800
+okay yes great
+
+00:10:50.720 --> 00:10:54.560
+this is exactly the definition of flat
+
+00:10:52.800 --> 00:10:58.839
+base routing
+
+00:10:54.560 --> 00:11:00.240
+multi-pass routing use multiple routes
+
+00:10:58.839 --> 00:11:02.880
+simultaneously
+
+00:11:00.240 --> 00:11:02.880
+possible true
+
+00:11:03.519 --> 00:11:10.240
+true yes great
+
+00:11:07.120 --> 00:11:12.560
+and this is a basic
+
+00:11:10.240 --> 00:11:14.399
+behind the multi-pass writing we want to
+
+00:11:12.560 --> 00:11:17.440
+enhance redundancy by having
+
+00:11:14.399 --> 00:11:20.160
+a multi run simultaneously
+
+00:11:17.440 --> 00:11:22.480
+in hierarchical routing all sensor nodes
+
+00:11:20.160 --> 00:11:25.279
+perform the same role
+
+00:11:22.480 --> 00:11:27.680
+we cover this in routing one are not in
+
+00:11:25.279 --> 00:11:27.680
+two but
+
+00:11:30.640 --> 00:11:34.640
+because that was the definition for
+
+00:11:32.480 --> 00:11:36.800
+flat-based routing
+
+00:11:34.640 --> 00:11:38.079
+so always remember your water sensor
+
+00:11:36.800 --> 00:11:40.800
+network team you have
+
+00:11:38.079 --> 00:11:41.680
+a leader your master has similar to
+
+00:11:40.800 --> 00:11:43.920
+virus
+
+00:11:41.680 --> 00:11:44.880
+so not necessarily all nodes play the
+
+00:11:43.920 --> 00:11:47.279
+same role
+
+00:11:44.880 --> 00:11:49.440
+last one proactive route discovery sets
+
+00:11:47.279 --> 00:11:52.880
+out after they are needed
+
+00:11:49.440 --> 00:11:54.639
+false false and you see the name
+
+00:11:52.880 --> 00:11:57.600
+actually helps you to
+
+00:11:54.639 --> 00:11:58.160
+make a against this variety okay well
+
+00:11:57.600 --> 00:12:01.040
+done
+
+00:11:58.160 --> 00:12:02.399
+uh last one what is the goal of uh
+
+00:12:01.040 --> 00:12:04.720
+maximum minimum
+
+00:12:02.399 --> 00:12:06.160
+energy capacity metric in wider sensor
+
+00:12:04.720 --> 00:12:08.839
+network
+
+00:12:06.160 --> 00:12:11.040
+protect low capacity from premature
+
+00:12:08.839 --> 00:12:14.240
+exploration
+
+00:12:11.040 --> 00:12:16.639
+well done i really like your
+
+00:12:14.240 --> 00:12:17.839
+engagement yes exactly this is based on
+
+00:12:16.639 --> 00:12:20.880
+definition
+
+00:12:17.839 --> 00:12:20.880
+so um
+
+00:12:21.600 --> 00:12:25.360
+that's it and will publish your results
+
+00:12:24.079 --> 00:12:27.760
+very soon just after the
+
+00:12:25.360 --> 00:12:29.440
+class i need to go through canvas i
+
+00:12:27.760 --> 00:12:31.040
+don't want to take our class time now
+
+00:12:29.440 --> 00:12:33.360
+but you will see your results very
+
+00:12:31.040 --> 00:12:34.560
+quickly so generally speaking i just
+
+00:12:33.360 --> 00:12:38.399
+wanted to tell you something
+
+00:12:34.560 --> 00:12:40.639
+uh see if you attend a class
+
+00:12:38.399 --> 00:12:42.639
+if you just listen to me probably
+
+00:12:40.639 --> 00:12:44.639
+sometimes boring but if you just
+
+00:12:42.639 --> 00:12:46.880
+stay in a class for a couple of hours
+
+00:12:44.639 --> 00:12:49.440
+and just review materials
+
+00:12:46.880 --> 00:12:51.120
+lecture notes you will get very good
+
+00:12:49.440 --> 00:12:53.839
+marks in all quizzes
+
+00:12:51.120 --> 00:12:53.839
+like today
+
+00:12:54.480 --> 00:12:57.760
+i would like to encourage you to take a
+
+00:12:56.160 --> 00:13:00.880
+look at the textbook
+
+00:12:57.760 --> 00:13:01.600
+but i designed the questions in a way
+
+00:13:00.880 --> 00:13:04.480
+that
+
+00:13:01.600 --> 00:13:05.200
+you don't have to review all those
+
+00:13:04.480 --> 00:13:07.200
+materials
+
+00:13:05.200 --> 00:13:08.720
+by just reviewing lecture notes because
+
+00:13:07.200 --> 00:13:09.200
+i try to capture everything in lecture
+
+00:13:08.720 --> 00:13:11.120
+notes
+
+00:13:09.200 --> 00:13:12.560
+and attending class and asking your
+
+00:13:11.120 --> 00:13:15.120
+questions i think
+
+00:13:12.560 --> 00:13:16.639
+you will in terms of theoretical parts
+
+00:13:15.120 --> 00:13:19.680
+you will
+
+00:13:16.639 --> 00:13:21.519
+be on a safe side any questions before
+
+00:13:19.680 --> 00:13:23.839
+we start our lecture
+
+00:13:21.519 --> 00:13:23.839
+live
+
+00:13:28.390 --> 00:13:31.460
+[Music]
+
+00:13:32.839 --> 00:13:37.519
+no
+
+00:13:34.000 --> 00:13:37.519
+let me see if i can open the
+
+00:13:37.839 --> 00:13:40.639
+chat box here
+
+00:13:47.680 --> 00:13:51.199
+thanks thank you for your confirmation
+
+00:13:50.480 --> 00:13:55.680
+faithy
+
+00:13:51.199 --> 00:13:55.680
+vail aditya
+
+00:13:59.920 --> 00:14:04.959
+okay thanks ali for your comments
+
+00:14:06.000 --> 00:14:11.519
+so uh ready to start our
+
+00:14:09.519 --> 00:14:14.639
+lecture three we have another and 30
+
+00:14:11.519 --> 00:14:17.519
+minutes and i will do my best to give
+
+00:14:14.639 --> 00:14:20.079
+like five minutes break in the middle so
+
+00:14:17.519 --> 00:14:20.079
+it shouldn't be
+
+00:14:20.399 --> 00:14:23.120
+boring for you
+
+00:14:28.639 --> 00:14:32.079
+feel free to stop me anytime if you have
+
+00:14:30.720 --> 00:14:35.360
+any questions
+
+00:14:32.079 --> 00:14:38.000
+uh i'm recording this session uh
+
+00:14:35.360 --> 00:14:40.320
+and just if you want to uh review
+
+00:14:38.000 --> 00:14:41.920
+materials later but feel free to stop me
+
+00:14:40.320 --> 00:14:44.399
+for questions and
+
+00:14:41.920 --> 00:14:45.199
+anything else so today we're going to
+
+00:14:44.399 --> 00:14:48.000
+wrap up
+
+00:14:45.199 --> 00:14:48.880
+routing wireless sensor network uh part
+
+00:14:48.000 --> 00:14:51.040
+three
+
+00:14:48.880 --> 00:14:52.000
+and our main focus will be on location
+
+00:14:51.040 --> 00:14:55.279
+based routing
+
+00:14:52.000 --> 00:14:57.920
+i'm gonna give you a an overview of
+
+00:14:55.279 --> 00:14:58.880
+whatever we covered within the past
+
+00:14:57.920 --> 00:15:01.120
+couple of sessions
+
+00:14:58.880 --> 00:15:03.360
+probably next week not today once we
+
+00:15:01.120 --> 00:15:04.880
+finish this one i can give you an um
+
+00:15:03.360 --> 00:15:06.720
+general overview so if you missed
+
+00:15:04.880 --> 00:15:10.880
+previous session we can
+
+00:15:06.720 --> 00:15:13.920
+catch up on those materials next week
+
+00:15:10.880 --> 00:15:15.760
+so um we will remember this uh diagram
+
+00:15:13.920 --> 00:15:17.680
+in terms of routing protocols we
+
+00:15:15.760 --> 00:15:19.440
+focus on wireless sensor network
+
+00:15:17.680 --> 00:15:21.120
+topology in terms of last place or
+
+00:15:19.440 --> 00:15:22.639
+required base and today we're going to
+
+00:15:21.120 --> 00:15:24.639
+focus on location based
+
+00:15:22.639 --> 00:15:26.240
+in terms of operation type we cover
+
+00:15:24.639 --> 00:15:28.720
+different things like negotiation
+
+00:15:26.240 --> 00:15:29.920
+based quality of service and other
+
+00:15:28.720 --> 00:15:32.800
+things and
+
+00:15:29.920 --> 00:15:35.360
+in terms of route discovery mechanism we
+
+00:15:32.800 --> 00:15:38.560
+discussed about reactive and corrective
+
+00:15:35.360 --> 00:15:41.839
+and hybrid routing last session
+
+00:15:38.560 --> 00:15:44.240
+so plasma is routing as most of you
+
+00:15:41.839 --> 00:15:45.920
+i believe probably 99 percent of your
+
+00:15:44.240 --> 00:15:47.680
+just check your results now
+
+00:15:45.920 --> 00:15:49.759
+uh you'll answer to this question
+
+00:15:47.680 --> 00:15:55.040
+correctly in the quiz all nodes are
+
+00:15:49.759 --> 00:15:57.040
+uh they play same role in platform
+
+00:15:55.040 --> 00:15:59.120
+in hierarchical based routing basically
+
+00:15:57.040 --> 00:16:00.639
+we have a higher energy notes for
+
+00:15:59.120 --> 00:16:04.320
+transmission because it's really
+
+00:16:00.639 --> 00:16:06.639
+energy consuming mechanism and then
+
+00:16:04.320 --> 00:16:08.959
+lower energy notes for sensing we have
+
+00:16:06.639 --> 00:16:10.320
+basically two-layer routing and
+
+00:16:08.959 --> 00:16:12.079
+the main idea is to increase the
+
+00:16:10.320 --> 00:16:13.440
+lifetime of our network that was
+
+00:16:12.079 --> 00:16:15.199
+hierarchical based
+
+00:16:13.440 --> 00:16:17.839
+location-based routing to me i think
+
+00:16:15.199 --> 00:16:21.600
+this is the routing you can
+
+00:16:17.839 --> 00:16:23.759
+make more relation because it's based on
+
+00:16:21.600 --> 00:16:25.199
+the other name is geographic based
+
+00:16:23.759 --> 00:16:27.279
+routing and you can
+
+00:16:25.199 --> 00:16:29.440
+create examples for yourself for this
+
+00:16:27.279 --> 00:16:32.800
+kind of uh routing i think i mean it's
+
+00:16:29.440 --> 00:16:33.519
+uh it's very tangible this this part uh
+
+00:16:32.800 --> 00:16:37.600
+type of
+
+00:16:33.519 --> 00:16:39.360
+writing sensor nodes are basically
+
+00:16:37.600 --> 00:16:41.279
+location-based routing are addressed
+
+00:16:39.360 --> 00:16:44.800
+based on their location
+
+00:16:41.279 --> 00:16:45.279
+and uh we can get this location address
+
+00:16:44.800 --> 00:16:48.639
+through
+
+00:16:45.279 --> 00:16:51.199
+gps or by coordination among
+
+00:16:48.639 --> 00:16:51.920
+nodes so they they are aware of their
+
+00:16:51.199 --> 00:16:54.480
+own address
+
+00:16:51.920 --> 00:16:55.279
+address of their neighbors and they can
+
+00:16:54.480 --> 00:16:57.759
+create
+
+00:16:55.279 --> 00:16:59.600
+links we call it location based or
+
+00:16:57.759 --> 00:17:04.000
+geographic
+
+00:16:59.600 --> 00:17:07.199
+writing and
+
+00:17:04.000 --> 00:17:10.640
+but now receiving a notification here uh
+
+00:17:07.199 --> 00:17:10.640
+they don't have that much bandwidth
+
+00:17:11.760 --> 00:17:16.480
+in uh location based routing uh they
+
+00:17:14.640 --> 00:17:20.000
+basically it's assumed that
+
+00:17:16.480 --> 00:17:23.919
+nodes can find their
+
+00:17:20.000 --> 00:17:25.679
+position approximately and also
+
+00:17:23.919 --> 00:17:28.160
+they know the location of their
+
+00:17:25.679 --> 00:17:31.360
+destination and their neighbors
+
+00:17:28.160 --> 00:17:32.080
+so location information can be queried
+
+00:17:31.360 --> 00:17:34.799
+or obtained
+
+00:17:32.080 --> 00:17:35.840
+from a location agent we briefly
+
+00:17:34.799 --> 00:17:38.400
+discussed last
+
+00:17:35.840 --> 00:17:39.200
+session about agents and hierarchical
+
+00:17:38.400 --> 00:17:41.840
+based routing
+
+00:17:39.200 --> 00:17:43.520
+so this is how they find their own
+
+00:17:41.840 --> 00:17:46.799
+location and the location of their
+
+00:17:43.520 --> 00:17:49.360
+neighbors and destination
+
+00:17:46.799 --> 00:17:50.400
+we have different types of geographic
+
+00:17:49.360 --> 00:17:52.640
+routing
+
+00:17:50.400 --> 00:17:54.400
+one of them is unicast basically we have
+
+00:17:52.640 --> 00:17:57.200
+a single destination
+
+00:17:54.400 --> 00:17:57.760
+the other one is multicast we have one
+
+00:17:57.200 --> 00:18:00.240
+center
+
+00:17:57.760 --> 00:18:01.200
+multiple destinations it's similar to
+
+00:18:00.240 --> 00:18:03.679
+our class
+
+00:18:01.200 --> 00:18:04.559
+uh as your mom center i'm sending you an
+
+00:18:03.679 --> 00:18:07.760
+announcement
+
+00:18:04.559 --> 00:18:11.039
+and you are all my receiver
+
+00:18:07.760 --> 00:18:13.600
+so i have a group of students
+
+00:18:11.039 --> 00:18:15.360
+multiple destinations basically and also
+
+00:18:13.600 --> 00:18:18.080
+we have geocache
+
+00:18:15.360 --> 00:18:18.799
+routing as a type of geographic based
+
+00:18:18.080 --> 00:18:20.960
+routing
+
+00:18:18.799 --> 00:18:22.640
+data is propagated to nodes between
+
+00:18:20.960 --> 00:18:25.520
+certain geographic area
+
+00:18:22.640 --> 00:18:27.840
+so basically we define address based on
+
+00:18:25.520 --> 00:18:29.760
+geographic area for example we want to
+
+00:18:27.840 --> 00:18:31.200
+send an information to everyone who
+
+00:18:29.760 --> 00:18:34.960
+lives in
+
+00:18:31.200 --> 00:18:37.360
+broadway so
+
+00:18:34.960 --> 00:18:38.320
+no matter how many users are there it
+
+00:18:37.360 --> 00:18:42.160
+can be
+
+00:18:38.320 --> 00:18:45.840
+one receiver or multiple receiver
+
+00:18:42.160 --> 00:18:50.559
+we only take we only care about the
+
+00:18:45.840 --> 00:18:50.559
+area the geographic area
+
+00:18:51.280 --> 00:18:56.960
+so in terms of unicast
+
+00:18:54.480 --> 00:18:58.960
+we you mentioned there are three types
+
+00:18:56.960 --> 00:19:00.960
+unicast multicast jokers
+
+00:18:58.960 --> 00:19:02.960
+and then for each of them we have uh
+
+00:19:00.960 --> 00:19:06.320
+different uh
+
+00:19:02.960 --> 00:19:09.360
+uh protocols we're gonna cover them in
+
+00:19:06.320 --> 00:19:12.400
+today's lecture as much as we can
+
+00:19:09.360 --> 00:19:15.840
+so let's focus on unicast first
+
+00:19:12.400 --> 00:19:18.960
+unicast location based routing and
+
+00:19:15.840 --> 00:19:22.080
+we have different type of routings in
+
+00:19:18.960 --> 00:19:25.200
+this protocol a greedy
+
+00:19:22.080 --> 00:19:26.320
+perimeter stateless routing and
+
+00:19:25.200 --> 00:19:29.360
+geographical
+
+00:19:26.320 --> 00:19:30.960
+adaptive fidelity don't worry about
+
+00:19:29.360 --> 00:19:33.600
+names uh
+
+00:19:30.960 --> 00:19:35.679
+try to include some examples in the
+
+00:19:33.600 --> 00:19:40.000
+lecture notes so you can understand them
+
+00:19:35.679 --> 00:19:40.880
+and deeply and multicast dual casting we
+
+00:19:40.000 --> 00:19:44.000
+will cover them
+
+00:19:40.880 --> 00:19:46.720
+later so a unicast
+
+00:19:44.000 --> 00:19:48.480
+location based routing we have one
+
+00:19:46.720 --> 00:19:51.440
+single destination
+
+00:19:48.480 --> 00:19:52.000
+each forwarding node see we have source
+
+00:19:51.440 --> 00:19:54.960
+here
+
+00:19:52.000 --> 00:19:57.039
+we have one single destination here and
+
+00:19:54.960 --> 00:19:57.520
+these are our forwarding nodes can we
+
+00:19:57.039 --> 00:19:59.200
+can
+
+00:19:57.520 --> 00:20:01.919
+create a route through here or through
+
+00:19:59.200 --> 00:20:04.840
+here but these are all forwarding nodes
+
+00:20:01.919 --> 00:20:06.400
+each forwarding node makes a localized
+
+00:20:04.840 --> 00:20:08.960
+decision i mean
+
+00:20:06.400 --> 00:20:10.960
+based on their local rule in this region
+
+00:20:08.960 --> 00:20:12.240
+based on the location of the destination
+
+00:20:10.960 --> 00:20:15.600
+and the node's neighbor
+
+00:20:12.240 --> 00:20:19.200
+we call it greedy forwarding the reason
+
+00:20:15.600 --> 00:20:21.600
+is called greedy because in each um
+
+00:20:19.200 --> 00:20:23.840
+jump we would like to make ourselves or
+
+00:20:21.600 --> 00:20:26.720
+the packet closer to the destination
+
+00:20:23.840 --> 00:20:27.039
+so we call it greedy forwarding so we
+
+00:20:26.720 --> 00:20:29.679
+move
+
+00:20:27.039 --> 00:20:30.320
+in a way to make ourselves closer to
+
+00:20:29.679 --> 00:20:32.240
+this
+
+00:20:30.320 --> 00:20:33.760
+destination as much as possible so
+
+00:20:32.240 --> 00:20:37.280
+rather than going through this way
+
+00:20:33.760 --> 00:20:39.520
+on top because it's a longer path
+
+00:20:37.280 --> 00:20:40.720
+through destination we selected this one
+
+00:20:39.520 --> 00:20:45.840
+because we
+
+00:20:40.720 --> 00:20:47.360
+can use this greedy forwarding mechanism
+
+00:20:45.840 --> 00:20:51.039
+if there is any question please feel
+
+00:20:47.360 --> 00:20:51.039
+free to ask me yourself and ask me
+
+00:20:51.600 --> 00:20:57.760
+so 3d
+
+00:20:54.720 --> 00:21:00.559
+perimeter stateless routing as
+
+00:20:57.760 --> 00:21:01.600
+one type of unicast location based
+
+00:21:00.559 --> 00:21:04.880
+routing
+
+00:21:01.600 --> 00:21:05.679
+and let's see what's this one uh as i
+
+00:21:04.880 --> 00:21:07.600
+mentioned
+
+00:21:05.679 --> 00:21:10.480
+greedy means we want to minimize this
+
+00:21:07.600 --> 00:21:14.480
+sense uh to destination in each hop
+
+00:21:10.480 --> 00:21:17.679
+so we want to have a positive
+
+00:21:14.480 --> 00:21:17.679
+move at uh
+
+00:21:18.000 --> 00:21:24.799
+from each hub so
+
+00:21:21.200 --> 00:21:28.880
+there are some definitions in this
+
+00:21:24.799 --> 00:21:29.440
+protocol so we go through them one by
+
+00:21:28.880 --> 00:21:31.600
+one
+
+00:21:29.440 --> 00:21:33.200
+and if there is any question please let
+
+00:21:31.600 --> 00:21:36.400
+me know because i think this is the most
+
+00:21:33.200 --> 00:21:39.039
+important part of a unicast routine
+
+00:21:36.400 --> 00:21:40.000
+nearest with forwarding there are
+
+00:21:39.039 --> 00:21:42.240
+different types of
+
+00:21:40.000 --> 00:21:43.200
+neighbors we need to select depends on
+
+00:21:42.240 --> 00:21:45.919
+the definition
+
+00:21:43.200 --> 00:21:48.400
+for example if our aim is to find the
+
+00:21:45.919 --> 00:21:52.559
+nearest with forwarding progress
+
+00:21:48.400 --> 00:21:54.880
+nfb so which node can meet this criteria
+
+00:21:52.559 --> 00:21:56.159
+basically this means nearest of all
+
+00:21:54.880 --> 00:21:58.799
+neighbors that make
+
+00:21:56.159 --> 00:22:00.799
+positive progress in terms of geographic
+
+00:21:58.799 --> 00:22:02.559
+distance to our destination
+
+00:22:00.799 --> 00:22:04.880
+here is our source this is our
+
+00:22:02.559 --> 00:22:06.880
+destination and these are some nodes
+
+00:22:04.880 --> 00:22:07.679
+here in this region in this geographic
+
+00:22:06.880 --> 00:22:10.320
+region
+
+00:22:07.679 --> 00:22:10.880
+which if we have a packet as a source we
+
+00:22:10.320 --> 00:22:13.200
+want to
+
+00:22:10.880 --> 00:22:14.240
+forward it to our destination so we need
+
+00:22:13.200 --> 00:22:17.520
+to basically
+
+00:22:14.240 --> 00:22:18.559
+pass it to another forwarding node which
+
+00:22:17.520 --> 00:22:21.679
+node is our
+
+00:22:18.559 --> 00:22:22.640
+nfp is the nearest of all neighbors
+
+00:22:21.679 --> 00:22:25.280
+nearest
+
+00:22:22.640 --> 00:22:26.000
+of all neighbors that makes positive
+
+00:22:25.280 --> 00:22:28.559
+progress
+
+00:22:26.000 --> 00:22:29.679
+towards destination so it should be near
+
+00:22:28.559 --> 00:22:31.919
+to the
+
+00:22:29.679 --> 00:22:33.840
+source and it should also make positive
+
+00:22:31.919 --> 00:22:35.280
+progress towards destination for example
+
+00:22:33.840 --> 00:22:38.400
+if you have a node here
+
+00:22:35.280 --> 00:22:40.480
+we don't have it here just imagine if
+
+00:22:38.400 --> 00:22:41.039
+you had another node here very close to
+
+00:22:40.480 --> 00:22:44.000
+s
+
+00:22:41.039 --> 00:22:46.080
+but it was not creating a positive
+
+00:22:44.000 --> 00:22:46.400
+progress with ascension so that couldn't
+
+00:22:46.080 --> 00:22:49.039
+be
+
+00:22:46.400 --> 00:22:50.799
+nfv so it should meet two criteria
+
+00:22:49.039 --> 00:22:52.840
+nearest of all neighbors
+
+00:22:50.799 --> 00:22:54.000
+which make positive progress towards
+
+00:22:52.840 --> 00:22:56.880
+destination
+
+00:22:54.000 --> 00:22:59.120
+so what would you suggest as nfv in this
+
+00:22:56.880 --> 00:22:59.120
+graph
+
+00:23:06.480 --> 00:23:14.559
+any idea a
+
+00:23:09.679 --> 00:23:14.559
+yep thanks musha any other ideas
+
+00:23:15.120 --> 00:23:20.240
+so it should be near nearest to the s
+
+00:23:18.000 --> 00:23:24.320
+and also make positive progress
+
+00:23:20.240 --> 00:23:27.200
+towards the destination
+
+00:23:24.320 --> 00:23:27.200
+thanks basal
+
+00:23:28.240 --> 00:23:36.000
+yes well done okay that's great hey
+
+00:23:32.799 --> 00:23:38.480
+i don't know why i didn't make animation
+
+00:23:36.000 --> 00:23:39.120
+for this one to just change the circle
+
+00:23:38.480 --> 00:23:42.159
+uh
+
+00:23:39.120 --> 00:23:45.840
+color but yes that was a so
+
+00:23:42.159 --> 00:23:49.279
+next next one most forwarding progress
+
+00:23:45.840 --> 00:23:50.000
+between radius mfr this is basically a
+
+00:23:49.279 --> 00:23:53.760
+neighbor that
+
+00:23:50.000 --> 00:23:55.600
+makes uh greatest positive progress
+
+00:23:53.760 --> 00:23:56.880
+towards destination so what's the
+
+00:23:55.600 --> 00:23:59.840
+definition of progress
+
+00:23:56.880 --> 00:24:01.600
+imagine we have a line between s and d
+
+00:23:59.840 --> 00:24:02.480
+this dash line here could you see this
+
+00:24:01.600 --> 00:24:05.360
+dashed line
+
+00:24:02.480 --> 00:24:06.080
+draw this line and then progress is a
+
+00:24:05.360 --> 00:24:08.880
+distance
+
+00:24:06.080 --> 00:24:09.279
+between source and it's the neighbor
+
+00:24:08.880 --> 00:24:12.000
+node
+
+00:24:09.279 --> 00:24:13.279
+projected onto a line so we have
+
+00:24:12.000 --> 00:24:16.559
+different nodes here
+
+00:24:13.279 --> 00:24:19.840
+we have this line from s to d and
+
+00:24:16.559 --> 00:24:23.919
+then draw this uh uh
+
+00:24:19.840 --> 00:24:23.919
+drawing progress it's basically this uh
+
+00:24:24.240 --> 00:24:30.960
+projected uh line on this uh
+
+00:24:28.400 --> 00:24:32.559
+uh dash line here is the distance
+
+00:24:30.960 --> 00:24:34.799
+between source and its neighbor
+
+00:24:32.559 --> 00:24:35.600
+so you have this c for example here this
+
+00:24:34.799 --> 00:24:37.600
+a here
+
+00:24:35.600 --> 00:24:39.760
+then draw this line you have you can
+
+00:24:37.600 --> 00:24:42.720
+find the progress here is the distance
+
+00:24:39.760 --> 00:24:44.640
+between source and its neighbor
+
+00:24:42.720 --> 00:24:46.320
+that are projected on a line so
+
+00:24:44.640 --> 00:24:48.640
+basically we want to find a
+
+00:24:46.320 --> 00:24:49.919
+neighbor that makes greatest positive
+
+00:24:48.640 --> 00:24:52.320
+progress
+
+00:24:49.919 --> 00:24:53.279
+you want it's like a football team you
+
+00:24:52.320 --> 00:24:55.440
+want to pass you
+
+00:24:53.279 --> 00:25:00.159
+pass the ball to someone who who can
+
+00:24:55.440 --> 00:25:03.840
+make the greatest positive progress
+
+00:25:00.159 --> 00:25:03.840
+so which one be
+
+00:25:04.159 --> 00:25:14.559
+thanks ali thanks sir prison thanks
+
+00:25:08.000 --> 00:25:17.440
+juanji thanks faysal thanks john
+
+00:25:14.559 --> 00:25:17.440
+any other ideas
+
+00:25:21.039 --> 00:25:43.840
+so my quick question why not e
+
+00:25:28.720 --> 00:25:43.840
+all right
+
+00:25:44.880 --> 00:25:49.840
+yes it was a bit uh honestly hard for
+
+00:25:47.600 --> 00:25:53.679
+myself also to distinguish which one is
+
+00:25:49.840 --> 00:25:56.880
+uh closer or not yes
+
+00:25:53.679 --> 00:25:59.919
+in vertical b is correct
+
+00:25:56.880 --> 00:26:02.799
+but this was really nice that you
+
+00:25:59.919 --> 00:26:02.799
+recognize this
+
+00:26:03.440 --> 00:26:06.640
+so basically you need to draw this
+
+00:26:04.960 --> 00:26:08.880
+dashed line and then
+
+00:26:06.640 --> 00:26:10.720
+find the progress here it's the distance
+
+00:26:08.880 --> 00:26:14.720
+between source and destination so you
+
+00:26:10.720 --> 00:26:17.039
+have this projected here yes it is b
+
+00:26:14.720 --> 00:26:17.760
+if you send your packet through b you
+
+00:26:17.039 --> 00:26:25.120
+have the
+
+00:26:17.760 --> 00:26:28.240
+greatest positive progress to rsd
+
+00:26:25.120 --> 00:26:28.559
+next one um compass routing neighbor
+
+00:26:28.240 --> 00:26:31.600
+with
+
+00:26:28.559 --> 00:26:33.520
+smallest angle between a line drawn from
+
+00:26:31.600 --> 00:26:35.440
+source to the neighbor and the line
+
+00:26:33.520 --> 00:26:37.600
+connected source and destination
+
+00:26:35.440 --> 00:26:39.200
+again you have this line connecting
+
+00:26:37.600 --> 00:26:42.240
+source and destination
+
+00:26:39.200 --> 00:26:44.240
+and you need to draw this uh
+
+00:26:42.240 --> 00:26:46.480
+another line between source and each
+
+00:26:44.240 --> 00:26:47.520
+node and see which one can create the
+
+00:26:46.480 --> 00:26:50.480
+smallest angle
+
+00:26:47.520 --> 00:26:50.960
+this angle here or draw this line from s
+
+00:26:50.480 --> 00:26:54.320
+to
+
+00:26:50.960 --> 00:26:56.880
+a and then see what's the angle
+
+00:26:54.320 --> 00:26:57.440
+so this is basically compass routing
+
+00:26:56.880 --> 00:26:59.760
+which one
+
+00:26:57.440 --> 00:26:59.760
+you think
+
+00:27:01.600 --> 00:27:07.840
+for nfp uh what is
+
+00:27:10.000 --> 00:27:13.760
+a the other one okay so
+
+00:27:12.480 --> 00:27:16.799
+[Music]
+
+00:27:13.760 --> 00:27:20.960
+compass writing is c yes
+
+00:27:16.799 --> 00:27:20.960
+well on facebook motion uh
+
+00:27:21.520 --> 00:27:24.640
+what other students think because i
+
+00:27:23.200 --> 00:27:26.240
+think same students answered the
+
+00:27:24.640 --> 00:27:28.960
+previous question
+
+00:27:26.240 --> 00:27:30.240
+this your engagement is really important
+
+00:27:28.960 --> 00:27:33.200
+to me so pleasure
+
+00:27:30.240 --> 00:27:33.200
+but yes well done
+
+00:27:44.320 --> 00:27:47.520
+if you draw this line then you will see
+
+00:27:46.240 --> 00:27:52.640
+the smallest angle
+
+00:27:47.520 --> 00:27:52.640
+angle can be created for node c
+
+00:27:53.279 --> 00:28:00.880
+i can't uh can we can say what's the uh
+
+00:27:58.080 --> 00:28:01.760
+benefit or advantage disadvantage these
+
+00:28:00.880 --> 00:28:04.880
+are some
+
+00:28:01.760 --> 00:28:07.039
+description and forward
+
+00:28:04.880 --> 00:28:09.120
+some forwarding strategies basically in
+
+00:28:07.039 --> 00:28:12.159
+uh unicast routing
+
+00:28:09.120 --> 00:28:14.880
+we may define them to uh
+
+00:28:12.159 --> 00:28:15.679
+create our routing later we may use this
+
+00:28:14.880 --> 00:28:18.799
+is basically just
+
+00:28:15.679 --> 00:28:20.640
+familiar with definition so uh
+
+00:28:18.799 --> 00:28:23.679
+there might be some probably energy
+
+00:28:20.640 --> 00:28:26.720
+saving mechanism if you have a
+
+00:28:23.679 --> 00:28:28.000
+smaller uh angle or some other things
+
+00:28:26.720 --> 00:28:31.200
+but i think it's basically
+
+00:28:28.000 --> 00:28:32.799
+to do with energy to create this
+
+00:28:31.200 --> 00:28:35.039
+because if you want to pass it through
+
+00:28:32.799 --> 00:28:38.720
+this one probably the angle
+
+00:28:35.039 --> 00:28:42.640
+means you need to go through uh
+
+00:28:38.720 --> 00:28:46.559
+uh you need to say use more energy
+
+00:28:42.640 --> 00:28:48.559
+but i think the a is closer so nfv can
+
+00:28:46.559 --> 00:28:50.000
+in terms of energy saving is the best
+
+00:28:48.559 --> 00:28:53.919
+depends on your metric
+
+00:28:50.000 --> 00:28:57.039
+and your routing
+
+00:28:53.919 --> 00:29:00.159
+if if energies matters i think a
+
+00:28:57.039 --> 00:29:01.120
+nfv foreign fees can save you lots of
+
+00:29:00.159 --> 00:29:05.840
+energy but
+
+00:29:01.120 --> 00:29:07.679
+there are this is a multi-angle question
+
+00:29:05.840 --> 00:29:09.840
+you may think if you send it to a you
+
+00:29:07.679 --> 00:29:11.679
+can save energy but on the other side
+
+00:29:09.840 --> 00:29:13.360
+you need to send it to another hub again
+
+00:29:11.679 --> 00:29:16.399
+to make it closer to the
+
+00:29:13.360 --> 00:29:17.679
+destination so probably mfr can save you
+
+00:29:16.399 --> 00:29:19.039
+more energy so i mean there
+
+00:29:17.679 --> 00:29:21.039
+should be multiple things we should
+
+00:29:19.039 --> 00:29:26.320
+consider in our routing
+
+00:29:21.039 --> 00:29:28.640
+we may need to cover a few of them
+
+00:29:26.320 --> 00:29:31.120
+yes exactly depends on the node
+
+00:29:28.640 --> 00:29:31.120
+placement
+
+00:29:36.399 --> 00:29:41.840
+yes yes
+
+00:29:42.080 --> 00:29:48.880
+okay so crazy forwarding again we
+
+00:29:46.240 --> 00:29:50.640
+want to use it in unicast routing
+
+00:29:48.880 --> 00:29:53.440
+packets are marked by the
+
+00:29:50.640 --> 00:29:54.399
+originator with the destinations
+
+00:29:53.440 --> 00:29:56.640
+location
+
+00:29:54.399 --> 00:29:57.760
+so it's like sending a letter to someone
+
+00:29:56.640 --> 00:30:00.480
+you have a
+
+00:29:57.760 --> 00:30:01.360
+sender address and also destination
+
+00:30:00.480 --> 00:30:04.240
+address
+
+00:30:01.360 --> 00:30:06.159
+on an envelope as a result a forwarding
+
+00:30:04.240 --> 00:30:09.520
+node can make a locally
+
+00:30:06.159 --> 00:30:12.559
+optimal greedy choice in choosing a
+
+00:30:09.520 --> 00:30:16.480
+package next hop everything is locally
+
+00:30:12.559 --> 00:30:19.600
+in based on that geographic region
+
+00:30:16.480 --> 00:30:20.399
+if you not know this radio neighbor's
+
+00:30:19.600 --> 00:30:23.039
+position
+
+00:30:20.399 --> 00:30:23.600
+this is a radio range basically we can
+
+00:30:23.039 --> 00:30:26.080
+sense
+
+00:30:23.600 --> 00:30:27.440
+uh other neighbors we can find their
+
+00:30:26.080 --> 00:30:29.840
+positions if they
+
+00:30:27.440 --> 00:30:31.520
+if you are in the same radio range you
+
+00:30:29.840 --> 00:30:35.039
+see there are some overlaps
+
+00:30:31.520 --> 00:30:36.159
+and from hardware perspective each node
+
+00:30:35.039 --> 00:30:41.360
+has an antenna
+
+00:30:36.159 --> 00:30:41.360
+and they can create this radio range
+
+00:30:41.520 --> 00:30:46.320
+and their vicinity so other nodes can
+
+00:30:43.919 --> 00:30:48.799
+find their location and also they can
+
+00:30:46.320 --> 00:30:49.840
+find location of other nodes so this is
+
+00:30:48.799 --> 00:30:50.640
+these are you see there are some
+
+00:30:49.840 --> 00:30:52.559
+overlaps
+
+00:30:50.640 --> 00:30:54.880
+especially when we have many sensors in
+
+00:30:52.559 --> 00:30:57.279
+the same uh geographic location
+
+00:30:54.880 --> 00:30:59.279
+so if you not not know this radio
+
+00:30:57.279 --> 00:31:01.679
+neighbor's position the locally optimal
+
+00:30:59.279 --> 00:31:04.240
+choice of next hope is the neighbor
+
+00:31:01.679 --> 00:31:06.640
+geographically closest to the package
+
+00:31:04.240 --> 00:31:10.320
+destination
+
+00:31:06.640 --> 00:31:12.720
+so the node which is which is very close
+
+00:31:10.320 --> 00:31:15.840
+to the package destination
+
+00:31:12.720 --> 00:31:18.240
+here this one is the
+
+00:31:15.840 --> 00:31:20.640
+locally optimal choice because we want
+
+00:31:18.240 --> 00:31:23.919
+to it's like a again football team
+
+00:31:20.640 --> 00:31:27.440
+uh you pass the ball uh someone who is
+
+00:31:23.919 --> 00:31:32.159
+very uh who's who has the probability of
+
+00:31:27.440 --> 00:31:34.799
+uh uh making like a lucky goal so
+
+00:31:32.159 --> 00:31:36.320
+the locally optimal choice of nexo is
+
+00:31:34.799 --> 00:31:38.399
+the neighbor geographically
+
+00:31:36.320 --> 00:31:39.519
+closest to the package destination
+
+00:31:38.399 --> 00:31:43.120
+forwarding in this
+
+00:31:39.519 --> 00:31:45.440
+uh strategy follows
+
+00:31:43.120 --> 00:31:47.440
+successively closer geographic hops so
+
+00:31:45.440 --> 00:31:48.080
+we want to make ourselves as much as
+
+00:31:47.440 --> 00:31:50.399
+possible
+
+00:31:48.080 --> 00:31:51.200
+closer to the destination this is why we
+
+00:31:50.399 --> 00:31:53.679
+call it the
+
+00:31:51.200 --> 00:31:54.399
+greedy forwarding until the destination
+
+00:31:53.679 --> 00:31:57.679
+is reached
+
+00:31:54.399 --> 00:32:00.080
+so our aim is to make that big jump in
+
+00:31:57.679 --> 00:32:00.799
+greedy forwarding no matter how many
+
+00:32:00.080 --> 00:32:04.159
+hopes
+
+00:32:00.799 --> 00:32:09.279
+we our aim is to make ourselves closer
+
+00:32:04.159 --> 00:32:13.200
+geographically closer to the destination
+
+00:32:09.279 --> 00:32:16.159
+so there is a problem in this routing
+
+00:32:13.200 --> 00:32:18.240
+i'm gonna show it here try an example
+
+00:32:16.159 --> 00:32:20.399
+packet may arrive at a note without
+
+00:32:18.240 --> 00:32:22.240
+neighbors that could serve as next hope
+
+00:32:20.399 --> 00:32:23.279
+to bring the packet closer to the
+
+00:32:22.240 --> 00:32:25.600
+destination
+
+00:32:23.279 --> 00:32:26.320
+so you you send it to this one because
+
+00:32:25.600 --> 00:32:29.039
+you believe
+
+00:32:26.320 --> 00:32:30.799
+this neighbor can bring your packet
+
+00:32:29.039 --> 00:32:32.880
+closer to the
+
+00:32:30.799 --> 00:32:35.440
+destination you have this greedy
+
+00:32:32.880 --> 00:32:39.440
+forwarding but you are not aware of
+
+00:32:35.440 --> 00:32:39.919
+here you are not aware of other nodes
+
+00:32:39.440 --> 00:32:43.120
+here
+
+00:32:39.919 --> 00:32:45.519
+you may or may not have a route here
+
+00:32:43.120 --> 00:32:48.080
+from this node to other nodes so the
+
+00:32:45.519 --> 00:32:51.279
+problem is you may find yourself in a
+
+00:32:48.080 --> 00:32:54.080
+void or a hole so
+
+00:32:51.279 --> 00:32:55.120
+how to avoid the void so here i'll
+
+00:32:54.080 --> 00:32:57.519
+prepare an example
+
+00:32:55.120 --> 00:32:59.360
+to show you what does this mean we have
+
+00:32:57.519 --> 00:33:00.000
+a source we have a destination we're
+
+00:32:59.360 --> 00:33:02.240
+going to use
+
+00:33:00.000 --> 00:33:03.440
+greedy forwarding challenge so we want
+
+00:33:02.240 --> 00:33:06.559
+to make our packet
+
+00:33:03.440 --> 00:33:08.559
+as much closer to the destination as
+
+00:33:06.559 --> 00:33:11.919
+much as possible we want to
+
+00:33:08.559 --> 00:33:13.360
+make that have that big jump so this is
+
+00:33:11.919 --> 00:33:16.000
+our radio range of uh
+
+00:33:13.360 --> 00:33:16.960
+source so all nodes within this radio
+
+00:33:16.000 --> 00:33:19.760
+range
+
+00:33:16.960 --> 00:33:21.039
+can see this uh source and they have
+
+00:33:19.760 --> 00:33:23.760
+others of their own
+
+00:33:21.039 --> 00:33:24.320
+uh their own as well as others of their
+
+00:33:23.760 --> 00:33:26.000
+neighbors
+
+00:33:24.320 --> 00:33:28.080
+and the source so they can communicate
+
+00:33:26.000 --> 00:33:28.960
+with each other and here is the radio
+
+00:33:28.080 --> 00:33:33.200
+range of
+
+00:33:28.960 --> 00:33:35.679
+destination so if you want to use greedy
+
+00:33:33.200 --> 00:33:38.880
+forwarding
+
+00:33:35.679 --> 00:33:42.159
+mechanism we send our packet to why
+
+00:33:38.880 --> 00:33:43.039
+because the boy can uh we we are in
+
+00:33:42.159 --> 00:33:45.279
+greedy mode
+
+00:33:43.039 --> 00:33:46.320
+why can't it's a bigger jump compared to
+
+00:33:45.279 --> 00:33:48.559
+other notes here
+
+00:33:46.320 --> 00:33:50.240
+if we send it to yb we can make
+
+00:33:48.559 --> 00:33:53.600
+ourselves
+
+00:33:50.240 --> 00:33:55.679
+closer to the destination
+
+00:33:53.600 --> 00:33:57.440
+any questions so you know why we
+
+00:33:55.679 --> 00:33:59.440
+selected this note because it's closer
+
+00:33:57.440 --> 00:34:00.960
+to the destination and it is within the
+
+00:33:59.440 --> 00:34:03.039
+radio range of s
+
+00:34:00.960 --> 00:34:04.840
+so rather than sending to this one or
+
+00:34:03.039 --> 00:34:07.760
+this one or this
+
+00:34:04.840 --> 00:34:09.760
+is sent our package to boy
+
+00:34:07.760 --> 00:34:12.079
+because it is uh closer to the
+
+00:34:09.760 --> 00:34:12.560
+destination so because we are greedy in
+
+00:34:12.079 --> 00:34:15.599
+this
+
+00:34:12.560 --> 00:34:18.079
+strategy now
+
+00:34:15.599 --> 00:34:20.879
+we have s we have different notes here
+
+00:34:18.079 --> 00:34:23.919
+and we have destination so we send
+
+00:34:20.879 --> 00:34:26.079
+this is again our radio range uh of uh
+
+00:34:23.919 --> 00:34:27.440
+sender and receiver uh source and
+
+00:34:26.079 --> 00:34:30.960
+destination
+
+00:34:27.440 --> 00:34:33.200
+so and greatly forwarding we send our
+
+00:34:30.960 --> 00:34:36.079
+packet
+
+00:34:33.200 --> 00:34:36.480
+through uh sender to destination through
+
+00:34:36.079 --> 00:34:39.359
+the
+
+00:34:36.480 --> 00:34:40.159
+shortest path so uh these are the
+
+00:34:39.359 --> 00:34:44.000
+destinations
+
+00:34:40.159 --> 00:34:47.440
+these are the distance sd here
+
+00:34:44.000 --> 00:34:52.320
+and geographically is a smaller than
+
+00:34:47.440 --> 00:34:55.040
+wd and smaller than yd
+
+00:34:52.320 --> 00:34:56.879
+wd and yd so if you want to send our
+
+00:34:55.040 --> 00:35:00.079
+packet through w we should travel
+
+00:34:56.879 --> 00:35:01.920
+all the way from s w b and d
+
+00:35:00.079 --> 00:35:04.079
+and also if you want to send our packet
+
+00:35:01.920 --> 00:35:04.960
+through y we should send all our packets
+
+00:35:04.079 --> 00:35:06.560
+through
+
+00:35:04.960 --> 00:35:08.960
+by the way don't confuse names with
+
+00:35:06.560 --> 00:35:11.359
+previous slides this is another slide
+
+00:35:08.960 --> 00:35:12.800
+uh because we had wider as well so if
+
+00:35:11.359 --> 00:35:13.920
+you want to send it also through this
+
+00:35:12.800 --> 00:35:17.920
+way we should travel
+
+00:35:13.920 --> 00:35:20.400
+all the way from voice z to d so about
+
+00:35:17.920 --> 00:35:22.160
+if we send it directly to d you see
+
+00:35:20.400 --> 00:35:25.520
+geographically if you just
+
+00:35:22.160 --> 00:35:28.960
+uh use your ruler here it is a smaller
+
+00:35:25.520 --> 00:35:32.320
+uh as a shorter pass compared to these
+
+00:35:28.960 --> 00:35:32.320
+two other parts is it clear
+
+00:35:37.839 --> 00:35:41.599
+it's not over i don't know if you should
+
+00:35:40.160 --> 00:35:44.960
+call it overlapping or not
+
+00:35:41.599 --> 00:35:46.800
+but you should be in the other radio
+
+00:35:44.960 --> 00:35:48.720
+range this is why you you can't
+
+00:35:46.800 --> 00:35:49.839
+find their location of the destination
+
+00:35:48.720 --> 00:35:52.720
+and other neighbors
+
+00:35:49.839 --> 00:35:55.280
+otherwise you cannot hear them or find
+
+00:35:52.720 --> 00:35:55.280
+their address
+
+00:35:56.320 --> 00:36:00.560
+overlapping here between this this
+
+00:35:58.240 --> 00:36:03.599
+radial range is basically
+
+00:36:00.560 --> 00:36:06.320
+means that you can find the location of
+
+00:36:03.599 --> 00:36:06.320
+these neighbors
+
+00:36:06.640 --> 00:36:13.440
+yes it's in radio range so
+
+00:36:09.760 --> 00:36:15.280
+did you understand this part we be uh
+
+00:36:13.440 --> 00:36:16.560
+using this security forwarding means
+
+00:36:15.280 --> 00:36:19.280
+rather than sending
+
+00:36:16.560 --> 00:36:20.400
+our information through this way here or
+
+00:36:19.280 --> 00:36:24.079
+through this one through
+
+00:36:20.400 --> 00:36:27.280
+wd or yd we send it through sd
+
+00:36:24.079 --> 00:36:32.160
+because geographically is a shorter uh
+
+00:36:27.280 --> 00:36:34.880
+route but there might be a problem
+
+00:36:32.160 --> 00:36:36.480
+uh because there is void here s is not
+
+00:36:34.880 --> 00:36:39.839
+aware of uh
+
+00:36:36.480 --> 00:36:42.880
+uh situation here
+
+00:36:39.839 --> 00:36:44.800
+says that this route is shorter
+
+00:36:42.880 --> 00:36:45.920
+but the problem is there is no other
+
+00:36:44.800 --> 00:36:48.960
+node here
+
+00:36:45.920 --> 00:36:52.320
+to work as a like a hop
+
+00:36:48.960 --> 00:36:54.240
+for s so we send our packet to d but
+
+00:36:52.320 --> 00:36:56.640
+we have a void here so we lost our
+
+00:36:54.240 --> 00:36:58.880
+practice
+
+00:36:56.640 --> 00:36:59.760
+this is a this is the problem of greedy
+
+00:36:58.880 --> 00:37:02.000
+forwarding
+
+00:36:59.760 --> 00:37:03.440
+we find ourselves in void or whole
+
+00:37:02.000 --> 00:37:05.680
+because the only thing
+
+00:37:03.440 --> 00:37:07.119
+we the only thing we consider as a
+
+00:37:05.680 --> 00:37:09.599
+greedy forward and we consider
+
+00:37:07.119 --> 00:37:11.680
+geographical distance which is shorter
+
+00:37:09.599 --> 00:37:14.880
+here and we didn't consider
+
+00:37:11.680 --> 00:37:16.320
+uh different other things like having a
+
+00:37:14.880 --> 00:37:23.839
+hub here or not
+
+00:37:16.320 --> 00:37:23.839
+so we found ourselves in a void or hall
+
+00:37:24.240 --> 00:37:30.960
+yes yes ali so and not
+
+00:37:27.839 --> 00:37:34.160
+advertiser distance so s has a
+
+00:37:30.960 --> 00:37:37.040
+has an understanding of distance uh
+
+00:37:34.160 --> 00:37:38.240
+from itself to destination but other
+
+00:37:37.040 --> 00:37:40.560
+information is not
+
+00:37:38.240 --> 00:37:42.960
+considered greedy forwarding beauty
+
+00:37:40.560 --> 00:37:45.280
+forwarding only focuses on
+
+00:37:42.960 --> 00:37:46.800
+a shorter geographical distance and
+
+00:37:45.280 --> 00:37:49.520
+other things are ignored
+
+00:37:46.800 --> 00:37:50.320
+this is why we have a void here and
+
+00:37:49.520 --> 00:37:53.839
+because we
+
+00:37:50.320 --> 00:37:53.839
+use the greedy forwarding
+
+00:37:54.720 --> 00:37:58.000
+and does it normally use proactive
+
+00:37:56.079 --> 00:38:00.320
+routing so they know the routes prior
+
+00:37:58.000 --> 00:38:01.040
+or is it more reactive or it doesn't it
+
+00:38:00.320 --> 00:38:02.560
+much
+
+00:38:01.040 --> 00:38:04.240
+that's a very good question that's a
+
+00:38:02.560 --> 00:38:07.119
+very good question yes
+
+00:38:04.240 --> 00:38:07.599
+to minimize this problem it's good to
+
+00:38:07.119 --> 00:38:11.839
+have
+
+00:38:07.599 --> 00:38:13.520
+that now be focusing on uh
+
+00:38:11.839 --> 00:38:15.359
+different type of writing topology but
+
+00:38:13.520 --> 00:38:17.280
+it's good to have but consider
+
+00:38:15.359 --> 00:38:19.040
+routing mechanism like proactive
+
+00:38:17.280 --> 00:38:23.520
+reactive this is exactly
+
+00:38:19.040 --> 00:38:24.880
+what routing is quite uh
+
+00:38:23.520 --> 00:38:26.480
+complicated problem because we need to
+
+00:38:24.880 --> 00:38:27.680
+consider multiple things if just
+
+00:38:26.480 --> 00:38:29.680
+focusing on
+
+00:38:27.680 --> 00:38:31.280
+writing mechanism in terms of
+
+00:38:29.680 --> 00:38:32.640
+geographical based writing without
+
+00:38:31.280 --> 00:38:34.640
+considering other things as you
+
+00:38:32.640 --> 00:38:36.400
+mentioned like your proactive writing
+
+00:38:34.640 --> 00:38:38.000
+this is a problem we're going to face
+
+00:38:36.400 --> 00:38:39.119
+because we don't have any knowledge and
+
+00:38:38.000 --> 00:38:40.960
+we don't care about
+
+00:38:39.119 --> 00:38:42.560
+other things here in bisping we just
+
+00:38:40.960 --> 00:38:45.680
+care about
+
+00:38:42.560 --> 00:38:48.640
+geographical distance which is shorter
+
+00:38:45.680 --> 00:38:48.640
+here from std
+
+00:38:50.960 --> 00:38:54.640
+so that's how everyone knows everyone
+
+00:38:52.880 --> 00:38:56.240
+has the same route table and
+
+00:38:54.640 --> 00:38:58.320
+they know the distance between each
+
+00:38:56.240 --> 00:39:00.320
+another node and that's how you can fall
+
+00:38:58.320 --> 00:39:02.400
+into void is it yes
+
+00:39:00.320 --> 00:39:04.880
+yes and i'm going to cover it in the my
+
+00:39:02.400 --> 00:39:08.560
+next slide is that how we can avoid this
+
+00:39:04.880 --> 00:39:11.760
+void uh yes
+
+00:39:08.560 --> 00:39:12.880
+thank you ali uh yes britain there isn't
+
+00:39:11.760 --> 00:39:14.800
+a route so
+
+00:39:12.880 --> 00:39:16.160
+basically the package will not be sent
+
+00:39:14.800 --> 00:39:19.200
+it is sent from s
+
+00:39:16.160 --> 00:39:21.760
+but it will be lost here so we cannot
+
+00:39:19.200 --> 00:39:24.880
+complete our route here
+
+00:39:21.760 --> 00:39:28.160
+so the problem can be addressed by
+
+00:39:24.880 --> 00:39:30.800
+greedy perimeter stateless routing
+
+00:39:28.160 --> 00:39:32.160
+gpsr don't worry about acronyms the
+
+00:39:30.800 --> 00:39:34.960
+algorithm basically
+
+00:39:32.160 --> 00:39:36.400
+includes two methods grid forwarding as
+
+00:39:34.960 --> 00:39:39.440
+we mentioned and also
+
+00:39:36.400 --> 00:39:41.440
+perimeter forwarding what does this mean
+
+00:39:39.440 --> 00:39:42.960
+basically we follow greedy forwarding
+
+00:39:41.440 --> 00:39:44.720
+because we want to
+
+00:39:42.960 --> 00:39:46.400
+make that big jump we want to make
+
+00:39:44.720 --> 00:39:48.079
+ourselves closer to the destination as
+
+00:39:46.400 --> 00:39:51.040
+much as possible
+
+00:39:48.079 --> 00:39:52.880
+while we can use perimeter forwarding
+
+00:39:51.040 --> 00:39:56.160
+when we find ourselves
+
+00:39:52.880 --> 00:39:59.440
+in a void or whole
+
+00:39:56.160 --> 00:40:02.720
+like a previous example so
+
+00:39:59.440 --> 00:40:04.640
+in this uh routing uh
+
+00:40:02.720 --> 00:40:06.880
+and not forwards packet to neighbor
+
+00:40:04.640 --> 00:40:07.760
+which is geographically closest to the
+
+00:40:06.880 --> 00:40:10.960
+destination
+
+00:40:07.760 --> 00:40:14.800
+because we are greedy in a greedy
+
+00:40:10.960 --> 00:40:17.599
+mode and when we face a challenge of
+
+00:40:14.800 --> 00:40:18.640
+voice or hold we use a perimeter
+
+00:40:17.599 --> 00:40:21.839
+basically we use
+
+00:40:18.640 --> 00:40:24.880
+right hand side rule to
+
+00:40:21.839 --> 00:40:27.280
+travel along the graph so for example in
+
+00:40:24.880 --> 00:40:29.920
+this example we have x
+
+00:40:27.280 --> 00:40:32.319
+as a center and then we have destination
+
+00:40:29.920 --> 00:40:34.960
+x is closer to the destination
+
+00:40:32.319 --> 00:40:37.280
+than its neighbors like here like
+
+00:40:34.960 --> 00:40:40.560
+previous example
+
+00:40:37.280 --> 00:40:43.760
+than w and y so this is
+
+00:40:40.560 --> 00:40:46.319
+using uh greedy forwarding x to d
+
+00:40:43.760 --> 00:40:47.200
+uh this uh direct line is the shortest
+
+00:40:46.319 --> 00:40:50.880
+path
+
+00:40:47.200 --> 00:40:53.920
+so uh this greedy perimeter stateless
+
+00:40:50.880 --> 00:40:57.040
+routing uses right hand rule to traverse
+
+00:40:53.920 --> 00:40:59.040
+the graph so we can when we find
+
+00:40:57.040 --> 00:40:59.839
+ourselves in void for next time we lost
+
+00:40:59.040 --> 00:41:03.599
+our packet
+
+00:40:59.839 --> 00:41:04.000
+uh uh i use a experience for the next
+
+00:41:03.599 --> 00:41:08.079
+time
+
+00:41:04.000 --> 00:41:10.960
+we travel along the uh graph
+
+00:41:08.079 --> 00:41:13.520
+or next time we have a packet so
+
+00:41:10.960 --> 00:41:15.440
+probably similar to creating a table
+
+00:41:13.520 --> 00:41:17.680
+and then mark it in our table that there
+
+00:41:15.440 --> 00:41:18.640
+was a void here so next time we use the
+
+00:41:17.680 --> 00:41:23.359
+right hand
+
+00:41:18.640 --> 00:41:23.359
+rule to travel along the graph
+
+00:41:23.680 --> 00:41:28.150
+any questions for this one
+
+00:41:25.060 --> 00:41:28.150
+[Music]
+
+00:41:28.800 --> 00:41:33.200
+probably next slide can clarify it for
+
+00:41:32.000 --> 00:41:35.839
+you
+
+00:41:33.200 --> 00:41:37.760
+greedy perimeter status routing we have
+
+00:41:35.839 --> 00:41:40.960
+greedy forwarding as well as
+
+00:41:37.760 --> 00:41:44.640
+perimeter when when we face a
+
+00:41:40.960 --> 00:41:47.680
+challenge of void or hold so
+
+00:41:44.640 --> 00:41:51.359
+x here this one this is our source
+
+00:41:47.680 --> 00:41:54.880
+origin is the packet to you
+
+00:41:51.359 --> 00:41:58.160
+see here and then we want to use the
+
+00:41:54.880 --> 00:41:59.839
+right hand rule to avoid void for
+
+00:41:58.160 --> 00:42:03.359
+example in our network
+
+00:41:59.839 --> 00:42:05.359
+then you send it to z and uh using right
+
+00:42:03.359 --> 00:42:09.040
+hand rules that send you to w
+
+00:42:05.359 --> 00:42:09.359
+and then so we're not gonna transfer uh
+
+00:42:09.040 --> 00:42:11.680
+we
+
+00:42:09.359 --> 00:42:12.400
+we cannot transfer our packet from x to
+
+00:42:11.680 --> 00:42:14.560
+d
+
+00:42:12.400 --> 00:42:16.319
+the this is a problem challenge we try
+
+00:42:14.560 --> 00:42:19.760
+uh right right-hand rule
+
+00:42:16.319 --> 00:42:23.200
+uh we this is we end up with x u z
+
+00:42:19.760 --> 00:42:26.000
+w u x so we the packet is back to
+
+00:42:23.200 --> 00:42:26.480
+x again the problem is because we have
+
+00:42:26.000 --> 00:42:29.200
+this
+
+00:42:26.480 --> 00:42:31.040
+cross edge here see if you have a cross
+
+00:42:29.200 --> 00:42:33.680
+here
+
+00:42:31.040 --> 00:42:35.680
+when we have this uh cross lines in our
+
+00:42:33.680 --> 00:42:38.079
+network we would not be able to use a
+
+00:42:35.680 --> 00:42:42.000
+right hand rule
+
+00:42:38.079 --> 00:42:43.839
+so the solution that this is a challenge
+
+00:42:42.000 --> 00:42:45.040
+right hand rule does not work with the
+
+00:42:43.839 --> 00:42:47.760
+cross edges
+
+00:42:45.040 --> 00:42:48.560
+the solution is we need to remove that
+
+00:42:47.760 --> 00:42:52.240
+cross
+
+00:42:48.560 --> 00:42:55.359
+edge as long as we're not going to
+
+00:42:52.240 --> 00:42:55.359
+partition our network
+
+00:42:57.040 --> 00:43:00.720
+so in non-planar graphs uh right-hand
+
+00:42:59.839 --> 00:43:03.920
+rule may take
+
+00:43:00.720 --> 00:43:06.000
+a tour of edges that does not trace the
+
+00:43:03.920 --> 00:43:09.040
+boundary of a closest
+
+00:43:06.000 --> 00:43:10.960
+polygon so a graph in which no two edges
+
+00:43:09.040 --> 00:43:13.920
+cross is known as planar
+
+00:43:10.960 --> 00:43:16.560
+so we need to have a planar graph in
+
+00:43:13.920 --> 00:43:18.800
+order to be able to use the
+
+00:43:16.560 --> 00:43:20.800
+right hand rule so in planar graph we
+
+00:43:18.800 --> 00:43:24.079
+shouldn't have
+
+00:43:20.800 --> 00:43:24.640
+crossing edges if we do we should remove
+
+00:43:24.079 --> 00:43:26.800
+them
+
+00:43:24.640 --> 00:43:28.160
+and that it's not simply removing a
+
+00:43:26.800 --> 00:43:30.319
+cross edges because basically by
+
+00:43:28.160 --> 00:43:31.520
+removing a line we remove connection and
+
+00:43:30.319 --> 00:43:32.880
+links between two nodes
+
+00:43:31.520 --> 00:43:35.520
+you should make sure there are other
+
+00:43:32.880 --> 00:43:38.560
+links or rats uh towards uh
+
+00:43:35.520 --> 00:43:40.960
+to connect those nodes
+
+00:43:38.560 --> 00:43:42.319
+so we can see we cannot simply remove
+
+00:43:40.960 --> 00:43:44.880
+crossing edges we need to
+
+00:43:42.319 --> 00:43:45.599
+remove it in a way that the network uh
+
+00:43:44.880 --> 00:43:48.880
+not
+
+00:43:45.599 --> 00:43:50.160
+partition two types of planar graphs
+
+00:43:48.880 --> 00:43:54.240
+these are two famous
+
+00:43:50.160 --> 00:43:56.720
+uh types rng and
+
+00:43:54.240 --> 00:43:57.520
+relative neighborhood graph and also
+
+00:43:56.720 --> 00:44:00.640
+gabriel
+
+00:43:57.520 --> 00:44:02.079
+graph see this was our previous example
+
+00:44:00.640 --> 00:44:04.160
+we had cross stage here
+
+00:44:02.079 --> 00:44:05.760
+i just removed that one to create this
+
+00:44:04.160 --> 00:44:08.319
+is planner now
+
+00:44:05.760 --> 00:44:09.440
+and removing that line didn't traffic
+
+00:44:08.319 --> 00:44:11.040
+our network
+
+00:44:09.440 --> 00:44:12.960
+significantly because still we have
+
+00:44:11.040 --> 00:44:15.200
+routes uh through these
+
+00:44:12.960 --> 00:44:16.480
+nodes that was basically uh
+
+00:44:15.200 --> 00:44:20.000
+unnecessarily
+
+00:44:16.480 --> 00:44:20.880
+uh link or route so we made the graph
+
+00:44:20.000 --> 00:44:24.400
+planner
+
+00:44:20.880 --> 00:44:26.319
+we remove wz from the graph
+
+00:44:24.400 --> 00:44:28.079
+and now we're gonna apply right hand
+
+00:44:26.319 --> 00:44:30.960
+rule to avoid the void
+
+00:44:28.079 --> 00:44:31.440
+so we send our packet from x to u and
+
+00:44:30.960 --> 00:44:34.960
+uses
+
+00:44:31.440 --> 00:44:39.280
+it and then destination received our
+
+00:44:34.960 --> 00:44:39.280
+packets and we can have this closed loop
+
+00:44:43.280 --> 00:44:47.040
+so in if you want if you have a graph
+
+00:44:46.079 --> 00:44:50.400
+you want to
+
+00:44:47.040 --> 00:44:53.680
+or network you want to make it a
+
+00:44:50.400 --> 00:44:54.480
+planner here is a very simple code you
+
+00:44:53.680 --> 00:44:57.520
+can see
+
+00:44:54.480 --> 00:45:00.560
+and basically it means uh
+
+00:44:57.520 --> 00:45:04.079
+explanation of uh this code is here
+
+00:45:00.560 --> 00:45:04.480
+basically the loan between you and b
+
+00:45:04.079 --> 00:45:06.480
+here
+
+00:45:04.480 --> 00:45:08.720
+you see this intersection area here
+
+00:45:06.480 --> 00:45:09.599
+intersection of radial ranges of two
+
+00:45:08.720 --> 00:45:11.920
+nodes
+
+00:45:09.599 --> 00:45:13.280
+each node has a radial range as we
+
+00:45:11.920 --> 00:45:16.000
+discussed earlier
+
+00:45:13.280 --> 00:45:18.400
+and there must be some overlaps in the
+
+00:45:16.000 --> 00:45:21.599
+radial range this intersection here
+
+00:45:18.400 --> 00:45:23.760
+so this loom is called loon this area
+
+00:45:21.599 --> 00:45:26.800
+must be empty of any
+
+00:45:23.760 --> 00:45:30.319
+other nodes such as w here
+
+00:45:26.800 --> 00:45:33.440
+and if you want to make our graph planar
+
+00:45:30.319 --> 00:45:36.560
+so if this region is not empty
+
+00:45:33.440 --> 00:45:39.280
+the link uv will be removed
+
+00:45:36.560 --> 00:45:40.640
+so to make it a planner and this is
+
+00:45:39.280 --> 00:45:47.280
+basically is written here
+
+00:45:40.640 --> 00:45:49.920
+if you want to try it
+
+00:45:47.280 --> 00:45:49.920
+any questions
+
+00:45:54.160 --> 00:45:58.000
+so if there is a note here in this
+
+00:45:56.319 --> 00:46:00.079
+intersection
+
+00:45:58.000 --> 00:46:01.119
+then we need to remove this link
+
+00:46:00.079 --> 00:46:04.240
+otherwise
+
+00:46:01.119 --> 00:46:07.760
+there wouldn't be any cross engage
+
+00:46:04.240 --> 00:46:09.680
+so some of some examples this is a
+
+00:46:07.760 --> 00:46:11.760
+original it's a real based on real
+
+00:46:09.680 --> 00:46:13.040
+example the full graph of a radio
+
+00:46:11.760 --> 00:46:17.119
+network
+
+00:46:13.040 --> 00:46:19.920
+200 noz uniformly randomly placed on a
+
+00:46:17.119 --> 00:46:22.240
+2000 multiplier by 2000 meter region
+
+00:46:19.920 --> 00:46:24.079
+with a radio range of 250 meter
+
+00:46:22.240 --> 00:46:25.839
+so you can see it's very messy and it's
+
+00:46:24.079 --> 00:46:29.119
+obvious it's not planar
+
+00:46:25.839 --> 00:46:30.079
+so we cabrillo graph is created by
+
+00:46:29.119 --> 00:46:33.280
+removing
+
+00:46:30.079 --> 00:46:36.560
+some uh crossing edges and
+
+00:46:33.280 --> 00:46:37.680
+make it somehow planar uh it's a subset
+
+00:46:36.560 --> 00:46:39.920
+of the full graph
+
+00:46:37.680 --> 00:46:42.319
+still the network has the should have
+
+00:46:39.920 --> 00:46:45.520
+the functionality of the same
+
+00:46:42.319 --> 00:46:49.040
+original graph of course we remove some
+
+00:46:45.520 --> 00:46:52.319
+lines here but we should get the same
+
+00:46:49.040 --> 00:46:53.760
+functionality of the original one but it
+
+00:46:52.319 --> 00:46:56.880
+is much more cleaner
+
+00:46:53.760 --> 00:46:57.920
+and in this one we can apply right hand
+
+00:46:56.880 --> 00:47:01.400
+side rule
+
+00:46:57.920 --> 00:47:03.520
+now a better one is rng a relative
+
+00:47:01.400 --> 00:47:06.640
+neighborhood graph
+
+00:47:03.520 --> 00:47:09.680
+it's basically a stop set of full
+
+00:47:06.640 --> 00:47:10.079
+and also a cabriole graph so we remove
+
+00:47:09.680 --> 00:47:12.079
+more
+
+00:47:10.079 --> 00:47:13.680
+crossing edges and it's not an easy work
+
+00:47:12.079 --> 00:47:15.680
+because every time you want to
+
+00:47:13.680 --> 00:47:16.960
+remove a link you should think about
+
+00:47:15.680 --> 00:47:19.760
+from different angles
+
+00:47:16.960 --> 00:47:20.640
+if all nodes are still accessible if
+
+00:47:19.760 --> 00:47:23.280
+you're gonna
+
+00:47:20.640 --> 00:47:24.160
+create any partitioning in your network
+
+00:47:23.280 --> 00:47:27.119
+or not
+
+00:47:24.160 --> 00:47:29.760
+so these two these are versions of
+
+00:47:27.119 --> 00:47:39.839
+original one without
+
+00:47:29.760 --> 00:47:39.839
+crossing edges any questions
+
+00:47:40.160 --> 00:47:43.040
+questions no
+
+00:47:47.119 --> 00:47:51.280
+thanks john so
+
+00:47:48.900 --> 00:47:56.079
+[Music]
+
+00:47:51.280 --> 00:47:58.319
+as a summary for greedy perimeter status
+
+00:47:56.079 --> 00:47:58.319
+yes
+
+00:48:00.559 --> 00:48:04.400
+questions no
+
+00:48:01.690 --> 00:48:07.839
+[Music]
+
+00:48:04.400 --> 00:48:09.359
+okay uh once receiving a grid mode
+
+00:48:07.839 --> 00:48:11.440
+packets
+
+00:48:09.359 --> 00:48:12.800
+greedy mode package for forwarding and
+
+00:48:11.440 --> 00:48:14.640
+node searches it's
+
+00:48:12.800 --> 00:48:16.319
+a neighbor table to the neighbor
+
+00:48:14.640 --> 00:48:18.559
+geographically
+
+00:48:16.319 --> 00:48:20.160
+closes to the package destination
+
+00:48:18.559 --> 00:48:22.640
+because we want to have this
+
+00:48:20.160 --> 00:48:23.599
+greedy forwarding probably ali that was
+
+00:48:22.640 --> 00:48:26.240
+uh that was
+
+00:48:23.599 --> 00:48:28.000
+like a answer to your question you
+
+00:48:26.240 --> 00:48:31.119
+mentioned about corrective
+
+00:48:28.000 --> 00:48:32.960
+uh we create a table but uh if we
+
+00:48:31.119 --> 00:48:34.240
+combine proactive with this one it would
+
+00:48:32.960 --> 00:48:37.920
+be more advanced
+
+00:48:34.240 --> 00:48:40.559
+and then we can from each each time we
+
+00:48:37.920 --> 00:48:41.359
+make our greedy forwarding we can update
+
+00:48:40.559 --> 00:48:44.480
+the table
+
+00:48:41.359 --> 00:48:45.599
+to avoid the voice in future when no
+
+00:48:44.480 --> 00:48:48.620
+neighbor is closer
+
+00:48:45.599 --> 00:48:51.750
+the note marks
+
+00:48:48.620 --> 00:48:51.750
+[Music]
+
+00:48:57.110 --> 00:49:00.219
+[Music]
+
+00:49:02.720 --> 00:49:08.240
+okay so uh
+
+00:49:05.920 --> 00:49:09.200
+when there is no neighbor is closer so
+
+00:49:08.240 --> 00:49:12.640
+we uh
+
+00:49:09.200 --> 00:49:14.960
+the node marks the packet into uh
+
+00:49:12.640 --> 00:49:16.240
+perimeter mode when no neighbors closer
+
+00:49:14.960 --> 00:49:18.079
+basically this is
+
+00:49:16.240 --> 00:49:21.200
+when we have a void or hole we want to
+
+00:49:18.079 --> 00:49:25.040
+avoid it so we can have this
+
+00:49:21.200 --> 00:49:25.040
+primitive mode to avoid the void
+
+00:49:28.559 --> 00:49:33.680
+so was it clear creative forwarding if
+
+00:49:31.920 --> 00:49:34.319
+you have any questions please feel free
+
+00:49:33.680 --> 00:49:37.040
+to ask
+
+00:49:34.319 --> 00:49:40.319
+now before we move on to geographical
+
+00:49:37.040 --> 00:49:40.319
+adaptive fidelity
+
+00:49:40.720 --> 00:49:44.000
+ruth are you tired do you want to take a
+
+00:49:43.200 --> 00:49:47.280
+break
+
+00:49:44.000 --> 00:49:47.280
+you had quiz as well
+
+00:49:49.520 --> 00:49:53.820
+great thanks musha
+
+00:49:50.700 --> 00:49:53.820
+[Music]
+
+00:49:53.920 --> 00:49:57.119
+let me cover this and then probably we
+
+00:49:56.079 --> 00:49:58.960
+can take a break
+
+00:49:57.119 --> 00:50:01.599
+five minutes before we move on to
+
+00:49:58.960 --> 00:50:04.720
+multicast location based routing
+
+00:50:01.599 --> 00:50:06.319
+so uh second type of location uh
+
+00:50:04.720 --> 00:50:09.599
+unicast location-based routing is
+
+00:50:06.319 --> 00:50:11.280
+geographical adaptive fidelity
+
+00:50:09.599 --> 00:50:13.119
+and then we go through multicast and
+
+00:50:11.280 --> 00:50:16.960
+geocaching
+
+00:50:13.119 --> 00:50:17.359
+gaf is basically designed for networks
+
+00:50:16.960 --> 00:50:20.800
+with
+
+00:50:17.359 --> 00:50:22.559
+mobile nodes to remember like uh
+
+00:50:20.800 --> 00:50:23.920
+that's fine that's one don't worry
+
+00:50:22.559 --> 00:50:27.280
+things happen with uh
+
+00:50:23.920 --> 00:50:29.680
+online classes it's totally fine
+
+00:50:27.280 --> 00:50:30.880
+and basically in geographical adaptive
+
+00:50:29.680 --> 00:50:33.599
+fidelity
+
+00:50:30.880 --> 00:50:36.160
+we use it for mobile notes and remember
+
+00:50:33.599 --> 00:50:38.000
+some examples for example we have uh
+
+00:50:36.160 --> 00:50:39.520
+we discussed about having nodes to
+
+00:50:38.000 --> 00:50:42.800
+measure air pollution
+
+00:50:39.520 --> 00:50:46.240
+or water quality or
+
+00:50:42.800 --> 00:50:49.680
+last week example nodes on
+
+00:50:46.240 --> 00:50:52.079
+sensors on bosses so this is
+
+00:50:49.680 --> 00:50:53.440
+this is a mechanism we can use for
+
+00:50:52.079 --> 00:50:56.160
+mobile nodes
+
+00:50:53.440 --> 00:50:57.440
+network region is divided into virtual
+
+00:50:56.160 --> 00:51:00.640
+grid like this
+
+00:50:57.440 --> 00:51:02.400
+graph here in each cell these are cells
+
+00:51:00.640 --> 00:51:05.440
+for example this is cell ace
+
+00:51:02.400 --> 00:51:05.920
+is very similar to hierarchical base
+
+00:51:05.440 --> 00:51:08.559
+routing
+
+00:51:05.920 --> 00:51:10.160
+in terms of having a grid and also
+
+00:51:08.559 --> 00:51:14.160
+having cells basically
+
+00:51:10.160 --> 00:51:17.440
+you can probably relate it to a cluster
+
+00:51:14.160 --> 00:51:19.599
+and in each cell only one node this
+
+00:51:17.440 --> 00:51:23.440
+black one here is a forwarder at
+
+00:51:19.599 --> 00:51:25.359
+any given time so we have only one one
+
+00:51:23.440 --> 00:51:26.480
+similar to cluster head we have only one
+
+00:51:25.359 --> 00:51:29.359
+forwarder
+
+00:51:26.480 --> 00:51:29.839
+at any given time all other nodes can
+
+00:51:29.359 --> 00:51:32.559
+slip
+
+00:51:29.839 --> 00:51:33.200
+so this way we can save our energy we
+
+00:51:32.559 --> 00:51:36.640
+can
+
+00:51:33.200 --> 00:51:37.599
+extend the network lifetime we have a
+
+00:51:36.640 --> 00:51:40.960
+big assumption
+
+00:51:37.599 --> 00:51:43.440
+in this um geographical adaptive
+
+00:51:40.960 --> 00:51:44.559
+fidelity all nodes within a cell can
+
+00:51:43.440 --> 00:51:48.240
+communicate with
+
+00:51:44.559 --> 00:51:50.960
+all nodes between all adjacent
+
+00:51:48.240 --> 00:51:52.480
+cells so all these nodes can communicate
+
+00:51:50.960 --> 00:51:56.160
+with all nodes here
+
+00:51:52.480 --> 00:51:58.480
+and almost here this is the assumption
+
+00:51:56.160 --> 00:51:59.839
+the the the reason we need to have this
+
+00:51:58.480 --> 00:52:03.440
+criteria because
+
+00:51:59.839 --> 00:52:05.200
+uh this time uh this black circle here
+
+00:52:03.440 --> 00:52:07.119
+is our full border next time
+
+00:52:05.200 --> 00:52:08.720
+the other node may be coming forward and
+
+00:52:07.119 --> 00:52:11.280
+this node should be able to communicate
+
+00:52:08.720 --> 00:52:15.040
+with this cell as well as this cell
+
+00:52:11.280 --> 00:52:16.720
+uh so uh they should be able to
+
+00:52:15.040 --> 00:52:18.720
+communicate with all nodes
+
+00:52:16.720 --> 00:52:20.400
+they may not be forwarded at that time
+
+00:52:18.720 --> 00:52:22.640
+but they should have this capability
+
+00:52:20.400 --> 00:52:23.599
+just in case if they become a forwarder
+
+00:52:22.640 --> 00:52:27.680
+they can
+
+00:52:23.599 --> 00:52:27.680
+create this communication link
+
+00:52:27.839 --> 00:52:33.040
+so in geographical adaptive fidelity we
+
+00:52:30.880 --> 00:52:36.559
+have basically different aspects
+
+00:52:33.040 --> 00:52:41.040
+three main states discovery
+
+00:52:36.559 --> 00:52:45.520
+active and sleep in discovery state uh
+
+00:52:41.040 --> 00:52:48.480
+these nodes here this white circles here
+
+00:52:45.520 --> 00:52:48.960
+uh initially they are in discovery state
+
+00:52:48.480 --> 00:52:51.200
+where
+
+00:52:48.960 --> 00:52:53.040
+they listen for messages from other
+
+00:52:51.200 --> 00:52:56.240
+nodes between a cell
+
+00:52:53.040 --> 00:52:57.839
+each node uses like a timer when timer
+
+00:52:56.240 --> 00:53:01.119
+expires not broadcast
+
+00:52:57.839 --> 00:53:04.240
+discovery message and interactive state
+
+00:53:01.119 --> 00:53:06.880
+so they listen for a while to
+
+00:53:04.240 --> 00:53:08.240
+uh messages from other nodes this way
+
+00:53:06.880 --> 00:53:10.720
+they can save their energy
+
+00:53:08.240 --> 00:53:11.760
+and then after time exploits they can
+
+00:53:10.720 --> 00:53:13.599
+broadcast
+
+00:53:11.760 --> 00:53:15.200
+discovery messages this is basically to
+
+00:53:13.599 --> 00:53:18.160
+find their neighbors
+
+00:53:15.200 --> 00:53:20.720
+within active estate not periodically
+
+00:53:18.160 --> 00:53:23.040
+re-broadcast discovery messages
+
+00:53:20.720 --> 00:53:24.800
+and they set another timer to re-enter
+
+00:53:23.040 --> 00:53:27.280
+discovery estate after
+
+00:53:24.800 --> 00:53:28.000
+timer's expiration this is the state
+
+00:53:27.280 --> 00:53:30.720
+where they
+
+00:53:28.000 --> 00:53:31.200
+gonna consume most of the energy and
+
+00:53:30.720 --> 00:53:34.559
+then
+
+00:53:31.200 --> 00:53:36.640
+sleep a state the north inter uh sleep
+
+00:53:34.559 --> 00:53:37.200
+state from both discovery and active
+
+00:53:36.640 --> 00:53:39.760
+assay
+
+00:53:37.200 --> 00:53:41.200
+whenever they determine that some other
+
+00:53:39.760 --> 00:53:43.680
+node is forwarded
+
+00:53:41.200 --> 00:53:45.040
+so when we have this forwarder here
+
+00:53:43.680 --> 00:53:48.720
+because they
+
+00:53:45.040 --> 00:53:49.680
+broadcast their messages they discovered
+
+00:53:48.720 --> 00:53:51.680
+other nodes in
+
+00:53:49.680 --> 00:53:52.720
+different cells so now it's selected as
+
+00:53:51.680 --> 00:53:56.480
+a forwarder then
+
+00:53:52.720 --> 00:54:00.240
+all other nodes can go through to this
+
+00:53:56.480 --> 00:54:02.400
+sleep state and they previously
+
+00:54:00.240 --> 00:54:04.800
+re-enter discovery state to see what's
+
+00:54:02.400 --> 00:54:08.839
+happening and to see if they
+
+00:54:04.800 --> 00:54:11.520
+are required to become a forwarder or
+
+00:54:08.839 --> 00:54:14.800
+not
+
+00:54:11.520 --> 00:54:17.680
+so as a forwarder uh
+
+00:54:14.800 --> 00:54:19.680
+the forwarder not determine using a
+
+00:54:17.680 --> 00:54:22.079
+negotiation process
+
+00:54:19.680 --> 00:54:24.480
+you remember our negotiation-based
+
+00:54:22.079 --> 00:54:26.800
+protocol in our previous session
+
+00:54:24.480 --> 00:54:27.760
+basically they negotiate they have some
+
+00:54:26.800 --> 00:54:29.520
+local
+
+00:54:27.760 --> 00:54:32.079
+rules based on this they become a
+
+00:54:29.520 --> 00:54:34.160
+forwarder nodes in activists say
+
+00:54:32.079 --> 00:54:36.079
+basically they have a better chance to
+
+00:54:34.160 --> 00:54:37.760
+become forwarded rather than those in
+
+00:54:36.079 --> 00:54:39.119
+discovery state or definitely in a
+
+00:54:37.760 --> 00:54:41.520
+sliver state because they are
+
+00:54:39.119 --> 00:54:42.960
+in active state they can become
+
+00:54:41.520 --> 00:54:45.359
+forwarder quickly
+
+00:54:42.960 --> 00:54:46.079
+so there are some negotiations between
+
+00:54:45.359 --> 00:54:50.839
+nodes
+
+00:54:46.079 --> 00:54:53.680
+here to select to elect a
+
+00:54:50.839 --> 00:54:56.079
+forwarder
+
+00:54:53.680 --> 00:54:58.400
+uh when would no go from a slip back to
+
+00:54:56.079 --> 00:55:01.040
+discover that's a very good question uh
+
+00:54:58.400 --> 00:55:01.839
+motion they probably they they have like
+
+00:55:01.040 --> 00:55:04.400
+a timer
+
+00:55:01.839 --> 00:55:06.720
+say every five minutes depends on the
+
+00:55:04.400 --> 00:55:09.119
+local rule we define our network depends
+
+00:55:06.720 --> 00:55:11.359
+on the sensitivity of our application
+
+00:55:09.119 --> 00:55:13.440
+for example measuring air pollution is
+
+00:55:11.359 --> 00:55:17.119
+very different to measuring some
+
+00:55:13.440 --> 00:55:20.160
+sensitive uh health problem
+
+00:55:17.119 --> 00:55:22.559
+so we define this period this
+
+00:55:20.160 --> 00:55:23.920
+time interval in our network and those
+
+00:55:22.559 --> 00:55:27.119
+periodically re-enter
+
+00:55:23.920 --> 00:55:28.079
+discovery state to broadcast their
+
+00:55:27.119 --> 00:55:29.520
+situation
+
+00:55:28.079 --> 00:55:35.520
+and to see if they have a chance to
+
+00:55:29.520 --> 00:55:39.680
+become a forwarder or not
+
+00:55:35.520 --> 00:55:41.599
+so uh notes in activists say
+
+00:55:39.680 --> 00:55:44.079
+basically they have been over nothing
+
+00:55:41.599 --> 00:55:44.810
+discovery state to become a
+
+00:55:44.079 --> 00:55:47.520
+forwarder
+
+00:55:44.810 --> 00:55:50.559
+[Music]
+
+00:55:47.520 --> 00:55:52.799
+uh some uh uh
+
+00:55:50.559 --> 00:55:53.920
+obviously advantages for this uh
+
+00:55:52.799 --> 00:55:56.960
+topology is
+
+00:55:53.920 --> 00:55:59.200
+only one node is awake in each zone
+
+00:55:56.960 --> 00:56:01.520
+and the rest can slip so we can extend
+
+00:55:59.200 --> 00:56:04.480
+the lifetime of our network
+
+00:56:01.520 --> 00:56:05.760
+we can save our energy by turning off
+
+00:56:04.480 --> 00:56:09.520
+unnecessarily
+
+00:56:05.760 --> 00:56:11.599
+unnecessary nodes and the goal of this
+
+00:56:09.520 --> 00:56:13.040
+mechanism is to quickly reach a state
+
+00:56:11.599 --> 00:56:16.079
+where a cell has only
+
+00:56:13.040 --> 00:56:19.359
+one active node because being in this
+
+00:56:16.079 --> 00:56:21.839
+discovery set is also energy consuming
+
+00:56:19.359 --> 00:56:24.319
+so we want to pass through this stage
+
+00:56:21.839 --> 00:56:26.160
+discovery to active estate very quickly
+
+00:56:24.319 --> 00:56:29.520
+to select our forwarder and then
+
+00:56:26.160 --> 00:56:32.640
+everyone can sleep
+
+00:56:29.520 --> 00:56:35.200
+this is somehow similar to teamwork uh
+
+00:56:32.640 --> 00:56:37.200
+you share a lot and someone take a load
+
+00:56:35.200 --> 00:56:38.960
+for a specific period of time and other
+
+00:56:37.200 --> 00:56:41.440
+one can take a risk while
+
+00:56:38.960 --> 00:56:43.599
+the other person is doing their work
+
+00:56:41.440 --> 00:56:47.359
+basically for group work not
+
+00:56:43.599 --> 00:56:49.760
+teamwork so we covered unicast
+
+00:56:47.359 --> 00:56:50.480
+location-based routing greedy perimeter
+
+00:56:49.760 --> 00:56:52.640
+status
+
+00:56:50.480 --> 00:56:53.920
+routing and also geographical adaptive
+
+00:56:52.640 --> 00:56:56.960
+fidelity
+
+00:56:53.920 --> 00:56:56.960
+now next one is
+
+00:56:57.119 --> 00:57:00.400
+uh multicast location best routing and
+
+00:56:59.280 --> 00:57:03.280
+we have a scalable
+
+00:57:00.400 --> 00:57:05.680
+position based multicast and then last
+
+00:57:03.280 --> 00:57:09.200
+one is geocaching
+
+00:57:05.680 --> 00:57:11.359
+so uh would you like to take five to ten
+
+00:57:09.200 --> 00:57:14.559
+minutes break
+
+00:57:11.359 --> 00:57:18.720
+uh if we don't cover everything here
+
+00:57:14.559 --> 00:57:20.880
+in today's session uh i may postpone the
+
+00:57:18.720 --> 00:57:22.559
+next week quiz but i think we can cover
+
+00:57:20.880 --> 00:57:27.839
+it uh
+
+00:57:22.559 --> 00:57:27.839
+we let me see how many slides left here
+
+00:57:30.079 --> 00:57:36.480
+yeah 59 okay let's take five
+
+00:57:33.520 --> 00:57:37.680
+to ten minutes uh break uh you also have
+
+00:57:36.480 --> 00:57:40.880
+cools today
+
+00:57:37.680 --> 00:57:43.119
+uh i really want to see you full of
+
+00:57:40.880 --> 00:57:46.960
+energy here and we will come back in
+
+00:57:43.119 --> 00:57:48.240
+uh 10 minutes uh 10 to 8 to 10 minutes
+
+00:57:46.960 --> 00:57:52.799
+around 5
+
+00:57:48.240 --> 00:57:56.160
+20. this is good
+
+00:57:52.799 --> 00:57:59.359
+sounds good great yeah thank you
+
+00:57:56.160 --> 00:58:02.160
+thank you gravity coffee something sweet
+
+00:57:59.359 --> 00:58:03.200
+and fruit whatever you like it's the
+
+00:58:02.160 --> 00:58:06.240
+beauty of
+
+00:58:03.200 --> 00:58:09.760
+probably working or studying from home
+
+00:58:06.240 --> 00:58:12.079
+you have access to everything
+
+00:58:09.760 --> 00:58:12.079
+thanks
+
+00:58:13.839 --> 00:58:17.839
+thanks uh samaksha let me know by the
+
+00:58:17.200 --> 00:58:21.040
+way if i'm
+
+00:58:17.839 --> 00:58:24.079
+mispronouncing your name uh i'd like to
+
+00:58:21.040 --> 00:58:26.559
+uh learn
+
+00:58:24.079 --> 00:58:28.000
+it's correct it's collected some iksha
+
+00:58:26.559 --> 00:58:37.839
+that makes us great
+
+00:58:28.000 --> 00:58:37.839
+thanks thank you
+
+00:59:30.839 --> 00:59:33.839
+uh
+
+01:00:40.839 --> 01:00:43.839
+uh
+
+01:01:50.839 --> 01:01:53.839
+oh
+
+01:04:10.839 --> 01:04:13.839
+ah
+
+01:07:40.319 --> 01:07:47.760
+are you back after this
+
+01:07:44.799 --> 01:07:50.079
+very quick work okay let's continue on
+
+01:07:47.760 --> 01:07:56.880
+multicast location based routing
+
+01:07:50.079 --> 01:07:59.599
+scalable position based multicast
+
+01:07:56.880 --> 01:07:59.599
+thanks mission
+
+01:08:00.160 --> 01:08:03.599
+i'm also back with this
+
+01:08:05.920 --> 01:08:10.880
+so um multicast the definition is
+
+01:08:09.200 --> 01:08:12.400
+basically when we want to deliver same
+
+01:08:10.880 --> 01:08:15.359
+packet to multiple
+
+01:08:12.400 --> 01:08:16.719
+receivers there must be different
+
+01:08:15.359 --> 01:08:18.480
+solutions that
+
+01:08:16.719 --> 01:08:21.040
+may come to your mind in terms of
+
+01:08:18.480 --> 01:08:24.080
+multicasting simple solution one
+
+01:08:21.040 --> 01:08:26.239
+imagine we have a group we want to
+
+01:08:24.080 --> 01:08:27.600
+send them some same information and we
+
+01:08:26.239 --> 01:08:30.640
+have only one
+
+01:08:27.600 --> 01:08:32.560
+source simple solution one is to deliver
+
+01:08:30.640 --> 01:08:34.719
+copies of same packet to each
+
+01:08:32.560 --> 01:08:36.480
+individual receiver for your unicast
+
+01:08:34.719 --> 01:08:39.600
+routing
+
+01:08:36.480 --> 01:08:41.759
+we have different uh uh teams uh
+
+01:08:39.600 --> 01:08:42.799
+uh or groups in our values also network
+
+01:08:41.759 --> 01:08:45.279
+we have i think uh
+
+01:08:42.799 --> 01:08:46.719
+i don't know how many uh each four
+
+01:08:45.279 --> 01:08:49.520
+students created a team
+
+01:08:46.719 --> 01:08:51.440
+if i want to let's say team one if i
+
+01:08:49.520 --> 01:08:54.480
+want to communicate with you
+
+01:08:51.440 --> 01:08:54.799
+you you can you can imagine you are like
+
+01:08:54.480 --> 01:08:56.880
+a
+
+01:08:54.799 --> 01:08:59.120
+multicast group i want to communicate
+
+01:08:56.880 --> 01:09:01.600
+all of you with within that school
+
+01:08:59.120 --> 01:09:02.480
+one simple solution the first simple
+
+01:09:01.600 --> 01:09:04.400
+solution is
+
+01:09:02.480 --> 01:09:06.960
+i communicate each of you individually
+
+01:09:04.400 --> 01:09:10.319
+in that team it's not really efficient
+
+01:09:06.960 --> 01:09:12.080
+because you have a team of four if
+
+01:09:10.319 --> 01:09:14.080
+if you if i want to send you same
+
+01:09:12.080 --> 01:09:15.920
+information same email
+
+01:09:14.080 --> 01:09:17.440
+through this mechanism i should send
+
+01:09:15.920 --> 01:09:20.239
+each of you individually
+
+01:09:17.440 --> 01:09:20.719
+same information four times so basically
+
+01:09:20.239 --> 01:09:23.440
+we use
+
+01:09:20.719 --> 01:09:25.440
+unicast as a part of this multicast
+
+01:09:23.440 --> 01:09:27.440
+solution two is to flood the entire
+
+01:09:25.440 --> 01:09:30.640
+network i want to communicate
+
+01:09:27.440 --> 01:09:31.679
+group one in our class so uh with same
+
+01:09:30.640 --> 01:09:33.520
+information
+
+01:09:31.679 --> 01:09:35.600
+so i flood the entire network of
+
+01:09:33.520 --> 01:09:37.600
+broadcasted and onset on
+
+01:09:35.600 --> 01:09:39.440
+canvas so everyone can receive the
+
+01:09:37.600 --> 01:09:40.960
+information definitely
+
+01:09:39.440 --> 01:09:42.880
+your team will also receive the
+
+01:09:40.960 --> 01:09:43.679
+information but again this is not
+
+01:09:42.880 --> 01:09:47.120
+resource
+
+01:09:43.679 --> 01:09:49.040
+efficient this flooding
+
+01:09:47.120 --> 01:09:50.239
+multicast routing this is basically the
+
+01:09:49.040 --> 01:09:53.920
+most efficient one is
+
+01:09:50.239 --> 01:09:55.840
+um basically we send the same packet to
+
+01:09:53.920 --> 01:09:58.159
+all receivers within that
+
+01:09:55.840 --> 01:09:59.840
+group we minimize the number of links
+
+01:09:58.159 --> 01:10:02.960
+the packet has to travel
+
+01:09:59.840 --> 01:10:05.280
+i send only one email to your team if i
+
+01:10:02.960 --> 01:10:07.679
+want to communicate with your group
+
+01:10:05.280 --> 01:10:08.320
+security so this is basically multicast
+
+01:10:07.679 --> 01:10:11.520
+routing
+
+01:10:08.320 --> 01:10:12.880
+so the optimum approach is we have a
+
+01:10:11.520 --> 01:10:18.880
+source and destination
+
+01:10:12.880 --> 01:10:18.880
+or basically our this leap notes here
+
+01:10:19.840 --> 01:10:23.600
+so we i only communicate with these
+
+01:10:22.080 --> 01:10:26.000
+these are multicast
+
+01:10:23.600 --> 01:10:26.960
+groups i only communicate with these
+
+01:10:26.000 --> 01:10:29.440
+groups here
+
+01:10:26.960 --> 01:10:30.560
+rather than sending information one way
+
+01:10:29.440 --> 01:10:33.840
+one to all this
+
+01:10:30.560 --> 01:10:34.640
+uh leaf approach one or flood the entire
+
+01:10:33.840 --> 01:10:37.360
+network
+
+01:10:34.640 --> 01:10:44.480
+or communicate with different groups
+
+01:10:37.360 --> 01:10:46.960
+individually one time only
+
+01:10:44.480 --> 01:10:48.640
+so we have a definition here scalable
+
+01:10:46.960 --> 01:10:52.480
+position based
+
+01:10:48.640 --> 01:10:53.760
+multicast spbm it's basically relies on
+
+01:10:52.480 --> 01:10:56.080
+group management
+
+01:10:53.760 --> 01:10:58.560
+to maintain lists of all destination for
+
+01:10:56.080 --> 01:10:58.560
+a packet
+
+01:10:58.800 --> 01:11:04.159
+packet header basically has a group
+
+01:11:01.920 --> 01:11:05.920
+membership information in a set of all
+
+01:11:04.159 --> 01:11:07.920
+destinations addresses
+
+01:11:05.920 --> 01:11:09.360
+this is meant basically to ensure
+
+01:11:07.920 --> 01:11:12.000
+efficiency
+
+01:11:09.360 --> 01:11:12.800
+network is represented as a quad tree
+
+01:11:12.000 --> 01:11:17.760
+here
+
+01:11:12.800 --> 01:11:17.760
+it's it's like a multi-layer sorry
+
+01:11:19.679 --> 01:11:22.800
+it's basically like a multi-layer
+
+01:11:22.239 --> 01:11:26.000
+addressing
+
+01:11:22.800 --> 01:11:29.600
+strategy with pre-defined number of
+
+01:11:26.000 --> 01:11:32.159
+uh levels all nodes between level zero
+
+01:11:29.600 --> 01:11:33.600
+are in radio range of each other so i'm
+
+01:11:32.159 --> 01:11:36.800
+going to explain it in the
+
+01:11:33.600 --> 01:11:38.400
+next slide with uh with an example the
+
+01:11:36.800 --> 01:11:41.280
+main concept is we have
+
+01:11:38.400 --> 01:11:43.120
+a group management here so rather than
+
+01:11:41.280 --> 01:11:46.480
+flooding the entire network
+
+01:11:43.120 --> 01:11:49.520
+or using unicast to
+
+01:11:46.480 --> 01:11:53.040
+communicate with each node in that
+
+01:11:49.520 --> 01:11:56.400
+group we create this
+
+01:11:53.040 --> 01:11:58.560
+a grid here and we have uh this
+
+01:11:56.400 --> 01:12:00.320
+uh group management mechanism to
+
+01:11:58.560 --> 01:12:02.960
+communicate with groups rather than
+
+01:12:00.320 --> 01:12:06.000
+individuals or the entire network
+
+01:12:02.960 --> 01:12:08.000
+uh probably it's a bit uh
+
+01:12:06.000 --> 01:12:09.440
+complicated to understand this because
+
+01:12:08.000 --> 01:12:12.960
+it's like a
+
+01:12:09.440 --> 01:12:15.360
+two dimensional graph here
+
+01:12:12.960 --> 01:12:17.040
+but imagine we have multiple layers we
+
+01:12:15.360 --> 01:12:20.320
+have level one and
+
+01:12:17.040 --> 01:12:23.120
+here we have uh level three
+
+01:12:20.320 --> 01:12:23.679
+level two level one and level zero on
+
+01:12:23.120 --> 01:12:25.440
+top
+
+01:12:23.679 --> 01:12:27.280
+then we have these are these are
+
+01:12:25.440 --> 01:12:28.239
+multi-layer multi-layers stacked
+
+01:12:27.280 --> 01:12:30.960
+together
+
+01:12:28.239 --> 01:12:31.600
+and for example just take a look at this
+
+01:12:30.960 --> 01:12:34.640
+one
+
+01:12:31.600 --> 01:12:37.679
+square four four two is a level
+
+01:12:34.640 --> 01:12:38.640
+zero square the top top level we call it
+
+01:12:37.679 --> 01:12:41.760
+level zero
+
+01:12:38.640 --> 01:12:43.920
+is the level zero square and it is also
+
+01:12:41.760 --> 01:12:44.480
+located in level three level three is
+
+01:12:43.920 --> 01:12:46.640
+the
+
+01:12:44.480 --> 01:12:48.560
+first layer which actually which
+
+01:12:46.640 --> 01:12:50.880
+includes all these groups together
+
+01:12:48.560 --> 01:12:52.480
+so it's the level zero square located in
+
+01:12:50.880 --> 01:12:54.640
+the level three square
+
+01:12:52.480 --> 01:12:55.840
+that covers the entire network the
+
+01:12:54.640 --> 01:12:58.480
+bottom layer
+
+01:12:55.840 --> 01:13:00.239
+and then the level two square four
+
+01:12:58.480 --> 01:13:02.880
+because it's four four two it is
+
+01:13:00.239 --> 01:13:03.520
+when we moved from level three to level
+
+01:13:02.880 --> 01:13:06.640
+two
+
+01:13:03.520 --> 01:13:07.199
+then we have uh four squares in layer
+
+01:13:06.640 --> 01:13:10.640
+two
+
+01:13:07.199 --> 01:13:12.880
+and this this one is located in uh
+
+01:13:10.640 --> 01:13:14.239
+square four because you can see yes from
+
+01:13:12.880 --> 01:13:17.280
+the first number here
+
+01:13:14.239 --> 01:13:19.760
+and then layer one uh square four
+
+01:13:17.280 --> 01:13:20.960
+forty 44 it's a bit confusing you don't
+
+01:13:19.760 --> 01:13:23.120
+need to go through
+
+01:13:20.960 --> 01:13:25.199
+that much details but just remember
+
+01:13:23.120 --> 01:13:28.480
+something we have multiple layers
+
+01:13:25.199 --> 01:13:30.159
+and then each layer we have four scores
+
+01:13:28.480 --> 01:13:34.159
+this is how we can
+
+01:13:30.159 --> 01:13:37.280
+create addressing and and manage our
+
+01:13:34.159 --> 01:13:39.040
+groups then there are more examples in
+
+01:13:37.280 --> 01:13:40.159
+the textbook if you want to delve deep
+
+01:13:39.040 --> 01:13:42.239
+into this topic
+
+01:13:40.159 --> 01:13:44.239
+but uh this is just mainly for your
+
+01:13:42.239 --> 01:13:47.440
+information to see how you can
+
+01:13:44.239 --> 01:13:51.600
+create this uh three digits
+
+01:13:47.440 --> 01:13:51.600
+address for our notes
+
+01:13:53.280 --> 01:14:00.080
+so notes maintain two tables a global
+
+01:13:57.120 --> 01:14:02.239
+member table and also local member table
+
+01:14:00.080 --> 01:14:06.159
+in global member table
+
+01:14:02.239 --> 01:14:08.800
+we have entries for the three
+
+01:14:06.159 --> 01:14:09.679
+neighboring scores for each layer and
+
+01:14:08.800 --> 01:14:12.719
+also
+
+01:14:09.679 --> 01:14:14.640
+each entry contains the scores
+
+01:14:12.719 --> 01:14:16.640
+identifier and list of nodes in the
+
+01:14:14.640 --> 01:14:19.760
+score basically we
+
+01:14:16.640 --> 01:14:21.920
+keep these addresses in our
+
+01:14:19.760 --> 01:14:24.159
+global member table i'm going to show it
+
+01:14:21.920 --> 01:14:27.760
+in an example later
+
+01:14:24.159 --> 01:14:28.800
+in a local member table we basically we
+
+01:14:27.760 --> 01:14:31.679
+have
+
+01:14:28.800 --> 01:14:32.320
+all members of the node level 0
+
+01:14:31.679 --> 01:14:35.679
+neighbors
+
+01:14:32.320 --> 01:14:38.719
+here these are level 0 neighbors the
+
+01:14:35.679 --> 01:14:41.280
+smallest neighborhood we created at
+
+01:14:38.719 --> 01:14:42.880
+last and see we have this layer 3 which
+
+01:14:41.280 --> 01:14:45.360
+includes uh
+
+01:14:42.880 --> 01:14:47.360
+which covers the entire network then we
+
+01:14:45.360 --> 01:14:49.280
+have this level two and in level two we
+
+01:14:47.360 --> 01:14:50.640
+can focus only on for example a square
+
+01:14:49.280 --> 01:14:53.520
+one or a square
+
+01:14:50.640 --> 01:14:54.000
+four here and then in a square four we
+
+01:14:53.520 --> 01:14:56.320
+can
+
+01:14:54.000 --> 01:14:57.360
+this is actually our layer one we have
+
+01:14:56.320 --> 01:15:00.800
+four different
+
+01:14:57.360 --> 01:15:03.120
+squares 41 42 43 44
+
+01:15:00.800 --> 01:15:04.640
+and then we have this zero layer here on
+
+01:15:03.120 --> 01:15:11.120
+top which we have
+
+01:15:04.640 --> 01:15:14.159
+four four one four four two and this
+
+01:15:11.120 --> 01:15:18.400
+yes yes you're right
+
+01:15:14.159 --> 01:15:18.400
+find you so
+
+01:15:19.600 --> 01:15:22.880
+we gonna
+
+01:15:21.490 --> 01:15:25.040
+[Music]
+
+01:15:22.880 --> 01:15:26.719
+focus on membership information in our
+
+01:15:25.040 --> 01:15:30.000
+local member table
+
+01:15:26.719 --> 01:15:32.880
+uh we want to see our groups
+
+01:15:30.000 --> 01:15:33.600
+and our neighbors our local neighbors in
+
+01:15:32.880 --> 01:15:37.120
+this
+
+01:15:33.600 --> 01:15:40.320
+table and all
+
+01:15:37.120 --> 01:15:42.400
+local members they broadcast a location
+
+01:15:40.320 --> 01:15:43.600
+periodically between nodes the level
+
+01:15:42.400 --> 01:15:45.600
+zero square
+
+01:15:43.600 --> 01:15:46.800
+so nodes between this score they
+
+01:15:45.600 --> 01:15:49.040
+communicate with each other they
+
+01:15:46.800 --> 01:15:52.320
+broadcast the information
+
+01:15:49.040 --> 01:15:54.000
+with these three digits so
+
+01:15:52.320 --> 01:15:55.440
+here is i think you can probably
+
+01:15:54.000 --> 01:15:59.280
+understand through this example
+
+01:15:55.440 --> 01:16:00.719
+uh easier uh this is uh imagine you
+
+01:15:59.280 --> 01:16:03.920
+you've got this address this is the
+
+01:16:00.719 --> 01:16:06.960
+local between local member table
+
+01:16:03.920 --> 01:16:09.920
+what this address can tell you is
+
+01:16:06.960 --> 01:16:10.400
+notes belong to multiple group of two
+
+01:16:09.920 --> 01:16:13.280
+six
+
+01:16:10.400 --> 01:16:15.280
+and eight whenever you see this one
+
+01:16:13.280 --> 01:16:18.480
+basically this shows the
+
+01:16:15.280 --> 01:16:21.040
+uh nodes uh uh
+
+01:16:18.480 --> 01:16:22.400
+group they these nodes with this address
+
+01:16:21.040 --> 01:16:27.679
+they belong to
+
+01:16:22.400 --> 01:16:27.679
+groups two six and eight
+
+01:16:28.640 --> 01:16:32.640
+and with these adders for example
+
+01:16:30.800 --> 01:16:35.280
+indicates that the node is a member of
+
+01:16:32.640 --> 01:16:38.159
+multicast group 1
+
+01:16:35.280 --> 01:16:42.000
+because we have 0 for other groups so
+
+01:16:38.159 --> 01:16:42.000
+the node doesn't belong to other groups
+
+01:16:42.960 --> 01:16:47.920
+so nodes in level 0 square they
+
+01:16:45.840 --> 01:16:49.920
+frequently disseminate their global
+
+01:16:47.920 --> 01:16:53.440
+member table to all other nodes
+
+01:16:49.920 --> 01:16:56.960
+in their level one score so they
+
+01:16:53.440 --> 01:16:59.120
+they are aware of each other location
+
+01:16:56.960 --> 01:17:00.159
+the most important part of this topic i
+
+01:16:59.120 --> 01:17:02.080
+think this one
+
+01:17:00.159 --> 01:17:04.239
+you if you see this address these
+
+01:17:02.080 --> 01:17:07.199
+numbers you you can understand
+
+01:17:04.239 --> 01:17:08.719
+uh that wherever you see one this means
+
+01:17:07.199 --> 01:17:12.640
+the note
+
+01:17:08.719 --> 01:17:12.640
+belongs to that multicast group
+
+01:17:15.040 --> 01:17:20.320
+uh again in a scalable position based
+
+01:17:18.080 --> 01:17:22.480
+multicast we use greedy forwarding to
+
+01:17:20.320 --> 01:17:25.920
+choose our next top neighbors
+
+01:17:22.480 --> 01:17:29.600
+and we use splitting to send the
+
+01:17:25.920 --> 01:17:32.719
+copies of the same packet into different
+
+01:17:29.600 --> 01:17:35.520
+and basically when we get to the region
+
+01:17:32.719 --> 01:17:37.199
+we split the region and then we send our
+
+01:17:35.520 --> 01:17:40.000
+copies this is to minimize the
+
+01:17:37.199 --> 01:17:41.920
+communication splitting is based on the
+
+01:17:40.000 --> 01:17:43.840
+heuristic that provides a trade-off
+
+01:17:41.920 --> 01:17:45.360
+between total number of nodes forwarding
+
+01:17:43.840 --> 01:17:47.760
+the packet and the
+
+01:17:45.360 --> 01:17:50.000
+optimality of the individual routes
+
+01:17:47.760 --> 01:17:52.560
+towards the destination
+
+01:17:50.000 --> 01:17:54.640
+and once the forwarding nodes find the
+
+01:17:52.560 --> 01:17:55.120
+multicast member in its local member
+
+01:17:54.640 --> 01:17:57.679
+table
+
+01:17:55.120 --> 01:17:58.480
+it forwards package directly to that
+
+01:17:57.679 --> 01:18:01.840
+node
+
+01:17:58.480 --> 01:18:02.320
+so we go one by one we go through the
+
+01:18:01.840 --> 01:18:05.040
+region
+
+01:18:02.320 --> 01:18:05.360
+then we find our multicast member in
+
+01:18:05.040 --> 01:18:08.800
+this
+
+01:18:05.360 --> 01:18:10.640
+local table then we forward it directly
+
+01:18:08.800 --> 01:18:13.120
+we're not going to flood the network
+
+01:18:10.640 --> 01:18:16.719
+we're not going to use a unicast routing
+
+01:18:13.120 --> 01:18:18.400
+we find that a group member first and
+
+01:18:16.719 --> 01:18:21.679
+then
+
+01:18:18.400 --> 01:18:21.679
+we send our information
+
+01:18:22.080 --> 01:18:26.080
+and again if we face the void or hole we
+
+01:18:25.440 --> 01:18:29.199
+use the
+
+01:18:26.080 --> 01:18:31.920
+perimeter routing like before
+
+01:18:29.199 --> 01:18:31.920
+any questions
+
+01:18:34.640 --> 01:18:38.239
+so the last one is the
+
+01:18:38.320 --> 01:18:44.000
+jaw casting based routing
+
+01:18:41.520 --> 01:18:45.520
+and we're going to focus on geographic
+
+01:18:44.000 --> 01:18:48.239
+and energy available
+
+01:18:45.520 --> 01:18:50.320
+and geographic forwarding uh perimeter
+
+01:18:48.239 --> 01:18:52.960
+geocache
+
+01:18:50.320 --> 01:18:55.199
+and joe casting as you can guess from
+
+01:18:52.960 --> 01:18:57.360
+the name a packet is sent to
+
+01:18:55.199 --> 01:18:58.560
+all or some nodes between a specific
+
+01:18:57.360 --> 01:19:00.880
+geographic region
+
+01:18:58.560 --> 01:19:02.960
+so this is our criteria we don't care
+
+01:19:00.880 --> 01:19:04.800
+about other
+
+01:19:02.960 --> 01:19:06.840
+metrics we mentioned before we only care
+
+01:19:04.800 --> 01:19:08.640
+about specific geographic area for
+
+01:19:06.840 --> 01:19:11.280
+example
+
+01:19:08.640 --> 01:19:12.719
+there is an alarm in a city for for
+
+01:19:11.280 --> 01:19:17.440
+flood or bushfire
+
+01:19:12.719 --> 01:19:17.440
+we send an order to that specific region
+
+01:19:18.960 --> 01:19:22.800
+especially when we don't have exact
+
+01:19:20.719 --> 01:19:25.920
+location of individual sensors
+
+01:19:22.800 --> 01:19:27.120
+we select select them based on their
+
+01:19:25.920 --> 01:19:29.120
+geographic region
+
+01:19:27.120 --> 01:19:30.480
+you may not have you want to send me a
+
+01:19:29.120 --> 01:19:34.560
+for example an alarm
+
+01:19:30.480 --> 01:19:36.640
+you may not have my exact uh
+
+01:19:34.560 --> 01:19:38.080
+home location but you know as roughly
+
+01:19:36.640 --> 01:19:40.719
+where i'm living for example
+
+01:19:38.080 --> 01:19:42.800
+let's say in sydney not roughly so you
+
+01:19:40.719 --> 01:19:45.280
+flood the entire network in sydney to
+
+01:19:42.800 --> 01:19:46.239
+send an alarm to everyone in that region
+
+01:19:45.280 --> 01:19:49.120
+so it's basically
+
+01:19:46.239 --> 01:19:50.480
+this is basically for all arms or for
+
+01:19:49.120 --> 01:19:53.760
+when we care about the
+
+01:19:50.480 --> 01:19:53.760
+specific region
+
+01:19:54.320 --> 01:19:58.320
+uh and in terms of browsing method uh
+
+01:19:56.960 --> 01:20:01.679
+propagate the packet
+
+01:19:58.320 --> 01:20:04.400
+we usually to minimize our
+
+01:20:01.679 --> 01:20:05.120
+communication we propagate attack
+
+01:20:04.400 --> 01:20:07.600
+packets
+
+01:20:05.120 --> 01:20:08.960
+near the target region similar to
+
+01:20:07.600 --> 01:20:11.840
+unicast routing
+
+01:20:08.960 --> 01:20:12.320
+but this is basically to make ourselves
+
+01:20:11.840 --> 01:20:14.320
+uh
+
+01:20:12.320 --> 01:20:15.840
+closer to the target region not
+
+01:20:14.320 --> 01:20:18.800
+specifically a single
+
+01:20:15.840 --> 01:20:19.600
+node in unicast so we make our we send
+
+01:20:18.800 --> 01:20:22.080
+our packet
+
+01:20:19.600 --> 01:20:24.480
+closer to the target region and then we
+
+01:20:22.080 --> 01:20:27.440
+distribute the packet between that
+
+01:20:24.480 --> 01:20:28.800
+target region similar to multicast so
+
+01:20:27.440 --> 01:20:31.199
+this is the routing
+
+01:20:28.800 --> 01:20:32.000
+method we want to make ourselves first
+
+01:20:31.199 --> 01:20:34.400
+closer to the
+
+01:20:32.000 --> 01:20:36.639
+specific geographic region once we are
+
+01:20:34.400 --> 01:20:39.040
+closed then we propagate the packets
+
+01:20:36.639 --> 01:20:40.719
+so we're not going to plot the network
+
+01:20:39.040 --> 01:20:44.080
+through entire region
+
+01:20:40.719 --> 01:20:44.639
+and we're not gonna uh use a unicast
+
+01:20:44.080 --> 01:20:47.520
+routing
+
+01:20:44.639 --> 01:20:47.840
+so we focus on the region first when we
+
+01:20:47.520 --> 01:20:51.120
+are
+
+01:20:47.840 --> 01:20:54.480
+close enough then we disseminate our
+
+01:20:51.120 --> 01:20:54.480
+uh information
+
+01:20:55.199 --> 01:21:00.480
+so two uh that was generally
+
+01:20:58.880 --> 01:21:02.320
+generally for geocaching now
+
+01:21:00.480 --> 01:21:05.840
+geographical energy avail
+
+01:21:02.320 --> 01:21:08.159
+routing uh we basically
+
+01:21:05.840 --> 01:21:10.639
+use energy aware and geographically
+
+01:21:08.159 --> 01:21:12.320
+informed neighbor selection
+
+01:21:10.639 --> 01:21:13.679
+to send our packets towards the
+
+01:21:12.320 --> 01:21:17.679
+destination region
+
+01:21:13.679 --> 01:21:20.880
+the key idea is to basically we want to
+
+01:21:17.679 --> 01:21:22.480
+uh consider a certain region rather than
+
+01:21:20.880 --> 01:21:24.239
+sending the interest to the whole
+
+01:21:22.480 --> 01:21:26.000
+network so this is basically this is why
+
+01:21:24.239 --> 01:21:29.280
+we call it geography
+
+01:21:26.000 --> 01:21:30.880
+and by doing this uh this geographical
+
+01:21:29.280 --> 01:21:33.120
+energy available can
+
+01:21:30.880 --> 01:21:35.120
+conserve more energy because we're not
+
+01:21:33.120 --> 01:21:36.880
+going to send our packet to entire
+
+01:21:35.120 --> 01:21:39.040
+region we just send it to a specific
+
+01:21:36.880 --> 01:21:42.159
+region which is within our target
+
+01:21:39.040 --> 01:21:44.800
+the basic concept basically includes
+
+01:21:42.159 --> 01:21:47.199
+two main parts route package towards the
+
+01:21:44.800 --> 01:21:48.400
+targets region through geographical and
+
+01:21:47.199 --> 01:21:51.040
+energy avail
+
+01:21:48.400 --> 01:21:52.800
+neighbor selection and also disseminate
+
+01:21:51.040 --> 01:21:54.080
+and distribute the packet within that
+
+01:21:52.800 --> 01:21:57.600
+region
+
+01:21:54.080 --> 01:22:00.560
+so this is why we call it energy aware
+
+01:21:57.600 --> 01:22:01.360
+because you only focus on a specific
+
+01:22:00.560 --> 01:22:03.120
+region
+
+01:22:01.360 --> 01:22:05.920
+there are some metrics here we need to
+
+01:22:03.120 --> 01:22:09.600
+consider estimated cost
+
+01:22:05.920 --> 01:22:10.320
+and also learned cost each node in this
+
+01:22:09.600 --> 01:22:13.120
+uh
+
+01:22:10.320 --> 01:22:13.679
+geographic and energy are very routing
+
+01:22:13.120 --> 01:22:16.960
+has
+
+01:22:13.679 --> 01:22:18.000
+two types of uh cost of reaching a
+
+01:22:16.960 --> 01:22:21.120
+destination
+
+01:22:18.000 --> 01:22:23.360
+they have a table they have this uh
+
+01:22:21.120 --> 01:22:24.639
+table cost and if you want to select
+
+01:22:23.360 --> 01:22:27.760
+them as enabler for
+
+01:22:24.639 --> 01:22:28.480
+as a forwarder we should select uh see
+
+01:22:27.760 --> 01:22:30.800
+if they
+
+01:22:28.480 --> 01:22:32.719
+the cost of this transmission is uh
+
+01:22:30.800 --> 01:22:34.639
+between our budget or not
+
+01:22:32.719 --> 01:22:36.560
+estimators because there are some
+
+01:22:34.639 --> 01:22:38.239
+equation here if you want to take a look
+
+01:22:36.560 --> 01:22:39.840
+i'm going to explain it at a very high
+
+01:22:38.239 --> 01:22:42.960
+level and the
+
+01:22:39.840 --> 01:22:46.159
+learning costs a learning cost basically
+
+01:22:42.960 --> 01:22:49.120
+is a requirement of estimated cost that
+
+01:22:46.159 --> 01:22:52.000
+allows nodes to avoid the
+
+01:22:49.120 --> 01:22:53.360
+voids and hold if there is any void or
+
+01:22:52.000 --> 01:22:57.600
+hole in our network
+
+01:22:53.360 --> 01:22:59.920
+we're gonna uh revise our estimated cost
+
+01:22:57.600 --> 01:23:01.600
+estimated because it's something we
+
+01:22:59.920 --> 01:23:04.400
+created as we calculated at the
+
+01:23:01.600 --> 01:23:05.920
+beginning but in reality estimated cost
+
+01:23:04.400 --> 01:23:09.280
+would be
+
+01:23:05.920 --> 01:23:12.320
+different because we may see holes and
+
+01:23:09.280 --> 01:23:13.600
+void in our network so we use this new
+
+01:23:12.320 --> 01:23:16.239
+term learn cost
+
+01:23:13.600 --> 01:23:16.880
+if there is no void learned cost is the
+
+01:23:16.239 --> 01:23:20.560
+same as
+
+01:23:16.880 --> 01:23:22.880
+estimated cost so uh
+
+01:23:20.560 --> 01:23:25.040
+but uh most probably there are some
+
+01:23:22.880 --> 01:23:27.280
+unknowns in our network in reality this
+
+01:23:25.040 --> 01:23:27.679
+is why we have learned course and at any
+
+01:23:27.280 --> 01:23:30.719
+time
+
+01:23:27.679 --> 01:23:32.400
+when we see a void in our network we
+
+01:23:30.719 --> 01:23:34.320
+update our estimated cost
+
+01:23:32.400 --> 01:23:35.840
+so next time we know we should avoid
+
+01:23:34.320 --> 01:23:39.360
+that specific note
+
+01:23:35.840 --> 01:23:44.000
+because of uh because we may face a
+
+01:23:39.360 --> 01:23:44.000
+hole so um
+
+01:23:44.639 --> 01:23:49.360
+this geographic and energy available is
+
+01:23:47.120 --> 01:23:51.280
+again based on a greedy forwarding so we
+
+01:23:49.360 --> 01:23:54.320
+want to make a
+
+01:23:51.280 --> 01:23:55.760
+big joint to bring our packets to the
+
+01:23:54.320 --> 01:23:57.520
+destination
+
+01:23:55.760 --> 01:24:00.239
+a package is sent to neighbor with
+
+01:23:57.520 --> 01:24:03.120
+minimum learned costs
+
+01:24:00.239 --> 01:24:03.840
+so uh this is why we call it greedy
+
+01:24:03.120 --> 01:24:05.520
+forwarding
+
+01:24:03.840 --> 01:24:07.120
+we send it to neighbors with minimum
+
+01:24:05.520 --> 01:24:09.920
+learning costs uh
+
+01:24:07.120 --> 01:24:11.920
+forwarder adjusts on learn costs based
+
+01:24:09.920 --> 01:24:15.040
+on the new situation
+
+01:24:11.920 --> 01:24:16.080
+and learn cost will increase if there is
+
+01:24:15.040 --> 01:24:19.520
+a
+
+01:24:16.080 --> 01:24:22.159
+void in our network so
+
+01:24:19.520 --> 01:24:23.600
+other other nodes will find out the
+
+01:24:22.159 --> 01:24:25.440
+updated cost
+
+01:24:23.600 --> 01:24:27.440
+so if they want to make a decision to
+
+01:24:25.440 --> 01:24:28.239
+use that node as a forwarder they know
+
+01:24:27.440 --> 01:24:31.840
+what's the
+
+01:24:28.239 --> 01:24:31.840
+learned cost
+
+01:24:34.239 --> 01:24:38.320
+here is an example i think it's easier
+
+01:24:36.719 --> 01:24:40.159
+to learn this
+
+01:24:38.320 --> 01:24:42.480
+concept for example and also i have a
+
+01:24:40.159 --> 01:24:46.719
+simple animation in my next slide
+
+01:24:42.480 --> 01:24:50.159
+to explain this uh we have source here
+
+01:24:46.719 --> 01:24:54.080
+and we have destination as a t uh or
+
+01:24:50.159 --> 01:24:57.199
+target sen is sending a packet to
+
+01:24:54.080 --> 01:24:59.199
+the target region uh we are in
+
+01:24:57.199 --> 01:25:00.320
+geographic based routing so we care
+
+01:24:59.199 --> 01:25:02.239
+about the region not
+
+01:25:00.320 --> 01:25:04.719
+a single law so this is our target
+
+01:25:02.239 --> 01:25:08.320
+region for example represents our region
+
+01:25:04.719 --> 01:25:10.239
+estimated cost of uh for b
+
+01:25:08.320 --> 01:25:11.600
+we have we have different neighbors here
+
+01:25:10.239 --> 01:25:14.800
+for s we have a
+
+01:25:11.600 --> 01:25:18.960
+and b assume here we have one
+
+01:25:14.800 --> 01:25:22.239
+from s to a so if you want to
+
+01:25:18.960 --> 01:25:25.679
+calculate the cost from s to b
+
+01:25:22.239 --> 01:25:28.639
+what's this one estimated costs are
+
+01:25:25.679 --> 01:25:28.639
+predefined cost
+
+01:25:28.719 --> 01:25:31.920
+so it's basically root square of 1 to
+
+01:25:31.040 --> 01:25:35.040
+the power of
+
+01:25:31.920 --> 01:25:36.400
+2 plus here is also 1 from half to half
+
+01:25:35.040 --> 01:25:39.920
+is 1
+
+01:25:36.400 --> 01:25:40.400
+to plus 1 to the power of 2. so here is
+
+01:25:39.920 --> 01:25:44.400
+the root
+
+01:25:40.400 --> 01:25:47.520
+square of y so uh accelerated costs are
+
+01:25:44.400 --> 01:25:49.760
+five for neighbors b and also i
+
+01:25:47.520 --> 01:25:51.120
+same thing if you want to go here and
+
+01:25:49.760 --> 01:25:54.239
+two for neighbor
+
+01:25:51.120 --> 01:25:57.440
+uh a
+
+01:25:54.239 --> 01:26:01.760
+so here is is true and
+
+01:25:57.440 --> 01:26:01.760
+here is one am i right
+
+01:26:03.120 --> 01:26:06.800
+2 to the power this one if you want to
+
+01:26:04.960 --> 01:26:08.159
+calculate this one is basically root n
+
+01:26:06.800 --> 01:26:11.520
+square of 2 to the power
+
+01:26:08.159 --> 01:26:11.520
+of 2 plus
+
+01:26:12.560 --> 01:26:16.000
+1 to the power of 2 from h to b so it
+
+01:26:15.360 --> 01:26:22.560
+will be root
+
+01:26:16.000 --> 01:26:28.000
+square of 5. am i right is it clear
+
+01:26:22.560 --> 01:26:28.000
+imagine s2a is 2 and a 2b is 1.
+
+01:26:28.560 --> 01:26:32.320
+so here s to b is with the score of y
+
+01:26:31.360 --> 01:26:35.760
+great
+
+01:26:32.320 --> 01:26:38.480
+thanks mushan john so as a sender
+
+01:26:35.760 --> 01:26:39.520
+as a greedy sender you want to send a
+
+01:26:38.480 --> 01:26:41.920
+packet to
+
+01:26:39.520 --> 01:26:44.000
+from s to t which one you select you
+
+01:26:41.920 --> 01:26:47.280
+select you select your packets
+
+01:26:44.000 --> 01:26:50.159
+to go from s to a because here is only
+
+01:26:47.280 --> 01:26:52.880
+two but here is rooted square of five
+
+01:26:50.159 --> 01:26:54.080
+but the problem is if you send it to a
+
+01:26:52.880 --> 01:26:56.800
+there is no
+
+01:26:54.080 --> 01:26:57.440
+uh other notes here so you will find
+
+01:26:56.800 --> 01:27:00.960
+yourself
+
+01:26:57.440 --> 01:27:00.960
+in a hole or void
+
+01:27:02.880 --> 01:27:09.199
+so a forwards package should be because
+
+01:27:06.239 --> 01:27:10.960
+a doesn't have any other route director
+
+01:27:09.199 --> 01:27:12.560
+there is
+
+01:27:10.960 --> 01:27:14.000
+again remember we are in geographic
+
+01:27:12.560 --> 01:27:18.320
+based routing
+
+01:27:14.000 --> 01:27:20.239
+uh we want to make a greedy decision and
+
+01:27:18.320 --> 01:27:22.080
+true a if we can send our packet
+
+01:27:20.239 --> 01:27:25.760
+directly to t see this
+
+01:27:22.080 --> 01:27:29.520
+uh this line is shorter than here
+
+01:27:25.760 --> 01:27:32.239
+so this is why s selects
+
+01:27:29.520 --> 01:27:32.639
+a rather than b but there is no route
+
+01:27:32.239 --> 01:27:35.600
+from
+
+01:27:32.639 --> 01:27:35.920
+a to t so we found ourselves in a hole
+
+01:27:35.600 --> 01:27:38.400
+so
+
+01:27:35.920 --> 01:27:39.520
+a forwards packet should be this sign
+
+01:27:38.400 --> 01:27:44.000
+because this is the
+
+01:27:39.520 --> 01:27:46.239
+b is a's neighbor and
+
+01:27:44.000 --> 01:27:47.600
+the table will be updated so next time
+
+01:27:46.239 --> 01:27:52.159
+we know there is no way
+
+01:27:47.600 --> 01:27:56.400
+direct way from a to t and then we uh
+
+01:27:52.159 --> 01:27:58.880
+learn something we see we
+
+01:27:56.400 --> 01:28:01.040
+update our learned cost because we had
+
+01:27:58.880 --> 01:28:01.600
+void here so we know next time we
+
+01:28:01.040 --> 01:28:04.800
+shouldn't
+
+01:28:01.600 --> 01:28:06.960
+send our packet directly to a so
+
+01:28:04.800 --> 01:28:08.000
+neighbor b is a neighbor of a with the
+
+01:28:06.960 --> 01:28:10.880
+minimum
+
+01:28:08.000 --> 01:28:11.199
+learned cost a has other neighbors here
+
+01:28:10.880 --> 01:28:14.560
+but
+
+01:28:11.199 --> 01:28:17.760
+b is selected because b is closer to a
+
+01:28:14.560 --> 01:28:20.639
+and we have this new
+
+01:28:17.760 --> 01:28:22.239
+uh we calculate this learn cost here
+
+01:28:20.639 --> 01:28:25.280
+basically we assume
+
+01:28:22.239 --> 01:28:27.440
+cost of a to b is one and then the new
+
+01:28:25.280 --> 01:28:28.080
+learned cost will be root score of 5
+
+01:28:27.440 --> 01:28:31.840
+plus
+
+01:28:28.080 --> 01:28:32.560
+1 this is the equation b distance of b
+
+01:28:31.840 --> 01:28:35.679
+to t
+
+01:28:32.560 --> 01:28:38.719
+plus cost of a and b
+
+01:28:35.679 --> 01:28:41.360
+cos of a and b is 1 this
+
+01:28:38.719 --> 01:28:42.480
+b and t is 5 if s wants to send it
+
+01:28:41.360 --> 01:28:45.679
+through b
+
+01:28:42.480 --> 01:28:46.639
+s has to pay rooted score of 5 here so
+
+01:28:45.679 --> 01:28:49.199
+next time
+
+01:28:46.639 --> 01:28:49.760
+we know if we send it to a we will be in
+
+01:28:49.199 --> 01:28:53.120
+hold
+
+01:28:49.760 --> 01:28:56.000
+so we set it directly to b
+
+01:28:53.120 --> 01:28:56.960
+although the cost is more but this is to
+
+01:28:56.000 --> 01:29:01.199
+avoid the
+
+01:28:56.960 --> 01:29:03.840
+weight is it clear
+
+01:29:01.199 --> 01:29:05.040
+so this is our learned cost equation
+
+01:29:03.840 --> 01:29:08.400
+cost of
+
+01:29:05.040 --> 01:29:11.600
+a to t and in previous
+
+01:29:08.400 --> 01:29:13.199
+time we found a very uh as a like an
+
+01:29:11.600 --> 01:29:15.120
+attractive note because a was
+
+01:29:13.199 --> 01:29:17.040
+geographically closer to t
+
+01:29:15.120 --> 01:29:18.400
+but now we learned that there is a void
+
+01:29:17.040 --> 01:29:22.000
+here we gonna
+
+01:29:18.400 --> 01:29:25.120
+update eight node a
+
+01:29:22.000 --> 01:29:28.320
+cost table this is our learn cost a
+
+01:29:25.120 --> 01:29:28.960
+to t we need to send it to b first and
+
+01:29:28.320 --> 01:29:31.520
+then
+
+01:29:28.960 --> 01:29:33.120
+we have this a we should cover this a b
+
+01:29:31.520 --> 01:29:36.320
+cost as well
+
+01:29:33.120 --> 01:29:40.639
+so we know next song a is not really
+
+01:29:36.320 --> 01:29:43.679
+uh inexpensive because we need to
+
+01:29:40.639 --> 01:29:44.400
+send it to b anyway so it's better to
+
+01:29:43.679 --> 01:29:48.880
+send it
+
+01:29:44.400 --> 01:29:48.880
+from s directly to b at the beginning
+
+01:29:51.120 --> 01:29:55.520
+probably the this concept was a bit
+
+01:29:53.199 --> 01:29:58.560
+confusing or complicated i'll have
+
+01:29:55.520 --> 01:30:00.800
+this one here uh to show you more uh
+
+01:29:58.560 --> 01:30:03.840
+what does this mean forwarding uh
+
+01:30:00.800 --> 01:30:05.360
+around hole we have source we have this
+
+01:30:03.840 --> 01:30:09.520
+target region
+
+01:30:05.360 --> 01:30:12.480
+and we have different nodes here as a
+
+01:30:09.520 --> 01:30:13.120
+as a neighbor and also we have a void
+
+01:30:12.480 --> 01:30:15.440
+here
+
+01:30:13.120 --> 01:30:16.400
+but we are not aware of this void here
+
+01:30:15.440 --> 01:30:18.000
+as a source
+
+01:30:16.400 --> 01:30:19.679
+we cannot see here we don't know if
+
+01:30:18.000 --> 01:30:21.920
+there is any route here or not
+
+01:30:19.679 --> 01:30:23.520
+the only thing we know that if we send
+
+01:30:21.920 --> 01:30:28.560
+our packet directly from
+
+01:30:23.520 --> 01:30:28.560
+s to c here this is the shortest path
+
+01:30:29.679 --> 01:30:36.000
+so we calculate the
+
+01:30:32.880 --> 01:30:37.760
+estimated cost of c to t which is two we
+
+01:30:36.000 --> 01:30:40.880
+need to pass through two hops
+
+01:30:37.760 --> 01:30:42.880
+and estimated cost of uh b2 target
+
+01:30:40.880 --> 01:30:45.280
+region is with a square of five
+
+01:30:42.880 --> 01:30:46.400
+it's rooted score of two to the power of
+
+01:30:45.280 --> 01:30:49.440
+two here
+
+01:30:46.400 --> 01:30:50.159
+plus here c2b is one one to the power of
+
+01:30:49.440 --> 01:30:52.960
+two
+
+01:30:50.159 --> 01:30:53.440
+so it's a root score of uh five is it
+
+01:30:52.960 --> 01:30:55.679
+clear
+
+01:30:53.440 --> 01:30:56.639
+same as previous example just wanted to
+
+01:30:55.679 --> 01:31:00.159
+show it in this
+
+01:30:56.639 --> 01:31:03.760
+simple animation so uh
+
+01:31:00.159 --> 01:31:08.320
+which one would be a forwarder node for
+
+01:31:03.760 --> 01:31:10.080
+s s is greedy and based on the
+
+01:31:08.320 --> 01:31:11.600
+minimum cost it's going to select its
+
+01:31:10.080 --> 01:31:15.360
+next forwarder
+
+01:31:11.600 --> 01:31:18.000
+so c or b yes
+
+01:31:15.360 --> 01:31:18.639
+yes face off yes thanks john thanks
+
+01:31:18.000 --> 01:31:20.880
+faisal
+
+01:31:18.639 --> 01:31:22.480
+yeah because it's two the other one is
+
+01:31:20.880 --> 01:31:25.199
+rooted score of five
+
+01:31:22.480 --> 01:31:25.840
+but s is not aware of these uh holes
+
+01:31:25.199 --> 01:31:29.360
+here
+
+01:31:25.840 --> 01:31:32.400
+so see what's gonna happen so s
+
+01:31:29.360 --> 01:31:32.400
+will select uh
+
+01:31:32.800 --> 01:31:38.560
+c as a as a forwarder
+
+01:31:36.239 --> 01:31:40.880
+and then what's happening we gonna lost
+
+01:31:38.560 --> 01:31:44.480
+our packets because there is no
+
+01:31:40.880 --> 01:31:47.840
+root from direct route from c to t
+
+01:31:44.480 --> 01:31:50.960
+so uh c pass the
+
+01:31:47.840 --> 01:31:53.040
+packet to b nexon because
+
+01:31:50.960 --> 01:31:54.800
+there is a route from c to b and then
+
+01:31:53.040 --> 01:31:55.920
+through b we can create a route to
+
+01:31:54.800 --> 01:31:58.880
+target region
+
+01:31:55.920 --> 01:31:59.679
+and c will update this table learn
+
+01:31:58.880 --> 01:32:02.000
+learned cost
+
+01:31:59.679 --> 01:32:03.520
+is the cost of sending the packet to
+
+01:32:02.000 --> 01:32:07.040
+neighbor and also
+
+01:32:03.520 --> 01:32:07.040
+the estimated cost of
+
+01:32:07.199 --> 01:32:10.000
+b and t
+
+01:32:10.560 --> 01:32:14.400
+so next time s will send the packet
+
+01:32:12.960 --> 01:32:16.800
+directly to b
+
+01:32:14.400 --> 01:32:18.880
+because then now based on our learn
+
+01:32:16.800 --> 01:32:20.320
+experience c is more expensive so it's
+
+01:32:18.880 --> 01:32:23.280
+better to send it to b
+
+01:32:20.320 --> 01:32:27.840
+and now we can reach our target region
+
+01:32:23.280 --> 01:32:27.840
+is it clear
+
+01:32:29.080 --> 01:32:37.920
+[Music]
+
+01:32:33.280 --> 01:32:40.239
+okay once packet reaches target region
+
+01:32:37.920 --> 01:32:43.040
+it can be r or t team previous one
+
+01:32:40.239 --> 01:32:45.040
+simple flooding could be useful
+
+01:32:43.040 --> 01:32:46.480
+because now we are in our region for
+
+01:32:45.040 --> 01:32:48.560
+example a rich your group
+
+01:32:46.480 --> 01:32:50.239
+you have a group of four students now i
+
+01:32:48.560 --> 01:32:52.400
+can send a message to all of you
+
+01:32:50.239 --> 01:32:54.239
+this would minimize our communication i
+
+01:32:52.400 --> 01:32:56.560
+didn't flood the entire network
+
+01:32:54.239 --> 01:32:58.560
+due to the cost of flooding again if you
+
+01:32:56.560 --> 01:33:02.560
+want to minimize our cost
+
+01:32:58.560 --> 01:33:05.120
+we can rely on recursive geographic uh
+
+01:33:02.560 --> 01:33:08.320
+forwarding what does this mean
+
+01:33:05.120 --> 01:33:10.320
+see this is our region target region
+
+01:33:08.320 --> 01:33:12.080
+again when we reach our region rather
+
+01:33:10.320 --> 01:33:15.280
+than flooding the entire region
+
+01:33:12.080 --> 01:33:16.400
+we want to make it more energy aware
+
+01:33:15.280 --> 01:33:20.880
+energy efficient
+
+01:33:16.400 --> 01:33:23.920
+we create four copies of the packet
+
+01:33:20.880 --> 01:33:24.560
+so guarantee that's a four smaller sub
+
+01:33:23.920 --> 01:33:27.600
+region
+
+01:33:24.560 --> 01:33:30.159
+uh or here so we create
+
+01:33:27.600 --> 01:33:31.760
+four different uh sub regions we're not
+
+01:33:30.159 --> 01:33:34.080
+going to flood the entire
+
+01:33:31.760 --> 01:33:34.800
+this is our target region we're almost
+
+01:33:34.080 --> 01:33:37.120
+there but
+
+01:33:34.800 --> 01:33:38.639
+still we want to save more energy rather
+
+01:33:37.120 --> 01:33:41.360
+than flooding the entire
+
+01:33:38.639 --> 01:33:42.480
+target region we create four copies of
+
+01:33:41.360 --> 01:33:45.600
+the packets
+
+01:33:42.480 --> 01:33:46.639
+of four smaller sub-regions so in each
+
+01:33:45.600 --> 01:33:49.040
+sub-region
+
+01:33:46.639 --> 01:33:50.080
+we again we repeat the forwarding and
+
+01:33:49.040 --> 01:33:53.199
+splitting process
+
+01:33:50.080 --> 01:33:55.040
+again we create uh four other regions
+
+01:33:53.199 --> 01:33:58.159
+here four other regions here
+
+01:33:55.040 --> 01:33:59.199
+until node is reached exact uh node is
+
+01:33:58.159 --> 01:34:03.280
+reached
+
+01:33:59.199 --> 01:34:06.080
+this is the only one so then we can
+
+01:34:03.280 --> 01:34:07.760
+send our packet only to that specific
+
+01:34:06.080 --> 01:34:09.679
+node
+
+01:34:07.760 --> 01:34:12.080
+so you could have used a unicast at the
+
+01:34:09.679 --> 01:34:13.120
+beginning send a packet or copy a packet
+
+01:34:12.080 --> 01:34:15.600
+to all nodes
+
+01:34:13.120 --> 01:34:16.719
+uh individually but that was not
+
+01:34:15.600 --> 01:34:19.600
+efficient so we
+
+01:34:16.719 --> 01:34:21.520
+use this mechanism to reach our target
+
+01:34:19.600 --> 01:34:22.880
+region first and again within our target
+
+01:34:21.520 --> 01:34:26.400
+region we created
+
+01:34:22.880 --> 01:34:29.360
+more sub regions to go closer and closer
+
+01:34:26.400 --> 01:34:29.360
+to the destination
+
+01:34:30.800 --> 01:34:36.480
+last one uh enjoy casting base routing
+
+01:34:33.920 --> 01:34:39.840
+is uh geographic forwarding perimeter
+
+01:34:36.480 --> 01:34:42.080
+jokers uh again we use grady forwarding
+
+01:34:39.840 --> 01:34:45.280
+to propagate packet towards the
+
+01:34:42.080 --> 01:34:47.360
+target region and destination is as
+
+01:34:45.280 --> 01:34:49.920
+shown to be the center of the region
+
+01:34:47.360 --> 01:34:51.440
+we use perimeter routing when to avoid
+
+01:34:49.920 --> 01:34:54.000
+voids again
+
+01:34:51.440 --> 01:34:54.960
+and meeting the target region flooding
+
+01:34:54.000 --> 01:34:58.159
+can be used
+
+01:34:54.960 --> 01:35:00.560
+similar to previous one
+
+01:34:58.159 --> 01:35:02.719
+but this sessions that there are no
+
+01:35:00.560 --> 01:35:05.040
+obstacles and gaps
+
+01:35:02.719 --> 01:35:06.000
+if and it's assumed that all knows
+
+01:35:05.040 --> 01:35:08.800
+within the region
+
+01:35:06.000 --> 01:35:09.440
+must be able to reach each other without
+
+01:35:08.800 --> 01:35:11.760
+going
+
+01:35:09.440 --> 01:35:12.639
+out of the region i'm going to have a
+
+01:35:11.760 --> 01:35:15.119
+very simple
+
+01:35:12.639 --> 01:35:17.119
+example to show you this so when we get
+
+01:35:15.119 --> 01:35:19.360
+to that target region
+
+01:35:17.119 --> 01:35:21.679
+uh we assume that there is no obstacle
+
+01:35:19.360 --> 01:35:24.960
+and gaps in that region but if there is
+
+01:35:21.679 --> 01:35:24.960
+any gap what should we do
+
+01:35:25.600 --> 01:35:30.800
+so we use the combination of jokers and
+
+01:35:29.520 --> 01:35:34.000
+perimeter routing
+
+01:35:30.800 --> 01:35:35.920
+how it's here once the packet this is
+
+01:35:34.000 --> 01:35:37.360
+our this is our entire network this is
+
+01:35:35.920 --> 01:35:40.000
+our target region
+
+01:35:37.360 --> 01:35:40.560
+once the packet reaches the target
+
+01:35:40.000 --> 01:35:44.080
+region
+
+01:35:40.560 --> 01:35:47.520
+it is flooded to all nodes between this
+
+01:35:44.080 --> 01:35:49.360
+region but in addition
+
+01:35:47.520 --> 01:35:51.600
+region borders let me show you here in
+
+01:35:49.360 --> 01:35:55.040
+this simple animation
+
+01:35:51.600 --> 01:35:56.639
+but here here
+
+01:35:55.040 --> 01:35:59.520
+this is our region you see there is a
+
+01:35:56.639 --> 01:36:01.679
+gap here if we flood the entire
+
+01:35:59.520 --> 01:36:02.960
+network only this part will get the
+
+01:36:01.679 --> 01:36:06.159
+packet and the
+
+01:36:02.960 --> 01:36:09.679
+this part is isolated from the uh
+
+01:36:06.159 --> 01:36:11.600
+this source here so this second part
+
+01:36:09.679 --> 01:36:14.080
+will not receive our packet
+
+01:36:11.600 --> 01:36:16.159
+our solution the solution of geographic
+
+01:36:14.080 --> 01:36:18.800
+forwarding perimeter jokers
+
+01:36:16.159 --> 01:36:19.760
+is to use jaw casting so first we find
+
+01:36:18.800 --> 01:36:23.280
+our target region
+
+01:36:19.760 --> 01:36:23.760
+then and second thing is we use our
+
+01:36:23.280 --> 01:36:26.560
+region
+
+01:36:23.760 --> 01:36:27.280
+border this border nodes and we use this
+
+01:36:26.560 --> 01:36:29.920
+perimeter
+
+01:36:27.280 --> 01:36:30.639
+geocache to travel around this target
+
+01:36:29.920 --> 01:36:33.199
+region
+
+01:36:30.639 --> 01:36:34.800
+to reach the second part of our uh
+
+01:36:33.199 --> 01:36:38.080
+network here
+
+01:36:34.800 --> 01:36:41.360
+let's see how we do this so this
+
+01:36:38.080 --> 01:36:43.840
+is our uh region border
+
+01:36:41.360 --> 01:36:46.000
+north who receive information from this
+
+01:36:43.840 --> 01:36:46.639
+part of the network and we travel all
+
+01:36:46.000 --> 01:36:49.600
+the way
+
+01:36:46.639 --> 01:36:51.199
+around the target region to reach the
+
+01:36:49.600 --> 01:36:52.880
+second part of our network this is
+
+01:36:51.199 --> 01:36:57.600
+basically because we have
+
+01:36:52.880 --> 01:37:00.800
+a gap here and we address this
+
+01:36:57.600 --> 01:37:05.600
+gap by traveling around the graph
+
+01:37:00.800 --> 01:37:08.400
+so we call it uh premature jokers
+
+01:37:05.600 --> 01:37:10.320
+notes outside the region use right hand
+
+01:37:08.400 --> 01:37:12.480
+rule as we explained earlier
+
+01:37:10.320 --> 01:37:14.159
+to forward packet to neighbors in the
+
+01:37:12.480 --> 01:37:17.040
+planar graph
+
+01:37:14.159 --> 01:37:19.199
+and as you can see the packet travels
+
+01:37:17.040 --> 01:37:23.840
+around the
+
+01:37:19.199 --> 01:37:23.840
+graph until they enter the region again
+
+01:37:27.440 --> 01:37:30.159
+any questions
+
+01:37:31.040 --> 01:37:35.280
+was it clear so this is basically when
+
+01:37:33.679 --> 01:37:37.600
+you have a gap here
+
+01:37:35.280 --> 01:37:39.280
+and even if you plot the entire target
+
+01:37:37.600 --> 01:37:40.639
+region you will not be able to reach the
+
+01:37:39.280 --> 01:37:42.880
+other part because there is no
+
+01:37:40.639 --> 01:37:44.159
+route here in that region so we travel
+
+01:37:42.880 --> 01:37:47.199
+around the
+
+01:37:44.159 --> 01:37:48.560
+graph to reach the the other isolated
+
+01:37:47.199 --> 01:37:51.040
+part of the
+
+01:37:48.560 --> 01:37:51.040
+network
+
+01:37:52.960 --> 01:37:57.220
+any questions no
+
+01:37:54.170 --> 01:37:57.220
+[Music]
+
+01:37:58.320 --> 01:38:03.199
+i think that's right so this is a
+
+01:37:59.920 --> 01:38:05.119
+summary of
+
+01:38:03.199 --> 01:38:06.960
+acronyms you don't need to memorize them
+
+01:38:05.119 --> 01:38:08.639
+at all this is just for your information
+
+01:38:06.960 --> 01:38:10.480
+i just wanted to summarize everything
+
+01:38:08.639 --> 01:38:11.280
+here so you can refer to them if you
+
+01:38:10.480 --> 01:38:14.239
+have any
+
+01:38:11.280 --> 01:38:14.960
+if you couldn't remember some of them
+
+01:38:14.239 --> 01:38:16.480
+and
+
+01:38:14.960 --> 01:38:18.480
+we basically discussed about wireless
+
+01:38:16.480 --> 01:38:20.960
+sensor network as specific
+
+01:38:18.480 --> 01:38:22.480
+characteristics uh definitely wireless
+
+01:38:20.960 --> 01:38:26.320
+sensor network require
+
+01:38:22.480 --> 01:38:30.080
+a customized approach an algorithm for
+
+01:38:26.320 --> 01:38:32.239
+routing and there are many
+
+01:38:30.080 --> 01:38:33.119
+different type of routing we just cover
+
+01:38:32.239 --> 01:38:35.840
+some of them
+
+01:38:33.119 --> 01:38:37.760
+routing algorithm but none of them is
+
+01:38:35.840 --> 01:38:38.800
+optimal based on your network based on
+
+01:38:37.760 --> 01:38:41.199
+your application
+
+01:38:38.800 --> 01:38:42.400
+your restrictions the cost everything
+
+01:38:41.199 --> 01:38:44.639
+you can
+
+01:38:42.400 --> 01:38:46.239
+create an optimal solution for your
+
+01:38:44.639 --> 01:38:48.239
+network by combining
+
+01:38:46.239 --> 01:38:50.719
+different uh algorithm or creating
+
+01:38:48.239 --> 01:38:50.719
+information
+
+01:38:53.280 --> 01:38:59.280
+yes we begin over the past uh
+
+01:38:56.800 --> 01:39:01.600
+considering this session also over three
+
+01:38:59.280 --> 01:39:03.440
+sessions we covered russian protocols
+
+01:39:01.600 --> 01:39:06.800
+topology type and
+
+01:39:03.440 --> 01:39:09.600
+mechanism and
+
+01:39:06.800 --> 01:39:11.600
+let me see if i have no that's it so i
+
+01:39:09.600 --> 01:39:13.119
+have a question here from ali
+
+01:39:11.600 --> 01:39:15.360
+about the number of amount of different
+
+01:39:13.119 --> 01:39:18.239
+opportunities yes of course
+
+01:39:15.360 --> 01:39:19.840
+and believe it or not we have psja
+
+01:39:18.239 --> 01:39:23.920
+students in our team
+
+01:39:19.840 --> 01:39:27.360
+the in their phd topic for four years is
+
+01:39:23.920 --> 01:39:31.119
+only about focusing on uh to
+
+01:39:27.360 --> 01:39:33.760
+use to create optimum routing for one
+
+01:39:31.119 --> 01:39:36.719
+specific network it's not an easy job
+
+01:39:33.760 --> 01:39:38.840
+to cause lots of research and
+
+01:39:36.719 --> 01:39:42.639
+investigation
+
+01:39:38.840 --> 01:39:42.639
+and an experience
+
+01:39:42.719 --> 01:39:46.719
+but uh you have your criteria as an as
+
+01:39:45.119 --> 01:39:47.920
+an engineer for example
+
+01:39:46.719 --> 01:39:50.000
+sometimes you're dealing with very
+
+01:39:47.920 --> 01:39:54.000
+sensitive information costs may be
+
+01:39:50.000 --> 01:39:56.239
+secondary so you can use a complicated
+
+01:39:54.000 --> 01:39:57.199
+routing mechanism but sometimes you're
+
+01:39:56.239 --> 01:40:00.480
+gonna
+
+01:39:57.199 --> 01:40:00.480
+monitor uh
+
+01:40:01.600 --> 01:40:05.840
+for example air pollution it wouldn't be
+
+01:40:03.920 --> 01:40:06.880
+very sensitive the information is not
+
+01:40:05.840 --> 01:40:09.920
+really sensitive
+
+01:40:06.880 --> 01:40:11.920
+so you can use less complicated routing
+
+01:40:09.920 --> 01:40:14.719
+on the other side depends on your
+
+01:40:11.920 --> 01:40:16.880
+hardware you want to use for example for
+
+01:40:14.719 --> 01:40:17.920
+different type of sensors then you can
+
+01:40:16.880 --> 01:40:19.679
+develop
+
+01:40:17.920 --> 01:40:21.760
+more fancy algorithms or not depends on
+
+01:40:19.679 --> 01:40:23.600
+your storage your energy capacity
+
+01:40:21.760 --> 01:40:25.280
+so there are many things at hardware
+
+01:40:23.600 --> 01:40:27.040
+software level as a
+
+01:40:25.280 --> 01:40:28.639
+as an engineer you should consider when
+
+01:40:27.040 --> 01:40:31.760
+designing your
+
+01:40:28.639 --> 01:40:34.480
+routing it's a it's a very good topic
+
+01:40:31.760 --> 01:40:37.760
+it's a very hot topic especially for
+
+01:40:34.480 --> 01:40:41.440
+both for engineers and uh researchers
+
+01:40:37.760 --> 01:40:43.199
+at both uh especially in software domain
+
+01:40:41.440 --> 01:40:45.119
+and uh there are many opportunities
+
+01:40:43.199 --> 01:40:46.560
+because as i mentioned we discuss about
+
+01:40:45.119 --> 01:40:48.080
+so many things uh
+
+01:40:46.560 --> 01:40:50.159
+in terms of writing but none of them is
+
+01:40:48.080 --> 01:40:51.840
+optimal so this is a good thing for you
+
+01:40:50.159 --> 01:40:53.920
+as an engineer or researcher
+
+01:40:51.840 --> 01:40:55.760
+there are many opportunities to advance
+
+01:40:53.920 --> 01:40:58.480
+if you want to create a new
+
+01:40:55.760 --> 01:41:00.400
+routing algorithm or protocol because
+
+01:40:58.480 --> 01:41:01.520
+none of them is optimal it's there are
+
+01:41:00.400 --> 01:41:04.880
+always room for
+
+01:41:01.520 --> 01:41:07.440
+improvements so that was mainly i just
+
+01:41:04.880 --> 01:41:07.440
+wanted to
+
+01:41:08.239 --> 01:41:13.119
+share some examples and definitions
+
+01:41:11.280 --> 01:41:16.560
+about
+
+01:41:13.119 --> 01:41:19.199
+routing but this is just the beginning
+
+01:41:16.560 --> 01:41:20.639
+if you are interested i can share some
+
+01:41:19.199 --> 01:41:22.159
+research papers with you
+
+01:41:20.639 --> 01:41:24.159
+if you would like to learn more about
+
+01:41:22.159 --> 01:41:26.719
+writing it's a very
+
+01:41:24.159 --> 01:41:28.159
+interesting topic and it's always on
+
+01:41:26.719 --> 01:41:30.320
+demand and you can imagine with the
+
+01:41:28.159 --> 01:41:33.520
+number of ig devices connected to
+
+01:41:30.320 --> 01:41:34.560
+to the internet the demand for new
+
+01:41:33.520 --> 01:41:36.960
+routing
+
+01:41:34.560 --> 01:41:39.199
+protocols would be even more in coming
+
+01:41:36.960 --> 01:41:47.840
+years
+
+01:41:39.199 --> 01:41:47.840
+any questions
+
+01:41:52.639 --> 01:41:55.760
+of course yes ali that's that's exactly
+
+01:41:55.040 --> 01:41:57.920
+the thing
+
+01:41:55.760 --> 01:42:00.080
+it is of course different in research
+
+01:41:57.920 --> 01:42:02.560
+versus industry and the other thing
+
+01:42:00.080 --> 01:42:04.159
+we're gonna discuss about uh security in
+
+01:42:02.560 --> 01:42:05.920
+wireless sensor network and then you
+
+01:42:04.159 --> 01:42:07.360
+will see how these two topics are
+
+01:42:05.920 --> 01:42:09.920
+interrelated
+
+01:42:07.360 --> 01:42:10.800
+if you create a good route then you can
+
+01:42:09.920 --> 01:42:15.440
+somehow
+
+01:42:10.800 --> 01:42:17.840
+maximize your security and
+
+01:42:15.440 --> 01:42:19.840
+so these are probably security is
+
+01:42:17.840 --> 01:42:22.800
+another thing you need to consider
+
+01:42:19.840 --> 01:42:24.400
+when you design define your uh routing
+
+01:42:22.800 --> 01:42:29.840
+for your network
+
+01:42:24.400 --> 01:42:29.840
+uh yes
+
+01:42:30.960 --> 01:42:34.639
+yeah that makes sense especially i guess
+
+01:42:32.719 --> 01:42:38.159
+in industry where you know
+
+01:42:34.639 --> 01:42:40.080
+every big company when they design such
+
+01:42:38.159 --> 01:42:42.159
+sort of any sort of system security now
+
+01:42:40.080 --> 01:42:44.960
+is always almost the
+
+01:42:42.159 --> 01:42:45.440
+most important architectural concern yes
+
+01:42:44.960 --> 01:42:49.360
+and
+
+01:42:45.440 --> 01:42:50.880
+so like often just uh terms
+
+01:42:49.360 --> 01:42:52.880
+things like you know efficiency and
+
+01:42:50.880 --> 01:42:54.400
+whatnot if it is more secure much more
+
+01:42:52.880 --> 01:42:56.080
+secure compared to some other approach
+
+01:42:54.400 --> 01:42:57.840
+it will be definitely
+
+01:42:56.080 --> 01:42:59.679
+taking forward it depends on the
+
+01:42:57.840 --> 01:43:01.280
+industry i guess you know
+
+01:42:59.679 --> 01:43:02.960
+financial industries or you know
+
+01:43:01.280 --> 01:43:04.080
+government might be more sensitive but
+
+01:43:02.960 --> 01:43:06.880
+it's very interesting and
+
+01:43:04.080 --> 01:43:08.400
+i'm quite enjoying the topics of having
+
+01:43:06.880 --> 01:43:11.440
+different approaches
+
+01:43:08.400 --> 01:43:12.480
+thanks thanks sally um the only thing
+
+01:43:11.440 --> 01:43:14.000
+just came to a moment because you
+
+01:43:12.480 --> 01:43:16.960
+mentioned about industry
+
+01:43:14.000 --> 01:43:18.960
+uh have invited a very special guest for
+
+01:43:16.960 --> 01:43:20.880
+our you probably noticed from our
+
+01:43:18.960 --> 01:43:22.239
+uh outline and i mentioned at the
+
+01:43:20.880 --> 01:43:24.560
+beginning every year i
+
+01:43:22.239 --> 01:43:26.159
+invite someone from industry to share
+
+01:43:24.560 --> 01:43:28.880
+their experience from
+
+01:43:26.159 --> 01:43:29.840
+because this subject is uh especially
+
+01:43:28.880 --> 01:43:31.679
+for your
+
+01:43:29.840 --> 01:43:33.520
+projects this is something based on
+
+01:43:31.679 --> 01:43:34.560
+industry challenges your smartphone
+
+01:43:33.520 --> 01:43:37.840
+project
+
+01:43:34.560 --> 01:43:40.000
+and so the and you are postgraduate
+
+01:43:37.840 --> 01:43:42.159
+students or undergraduate students but
+
+01:43:40.000 --> 01:43:44.080
+uh you will become great engineers in
+
+01:43:42.159 --> 01:43:45.360
+future so as a part of this service
+
+01:43:44.080 --> 01:43:47.199
+every year i invite someone from
+
+01:43:45.360 --> 01:43:47.679
+industry to share their experience with
+
+01:43:47.199 --> 01:43:49.600
+you
+
+01:43:47.679 --> 01:43:52.719
+and it's a great opportunity for you to
+
+01:43:49.600 --> 01:43:54.960
+also to ask questions and
+
+01:43:52.719 --> 01:43:57.119
+see what what are their approaching
+
+01:43:54.960 --> 01:44:00.320
+industry in real applications about
+
+01:43:57.119 --> 01:44:02.320
+wireless central network and iot you can
+
+01:44:00.320 --> 01:44:02.960
+focus on routing security or general
+
+01:44:02.320 --> 01:44:06.320
+things
+
+01:44:02.960 --> 01:44:08.080
+but uh just confirm last week with
+
+01:44:06.320 --> 01:44:09.520
+someone he's a technical lead in the
+
+01:44:08.080 --> 01:44:13.199
+company and
+
+01:44:09.520 --> 01:44:16.159
+he will join us uh for yes uh
+
+01:44:13.199 --> 01:44:17.440
+lecture for guest lecturer in uh 26th of
+
+01:44:16.159 --> 01:44:19.600
+what in april
+
+01:44:17.440 --> 01:44:21.840
+but don't miss that session it's a good
+
+01:44:19.600 --> 01:44:25.360
+opportunity also to get involved with
+
+01:44:21.840 --> 01:44:26.960
+that company if you if you are planning
+
+01:44:25.360 --> 01:44:30.000
+to
+
+01:44:26.960 --> 01:44:31.920
+do something in industry later i think
+
+01:44:30.000 --> 01:44:33.679
+it's good to hear from someone who's
+
+01:44:31.920 --> 01:44:34.800
+been working in this domain for many
+
+01:44:33.679 --> 01:44:37.840
+years
+
+01:44:34.800 --> 01:44:40.080
+and he he was a former uts student by
+
+01:44:37.840 --> 01:44:40.080
+the way
+
+01:44:45.600 --> 01:44:49.840
+any questions we
+
+01:44:50.800 --> 01:44:58.560
+completed writing so next week
+
+01:44:54.320 --> 01:45:02.480
+we will have uh quiz 2 and
+
+01:44:58.560 --> 01:45:04.880
+review this lecture and routing in
+
+01:45:02.480 --> 01:45:06.560
+uh wireless and so network part one two
+
+01:45:04.880 --> 01:45:09.199
+and this one three
+
+01:45:06.560 --> 01:45:10.960
+and uh yes the style will be very
+
+01:45:09.199 --> 01:45:12.480
+similar to today's the quiz
+
+01:45:10.960 --> 01:45:14.960
+mainly multiple choice question and
+
+01:45:12.480 --> 01:45:17.600
+probably true pause uh
+
+01:45:14.960 --> 01:45:18.480
+uh and uh there is no negative mark
+
+01:45:17.600 --> 01:45:22.000
+again
+
+01:45:18.480 --> 01:45:23.679
+and we will do it uh at four
+
+01:45:22.000 --> 01:45:25.360
+or a couple of minutes after four but
+
+01:45:23.679 --> 01:45:28.159
+please uh log in
+
+01:45:25.360 --> 01:45:29.360
+i noticed today some of you were waiting
+
+01:45:28.159 --> 01:45:31.520
+in the meeting room
+
+01:45:29.360 --> 01:45:34.239
+please log into zoom with your uts
+
+01:45:31.520 --> 01:45:37.679
+details so you can
+
+01:45:34.239 --> 01:45:40.719
+join the class directly
+
+01:45:37.679 --> 01:45:40.719
+any questions from me
+
+01:45:42.960 --> 01:45:47.440
+nope thanks
+
+01:45:45.740 --> 01:45:50.000
+[Music]
+
+01:45:47.440 --> 01:45:50.960
+uh we also have consultation today no
+
+01:45:50.000 --> 01:45:52.480
+one uh
+
+01:45:50.960 --> 01:45:54.239
+joined consultation and that's sort of
+
+01:45:52.480 --> 01:45:55.440
+fun because we also have this time after
+
+01:45:54.239 --> 01:45:57.520
+each session to
+
+01:45:55.440 --> 01:45:59.040
+uh have discussion but we have
+
+01:45:57.520 --> 01:46:00.800
+consultation every monday
+
+01:45:59.040 --> 01:46:03.280
+just in case you feel like to chat with
+
+01:46:00.800 --> 01:46:06.480
+me and two to three
+
+01:46:03.280 --> 01:46:07.280
+the lecture time was one hour 30 minutes
+
+01:46:06.480 --> 01:46:10.320
+each year
+
+01:46:07.280 --> 01:46:12.800
+i increased it to two hours this year
+
+01:46:10.320 --> 01:46:13.440
+mainly because to have more time to give
+
+01:46:12.800 --> 01:46:15.360
+you a
+
+01:46:13.440 --> 01:46:16.480
+break in the middle and also to have
+
+01:46:15.360 --> 01:46:19.600
+more q a
+
+01:46:16.480 --> 01:46:21.679
+at the end uh so if you
+
+01:46:19.600 --> 01:46:25.040
+if you have if you need private meetings
+
+01:46:21.679 --> 01:46:26.639
+uh individual meetings let me know
+
+01:46:25.040 --> 01:46:28.159
+thanks john much i appreciate it and
+
+01:46:26.639 --> 01:46:30.000
+thanks for uh thanks so much
+
+01:46:28.159 --> 01:46:31.440
+and thanks for in your engagement today
+
+01:46:30.000 --> 01:46:33.440
+i really enjoy it uh
+
+01:46:31.440 --> 01:46:34.719
+whenever i have uh the question you
+
+01:46:33.440 --> 01:46:37.760
+answered uh
+
+01:46:34.719 --> 01:46:40.560
+very actively that was really good uh
+
+01:46:37.760 --> 01:46:42.159
+let's try to make this online learning
+
+01:46:40.560 --> 01:46:45.199
+more enjoyable
+
+01:46:42.159 --> 01:46:48.400
+this is the only thing we can do
+
+01:46:45.199 --> 01:46:52.320
+thank you have a good day bye thanks
+
+01:46:48.400 --> 01:46:55.360
+thanks boy thanks whale thanks johan
+
+01:46:52.320 --> 01:46:57.760
+they just thanks johan thanks joshua
+
+01:46:55.360 --> 01:46:58.960
+that is our next quiz uh next week uh
+
+01:46:57.760 --> 01:47:02.960
+based on the outline
+
+01:46:58.960 --> 01:47:02.960
+uh double check i think next week
+
+01:47:03.440 --> 01:47:09.840
+thanks mushan bye
+
+01:47:34.840 --> 01:47:37.840
+uh
+
+01:48:02.840 --> 01:48:05.840
+oh
+
+01:48:16.840 --> 01:48:19.840
+so
+
+01:48:45.760 --> 01:48:47.840
+i
+
+01:49:26.840 --> 01:49:29.840
+foreign
+
+01:49:40.840 --> 01:49:43.840
+uh
+
+01:50:22.840 --> 01:50:39.840
+uh town
+
+01:50:50.840 --> 01:50:53.840
+john
+
+01:51:04.840 --> 01:51:07.840
+so
+
+01:51:18.840 --> 01:51:21.840
+uh
+
+01:51:32.840 --> 01:51:35.840
+so
+
+01:51:46.840 --> 01:51:49.840
+um
+
+01:52:14.840 --> 01:52:17.840
+um
+
+01:53:10.840 --> 01:53:13.840
+um
+
+01:53:14.210 --> 01:53:17.350
+[Music]
+
+01:53:24.840 --> 01:53:27.840
+okay
+
+01:53:52.840 --> 01:53:55.840
+uh
+
+01:54:48.679 --> 01:54:51.679
+okay
+
