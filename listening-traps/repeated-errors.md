@@ -45,3 +45,8 @@
 | 潜在易错点：宗教/政治回避话术 | 字面表达是安全名目，真实含义是政治妥协 | `bread, flour, wheat or other grain` 实际指向 gunpowder | 中文母语者容易按字面翻译，忽略说话人为什么故意不用直接词。 | 建三栏：official wording / hidden meaning / reason for wording。 | 1 组核心讽刺 |
 | 潜在易错点：公开立场与真实意向分离 | 人物表面不出现或不支持，私下准备在必要时支持 | Quaker members waited at a tavern and would vote if there should be occasion. | 如果只听公开场面，会误判人数和立场；条件从句又容易弱读。 | 做 stance map：public action / private intention / trigger condition。 | 1 组投票叙述 |
 | 潜在易错点：条件拨款配捐机制 | 法案条款先设条件，再触发政府付款 | private subscriptions reach target → Assembly pays £2,000 | 只抓到金额会误以为政府直接拨款，漏掉“私人先募资、政府后匹配”的制度设计。 | 画触发链：condition met → official order signed → money paid → project executed。 | 1 份医院法案 |
+| 潜在易错点：认识强度阶梯 | 多个看似同义的表达实际代表不同确定程度和沟通姿态 | `certainly / undoubtedly` 对比 `I conceive / I apprehend / I imagine / it appears to me` | 如果只抓实义内容，会漏掉说话者是在断言、保留还是礼貌地提出意见。 | 建立 certainty ladder；复述时必须保留“确定、推测、暂时判断”的差异。 | 1 组核心表达 |
+| 潜在易错点：真实与表象对比 | 同一美德的内在实现与外在表现被刻意分开 | Franklin had little success with the reality of humility but much with its appearance. | `reality / appearance` 可能轻读且相隔较远，漏掉对比后会把自嘲听成自我表扬。 | 记录 inner state / outward behaviour 两栏，并判断作者语气。 | 1 个核心反讽 |
+| 潜在易错点：说服中的金额升级 | 钱币或承诺不是并列清单，而是按心理变化逐步升级 | nothing → coppers → silver → gold and all | 后一个金额层级会覆盖前一个，且真正重点是态度变化而非钱币名称。 | 画 persuasion ladder，按时间顺序复述每次立场改变。 | 1 条完整募捐链 |
+| 潜在易错点：双人物格言回指 | 同一句中两个 `he` 指向两类不同的人 | He who has done you a kindness ... than he whom you have obliged. | 古典语序和重复代词会让两类人物合并，`obliged` 也容易套入现代“有义务”含义。 | 先给人物标 A/B，再把每个代词展开成完整名词短语。 | 1 条格言 |
+| 潜在易错点：字面比喻承载论证 | 先描述具体画面，再用它证明抽象教育观点 | Climbing to the top of a staircase without using the steps. | 如果注意力停在楼梯画面，就会漏掉它在论证“现代语言应先于拉丁语”的功能。 | 做 literal image / target argument 两栏；听完必须说出比喻映射。 | 1 个长比喻 |

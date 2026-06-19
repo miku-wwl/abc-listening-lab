@@ -930,3 +930,85 @@
 - 连读 / 弱读提示：`worked both ways`、`exceeded their requisite sum`、`claimed and received` 可能压缩；重读机制链 `clause / both ways / exceeded / public gift`。
 - 中文意思：这个条款两头起作用：认捐很快超过所需金额，于是他们拿到了公共拨款。
 - 跟读次数建议：14 次
+
+## 2026-06-27
+
+### 1
+
+- 日期：2026-06-27
+- 时间戳：00:01:45–00:02:11
+- 原句：Vicious actions are not hurtful because they are forbidden, but forbidden because they are hurtful.
+- 慢速拆解：Vicious actions are not hurtful / because they are forbidden / but forbidden / because they are hurtful.
+- 连读 / 弱读提示：`because they are` 两次出现且可能压缩；必须重读 `not / but`，否则因果会完全听反。
+- 中文意思：恶行并非因为被禁止才有害，而是因为有害才被禁止。
+- 跟读次数建议：14 次
+
+### 2
+
+- 日期：2026-06-27
+- 时间戳：00:03:20–00:04:02
+- 原句：I made it a rule to forbear all direct contradiction to the sentiments of others and all positive assertion of my own.
+- 慢速拆解：I made it a rule / to forbear all direct contradiction / to the sentiments of others / and all positive assertion / of my own.
+- 连读 / 弱读提示：`made it a`、`contradiction to the`、`assertion of my own` 可能连读；重读两个并列宾语 `contradiction / assertion`。
+- 中文意思：我给自己定下规则，避免直接反驳他人，也避免绝对断言自己的观点。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-27
+- 时间戳：00:05:27–00:05:57
+- 原句：Disguise it, struggle with it, beat it down, stifle it, mortify it as much as one pleases; it is still alive.
+- 慢速拆解：Disguise it / struggle with it / beat it down / stifle it / mortify it / as much as one pleases / it is still alive.
+- 连读 / 弱读提示：前五个动作按五拍读；每个 `it` 都轻读但不能丢，最后重读 `still alive`。
+- 中文意思：无论怎样掩饰、抗争、压制、窒息或折磨骄傲，它仍然活着。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-06-27
+- 时间戳：00:11:29–00:12:09
+- 原句：One man of tolerable abilities may work great changes and accomplish great affairs among mankind if he first forms a good plan.
+- 慢速拆解：One man / of tolerable abilities / may work great changes / and accomplish great affairs / among mankind / if he first forms / a good plan.
+- 连读 / 弱读提示：`of tolerable`、`changes and accomplish`、`if he first` 可能压缩；重读主张和条件 `great changes / if / good plan`。
+- 中文意思：一个能力尚可的人，只要先制定好计划，也可能推动重大改变、成就大事。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-27
+- 时间戳：00:21:49–00:22:17
+- 原句：I rather approved his giving us good sermons composed by others than bad ones of his own manufacture.
+- 慢速拆解：I rather approved / his giving us good sermons / composed by others / than bad ones / of his own manufacture.
+- 连读 / 弱读提示：`approved his giving us`、`composed by others than` 可能连读；重读比较两端 `good / others / bad / his own`。
+- 中文意思：我宁愿他讲别人写的好讲章，也不愿他讲自己写的坏讲章。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-27
+- 时间戳：00:31:52–00:32:17
+- 原句：He that has once done you a kindness will be more ready to do you another than he whom you yourself have obliged.
+- 慢速拆解：He that has once done you a kindness / will be more ready / to do you another / than he / whom you yourself have obliged.
+- 连读 / 弱读提示：两个 `he` 指不同的人；`done you a`、`ready to do you another`、`whom you yourself` 可能压缩。
+- 中文意思：已经帮过你一次的人，往往比受过你帮助的人更愿意再次帮你。
+- 跟读次数建议：14 次
+
+### 7
+
+- 日期：2026-06-27
+- 时间戳：00:35:31–00:35:58
+- 原句：I proposed, as a more equitable way of supporting the charge, the levying of a tax that should be proportioned to the property.
+- 慢速拆解：I proposed / as a more equitable way / of supporting the charge / the levying of a tax / that should be proportioned / to the property.
+- 连读 / 弱读提示：插入语前后要恢复主干 `I proposed the levying of a tax`；重读 `equitable / tax / proportioned / property`。
+- 中文意思：我提出一种更公平的筹资方式：按财产比例征税。
+- 跟读次数建议：14 次
+
+### 8
+
+- 日期：2026-06-27
+- 时间戳：00:42:53–00:43:20
+- 原句：I concluded to give the coppers; another stroke of his oratory made me ashamed of that and determined to give the silver.
+- 慢速拆解：I concluded / to give the coppers / another stroke of his oratory / made me ashamed of that / and determined / to give the silver.
+- 连读 / 弱读提示：`concluded to give`、`stroke of his oratory`、`ashamed of that` 可能压缩；重读升级点 `coppers / ashamed / silver`。
+- 中文意思：我先决定只给铜币，但他的下一波演说让我觉得这样太小气，于是改为给银币。
+- 跟读次数建议：12 次

@@ -150,3 +150,15 @@
 | conditioned clause | 带条件的条款 | Franklin 在医院拨款法案中设计条件条款 | The conditioned clause made the funding politically acceptable. | 中 | 2026-06-26 新收录 |
 | the clause worked both ways | 这个条款对双方都起作用、两头促成目标 | 医院法案既让议员放心，又促使民众捐款 | The clause worked both ways: it lowered opposition and increased donations. | 高 | 2026-06-26 新收录 |
 | make use of cunning | 使用巧妙策略或一点计谋 | Franklin 承认医院拨款方案用了一点策略 | He made use of cunning to turn resistance into support. | 中 | 2026-06-26 新收录 |
+| forbear direct contradiction | 克制、避免直接反驳 | Franklin 为训练谦逊，戒掉在讨论中立刻否定别人 | A good reviewer can challenge an idea while forbearing direct contradiction. | 高 | 2026-06-27 新收录 |
+| a dogmatical expression | 武断、教条式的表达 | Franklin 避免使用 `certainly`、`undoubtedly` 等绝对措辞 | Replace dogmatical expressions with language that leaves room for correction. | 高 | 2026-06-27 新收录 |
+| carry one's point | 使自己的主张获得接受；达到说服目的 | Franklin 自称不擅演说，却常能让提案通过 | She remained calm and eventually carried her point. | 高 | 2026-06-27 新收录 |
+| be proud of one's humility | 因自己的谦逊而骄傲；自嘲式悖论 | Franklin 说即使战胜骄傲，也可能因谦逊而再次骄傲 | Claiming to be the humblest person may mean being proud of one's humility. | 中 | 2026-06-27 新收录 |
+| stick close to one's business | 专心守住本业、紧盯手头工作 | 经济条件有限使 Franklin 暂缓大型道德社团计划 | During the launch, the founders had to stick close to their business. | 高 | 2026-06-27 新收录 |
+| inculcate industry and frugality | 反复教导勤劳与节俭 | Poor Richard's Almanack 用格言向普通读者传播实用观念 | The stories were intended to inculcate industry and frugality. | 中 | 2026-06-27 新收录 |
+| make no scruple of doing something | 对做某事毫无顾忌 | Franklin 批评一些印刷商毫不犹豫地刊登恶意指控 | Some publishers make no scruple of spreading unverified accusations. | 高 | 2026-06-27 新收录 |
+| beat one another into a language | 通过相互竞争或督促把彼此“逼进”一门语言 | Franklin 和朋友用下棋输赢布置意大利语任务 | The study partners joked that they had beaten one another into the language. | 中 | 2026-06-27 新收录 |
+| pave the way for | 为后续变化铺平道路 | Junto 的讨论先改变公众认知，后来促成夜巡改革法案 | Early prototypes paved the way for wider adoption. | 高 | 2026-06-27 新收录 |
+| render accounts with clearness and punctuality | 清楚且准时地报账 | Franklin 把准确及时的账务视为获得新工作的强力信誉 | Contractors must render accounts with clearness and punctuality. | 高 | 2026-06-27 新收录 |
+| be out of one's right senses | 失去正常判断、被冲昏头脑 | 邻人认为 Hopkins 被 Whitefield 的演说打动得不够理智 | He seemed to be out of his right senses when he offered all his savings. | 中 | 2026-06-27 新收录 |
+| the terms on which people stand | 人与人相处的关系和条件 | Franklin 用一件往事说明自己与 Whitefield 的相处方式 | The exchange showed the friendly terms on which they stood. | 高 | 2026-06-27 新收录 |
