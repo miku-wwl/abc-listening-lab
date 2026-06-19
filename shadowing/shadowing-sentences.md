@@ -161,3 +161,85 @@
 - 连读 / 弱读提示：`to feel`、`and everyone`、`which I think` 可能弱读连读；重读结果链 `safe`、`buy in`、`understand`、`belonging`。
 - 中文意思：这让各种文化都能在环境中感到安全，让每个人认同并理解彼此的文化，从而增强团队归属感。
 - 跟读次数建议：12 次
+
+## 2026-06-18
+
+### 1
+
+- 日期：2026-06-18
+- 时间戳：00:04:26–00:05:03
+- 原句：Agent ID is not a human identity. Each agent has an identity, it can be audited, there are permissions, it can do conditional access, and you get a complete log.
+- 慢速拆解：Agent ID is not a human identity / each agent has an identity / it can be audited / there are permissions / it can do conditional access / and you get a complete log.
+- 连读 / 弱读提示：根据常见规律，`it can be`、`there are`、`and you get` 会弱读；重读四个能力词 `audited / permissions / conditional access / complete log`。
+- 中文意思：Agent ID 不是人的身份，但每个 agent 都有可审计、可授权、可施加条件访问并记录日志的身份。
+- 跟读次数建议：10 次
+
+### 2
+
+- 日期：2026-06-18
+- 时间戳：00:12:49–00:13:28
+- 原句：The problem is all the simple jobs are now being done by AI. So what are interns doing? How do interns become senior?
+- 慢速拆解：The problem is / all the simple jobs / are now being done by AI / so what are interns doing / how do interns become senior?
+- 连读 / 弱读提示：`are now being` 和 `what are` 可能明显压缩；连续问句要逐步提高语调并突出 `interns`、`senior`。
+- 中文意思：问题是简单工作正在被 AI 完成，那么实习生做什么，又如何成长为高级工程师？
+- 跟读次数建议：8 次
+
+### 3
+
+- 日期：2026-06-18
+- 时间戳：00:17:38–00:18:34
+- 原句：We pick an issue, ask Copilot to write it, push the branch, open a pull request, and CI validates the basics before the team reviews the edge cases.
+- 慢速拆解：We pick an issue / ask Copilot to write it / push the branch / open a pull request / CI validates the basics / before the team reviews the edge cases.
+- 连读 / 弱读提示：按开发流水线逐项重读动词；`pull request`、`validates the`、`reviews the` 注意词边界。
+- 中文意思：我们选择 issue，让 Copilot 编写，推送分支、创建 PR，由 CI 检查基础项，再由团队审查边界情况。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-06-18
+- 时间戳：00:56:47–00:58:22
+- 原句：The three types of workloads are inference and serving, training and fine-tuning, and agentic orchestration.
+- 慢速拆解：The three types of workloads are / inference and serving / training and fine-tuning / and agentic orchestration.
+- 连读 / 弱读提示：三个并列项保持相同节奏；`and` 弱读，重读每项的核心名词。
+- 中文意思：三类工作负载分别是推理与服务、训练与微调，以及 agentic orchestration。
+- 跟读次数建议：10 次
+
+### 5
+
+- 日期：2026-06-18
+- 时间戳：01:06:44–01:07:22
+- 原句：You don't need to run those components on your GPU nodes; you want to milk every cycle out of them to run your AI workload.
+- 慢速拆解：You don't need to run those components / on your GPU nodes / you want to milk every cycle out of them / to run your AI workload.
+- 连读 / 弱读提示：`need to`、`want to`、`out of them` 可能压缩；重读 `GPU nodes`、`every cycle`、`AI workload`。
+- 中文意思：系统组件不必运行在 GPU 节点上，你应尽量把每个计算周期都留给 AI 工作负载。
+- 跟读次数建议：10 次
+
+### 6
+
+- 日期：2026-06-18
+- 时间戳：01:17:50–01:18:30
+- 原句：Being able to say why agents did what they did and have that traceability is a really critical thing.
+- 慢速拆解：Being able to say / why agents did what they did / and have that traceability / is a really critical thing.
+- 连读 / 弱读提示：`did what they did` 中功能词会很轻；句尾 `traceability` 和 `critical` 要清晰重读。
+- 中文意思：能够说明 agent 为何做出某种行为并保留可追踪性，是非常关键的。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-18
+- 时间戳：01:26:35–01:27:16
+- 原句：We have subsecond start time, scale to zero, and consumption-based billing, which means you only pay for what you use when you use it.
+- 慢速拆解：We have subsecond start time / scale to zero / and consumption-based billing / which means / you only pay for what you use / when you use it.
+- 连读 / 弱读提示：前三项采用平行节奏；`which means`、`for what you use` 可能连读，重读 `only pay`。
+- 中文意思：它支持亚秒启动、缩容到零和按量计费，也就是只为实际使用付费。
+- 跟读次数建议：10 次
+
+### 8
+
+- 日期：2026-06-18
+- 时间戳：01:39:24–01:40:59
+- 原句：The optimization agent will generate five to six candidates, run them through the evaluation suite, and come back with a recommendation.
+- 慢速拆解：The optimization agent / will generate five to six candidates / run them through the evaluation suite / and come back with a recommendation.
+- 连读 / 弱读提示：`five to six` 中 `to` 弱读；三个动作 `generate / run / come back` 保持清晰节拍。
+- 中文意思：优化 agent 会生成五到六个候选方案，通过评估套件测试，再返回推荐结果。
+- 跟读次数建议：10 次

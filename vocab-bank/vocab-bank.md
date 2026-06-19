@@ -33,3 +33,15 @@
 | put someone out of their comfort zone | 让某人走出舒适区 | 学习并表演 Cook Islands 文化舞蹈 | Performing at island night put him out of his comfort zone. | 中 | 2026-06-17 新收录 |
 | buy in | 认同并投入某个理念或做法 | 团队成员理解并接纳彼此文化 | The whole squad bought in to the club's inclusive culture. | 高 | 2026-06-17 新收录 |
 | drive belonging | 促进、增强归属感 | 多元文化实践加强团队联系 | Shared rituals can drive belonging within a team. | 中 | 2026-06-17 新收录 |
+| prescriptive guidance | 规定性/可直接执行的指导，而不只是原则说明 | 讲者介绍在 Kubernetes 上运行 AI workload 的实践清单 | The platform provides prescriptive guidance for deploying AI workloads. | 高 | 2026-06-18 新收录 |
+| move up a level | 提升到更高抽象层次 | AI 时代编程并未消失，而是从手写代码转向更高层次的设计和验证 | The craft of programming did not die; it moved up a level. | 高 | 2026-06-18 新收录 |
+| secure by default | 默认即安全；无需额外配置才获得基本保护 | AKS、银行模型服务和自助部署的安全设计 | The deployment workflow is secure by default. | 高 | 2026-06-18 新收录 |
+| milk every cycle out of | 尽可能榨取每一个计算周期，提高硬件利用率 | 避免系统 pod 占用昂贵 GPU 节点 | The team wants to milk every cycle out of its GPU nodes. | 中 | 2026-06-18 新收录 |
+| progressive rollout | 渐进式发布，分批扩大变更范围 | Fleet 跨多个 Arc-enabled clusters 推送更新 | Progressive rollouts reduce the blast radius of a bad release. | 高 | 2026-06-18 新收录 |
+| consistent policy enforcement | 一致的策略实施与强制执行 | 跨云、边缘和本地集群应用同一组策略 | The fleet provides consistent policy enforcement across environments. | 高 | 2026-06-18 新收录 |
+| on-behalf-of flow | 代表用户访问下游资源的身份授权流程 | Work IQ 按用户或 agent 的 Entra ID 权限访问 Microsoft 365 数据 | The on-behalf-of flow keeps data access scoped to the user's permissions. | 高 | 2026-06-18 新收录 |
+| scale to zero | 无请求时缩容到零实例 | Foundry hosted agents 降低空闲计算成本 | The hosted agent can scale to zero when it is idle. | 高 | 2026-06-18 新收录 |
+| consumption-based billing | 按实际使用量计费 | Hosted agent 只在运行时产生计算费用 | Consumption-based billing suits workloads with irregular demand. | 高 | 2026-06-18 新收录 |
+| out of the box | 开箱即用；无需自行搭建即可获得 | Agent Framework 自动提供标准 trace 和观测能力 | The framework provides tracing out of the box. | 高 | 2026-06-18 新收录 |
+| go off the rails | 偏离预期、失控或产生严重错误 | SRE 通过 trace 定位 agent 在哪里开始失败 | Traces show where the agent went off the rails. | 中 | 2026-06-18 新收录 |
+| get your hands dirty | 亲自上手实践 | 文档尚不完善时，讲者建议尽早动手试用 | It is worth getting your hands dirty with the new platform. | 中 | 2026-06-18 新收录 |

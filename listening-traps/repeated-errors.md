@@ -10,3 +10,6 @@
 | 潜在易错点：太平洋岛国文化词 | `Cook Islands`、`Fijian`、`Samoan`、`Tongan`、`Māori`、`Meitaki` 音形密集出现 | It would either be Fijian, Samoan, Tongan, or Māori. | 多个相近文化类别连续出现，且部分词不遵循熟悉的英语拼读预期。 | 先看地图和词表，再做封闭式辨音；不要在第一次听时同时查背景。 | 8 |
 | 潜在易错点：自然口语重启 | 重复主语、填充词、自我修正和未完成句 | Your family and probably your partners, they ride the highs and lows as much as you. | 学习者期待完整书面句，遇到重启时容易误以为漏听了内容。 | Shadowing 时保留一次自然重启；复述时再整理成完整句。 | 7 |
 | 潜在易错点：第二语言英语 | 35:30 后多位 Fijian 说话者的时态、复数和句法不稳定 | My whole family is back home. It's just me here alone. | 如果过度依赖标准语法预测，会忽略清楚的关键词和情感主线。 | 第一遍只抓人物、地点、行动和情绪；第二遍再处理语法细节。 | 1 个长段落 |
+| 潜在易错点：技术缩写串 | CLI、MCP、SDK、CI/CD、AKS、GPU、ACR、OBO、OTel、SRE 连续出现 | Submit the OpenTelemetry traces to Log Analytics and connect that to Foundry. | 缩写缺少稳定音形映射，连续出现时容易全部退化成模糊音节。 | 建立“缩写—全称—类别—作用”卡片；一次只练 5 个。 | 约 25 |
+| 潜在易错点：屏幕指代词 | 演示中反复出现 `this one`、`here`、`behind the scenes`、`on the other side` | What I've done here is create multiple work orders, and behind the scenes the SQL database gets the write-back. | 没有屏幕画面时，代词缺少指向对象，听者会误以为漏词。 | 每段先写当前画面主题；无法确认的指代标为 `[visual context required]`。 | 1 个超长演示材料 |
+| 潜在易错点：产品关系混淆 | 平台、框架、服务、模型、数据源和观测后端名称混在同一段 | Agent → OpenTelemetry → Log Analytics → Foundry. | 即使每个词都听到，也可能不知道谁调用谁、数据往哪里流。 | 强制画箭头图，只保留“组件—动作—下游组件”。 | 约 12 |
