@@ -60,3 +60,17 @@
 | be contingent on | 以……为条件；取决于…… | 伊朗获得协议经济利益的条件 | The benefits are contingent on compliance with the deal. | 高 | 2026-06-19 新收录 |
 | be at stake | 处于风险中；可能失去 | 以色列若破坏协议，美方军事支持可能受影响 | Military support could be at stake. | 高 | 2026-06-19 新收录 |
 | the clock is ticking | 时间正在减少，必须尽快行动 | 美国审查欧洲驻军，对 NATO 盟友形成期限压力 | The review means the clock is ticking for the alliance. | 高 | 2026-06-19 新收录 |
+| lull someone into a false sense of security | 使某人产生虚假的安全感 | Tesla 长期宣传可能让驾驶者对辅助驾驶能力过度放心 | A polished interface can lull users into a false sense of security. | 高 | 2026-06-20 新收录 |
+| plow headlong into | 径直、猛烈地撞向某物 | 摄像头系统未识别明显障碍的风险 | The vehicle plowed headlong into a stationary obstacle. | 高 | 2026-06-20 新收录 |
+| hold someone accountable | 追究某人的责任 | 事故受害者家属通过诉讼要求制造商承担责任 | The family went to court to hold the company accountable. | 高 | 2026-06-20 新收录 |
+| bear responsibility | 承担责任 | 陪审团判断驾驶者和技术提供方是否应分担责任 | A supplier may bear responsibility when its safety claims are misleading. | 高 | 2026-06-20 新收录 |
+| live up to expectations | 达到预期、名副其实 | 律师主张自动驾驶技术未达到营销所建立的预期 | The product failed to live up to expectations. | 高 | 2026-06-20 新收录 |
+| set the stage | 为后续事件创造条件、铺垫 | Elon Musk 的宣传被指为消费者形成过高预期 | Early promises set the stage for later disappointment. | 高 | 2026-06-20 新收录 |
+| shine a light on | 揭示、让问题受到关注 | 幸存者希望公开案件，揭示自动驾驶风险 | The investigation shone a light on gaps in the approval process. | 高 | 2026-06-20 新收录 |
+| all in the name of | 以……为名或为了……目的 | 研究者为了科学研究主动承受昆虫叮咬 | He endured the sting all in the name of research. | 中 | 2026-06-20 新收录 |
+| method to the madness | 看似疯狂的做法背后有合理方法 | 毒液研究方式危险、反常，但有明确科研目的 | There is method to the madness behind the unusual experiment. | 高 | 2026-06-20 新收录 |
+| a treasure trove of | 大量有价值事物的来源、宝库 | 毒液毒素可为新药研发提供丰富候选分子 | Venom is a treasure trove of potential drug compounds. | 高 | 2026-06-20 新收录 |
+| roll up one's sleeves | 卷起袖子；动手投入艰难工作 | 研究人员亲自接受叮咬以观察毒液反应 | The team rolled up its sleeves and began testing the samples. | 中 | 2026-06-20 新收录 |
+| take the edge off | 缓解最强烈的疼痛、压力或不适 | 止痛药未能明显减轻 Irukandji syndrome 的剧痛 | The medication took the edge off the pain but did not remove it. | 高 | 2026-06-20 新收录 |
+| at its worst when ... is at its best | 当某条件最理想时，另一风险反而最严重 | 天气最适合下水时，Irukandji 风险可能最高 | The pest is at its worst when the weather is at its best. | 中 | 2026-06-20 新收录 |
+| work around the clock | 昼夜不停地工作 | 深海科研昂贵，团队连续作业以充分利用航次 | Researchers worked around the clock during the expedition. | 高 | 2026-06-20 新收录 |

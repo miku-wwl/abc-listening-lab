@@ -17,3 +17,7 @@
 | 潜在易错点：规则型数字 | 同一政策或产品同时出现余额、预订截止日和履行截止日 | $93 million; book by June 30; travel by late May 2027 | 数字都正确也可能绑定到错误对象，导致规则理解反转。 | 固定用“金额 / 操作截止 / 实际履行”三栏记录。 | 3 组 |
 | 潜在易错点：体育比分压缩串 | 多场比赛的比分、球员名、排名和技术统计连续播报 | 2–0, 6–0, 4–1, 35 disposals and tennis set scores | 体育播报几乎没有停顿，后一组数字会覆盖前一组。 | 第一遍每场只记队伍、结果、后果；第二遍再补球员数据。 | 1 个密集段 |
 | 潜在易错点：反讽语气 | 字面像赞扬，实际表达批评或不满 | If Virgin is expecting a slow clap and a cheer of hooray, they are unlikely to get it. | 若只处理词义而忽略语境和语气，容易把立场听反。 | 听夸张搭配和后续否定；改写成一句直接立场再确认。 | 1 |
+| 潜在易错点：产品标签限定词 | 产品名主体相同，但 `supervised`、`assistance`、`beta` 等小词决定能力边界和责任 | Full self-driving supervised; it is just a driver-assistance feature. | 耳朵容易重读品牌词而忽略轻读限定词，结果把辅助功能误解成完全自动化。 | 每次听产品名都强制补一栏“限定词”；对比营销名称、技术定义和法律定义。 | 1 个核心报道 |
+| 潜在易错点：科学/生物专名多拼法 | 同一个名称被 ASR 写成多个普通词或近音拼法 | `Irukandji → Irakani / Irkangi / Uricangi`；`Carukia barnesi → curricula barnsai` | 缺少稳定音形映射时，会把同一实体误判成多个不同物种。 | 先用主题和上下文合并实体，再建立“正确拼写—ASR 变体—类别”卡片。 | 10+ 个专名 |
+| 潜在易错点：医学机制方向词 | `activate / block / inhibit / derive from` 决定因果方向 | If you activate the gene, you cause pain; if you block it, you might inhibit pain. | 这些动词短且常处于弱读功能词之间，漏掉一个会把治疗机制听反。 | 画正负箭头并口头复述：activate → pain；block → less pain。 | 3 条机制链 |
+| 潜在易错点：科学证据强度 | 报道使用 `may`、`believe`、`not certain`、`little data` 限定结论 | Scientists are not certain how many people have been stung or killed. | 若只抓实义名词，容易把推测、相关性或资料不足听成确定事实。 | 听科学报道时单独记录 modal/hedging words，并在中文复述中保留“不确定”。 | 1 个长报道 + 1 部纪录片 |

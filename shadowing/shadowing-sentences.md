@@ -325,3 +325,85 @@
 - 连读 / 弱读提示：`all of the`、`that Iran is`、`on it` 可能连读；条件核心 `contingent on` 应整体重读。
 - 中文意思：伊朗获得的所有经济利益，都以其遵守协议为条件。
 - 跟读次数建议：10 次
+
+## 2026-06-20
+
+### 1
+
+- 日期：2026-06-20
+- 时间戳：00:03:42–00:04:23
+- 原句：Year after year for the last decade, Elon Musk has hyped up Tesla's capabilities, telling customers their cars are right on the cusp of being fully autonomous.
+- 慢速拆解：Year after year / for the last decade / Elon Musk has hyped up Tesla's capabilities / telling customers / their cars are right on the cusp / of being fully autonomous.
+- 连读 / 弱读提示：根据常见规律，`for the`、`has hyped up`、`right on the cusp of` 会形成连续意群；重读 `year after year / hyped up / cusp / fully autonomous`。
+- 中文意思：过去十年里，Elon Musk 年复一年地宣传 Tesla 的能力，告诉消费者车辆即将实现完全自动驾驶。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-20
+- 时间戳：00:18:35–00:19:35
+- 原句：You have Tesla in the showroom talking about a full self-driving car, and then you put that up against Tesla in the courtroom, where it is described as just a driver-assistance feature.
+- 慢速拆解：You have Tesla in the showroom / talking about a full self-driving car / and then you put that up against / Tesla in the courtroom / where it is described / as just a driver-assistance feature.
+- 连读 / 弱读提示：重读对比 `showroom / courtroom` 和 `full self-driving / driver-assistance`；`put that up against` 应整块练习。
+- 中文意思：展厅里的 Tesla 宣传完全自动驾驶，而到了法庭上，它又被描述成仅仅是驾驶辅助功能。
+- 跟读次数建议：12 次
+
+### 3
+
+- 日期：2026-06-20
+- 时间戳：00:27:06–00:27:46
+- 原句：They deliberately seek out spiders, scorpions and centipedes and then invite them to attack, all in the name of research.
+- 慢速拆解：They deliberately seek out / spiders, scorpions and centipedes / and then invite them to attack / all in the name of research.
+- 连读 / 弱读提示：三个动物名保持平行节奏；`and then`、`them to`、`in the name of` 可能弱读连读。
+- 中文意思：他们主动寻找蜘蛛、蝎子和蜈蚣，再让这些动物攻击自己，一切都是为了研究。
+- 跟读次数建议：10 次
+
+### 4
+
+- 日期：2026-06-20
+- 时间戳：00:35:51–00:36:31
+- 原句：If you can find new chemicals that cause pain, these are going to tell you new things about your pain pathways, and we can use that information to develop painkillers.
+- 慢速拆解：If you can find new chemicals / that cause pain / these are going to tell you new things / about your pain pathways / and we can use that information / to develop painkillers.
+- 连读 / 弱读提示：`going to`、`about your`、`and we can`、`to develop` 可能压缩；重读因果节点 `chemicals / pain pathways / information / painkillers`。
+- 中文意思：如果能找到新的致痛化学物，就能了解新的疼痛通路，再利用这些信息开发止痛药。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-20
+- 时间戳：00:37:21–00:37:37
+- 原句：When you activate the pain gene, you cause pain; the flip side is that if you block it, we might be able to inhibit pain.
+- 慢速拆解：When you activate the pain gene / you cause pain / the flip side is / that if you block it / we might be able to inhibit pain.
+- 连读 / 弱读提示：重读方向相反的动词 `activate / cause / block / inhibit`；`might be able to` 中功能词会较轻。
+- 中文意思：激活疼痛基因会造成疼痛；反过来，如果阻断它，就可能抑制疼痛。
+- 跟读次数建议：10 次
+
+### 6
+
+- 日期：2026-06-20
+- 时间戳：00:42:39–00:43:00
+- 原句：It's tiny, almost invisible, one of the most dangerous creatures on Earth: a jellyfish called Irukandji that spends the summer months in the warm tropical waters up north.
+- 慢速拆解：It's tiny, almost invisible / one of the most dangerous creatures on Earth / a jellyfish called Irukandji / that spends the summer months / in the warm tropical waters up north.
+- 连读 / 弱读提示：先固定专名 `Irukandji`；重读反差 `tiny / invisible / most dangerous`，`that spends the` 可能压缩。
+- 中文意思：它极小、几乎看不见，却是地球上最危险的生物之一——一种夏季生活在澳洲北部温暖热带水域的 Irukandji 水母。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-20
+- 时间戳：00:52:26–00:52:36
+- 原句：This pest is at its worst when the weather is at its best: clear skies, smooth seas and a light northerly breeze.
+- 慢速拆解：This pest is at its worst / when the weather is at its best / clear skies / smooth seas / and a light northerly breeze.
+- 连读 / 弱读提示：突出对称反差 `worst / best`；后三项保持相同枚举节奏，`and a` 可能弱读。
+- 中文意思：这种危险生物在天气最好的时候反而最猖獗：晴空、平静海面和轻柔北风。
+- 跟读次数建议：10 次
+
+### 8
+
+- 日期：2026-06-20
+- 时间戳：01:13:22–01:13:54
+- 原句：These jellies can't dive, but they can sail and cover thousands of kilometres this way, carrying an armada of stinging appendages which can be extended up to ten metres.
+- 慢速拆解：These jellies can't dive / but they can sail / and cover thousands of kilometres this way / carrying an armada of stinging appendages / which can be extended / up to ten metres.
+- 连读 / 弱读提示：重读对比 `can't dive / can sail`；长名词组按 `armada / stinging appendages / ten metres` 三拍处理。
+- 中文意思：这些水母不能下潜，却能借风航行数千公里，并携带一整套最长可伸至十米的刺细胞附肢。
+- 跟读次数建议：12 次
