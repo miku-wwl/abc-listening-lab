@@ -232,3 +232,15 @@
 | cut corners | 为省事而降低标准、走捷径 | 他从父亲那里学到做正确的事并且不要走捷径 | Good fighters cannot cut corners in training. | 高 | 2026-07-04 新收录 |
 | switch off | 暂时停止思考压力源；放空 | 他用游戏和阅读从赛前压力中抽离 | Reading helps him switch off before a fight. | 高 | 2026-07-04 新收录 |
 | hang up the boots | 退役；结束运动员生涯 | 35 岁是他计划退役的软性上限 | He may hang up the boots at 35. | 高 | 2026-07-04 新收录 |
+| workaround | 在正式修复前绕过问题的临时办法 | 教师确认使用硬件的学生，以便提供一个临时设置方案 | We used a workaround until the firmware issue was fixed. | 高 | 2026-07-05 新收录 |
+| start from scratch | 从零开始、全部重做 | 学生删除原配置并重新完成实验步骤 | After several failed attempts, she decided to start from scratch. | 高 | 2026-07-05 新收录 |
+| knock something out | 快速完成或解决某项工作 | 学生希望尽快把硬件设置做完，让组员继续开发 | Let's knock the setup out before the rest of the team logs in. | 高 | 2026-07-05 新收录 |
+| hit and miss | 时好时坏、不稳定、结果靠运气 | VirtualBox Guest Additions 在不同电脑上的安装结果不稳定 | USB passthrough can be hit and miss on older laptops. | 高 | 2026-07-05 新收录 |
+| absolute worst case | 最坏情况下；作为最后兜底 | 如果无法排除问题，教师还可以联系上学期的实验导师 | In the absolute worst case, we can restore the previous image. | 中 | 2026-07-05 新收录 |
+| funnel data into | 把数据汇聚或导入某个系统 | 将 SensorTag 数据导入 Node-RED flow 和 dashboard | The gateway funnels sensor data into the analytics service. | 高 | 2026-07-05 新收录 |
+| palm something off on someone | 把任务或责任推给别人；转交出去，常带非正式语气 | 硬件打通后，学生可以把后续 dashboard 工作交给组员 | Once the API is stable, he can palm the UI work off on the frontend team. | 中 | 2026-07-05 新收录 |
+| a ballpark figure | 粗略估算值、大致数字 | 讨论 LattePanda 等硬件的大致价格 | Can you give me a ballpark figure for the hardware cost? | 高 | 2026-07-05 新收录 |
+| get something up and running | 让系统成功启动并正常工作 | 学生终于让传感器、服务和数据包运行起来 | We got the Node-RED dashboard up and running. | 高 | 2026-07-05 新收录 |
+| be on the right track | 方向正确、正在接近解决方案 | 调整 cloud config 后数据更新速度有所改善 | The shorter refresh delay suggests we are on the right track. | 高 | 2026-07-05 新收录 |
+| weigh up the pros and cons | 权衡利弊 | 讨论太阳能、纽扣电池、尺寸和成本之间的取舍 | The team must weigh up the pros and cons of solar power. | 高 | 2026-07-05 新收录 |
+| make something useful out of | 利用现有材料创造实际价值 | 教师要求组员不要只美化 dashboard，而要做分析、预测或告警 | Try to make something useful out of the sensor data. | 高 | 2026-07-05 新收录 |

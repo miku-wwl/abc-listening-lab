@@ -1095,6 +1095,17 @@
 - 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
 - 跟读次数建议：14 次
 
+### 8
+
+- 日期：2026-06-28
+- 时间戳：00:44:52–00:45:09
+- 原句：Though my scheme was not wholly without religion, there was in it no mark of any of the distinguishing tenets of any particular sect.
+- 慢速拆解：Though my scheme / was not wholly without religion / there was in it / no mark / of any of the distinguishing tenets / of any particular sect.
+- 连读 / 弱读提示：`not wholly without` 是双重限定，不能只听成 `without religion`；区分 `tenets` 与 `tenants`。
+- 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
+- 跟读次数建议：14 次
+
+
 ## 2026-06-29
 
 ### 1
@@ -1587,12 +1598,85 @@
 - 中文意思：35 岁是软性退役线，但会根据身体决定；如果身体、脑部和家庭都好，我会继续。
 - 跟读次数建议：18 次
 
+## 2026-07-05
+
+### 1
+
+- 日期：2026-07-05
+- 时间戳：00:01:43–00:01:50
+- 原句：If you add me in Teams and you've got a high-level diagram, I can go through that just to make sure that your project's on track.
+- 慢速拆解：If you add me in Teams / and you've got a high-level diagram / I can go through that / just to make sure / that your project's on track.
+- 连读 / 弱读提示：先抓条件和主句；`you've got a`、`I can`、`just to` 可能压缩，重读 `diagram / go through / on track`。
+- 中文意思：如果你在 Teams 联系我并提供高层架构图，我可以帮你检查项目方向是否正确。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-05
+- 时间戳：00:12:09–00:13:01
+- 原句：I've tried everything, so I'm going to start from scratch and see what's missing.
+- 慢速拆解：I've tried everything / so I'm going to start from scratch / and see / what's missing.
+- 连读 / 弱读提示：`I'm going to` 可自然压缩，但 `start from scratch` 要整体重读。
+- 中文意思：我各种办法都试过了，所以准备从头重做，看看究竟缺了什么。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-07-05
+- 时间戳：00:39:23–00:39:54
+- 原句：The SensorTag sends the data to the LaunchPad via 6LoWPAN, and then it goes via serial to the Raspberry Pi, which is running the Node-RED server.
+- 慢速拆解：The SensorTag sends the data / to the LaunchPad / via 6LoWPAN / and then it goes / via serial / to the Raspberry Pi / which is running / the Node-RED server.
+- 连读 / 弱读提示：技术名词逐个说清；两个 `via` 是数据流路标，`which is running` 轻读但不能丢。
+- 中文意思：SensorTag 经 6LoWPAN 把数据发给 LaunchPad，再通过串口送到运行 Node-RED 的 Raspberry Pi。
+- 跟读次数建议：20 次
+
+### 4
+
+- 日期：2026-07-05
+- 时间戳：00:46:46–00:47:24
+- 原句：You're not wirelessly connecting to the Raspberry Pi; you're wirelessly connecting to the SensorTag through the LaunchPad.
+- 慢速拆解：You're not wirelessly connecting / to the Raspberry Pi / you're wirelessly connecting / to the SensorTag / through the LaunchPad.
+- 连读 / 弱读提示：两半结构几乎相同，强读否定和替换对象 `not / Raspberry Pi / SensorTag / LaunchPad`。
+- 中文意思：无线连接对象不是 Raspberry Pi，而是通过 LaunchPad 连接 SensorTag。
+- 跟读次数建议：18 次
+
+### 5
+
+- 日期：2026-07-05
+- 时间戳：01:00:57–01:02:12
+- 原句：The only thing I really changed was the channel, so that is probably the place to start when working out why it failed.
+- 慢速拆解：The only thing / I really changed / was the channel / so that is probably / the place to start / when working out / why it failed.
+- 连读 / 弱读提示：保留不确定程度 `probably`；重读 `only thing / changed / channel / why it failed`。
+- 中文意思：我真正改变的只有信道，因此排查失败原因时应该先从这里入手。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-05
+- 时间戳：01:39:59–01:40:25
+- 原句：It wakes up once an hour, gets the data, transmits it, and then goes into deep sleep, so a well-designed node can last for years.
+- 慢速拆解：It wakes up / once an hour / gets the data / transmits it / and then goes into deep sleep / so a well-designed node / can last for years.
+- 连读 / 弱读提示：按动作链保持均匀节奏；重读 `once an hour / data / transmits / deep sleep / years`。
+- 中文意思：节点每小时唤醒一次，采集并发送数据，然后进入深度休眠，因此设计良好的节点可以使用多年。
+- 跟读次数建议：16 次
+
+### 7
+
+- 日期：2026-07-05
+- 时间戳：01:45:09–01:45:32
+- 原句：You would have a gateway close to the house, the data would funnel into a server, and then the farmer could view it on a dashboard.
+- 慢速拆解：You would have a gateway / close to the house / the data would funnel / into a server / and then the farmer / could view it / on a dashboard.
+- 连读 / 弱读提示：`would have`、`would funnel`、`could view it` 中情态词轻读；重读组件名。
+- 中文意思：住宅附近设置网关，数据汇入服务器，农场主再通过 dashboard 查看。
+- 跟读次数建议：16 次
+
 ### 8
 
-- 日期：2026-06-28
-- 时间戳：00:44:52–00:45:09
-- 原句：Though my scheme was not wholly without religion, there was in it no mark of any of the distinguishing tenets of any particular sect.
-- 慢速拆解：Though my scheme / was not wholly without religion / there was in it / no mark / of any of the distinguishing tenets / of any particular sect.
-- 连读 / 弱读提示：`not wholly without` 是双重限定，不能只听成 `without religion`；区分 `tenets` 与 `tenants`。
-- 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
-- 跟读次数建议：14 次
+- 日期：2026-07-05
+- 时间戳：01:51:48–01:53:39
+- 原句：Work out what you want to do first, because adding extra sensors may create much more work and make part of the existing setup redundant.
+- 慢速拆解：Work out / what you want to do first / because adding extra sensors / may create much more work / and make part of the existing setup / redundant.
+- 连读 / 弱读提示：用 `because` 固定因果；`part of the existing setup` 功能词轻读，强读 `extra sensors / more work / redundant`。
+- 中文意思：先确定目标，因为增加传感器可能显著扩大工作量，并让一部分现有方案失去作用。
+- 跟读次数建议：18 次
+
