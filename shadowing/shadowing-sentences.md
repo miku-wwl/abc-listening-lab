@@ -848,3 +848,85 @@
 - 连读 / 弱读提示：在插入尺寸后恢复主干 `the line may expose it`；重读风险链 `four miles / flanks / cut / pieces`。
 - 中文意思：近四英里的狭长队列可能遭侧翼突袭，并像线一样被截断成数段。
 - 跟读次数建议：14 次
+
+## 2026-06-26
+
+### 1
+
+- 日期：2026-06-26
+- 时间戳：00:00:03–00:00:18
+- 原句：If you can make shift with its scanty accommodations, you will be most heartily welcome.
+- 慢速拆解：If you can make shift / with its scanty accommodations / you will be / most heartily welcome.
+- 连读 / 弱读提示：`if you can`、`with its`、`you will be` 可能弱读；重读 `make shift / scanty accommodations / welcome`。
+- 中文意思：如果你能将就我家简陋的住宿条件，我非常欢迎你。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-26
+- 时间戳：00:01:47–00:02:02
+- 原句：Imagining then a semicircle of which my distance would be the radius, I computed that he might well be heard by more than thirty thousand.
+- 慢速拆解：Imagining then a semicircle / of which my distance / would be the radius / I computed / that he might well be heard / by more than thirty thousand.
+- 连读 / 弱读提示：`of which my`、`would be the`、`might well be` 可能压缩；数字 `thirty thousand` 单独重读并绑定听众数量。
+- 中文意思：他把自己能听见的距离当半径估算，认为三万多人都能听到 Whitefield 的声音。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-26
+- 时间戳：00:04:49–00:05:17
+- 原句：Partnerships often finish in quarrel, but mine were all carried on and ended amicably.
+- 慢速拆解：Partnerships often / finish in quarrel / but mine were all / carried on / and ended amicably.
+- 连读 / 弱读提示：`finish in`、`mine were all`、`carried on and ended` 可能连读；用强对比练 `quarrel / amicably`。
+- 中文意思：合伙关系常常以争吵结束，但他的合伙都友好运行并友好结束。
+- 跟读次数建议：10 次
+
+### 4
+
+- 日期：2026-06-26
+- 时间戳：00:08:44–00:09:15
+- 原句：We found about twelve hundred hands, and the subscribers amounted at length to upwards of ten thousand.
+- 慢速拆解：We found / about twelve hundred hands / and the subscribers / amounted at length / to upwards of ten thousand.
+- 连读 / 弱读提示：`about twelve hundred`、`amounted at length to` 容易压缩；两组数字要分别绑定 `hands` 和 `subscribers`。
+- 中文意思：最初约有 1200 人签名，后来订户/成员超过一万人。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-26
+- 时间戳：00:13:14–00:13:45
+- 原句：I shall never ask, never refuse, nor ever resign an office.
+- 慢速拆解：I shall never ask / never refuse / nor ever resign / an office.
+- 连读 / 弱读提示：三个否定动作保持三拍节奏；`nor ever resign an office` 中 `ever resign an` 可能连读。
+- 中文意思：我不会主动索取职位，不会拒绝职位，也不会主动辞职。
+- 跟读次数建议：10 次
+
+### 6
+
+- 日期：2026-06-26
+- 时间戳：00:20:51–00:21:36
+- 原句：They voted an aid to New England of three thousand pounds for the purchase of bread, flour, wheat or other grain.
+- 慢速拆解：They voted an aid / to New England / of three thousand pounds / for the purchase of / bread, flour, wheat / or other grain.
+- 连读 / 弱读提示：`voted an aid`、`of three thousand pounds`、`or other grain` 可能弱读；数字要绑定拨款，`other grain` 要听成政治委婉语。
+- 中文意思：他们给 New England 拨了三千英镑，名义上购买面包、面粉、小麦或“其他谷物”。
+- 跟读次数建议：14 次
+
+### 7
+
+- 日期：2026-06-26
+- 时间戳：00:22:37–00:24:05
+- 原句：If we should once print our confession of faith, we should feel ourselves as if bound and confirmed by it.
+- 慢速拆解：If we should once print / our confession of faith / we should feel ourselves / as if bound / and confirmed by it.
+- 连读 / 弱读提示：`should once print`、`feel ourselves as if`、`confirmed by it` 容易压缩；重读条件 `print` 和结果 `bound and confirmed`。
+- 中文意思：如果一旦把信仰告白印出来，他们会觉得自己被它束缚并固定住。
+- 跟读次数建议：14 次
+
+### 8
+
+- 日期：2026-06-26
+- 时间戳：00:39:32–00:43:41
+- 原句：The clause worked both ways; the subscriptions soon exceeded their requisite sum, and we claimed and received the public gift.
+- 慢速拆解：The clause worked both ways / the subscriptions soon exceeded / their requisite sum / and we claimed / and received / the public gift.
+- 连读 / 弱读提示：`worked both ways`、`exceeded their requisite sum`、`claimed and received` 可能压缩；重读机制链 `clause / both ways / exceeded / public gift`。
+- 中文意思：这个条款两头起作用：认捐很快超过所需金额，于是他们拿到了公共拨款。
+- 跟读次数建议：14 次

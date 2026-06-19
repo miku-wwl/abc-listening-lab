@@ -133,3 +133,20 @@
 | have one's labor for one's pains | 费了力却得不到额外回报；白费辛劳 | Franklin 表示若自愿征集失败，自己只会徒劳无功 | If the plan fails, we may have only our labor for our pains. | 中 | 2026-06-25 新收录 |
 | make an impression on | 对……造成影响；在军事语境中有效打击 | Braddock 断言伏击者不可能对正规军造成影响 | The commander believed irregular forces could make no impression on his troops. | 高 | 2026-06-25 新收录 |
 | cut like a thread into pieces | 像线一样被截断成数段 | Franklin 警告狭长行军队列可能被伏击切断 | The exposed supply line could be cut like a thread into pieces. | 中 | 2026-06-25 新收录 |
+| make shift with something | 将就、凑合着使用条件不足的东西 | Franklin 邀请朋友住在自己条件简陋的房子里 | We can make shift with a smaller room if the meeting is short. | 高 | 2026-06-26 新收录 |
+| scanty accommodations | 简陋、有限的住处或条件 | Franklin 谦称自己家住宿条件不足 | The team made do with scanty accommodations during the field trip. | 中 | 2026-06-26 新收录 |
+| not miss of a reward | 不会得不到回报；旧式表达 | 朋友说若为 Christ's sake 行善，Franklin 不会失去奖赏 | He believed a generous act would not miss of a reward. | 中 | 2026-06-26 新收录 |
+| itinerant preacher | 巡回布道者 | Franklin 评价 Whitefield 因反复布道而优化表达 | An itinerant preacher improves the same sermon through repetition. | 中 | 2026-06-26 新收录 |
+| unguarded expression | 未经谨慎斟酌、容易被攻击的话 | Franklin 说口头失言可以解释，但文字会留下证据 | One unguarded expression can weaken an otherwise strong argument. | 高 | 2026-06-26 新收录 |
+| end amicably | 友好结束 | Franklin 说自己的商业合伙都能友好运行并结束 | The partnership ended amicably because expectations were clear. | 高 | 2026-06-26 新收录 |
+| no provision for something | 对某事没有制度安排或准备 | Franklin 遗憾宾州没有防务和完整教育制度 | There was no provision for emergency housing in the plan. | 高 | 2026-06-26 新收录 |
+| voluntary association | 自愿组织、民间协会 | Franklin 组织民众自愿建立防务协会 | A voluntary association filled the gap left by government inaction. | 高 | 2026-06-26 新收录 |
+| refuse peremptorily | 断然拒绝 | 纽约总督最初断然拒绝借出大炮 | The governor refused the request peremptorily before changing his mind. | 中 | 2026-06-26 新收录 |
+| take one's turn of duty | 轮到自己值勤或履行职责 | Franklin 在炮台当普通士兵值夜 | Each member took his turn of duty at the battery. | 高 | 2026-06-26 新收录 |
+| as a common soldier | 作为普通士兵 | Franklin 虽是组织者，也参加普通士兵值勤 | He served as a common soldier rather than claiming special status. | 中 | 2026-06-26 新收录 |
+| equivocal project | 含糊其辞、可作两种解释的方案 | Franklin 开玩笑把买大炮说成买 fire engine | The phrase was an equivocal project designed to avoid open conflict. | 高 | 2026-06-26 新收录 |
+| bound and confirmed by it | 被某个正式文本束缚并固定下来 | Dunkers 不愿印教义，担心阻碍未来修正 | Once the rule is printed, the group may feel bound and confirmed by it. | 高 | 2026-06-26 新收录 |
+| public-spirited project | 有公共利益取向的项目 | Thomas Bond 建议在 Philadelphia 建医院 | A public-spirited project still needs careful persuasion and funding. | 高 | 2026-06-26 新收录 |
+| conditioned clause | 带条件的条款 | Franklin 在医院拨款法案中设计条件条款 | The conditioned clause made the funding politically acceptable. | 中 | 2026-06-26 新收录 |
+| the clause worked both ways | 这个条款对双方都起作用、两头促成目标 | 医院法案既让议员放心，又促使民众捐款 | The clause worked both ways: it lowered opposition and increased donations. | 高 | 2026-06-26 新收录 |
+| make use of cunning | 使用巧妙策略或一点计谋 | Franklin 承认医院拨款方案用了一点策略 | He made use of cunning to turn resistance into support. | 中 | 2026-06-26 新收录 |

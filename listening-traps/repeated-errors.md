@@ -41,3 +41,7 @@
 | 潜在易错点：合同条款数字清单 | 数量、租金、期限、估值、预付款和职责边界连续枚举 | 150 wagons; 1,500 horses; 15 shillings, 2 shillings or 18 pence per diem; seven days advanced. | 数字在语法上平行，但业务含义完全不同，后一数字会覆盖前一数字。 | 使用 object / quantity / rate / condition 四栏；第一遍只抓对象，第二遍补数字。 | 1 份六条款广告 |
 | 潜在易错点：劝说强度升级 | 同一段从利益说明、道德号召逐步升级到怀疑和强制威胁 | Good pay → loyal subjects → loyalty suspected → violent measures. | 若只听局部礼貌词，会低估说话人的真实压力和立场变化。 | 每段标注语用强度 1–4，并用一句直接中文还原真实意图。 | 1 封公开信 |
 | 潜在易错点：省略词 one 的回指 | `one` 替代前文较远的抽象名词 | too high an opinion of regular troops, and too mean a one of Americans and Indians | `one` 轻读且没有实义外形，容易误判成数字或漏掉，导致平行结构断裂。 | 将 `one` 展开成原名词后跟读：`too mean an opinion`；训练形容词 + a/an + one。 | 2 个历史长句 |
+| 潜在易错点：空间估算数字链 | 几何空间、面积单位和人数估算连续出现 | `semicircle / radius / two square feet / more than thirty thousand` | 听力中既要处理数字，又要恢复空间关系；工作记忆容易只留下最后的人数，丢掉估算依据。 | 听到空间数字时画简图：位置 / 半径 / 单位面积 / 结果人数。 | 1 个明确长句 |
+| 潜在易错点：宗教/政治回避话术 | 字面表达是安全名目，真实含义是政治妥协 | `bread, flour, wheat or other grain` 实际指向 gunpowder | 中文母语者容易按字面翻译，忽略说话人为什么故意不用直接词。 | 建三栏：official wording / hidden meaning / reason for wording。 | 1 组核心讽刺 |
+| 潜在易错点：公开立场与真实意向分离 | 人物表面不出现或不支持，私下准备在必要时支持 | Quaker members waited at a tavern and would vote if there should be occasion. | 如果只听公开场面，会误判人数和立场；条件从句又容易弱读。 | 做 stance map：public action / private intention / trigger condition。 | 1 组投票叙述 |
+| 潜在易错点：条件拨款配捐机制 | 法案条款先设条件，再触发政府付款 | private subscriptions reach target → Assembly pays £2,000 | 只抓到金额会误以为政府直接拨款，漏掉“私人先募资、政府后匹配”的制度设计。 | 画触发链：condition met → official order signed → money paid → project executed。 | 1 份医院法案 |
