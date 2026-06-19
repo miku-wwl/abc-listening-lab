@@ -200,3 +200,13 @@
 | make a shift to do something | 设法、勉强做到某事 | 风势减弱后，一行人勉强抵达 Amboy | We made a shift to keep the service running until dawn. | 中 | 2026-07-01 新收录 |
 | cut a miserable figure | 显得非常狼狈、可怜或不得体 | Franklin 淋雨步行后被怀疑是逃跑的仆人 | After the overnight journey, he cut a miserable figure. | 中 | 2026-07-01 新收录 |
 | draw someone on by artful questions | 用巧妙问题引导某人继续透露信息 | 老 Bradford 诱导 Keimer 说出经营计划 | The interviewer drew him on by artful questions until the assumptions became clear. | 中 | 2026-07-01 新收录 |
+| ready at hand | 就在手边；随时可获得 | Pine 说人们四处寻找成功秘诀，却忽略手边的 Franklin 榜样 | A useful example may already be ready at hand. | 高 | 2026-07-02 新收录 |
+| not so much A as B | 与其说是 A，不如说是 B | 自传提供的不是成功公式，而是真实人物的陪伴 | The book is not so much a manual as a conversation with an experienced mentor. | 高 | 重复出现；2026-06-25 已收录，本次用于书评语境 |
+| a means to an end | 实现目标的手段，而非目的本身 | Franklin 把写作当作服务科学、政治和社会目标的工具 | Automation is a means to an end, not the purpose of the platform. | 高 | 2026-07-02 新收录 |
+| put something down in writing | 把某事写下来并保存 | Franklin 通过写作让人生回忆更持久 | Put the decision down in writing before the team disperses. | 高 | 2026-07-02 新收录 |
+| give something fair quarter | 宽容对待；不全盘排斥 | Franklin 承认 vanity 有时也能产生积极作用 | He gave the unpopular suggestion fair quarter before judging it. | 中 | 2026-07-02 新收录 |
+| take unwarranted liberties with something | 未经正当授权擅自大幅改动某物 | Temple Franklin 被指对原稿作了大量不当修改 | The editor took unwarranted liberties with the author's wording. | 高 | 2026-07-02 新收录 |
+| have no objection to something | 不反对某事；愿意接受 | Franklin 说如果可以重活一次，他并不反对 | I have no objection to rerunning the test with cleaner data. | 高 | 2026-07-02 新收录 |
+| be bred to a trade | 从小接受某种手艺或职业训练；旧式表达 | Franklin 家族的长子通常被培养从事铁匠等行业 | He was bred to the printing trade but later became a publisher. | 中 | 2026-07-02 新收录 |
+| on liking | 先试一段时间，看双方是否合适；旧式表达 | Franklin 被送到 Samuel 那里试学 cutler 手艺 | The apprentice stayed with the craftsman for a month on liking. | 中 | 2026-07-02 新收录 |
+| break away and get to sea | 离家出走去当水手、从事航海 | 父亲担心 Franklin 因厌恶制蜡工作而跑去航海 | His family feared he would break away and get to sea. | 中 | 2026-07-02 新收录 |

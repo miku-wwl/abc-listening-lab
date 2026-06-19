@@ -1341,3 +1341,84 @@
 - 中文意思：他说我看起来很有潜力，因此应当受到鼓励；如果能在那里创业，他毫不怀疑我会成功。
 - 跟读次数建议：16 次
 
+## 2026-07-02
+
+### 1
+
+- 日期：2026-07-02
+- 时间戳：00:01:29–00:01:52
+- 原句：In Franklin's Autobiography is offered not so much a ready-made formula for success as the companionship of a real flesh-and-blood man.
+- 慢速拆解：In Franklin's Autobiography / is offered / not so much a ready-made formula for success / as the companionship / of a real flesh-and-blood man.
+- 连读 / 弱读提示：先还原倒装主干；强读对比 `not so much / as / formula / companionship`。
+- 中文意思：Franklin 的自传提供的与其说是现成成功公式，不如说是一位真实人物的陪伴。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-02
+- 时间戳：00:03:31–00:04:12
+- 原句：While Washington was the animating spirit of the struggle in the colonies, Franklin was its ablest champion abroad.
+- 慢速拆解：While Washington was / the animating spirit / of the struggle in the colonies / Franklin was / its ablest champion abroad.
+- 连读 / 弱读提示：按 Washington / Franklin 两端对称分拍；`ablest` 不要读成 `ableist`。
+- 中文意思：Washington 是殖民地内部斗争的核心推动者，而 Franklin 是海外最有力的倡导者。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-07-02
+- 时间戳：00:09:14–00:09:34
+- 原句：For him writing was never an end in itself, but always a means to an end.
+- 慢速拆解：For him / writing was never / an end in itself / but always / a means to an end.
+- 连读 / 弱读提示：重读逻辑骨架 `never / end / but / means / end`，两个 `an` 轻读。
+- 中文意思：对他来说，写作从来不是目的本身，而始终是实现目标的手段。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-07-02
+- 时间戳：00:16:34–00:17:08
+- 原句：What people had been reading for years as the authentic Life of Benjamin Franklin by Himself was only a garbled and incomplete version of the real Autobiography.
+- 慢速拆解：What people had been reading for years / as the authentic Life / of Benjamin Franklin by Himself / was only / a garbled and incomplete version / of the real Autobiography.
+- 连读 / 弱读提示：超长主语后抓住系动词 `was`；重读反转 `authentic / only / garbled / incomplete / real`。
+- 中文意思：人们多年当作 Franklin 真实自传阅读的版本，其实只是被篡改且不完整的版本。
+- 跟读次数建议：18 次
+
+### 5
+
+- 日期：2026-07-02
+- 时间戳：00:21:31–00:22:05
+- 原句：Were it offered to my choice, I would have no objection to a repetition of the same life from its beginning.
+- 慢速拆解：Were it offered / to my choice / I would have no objection / to a repetition / of the same life / from its beginning.
+- 连读 / 弱读提示：`Were it` 是 `If it were` 的倒装；重读 `choice / no objection / repetition / beginning`。
+- 中文意思：如果让我选择，我并不反对从头再过一次同样的人生。
+- 跟读次数建议：14 次
+
+### 6
+
+- 日期：2026-07-02
+- 时间戳：00:20:58–00:21:30
+- 原句：Having emerged from the poverty and obscurity in which I was born and bred to a state of affluence and some degree of reputation in the world, my posterity may like to know the conducing means I made use of.
+- 慢速拆解：Having emerged / from poverty and obscurity / in which I was born and bred / to a state of affluence / and some degree of reputation / my posterity may like to know / the conducing means / I made use of.
+- 连读 / 弱读提示：前半全是背景，主句到 `my posterity` 才开始；`conducing` 不要替换成 `conducting`。
+- 中文意思：我从贫困无名走到富足并获得一些声誉，后代或许想知道我采用了哪些促成成功的方法。
+- 跟读次数建议：18 次
+
+### 7
+
+- 日期：2026-07-02
+- 时间戳：00:38:43–00:39:08
+- 原句：Though I pleaded the usefulness of the work, my father convinced me that nothing was useful which was not honest.
+- 慢速拆解：Though I pleaded / the usefulness of the work / my father convinced me / that nothing was useful / which was not honest.
+- 连读 / 弱读提示：让步后抓主句；两次 `useful` 之间强读否定 `not honest`。
+- 中文意思：虽然我辩称工程有用，父亲仍让我明白，不诚实的事不能算真正有用。
+- 跟读次数建议：14 次
+
+### 8
+
+- 日期：2026-07-02
+- 时间戳：00:43:08–00:43:25
+- 原句：By my rambling digressions I perceive myself to be grown old; I used to write more methodically, but one does not dress for private company as for a public ball.
+- 慢速拆解：By my rambling digressions / I perceive myself / to be grown old / I used to write more methodically / but one does not dress / for private company / as for a public ball.
+- 连读 / 弱读提示：分号前后分别是自评和比喻；强读 `rambling / old / methodically / private company / public ball`。
+- 中文意思：从这些散漫的岔题中，我意识到自己老了；不过私下写给家人，本来就不必像参加公共舞会那样正式。
+- 跟读次数建议：16 次

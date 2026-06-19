@@ -71,3 +71,9 @@
 | 潜在易错点：多交通方式路线链 | 步行、定期船、临时船、划船和夜宿不断切换 | New York → Amboy → Burlington → Cooper's Creek → Philadelphia | 地名与交通方式交替出现，后一段很容易覆盖前一段。 | 画 route / mode / obstacle / next action 四列时间线。 | 1 条跨州旅程 |
 | 潜在易错点：叙述者与编者数字冲突 | 正文回忆、晚年补充和脚注对同一事实使用不同数字 | second newspaper / five-and-twenty in 1771 / really the fifth | 不识别朗读层级时，会以为说话者在同一句中自相矛盾。 | 每次听到脚注说明先标 source，再记录数字。 | 1 组报纸数量 |
 | 潜在易错点：历史钱币与商品数量错配 | 钱币单位、价格和商品数量不是一一对应 | Dutch dollar + shilling in copper + three-penny worth = three rolls | 不熟当地币制和商品名称时，容易把“三便士”误当成“一只三便士面包”。 | 用 currency / requested amount / received item / quantity 四栏。 | 1 个面包购买场景 |
+| 潜在易错点：编者与作者声音切换 | 编者评价、章节标题、脚注和作者第一人称正文连续出现 | Pine's introduction → chapter heading → St. Asaph footnote → Dear son | 如果只跟内容不标说话人，会把编者判断当成 Franklin 自我评价，或把脚注当正文。 | 每次出现 heading / footnote / direct address 就切换 source 标签。 | 1 次长导言转正文 |
+| 潜在易错点：手稿多时间线叠加 | 写作年份、叙事终点、所有权流转和出版年份同时推进 | 1771/1775/1784/1788 writing; story ends 1757; editions 1791/1817/1868 | 所有数字都与“这本书”相关，工作记忆容易错误合并成一条时间线。 | 分成 writing / story / ownership / publication 四条时间轴。 | 1 组百年版本史 |
+| 潜在易错点：家谱同名人物链 | 多代 Thomas、John、Benjamin、Josiah 与职业地名反复切换 | grandfather Thomas; sons Thomas, John, Benjamin, Josiah; uncle Benjamin's son Samuel | 只记名字无法区分代际，后出现的职业或日期容易错误归到前一人。 | 用 generation / relation / occupation / place / date 五栏家谱。 | 1 条五代家谱 |
+| 潜在易错点：old style / new style 双日期 | 同一事件因历法不同出现两个日期 | January 6 old style = January 17 new style | 听到第二个日期时容易误以为是另一人的生日或死亡日期。 | 固定记录 event / calendar / date，并把历法说明与人物事实分开。 | 1 组双历法日期 |
+| 潜在易错点：低频正确词被熟词吸附 | ASR 或大脑把陌生词自动替换成更熟悉的近音词 | facile→fossil; popery→potpourri; apparitor→apparatus; conducing→conducting | 熟词在心理词典中激活更快，即使语义不通也容易被接受。 | 建 target / tempting familiar word / context meaning 三列最小对比卡。 | 8+ 个明显实例 |
+| 潜在易错点：碑文数字与身份归属 | 年龄、婚龄、子女、孙辈和纪念碑尺寸连续朗读 | 89/85 years; 55 years; 13 children; 7 grandchildren; 21-foot obelisk | 数字集中且都围绕同一家人，单位和受事对象最容易丢失。 | 使用 person-or-object / number / unit / meaning 四栏听写。 | 1 段完整墓志铭 |
