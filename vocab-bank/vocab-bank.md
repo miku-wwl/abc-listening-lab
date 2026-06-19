@@ -45,3 +45,18 @@
 | out of the box | 开箱即用；无需自行搭建即可获得 | Agent Framework 自动提供标准 trace 和观测能力 | The framework provides tracing out of the box. | 高 | 2026-06-18 新收录 |
 | go off the rails | 偏离预期、失控或产生严重错误 | SRE 通过 trace 定位 agent 在哪里开始失败 | Traces show where the agent went off the rails. | 中 | 2026-06-18 新收录 |
 | get your hands dirty | 亲自上手实践 | 文档尚不完善时，讲者建议尽早动手试用 | It is worth getting your hands dirty with the new platform. | 中 | 2026-06-18 新收录 |
+| come forward | 主动向警方或有关机构提供信息 | 警方呼吁知情者就犹太教堂纵火案提供线索 | Police urged anyone with information to come forward. | 高 | 2026-06-19 新收录 |
+| pull through | 熬过重病、重伤或危机并康复 | 足球界人士祝愿 Tony Modra 从严重车祸中恢复 | Everyone hopes he can pull through. | 高 | 2026-06-19 新收录 |
+| get someone on board | 争取某人或某方支持、参与 | 工党需要绿党支持才能推动税改通过议会 | Labor needs to get the Greens on board. | 高 | 2026-06-19 新收录 |
+| grandfather an arrangement | 让现有安排不受新规则影响，按旧规则延续 | 绿党批评保留现有 negative gearing 安排 | The proposal would grandfather existing arrangements. | 高 | 2026-06-19 新收录 |
+| go back to the drawing board | 推倒现有方案并重新设计 | 商界认为税改修订只是打补丁，要求政府重做 | The government may need to go back to the drawing board. | 高 | 2026-06-19 新收录 |
+| take paint off | 损害声誉、形象或政治支持度 | 预算反弹对工党的政治形象造成损害 | The backlash has taken some paint off the government. | 中 | 2026-06-19 新收录 |
+| bring the costs of war home | 让本国民众切身感受到战争代价 | 乌克兰袭击莫斯科炼油设施的战略目的 | The strikes are intended to bring the costs of war home. | 高 | 2026-06-19 新收录 |
+| get more bang for one's buck | 以同样投入获得更高回报或效益 | 讨论乌克兰无人机技术能否提高援助资金效益 | Drones may give Ukraine more bang for its buck. | 高 | 2026-06-19 新收录 |
+| burn diplomatic capital | 消耗外交影响力、信誉或谈判筹码 | 专家评价特朗普对欧洲和乌克兰施压能力下降 | The administration has burned much of its diplomatic capital. | 高 | 2026-06-19 新收录 |
+| bring pressure to bear on | 对某人施加实际压力 | 讨论俄罗斯国内舆论能否迫使普京结束战争 | The attacks may bring public pressure to bear on Putin. | 高 | 2026-06-19 新收录 |
+| a blow-by-blow account | 按事件进展逐步、详细的报道 | 主播推荐 ABC business blog 跟进 KPMG 听证会 | The live blog provides a blow-by-blow account of the hearing. | 中 | 2026-06-19 新收录 |
+| see how things pan out | 看事情最后如何发展 | 雪场经营者判断本季降雪仍需继续观察 | We will have to see how the season pans out. | 高 | 2026-06-19 新收录 |
+| be contingent on | 以……为条件；取决于…… | 伊朗获得协议经济利益的条件 | The benefits are contingent on compliance with the deal. | 高 | 2026-06-19 新收录 |
+| be at stake | 处于风险中；可能失去 | 以色列若破坏协议，美方军事支持可能受影响 | Military support could be at stake. | 高 | 2026-06-19 新收录 |
+| the clock is ticking | 时间正在减少，必须尽快行动 | 美国审查欧洲驻军，对 NATO 盟友形成期限压力 | The review means the clock is ticking for the alliance. | 高 | 2026-06-19 新收录 |

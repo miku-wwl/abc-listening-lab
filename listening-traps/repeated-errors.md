@@ -13,3 +13,7 @@
 | 潜在易错点：技术缩写串 | CLI、MCP、SDK、CI/CD、AKS、GPU、ACR、OBO、OTel、SRE 连续出现 | Submit the OpenTelemetry traces to Log Analytics and connect that to Foundry. | 缩写缺少稳定音形映射，连续出现时容易全部退化成模糊音节。 | 建立“缩写—全称—类别—作用”卡片；一次只练 5 个。 | 约 25 |
 | 潜在易错点：屏幕指代词 | 演示中反复出现 `this one`、`here`、`behind the scenes`、`on the other side` | What I've done here is create multiple work orders, and behind the scenes the SQL database gets the write-back. | 没有屏幕画面时，代词缺少指向对象，听者会误以为漏词。 | 每段先写当前画面主题；无法确认的指代标为 `[visual context required]`。 | 1 个超长演示材料 |
 | 潜在易错点：产品关系混淆 | 平台、框架、服务、模型、数据源和观测后端名称混在同一段 | Agent → OpenTelemetry → Log Analytics → Foundry. | 即使每个词都听到，也可能不知道谁调用谁、数据往哪里流。 | 强制画箭头图，只保留“组件—动作—下游组件”。 | 约 12 |
+| 潜在易错点：法律罪名搭配 | 多个固定罪名连续枚举，日常英语词义不足以帮助即时理解 | criminal damage by fire; conduct endangering life; assault occasioning bodily harm | 功能词弱读，罪名长度不一；`occasioning` 等词在普通会话中少见。 | 每项只抓核心动作和结果；把完整罪名做成固定语块卡片。 | 4 |
+| 潜在易错点：规则型数字 | 同一政策或产品同时出现余额、预订截止日和履行截止日 | $93 million; book by June 30; travel by late May 2027 | 数字都正确也可能绑定到错误对象，导致规则理解反转。 | 固定用“金额 / 操作截止 / 实际履行”三栏记录。 | 3 组 |
+| 潜在易错点：体育比分压缩串 | 多场比赛的比分、球员名、排名和技术统计连续播报 | 2–0, 6–0, 4–1, 35 disposals and tennis set scores | 体育播报几乎没有停顿，后一组数字会覆盖前一组。 | 第一遍每场只记队伍、结果、后果；第二遍再补球员数据。 | 1 个密集段 |
+| 潜在易错点：反讽语气 | 字面像赞扬，实际表达批评或不满 | If Virgin is expecting a slow clap and a cheer of hooray, they are unlikely to get it. | 若只处理词义而忽略语境和语气，容易把立场听反。 | 听夸张搭配和后续否定；改写成一句直接立场再确认。 | 1 |

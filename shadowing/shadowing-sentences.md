@@ -243,3 +243,85 @@
 - 连读 / 弱读提示：`five to six` 中 `to` 弱读；三个动作 `generate / run / come back` 保持清晰节拍。
 - 中文意思：优化 agent 会生成五到六个候选方案，通过评估套件测试，再返回推荐结果。
 - 跟读次数建议：10 次
+
+## 2026-06-19
+
+### 1
+
+- 日期：2026-06-19
+- 时间戳：00:00:12–00:00:36
+- 原句：A third man has been charged by the Victorian Joint Counter Terrorism Team over the firebombing of a Melbourne synagogue.
+- 慢速拆解：A third man / has been charged / by the Victorian Joint Counter Terrorism Team / over the firebombing / of a Melbourne synagogue.
+- 连读 / 弱读提示：根据常见规律，`has been`、`by the`、`over the`、`of a` 会变轻；重读 `third man / charged / firebombing / synagogue`。
+- 中文意思：维州联合反恐小组就墨尔本一座犹太教堂纵火案起诉了第三名男子。
+- 跟读次数建议：10 次
+
+### 2
+
+- 日期：2026-06-19
+- 时间戳：00:00:23–00:00:36
+- 原句：He was charged with criminal damage by fire, conduct endangering life, and theft of a motor vehicle.
+- 慢速拆解：He was charged with / criminal damage by fire / conduct endangering life / and theft of a motor vehicle.
+- 连读 / 弱读提示：三项罪名保持平行节奏；`charged with`、`theft of a` 可能连读，核心名词应清晰重读。
+- 中文意思：他被控纵火造成刑事损坏、实施危及生命的行为及盗窃机动车。
+- 跟读次数建议：12 次
+
+### 3
+
+- 日期：2026-06-19
+- 时间戳：00:05:48–00:06:12
+- 原句：Getting the Greens on board will be key to Labor's hopes of passing the first tranche of its tax changes through Parliament.
+- 慢速拆解：Getting the Greens on board / will be key / to Labor's hopes / of passing the first tranche / of its tax changes / through Parliament.
+- 连读 / 弱读提示：`getting the`、`will be`、`to Labor's`、`of its` 可能弱读；重读 `Greens / key / first tranche / Parliament`。
+- 中文意思：争取绿党支持，是工党推动首批税改通过议会的关键。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-06-19
+- 时间戳：00:14:06–00:14:19
+- 原句：Does Ukraine's expertise with drone warfare mean it's getting more bang for its buck, literally?
+- 慢速拆解：Does Ukraine's expertise / with drone warfare / mean it's getting / more bang for its buck / literally?
+- 连读 / 弱读提示：`does Ukraine's`、`mean it's`、`for its` 可能压缩；重读双关语块 `bang for its buck`。
+- 中文意思：乌克兰的无人机作战能力，是否让援助资金获得了更高的军事效益？
+- 跟读次数建议：8 次
+
+### 5
+
+- 日期：2026-06-19
+- 时间戳：00:18:30–00:18:39
+- 原句：The question is, are you the bad apples, or is the whole barrel rotten?
+- 慢速拆解：The question is / are you the bad apples / or is the whole barrel rotten?
+- 连读 / 弱读提示：重读对比 `bad apples / whole barrel / rotten`；第二问语气更强，体现质询升级。
+- 中文意思：问题是你们只是少数害群之马，还是整个组织都已经腐坏？
+- 跟读次数建议：8 次
+
+### 6
+
+- 日期：2026-06-19
+- 时间戳：00:21:33–00:22:25
+- 原句：Customers will still need to spend those credits by June 30; however, they will be able to use them for flights up to late May 2027.
+- 慢速拆解：Customers will still need to spend those credits / by June 30 / however / they will be able to use them for flights / up to late May 2027.
+- 连读 / 弱读提示：突出两个不同截止点；`will still need to`、`will be able to` 中功能词较轻，`however` 要清楚标出转折。
+- 中文意思：客户仍须在 6 月 30 日前使用抵用金预订，但航班可以安排到 2027 年 5 月下旬。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-19
+- 时间戳：00:27:27–00:28:47
+- 原句：We're just going to see how things pan out, but it is still up in the air at this stage.
+- 慢速拆解：We're just going to see / how things pan out / but it is still up in the air / at this stage.
+- 连读 / 弱读提示：`we're just going to` 在自然口语中可能明显压缩；重读 `pan out / up in the air`。
+- 中文意思：我们只能继续看看事情如何发展，目前结果仍未确定。
+- 跟读次数建议：10 次
+
+### 8
+
+- 日期：2026-06-19
+- 时间戳：00:39:57–00:41:08
+- 原句：All of the economic benefits that Iran is receiving are contingent on it complying with the deal.
+- 慢速拆解：All of the economic benefits / that Iran is receiving / are contingent on / it complying with the deal.
+- 连读 / 弱读提示：`all of the`、`that Iran is`、`on it` 可能连读；条件核心 `contingent on` 应整体重读。
+- 中文意思：伊朗获得的所有经济利益，都以其遵守协议为条件。
+- 跟读次数建议：10 次
