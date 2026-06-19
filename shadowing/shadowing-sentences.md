@@ -684,3 +684,85 @@
 - 连读 / 弱读提示：`as you go through it` 可按一个意群练；重读双关核心 `stoop / hard thumps`。
 - 中文意思：你还年轻，世界就在前方；一路上懂得低头谦逊，就能避开许多沉重打击。
 - 跟读次数建议：12 次
+
+## 2026-06-24
+
+### 1
+
+- 日期：2026-06-24
+- 时间戳：00:01:41–00:02:03
+- 原句：He continued his hasty march through all the country, not thinking himself safe till he arrived at Philadelphia, where the inhabitants could protect him.
+- 慢速拆解：He continued his hasty march / through all the country / not thinking himself safe / till he arrived at Philadelphia / where the inhabitants / could protect him.
+- 连读 / 弱读提示：`through all the`、`till he arrived at`、`could protect him` 可能压缩；重读反讽对比 `inhabitants / protect him`。
+- 中文意思：他一路仓促撤退，直到抵达由居民保护他的 Philadelphia 才觉得安全。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-24
+- 时间戳：00:06:19–00:06:52
+- 原句：It would be time enough to prepare for the rejoicing when we knew we should have occasion to rejoice.
+- 慢速拆解：It would be time enough / to prepare for the rejoicing / when we knew / we should have occasion / to rejoice.
+- 连读 / 弱读提示：`would be`、`to prepare for the`、`should have` 可能弱读；两次 `rejoic-` 要保持前者为名词、后者为动词。
+- 中文意思：等确定真有值得庆祝的事情时，再准备庆祝也不迟。
+- 跟读次数建议：10 次
+
+### 3
+
+- 日期：2026-06-24
+- 时间戳：00:11:56–00:12:28
+- 原句：Common sense, aided by present danger, will sometimes be too strong for whimsical opinions.
+- 慢速拆解：Common sense / aided by present danger / will sometimes be too strong / for whimsical opinions.
+- 连读 / 弱读提示：插入成分 `aided by present danger` 两侧停顿；重读 `common sense / present danger / too strong / whimsical opinions`。
+- 中文意思：现实危险有时会帮助常识压过脱离实际的观念。
+- 跟读次数建议：10 次
+
+### 4
+
+- 日期：2026-06-24
+- 时间戳：00:16:12–00:17:16
+- 原句：When men are employed, they are best contented; on our idle days they were mutinous and quarrelsome.
+- 慢速拆解：When men are employed / they are best contented / on our idle days / they were mutinous / and quarrelsome.
+- 连读 / 弱读提示：`men are employed`、`on our idle days` 中功能词较轻；用平行重音做 `employed/contented` 与 `idle/mutinous/quarrelsome` 的对比。
+- 中文意思：人有事做时最满足；闲着时反而容易闹事争吵。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-24
+- 时间戳：00:18:51–00:19:24
+- 原句：If you were to deal out the rum, and only just after prayers, you would have them all about you.
+- 慢速拆解：If you were to deal out the rum / and only just after prayers / you would have them / all about you.
+- 连读 / 弱读提示：`if you were to`、`deal out the`、`you would have them` 可能大幅压缩；重读条件中的激励物 `rum / after prayers`。
+- 中文意思：如果由你在祷告后发朗姆酒，所有人都会围到你身边。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-24
+- 时间戳：00:26:55–00:27:11
+- 原句：He might consider us both as merely advocates for contending clients in a suit—he for the proprietaries, and I for the Assembly.
+- 慢速拆解：He might consider us both / as merely advocates / for contending clients in a suit / he for the proprietaries / and I for the Assembly.
+- 连读 / 弱读提示：`consider us both as`、`clients in a suit` 可能连读；省略结构中重读两方 `he / proprietaries / I / Assembly`。
+- 中文意思：他也许把我们看成诉讼中分别替对立客户辩护的律师——他代表 proprietors，我代表 Assembly。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-24
+- 时间戳：00:34:30–00:34:46
+- 原句：I concluded to let my papers shift for themselves, believing it was better to spend what time I could spare in making new experiments than in disputing about those already made.
+- 慢速拆解：I concluded / to let my papers shift for themselves / believing it was better / to spend what time I could spare / in making new experiments / than in disputing / about those already made.
+- 连读 / 弱读提示：`let my papers`、`what time I could spare`、`than in disputing` 可能压缩；突出选择对比 `new experiments / disputing`。
+- 中文意思：我决定让论文凭自身证据接受检验，把有限时间用于新实验，而不是争论旧实验。
+- 跟读次数建议：14 次
+
+### 8
+
+- 日期：2026-06-24
+- 时间戳：00:40:29–00:41:00
+- 原句：Whatever public measures he proposed should appear to be for the good of the people, no one should espouse and forward them more zealously than myself.
+- 慢速拆解：Whatever public measures he proposed / should appear to be / for the good of the people / no one should espouse and forward them / more zealously than myself.
+- 连读 / 弱读提示：`whatever public measures`、`appear to be for the`、`forward them` 可能压缩；主句到后半段才出现，重读条件 `good of the people`。
+- 中文意思：只要他提出的公共政策确实有利人民，没有人会比我更积极地支持和推动。
+- 跟读次数建议：14 次

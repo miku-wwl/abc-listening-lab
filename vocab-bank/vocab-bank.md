@@ -109,3 +109,13 @@
 | viva voce | 口头地；以口头陈述或考试形式 | Franklin 将此前口头表达的意见写成正式文件 | The evidence was first delivered viva voce and later put in writing. | 中 | 2026-06-23 新收录 |
 | give too much for the whistle | 为某个欲望或目标付出远超其价值的代价 | Franklin 用童年买哨子的经历评论权力、名望、财富和享乐 | Do not give too much for the whistle by sacrificing your health for status. | 高 | 2026-06-23 新收录 |
 | stoop as one goes through the world | 处世保持谦逊，以避开由骄傲带来的挫折 | Samuel Mather 借低头避开横梁教导年轻 Franklin | A little humility helps us stoop as we go through the world. | 高 | 2026-06-23 新收录 |
+| put someone out of conceit with | 使某人不再迷信或欣赏某事 | 英军的掠夺和溃败使殖民者不再崇拜所谓保护者 | The retreat put the colonists out of conceit with British regulars. | 中 | 2026-06-24 新收录 |
+| come upon someone for payment | 向某人追讨应付款项 | 车马所有者因 Franklin 的担保而向他索赔 | The owners came upon him for the value of the lost wagons. | 中 | 2026-06-24 新收录 |
+| give bond to pay | 立下付款担保；承担法律付款责任 | Franklin 曾为军队征用的车马作付款担保 | He had given bond to pay the claims if the army failed to do so. | 高 | 2026-06-24 新收录 |
+| have occasion to do something | 有理由或有需要做某事 | Franklin 主张确认胜利后再庆祝 | We should celebrate only when we have occasion to rejoice. | 高 | 2026-06-24 新收录 |
+| be scrupulous of doing something | 因良心或原则顾虑而不愿做某事 | Franklin 原以为 Moravians 出于宗教原则拒绝持械 | Some members were scrupulous of bearing arms. | 中 | 2026-06-24 新收录 |
+| go off | 枪支击发；也可指爆炸、警报响起或事件发生 | 雨水打湿引火药，农民的燧发枪无法击发 | Their guns would not go off because the priming was wet. | 高 | 2026-06-24 新收录 |
+| take it into one's head to do something | 突然认定或擅自决定做某事 | 军官们擅自决定以拔剑骑行的仪式护送 Franklin | The officers took it into their heads to escort him out of town. | 中 | 2026-06-24 新收录 |
+| let something shift for itself | 让某事凭自身力量证明或维持自己 | Franklin 让可重复的实验结果自己接受检验 | He let the papers shift for themselves and returned to new experiments. | 中 | 2026-06-24 新收录 |
+| make amends for a slight | 弥补过去的轻视或怠慢 | Royal Society 后来以会员资格和奖章弥补早先忽视 | The Society made amends for the slight by electing him a member. | 高 | 2026-06-24 新收录 |
+| have a good understanding with someone | 与某人保持良好、互信的关系 | Governor Denny 试图与 Franklin 建立合作关系 | The new governor wanted to have a good understanding with Franklin. | 高 | 2026-06-24 新收录 |

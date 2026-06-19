@@ -33,3 +33,7 @@
 | 潜在易错点：连续格言压缩 | 多条省略语境的格言连续朗读，句子短但比喻和逻辑转换很快 | A little leak will sink a great ship. | 每个词都常见，却必须瞬间从字面恢复抽象寓意，下一条格言又立即开始。 | 每次截取 3 条，做“字面义—寓意—个人例子”三栏复述。 | 10+ 条格言 |
 | 潜在易错点：朗读层级切换 | 正文、引语、脚注、标题、附录和诗歌只靠声音切换 | Begin footnote ... end footnote ... Appendix: Electrical Kite. | 没有页面版式时，容易把编者说明当成 Franklin 正文，或错过新篇章开始。 | 听到 `footnote / appendix / letter / end of chapter` 就做结构标记。 | 6+ 次结构切换 |
 | 潜在易错点：外来语被英文化 | 法语或拉丁语被切成若干近音英文词 | entre nous; viva voce | 英语词汇预测会强行寻找熟悉词，ASR 也可能生成语法不通的英文串。 | 遇到局部完全不通但句子主干完整时，先怀疑专名或外来语，再查文本。 | 2 个明确实例 |
+| 潜在易错点：殖民制度角色漂移 | Assembly、governor、proprietaries、Crown 和军方在同一段不断成为主语 | The Assembly framed the bill; the governor rejected it under proprietary instructions. | 角色都是抽象政治实体，代词和所有格又频繁出现，容易把谁提出、谁拒绝、谁获利听反。 | 建五栏角色表，只记每方的权力、诉求和动作；每段结束复述“谁对谁做了什么”。 | 1 份历史有声书，10+ 段 |
+| 潜在易错点：工序型数字链 | 尺寸、数量、材料、工具和工期共同描述一个建设过程 | 455 feet, 455 palisades, 70 axes, 18-foot logs, finished in a week. | 数字不是平行新闻统计，而是彼此约束的工程参数；漏掉对象后无法恢复建造过程。 | 使用 object / number / purpose 三栏速记，并按施工顺序而非数字出现顺序复述。 | 1 条长筑堡叙述 |
+| 潜在易错点：古典普通词跨义 | 熟词在历史文本中使用不熟悉的义项 | suffer = allow; commission = appointment/authority; naked sword = drawn sword; slight = insult. | 耳朵识别出熟词后会自动套入现代高频义，形成“每个词都认识但整句不通”。 | 遇到语法通顺但语义荒谬的句子，强制为熟词寻找第二义，并记录时代语境。 | 8+ 个明确实例 |
+| 潜在易错点：简单短句承担反驳 | 极短回应通过承接前句完成反驳，本身几乎没有新词 | “And so they may,” answered my informer, “if you let the parties choose for themselves.” | 若注意力只放在词汇量，会漏掉说话人切换和 `so` 指代的整项命题。 | 标注 speaker A/B；把 `so` 展开成完整命题，再判断它是赞同、让步还是反驳。 | 1 组核心对话 |
