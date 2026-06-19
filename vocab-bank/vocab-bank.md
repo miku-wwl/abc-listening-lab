@@ -74,3 +74,15 @@
 | take the edge off | 缓解最强烈的疼痛、压力或不适 | 止痛药未能明显减轻 Irukandji syndrome 的剧痛 | The medication took the edge off the pain but did not remove it. | 高 | 2026-06-20 新收录 |
 | at its worst when ... is at its best | 当某条件最理想时，另一风险反而最严重 | 天气最适合下水时，Irukandji 风险可能最高 | The pest is at its worst when the weather is at its best. | 中 | 2026-06-20 新收录 |
 | work around the clock | 昼夜不停地工作 | 深海科研昂贵，团队连续作业以充分利用航次 | Researchers worked around the clock during the expedition. | 高 | 2026-06-20 新收录 |
+| set foot outside / out of the door | 踏出门、外出 | 官员要求居民把每次离家都视为潜在感染风险 | Do not set foot outside unless the trip is essential. | 高 | 2026-06-21 新收录 |
+| heed the advice | 听从、重视并照做建议 | 政府要求居民遵守居家和检测建议 | Residents were urged to heed the public-health advice. | 高 | 2026-06-21 新收录 |
+| make headway | 取得进展 | Service NSW 说明商业补助积压正在减少 | The team is making headway on the application backlog. | 高 | 2026-06-21 新收录 |
+| clear a backlog | 清理积压的申请或工作 | 数百名审核员处理超过两周的补助申请 | Extra assessors were assigned to clear the backlog. | 高 | 2026-06-21 新收录 |
+| fly and build the plane at the same time | 一边运行紧急项目，一边设计和完善它 | 官员形容补助计划必须在巨大需求中快速上线 | During the emergency, the agency was flying and building the plane at the same time. | 高 | 2026-06-21 新收录 |
+| a tick-in-the-box exercise | 走过场、只为形式合规的检查 | 警方强调隔离检查不是完成一次就结束 | Compliance must be meaningful, not a tick-in-the-box exercise. | 高 | 2026-06-21 新收录 |
+| turn the corner | 度过最坏阶段并开始改善 | 官员解释传播率下降后病例趋势才会转好 | Case numbers must stabilise before the state can turn the corner. | 高 | 2026-06-21 新收录 |
+| leave no room for error | 不容许任何差错 | 描述 Delta 传播性强，少量违规也可能造成扩散 | The highly transmissible variant leaves no room for error. | 高 | 2026-06-21 新收录 |
+| get caught up in the weeds | 陷入枝节而忽略核心 | 官员不愿围绕 LGA 边界细节继续争论 | Do not get caught up in the weeds and lose sight of the main risk. | 高 | 2026-06-21 新收录 |
+| clamp down on | 严厉制止、加强打击 | 警方加强处理违反居家令的人 | Police moved to clamp down on repeated breaches. | 高 | 2026-06-21 新收录 |
+| take something on notice | 暂时无法回答，承诺查明后补充答复 | 官员无法立即说明建筑业检查安排 | I will take that question on notice and provide the figures later. | 高 | 2026-06-21 新收录 |
+| patient flow | 患者在急诊、病房和其他环节之间的流转 | 医院通过分流潜在感染者改善急诊运行 | The hospital changed its triage process to improve patient flow. | 高 | 2026-06-21 新收录 |

@@ -407,3 +407,116 @@
 - 连读 / 弱读提示：重读对比 `can't dive / can sail`；长名词组按 `armada / stinging appendages / ten metres` 三拍处理。
 - 中文意思：这些水母不能下潜，却能借风航行数千公里，并携带一整套最长可伸至十米的刺细胞附肢。
 - 跟读次数建议：12 次
+
+## 2026-06-21
+
+### 1
+
+- 日期：2026-06-21
+- 时间戳：00:00:39–00:01:03
+- 原句：For us to know that we've reached our peak, that can't continue; what the data is telling us is that we haven't seen the worst of it.
+- 慢速拆解：For us to know / that we've reached our peak / that can't continue / what the data is telling us / is that we haven't seen the worst of it.
+- 连读 / 弱读提示：根据常见规律，`for us to`、`that we've`、`worst of it` 会压缩；重读逻辑词 `peak / can't continue / haven't seen the worst`。
+- 中文意思：要确认疫情已经见顶，当前传播趋势就不能继续；数据表明最坏阶段尚未过去。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-21
+- 时间戳：00:07:34–00:08:09
+- 原句：We currently have 462 COVID cases admitted to hospital and 77 people in intensive care, 25 of whom require ventilation.
+- 慢速拆解：We currently have 462 COVID cases / admitted to hospital / and 77 people in intensive care / 25 of whom / require ventilation.
+- 连读 / 弱读提示：突出三个数字及其对象；`admitted to`、`of whom` 可能弱读，不能丢掉包含关系。
+- 中文意思：目前有 462 名患者住院，77 人在重症监护室，其中 25 人需要呼吸支持。
+- 跟读次数建议：12 次
+
+### 3
+
+- 日期：2026-06-21
+- 时间戳：00:14:45–00:15:19
+- 原句：When we were setting up this grant program, in many ways we were flying and building the plane at the same time.
+- 慢速拆解：When we were setting up / this grant program / in many ways / we were flying / and building the plane / at the same time.
+- 连读 / 弱读提示：`when we were`、`setting up`、`at the same time` 可能连读；重读隐喻动作 `flying / building`。
+- 中文意思：上线这项补助计划时，我们在很大程度上是一边运行、一边搭建整个系统。
+- 跟读次数建议：10 次
+
+### 4
+
+- 日期：2026-06-21
+- 时间戳：00:17:49–00:18:22
+- 原句：It's not just a tick-in-the-box check; police and the ADF will understand people's movements, gather intelligence and make sure they remain in their homes.
+- 慢速拆解：It's not just / a tick-in-the-box check / police and the ADF / will understand people's movements / gather intelligence / and make sure / they remain in their homes.
+- 连读 / 弱读提示：`it's not just a` 可能压缩；三个动作 `understand / gather / make sure` 保持平行节奏。
+- 中文意思：这不是走过场式检查；警方和国防军会了解行动轨迹、收集信息并确认相关人员留在家中。
+- 跟读次数建议：12 次
+
+### 5
+
+- 日期：2026-06-21
+- 时间戳：00:22:08–00:22:55
+- 原句：The effective reproductive rate means that every person who has the virus is spreading it to about 1.3 people; we need that number to be below one.
+- 慢速拆解：The effective reproductive rate / means that every person / who has the virus / is spreading it / to about 1.3 people / we need that number / to be below one.
+- 连读 / 弱读提示：先固定术语 `effective reproductive rate`；重读对比 `1.3 / below one`。
+- 中文意思：有效再生数表示每名感染者平均传给约 1.3 人；我们必须让它降到 1 以下。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-21
+- 时间戳：00:23:41–00:24:13
+- 原句：You can have the strictest rules in place, but Delta leaves no room for error and no room for anybody doing the wrong thing.
+- 慢速拆解：You can have / the strictest rules in place / but Delta leaves no room for error / and no room / for anybody doing the wrong thing.
+- 连读 / 弱读提示：`can have the`、`room for`、`doing the` 可能变轻；重复 `no room` 时保持强调。
+- 中文意思：即使规则已经最严格，Delta 也不容许任何差错或违规。
+- 跟读次数建议：10 次
+
+### 7
+
+- 日期：2026-06-21
+- 时间戳：00:35:16–00:35:48
+- 原句：Shop local, stay local, and spend the least time in a place where there are other people; be purposeful in your shopping, make a list and do not linger.
+- 慢速拆解：Shop local / stay local / and spend the least time / in a place where there are other people / be purposeful in your shopping / make a list / and do not linger.
+- 连读 / 弱读提示：按命令节奏重读 `shop / stay / spend / purposeful / make / do not linger`；中间功能词保持轻读。
+- 中文意思：在本地购物、留在本地，尽量减少在人群场所停留；有目的地采购，列好清单，不要逗留。
+- 跟读次数建议：12 次
+
+### 8
+
+- 日期：2026-06-21
+- 时间戳：00:36:04–00:36:38
+- 原句：Have you given health advice to the government that has not been adhered to? Have you suggested a harsher lockdown is needed and that advice has been ignored?
+- 慢速拆解：Have you given health advice / to the government / that has not been adhered to / have you suggested / a harsher lockdown is needed / and that advice has been ignored?
+- 连读 / 弱读提示：`have you` 在快速追问中可能压缩；重读控诉核心 `not adhered to / harsher lockdown / ignored`。
+- 中文意思：你是否向政府提出过但未被采纳的卫生建议？你是否建议需要更严格的封锁，而该建议遭到忽视？
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-15
+- 时间戳：无时间戳
+- 原句：We'd expect that to flow through to the bowsers, but let's see if it's sustained.
+- 慢速拆解：We'd expect that / to flow through / to the bowsers / but let's see / if it's sustained.
+- 连读 / 弱读提示：`We'd expect` 开头压缩；`to the` 弱读；`if it's` 连读。
+- 中文意思：我们预计这会传导到加油站价格，但还要看能否持续。
+- 跟读次数建议：10 次
+
+### 7
+
+- 日期：2026-06-15
+- 时间戳：无时间戳
+- 原句：The Socceroos and their fans are still basking in the afterglow of the team's 2-0 win.
+- 慢速拆解：The Socceroos and their fans / are still basking / in the afterglow / of the team's 2-0 win.
+- 连读 / 弱读提示：`and their` 弱读；`in the afterglow` 连成一个意群；`2-0` 读作 two-nil。
+- 中文意思：澳大利亚男足和球迷仍沉浸在球队 2-0 获胜后的喜悦中。
+- 跟读次数建议：8 次
+
+### 8
+
+- 日期：2026-06-15
+- 时间戳：无时间戳
+- 原句：Some technology companies want us to think that social media is unchangeable, part of an almost natural order.
+- 慢速拆解：Some technology companies / want us to think / that social media is unchangeable / part of an almost natural order.
+- 连读 / 弱读提示：`want us to` 常被压缩；`part of an` 连读；抽象名词要按意群读。
+- 中文意思：一些科技公司想让我们以为社交媒体不可改变，几乎像自然秩序的一部分。
+- 跟读次数建议：10 次
+

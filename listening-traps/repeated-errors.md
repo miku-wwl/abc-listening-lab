@@ -21,3 +21,7 @@
 | 潜在易错点：科学/生物专名多拼法 | 同一个名称被 ASR 写成多个普通词或近音拼法 | `Irukandji → Irakani / Irkangi / Uricangi`；`Carukia barnesi → curricula barnsai` | 缺少稳定音形映射时，会把同一实体误判成多个不同物种。 | 先用主题和上下文合并实体，再建立“正确拼写—ASR 变体—类别”卡片。 | 10+ 个专名 |
 | 潜在易错点：医学机制方向词 | `activate / block / inhibit / derive from` 决定因果方向 | If you activate the gene, you cause pain; if you block it, you might inhibit pain. | 这些动词短且常处于弱读功能词之间，漏掉一个会把治疗机制听反。 | 画正负箭头并口头复述：activate → pain；block → less pain。 | 3 条机制链 |
 | 潜在易错点：科学证据强度 | 报道使用 `may`、`believe`、`not certain`、`little data` 限定结论 | Scientists are not certain how many people have been stung or killed. | 若只抓实义名词，容易把推测、相关性或资料不足听成确定事实。 | 听科学报道时单独记录 modal/hedging words，并在中文复述中保留“不确定”。 | 1 个长报道 + 1 部纪录片 |
+| 潜在易错点：对抗式记者提问 | 记者先堆叠数字、地区比较和批评，最后才提出真正问题 | Is it going to take 1,000 cases a day before you institute a proper stage-four lockdown? | 如果逐词翻译前面的铺垫，听到句末时工作记忆已经满了。 | 只记“阈值 / 比较对象 / 要求的行动”，再回填证据。 | 1 场长发布会 |
+| 潜在易错点：回答与问题不对齐 | 问题要求 yes/no，回答转向共同目标、流程限制或一般原则 | The question was about methodology; have you given health advice that has not been adhered to? | 听懂回答中的词汇后，容易误以为对方已经回答了记者的问题。 | 做“问题要求—直接答案—实际回答”三栏，判断是否回避或只回答了一部分。 | 3 组追问 |
+| 潜在易错点：嵌套集合数字 | 住院、ICU、呼吸机人数是逐层包含，而不是三个并列统计 | 462 admitted, 77 in intensive care, 25 of whom require ventilation. | 连续数字常被默认成平行列表，`of whom` 又容易弱读。 | 听到 `of whom / including / among them` 就画包含框。 | 2 组 |
+| 潜在易错点：澳洲地名连续串 | NSW 郊区、regional town 和 LGA 名称在同一段快速点名 | Merrylands, Guildford, Auburn, Greenacre, Lakemba, St Marys and Strathfield. | 地名缺少语义上下文，且澳洲本地音形不熟，任何一个漏听都会影响后续分词。 | 按地理区域预习 5–8 个名称；用地图位置而不是中文音译记忆。 | 15+ 个地名 |
