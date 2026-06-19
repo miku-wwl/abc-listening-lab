@@ -25,3 +25,7 @@
 | 潜在易错点：回答与问题不对齐 | 问题要求 yes/no，回答转向共同目标、流程限制或一般原则 | The question was about methodology; have you given health advice that has not been adhered to? | 听懂回答中的词汇后，容易误以为对方已经回答了记者的问题。 | 做“问题要求—直接答案—实际回答”三栏，判断是否回避或只回答了一部分。 | 3 组追问 |
 | 潜在易错点：嵌套集合数字 | 住院、ICU、呼吸机人数是逐层包含，而不是三个并列统计 | 462 admitted, 77 in intensive care, 25 of whom require ventilation. | 连续数字常被默认成平行列表，`of whom` 又容易弱读。 | 听到 `of whom / including / among them` 就画包含框。 | 2 组 |
 | 潜在易错点：澳洲地名连续串 | NSW 郊区、regional town 和 LGA 名称在同一段快速点名 | Merrylands, Guildford, Auburn, Greenacre, Lakemba, St Marys and Strathfield. | 地名缺少语义上下文，且澳洲本地音形不熟，任何一个漏听都会影响后续分词。 | 按地理区域预习 5–8 个名称；用地图位置而不是中文音译记忆。 | 15+ 个地名 |
+| 潜在易错点：多人对白说话人漂移 | VTT 没有角色标签，连续的 `I / you / he / she / they` 可能属于不同角色 | If you do, I can't vouch for Naomi's or your safety. | 即使每个词都听到，只要不知道谁对谁说，条件和立场就会错位。 | 每 2–3 分钟暂停一次，写“speaker → listener → referenced person”。 | 1 份 10 小时剧情材料 |
+| 潜在易错点：世界观术语关系网 | OSF、SAS、Others、Red Strings、Kunad Gate、Togetsu 等需要成网理解 | The Red Strings power created the Kunad Gate when the two abilities resonated. | 单独认识词仍不足以恢复剧情；一个术语常同时指能力、组织、地点或事件。 | 画“角色—阵营—能力—事件”四栏关系图，一次只扩展一个章节。 | 15+ 个核心术语 |
+| 潜在易错点：跨时间线因果 | 过去、现在、未来和改变后的世界线在同一段切换 | The gate should have disappeared, but the resonance changed the outcome. | 时态、时间副词和指代词都较轻，漏掉一个就会把原因和结果倒置。 | 用 expected / actual / cause / consequence 四格复述。 | 5+ 条关键因果链 |
+| 潜在易错点：英文配音情绪语气 | 讽刺、自嘲、冷淡、争吵和哭喊会改变重音、吞音和句子完整度 | I'm no anaesthesiologist, but it got the job done. | 只按标准朗读预测声音，会错过角色语气带来的压缩和立场。 | 同一句分别用中性、讽刺和紧张语气朗读，再回听确认。 | 1 份长篇配音材料 |

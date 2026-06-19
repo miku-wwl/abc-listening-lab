@@ -520,3 +520,85 @@
 - 中文意思：一些科技公司想让我们以为社交媒体不可改变，几乎像自然秩序的一部分。
 - 跟读次数建议：10 次
 
+
+## 2026-06-22
+
+### 1
+
+- 日期：2026-06-22
+- 时间戳：00:51:48–00:52:03
+- 原句：We're both in the OSF together now. I want you to look at me like an equal instead of someone in constant need of being taken care of.
+- 慢速拆解：We're both in the OSF together now / I want you to look at me / like an equal / instead of someone / in constant need / of being taken care of.
+- 连读 / 弱读提示：`want you to`、`instead of`、`being taken care of` 可能压缩；重读对比 `equal / taken care of`。
+- 中文意思：我们现在同为 OSF 成员；我希望你把我当作平等伙伴，而不是一直需要照顾的人。
+- 跟读次数建议：12 次
+
+### 2
+
+- 日期：2026-06-22
+- 时间戳：01:18:31–01:19:02
+- 原句：Don't notify OSF command that Naomi has metamorphosed. If you do, I can't vouch for Naomi's or your safety.
+- 慢速拆解：Don't notify OSF command / that Naomi has metamorphosed / if you do / I can't vouch for / Naomi's or your safety.
+- 连读 / 弱读提示：`if you do` 中 `do` 指代整项上报行为；`can't vouch for` 应整块练，重读 `safety`。
+- 中文意思：不要把 Naomi 的变化上报 OSF；否则我无法保证她或你的安全。
+- 跟读次数建议：12 次
+
+### 3
+
+- 日期：2026-06-22
+- 时间戳：02:09:01–02:09:15
+- 原句：The gate is only supposed to appear at the moment of time travel and then disappear immediately, but it didn't disappear because my power resonated with yours.
+- 慢速拆解：The gate is only supposed to appear / at the moment of time travel / and then disappear immediately / but it didn't disappear / because my power / resonated with yours.
+- 连读 / 弱读提示：重读规则和异常的对比 `supposed to disappear / didn't disappear`；`resonated with yours` 作为原因块。
+- 中文意思：这道门本应只在时间旅行时出现并立刻消失，但由于我们的能力发生共振，它没有消失。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-06-22
+- 时间戳：04:05:09–04:05:18
+- 原句：By compensation, you do mean Naomi's safety, correct? I want a clear answer that'll stay on the OSF transmission record.
+- 慢速拆解：By compensation / you do mean Naomi's safety / correct / I want a clear answer / that'll stay / on the OSF transmission record.
+- 连读 / 弱读提示：强调助动词 `do` 要重读；`that'll stay on the` 可能压缩，`on the record` 保持整块。
+- 中文意思：你说的补偿确实是保障 Naomi 的安全，对吧？我要一个会留在正式通讯记录中的明确答复。
+- 跟读次数建议：10 次
+
+### 5
+
+- 日期：2026-06-22
+- 时间戳：05:00:17–05:00:31
+- 原句：I'm losing sight of who I am, but so many memories are helping me piece myself together as Kasane Randall.
+- 慢速拆解：I'm losing sight / of who I am / but so many memories / are helping me / piece myself together / as Kasane Randall.
+- 连读 / 弱读提示：`of who I am`、`are helping me` 较轻；重读身份变化 `losing sight / piece myself together / Kasane Randall`。
+- 中文意思：我正在失去对自身身份的把握，但这些记忆正帮助我重新拼合成 Kasane Randall。
+- 跟读次数建议：12 次
+
+### 6
+
+- 日期：2026-06-22
+- 时间戳：05:12:50–05:13:24
+- 原句：Our ancestors moved here from the moon 2,000 years ago. The people who colonised the moon began a major cleanup effort to make Earth habitable again, and spent nearly 1,000 years on the project.
+- 慢速拆解：Our ancestors moved here from the moon / 2,000 years ago / the people who colonised the moon / began a major cleanup effort / to make Earth habitable again / and spent nearly 1,000 years / on the project.
+- 连读 / 弱读提示：两个数字必须分别重读并绑定事件；`who colonised`、`to make Earth`、`spent nearly` 可能连读。
+- 中文意思：祖先约两千年前从月球来到这里；月球殖民者为让地球重新适宜居住，花了近一千年进行大规模清理。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-22
+- 时间戳：06:10:29–06:10:42
+- 原句：I'm no anaesthesiologist, but it got the job done. Drastic times call for drastic measures.
+- 慢速拆解：I'm no anaesthesiologist / but it got the job done / drastic times / call for drastic measures.
+- 连读 / 弱读提示：先单练 `anaesthesiologist`；`got the job done` 连成一块，谚语中的两次 `drastic` 保持平行重音。
+- 中文意思：我不是麻醉专家，但办法奏效了；非常时期需要非常手段。
+- 跟读次数建议：10 次
+
+### 8
+
+- 日期：2026-06-22
+- 时间戳：10:35:50–10:36:05
+- 原句：Changing the world is definitely a tall order. I know it'll take more than just talk. Don't forget—we saved the world. We already did the hard part.
+- 慢速拆解：Changing the world / is definitely a tall order / I know it'll take / more than just talk / don't forget / we saved the world / we already did / the hard part.
+- 连读 / 弱读提示：`it'll take`、`more than just`、`did the` 可能压缩；重读鼓励主线 `tall order / more than talk / saved / hard part`。
+- 中文意思：改变世界确实是艰巨任务，也不能只靠说；但别忘了，我们已经拯救过世界，最难的部分都做过了。
+- 跟读次数建议：12 次

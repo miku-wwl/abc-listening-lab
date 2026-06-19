@@ -86,3 +86,16 @@
 | clamp down on | 严厉制止、加强打击 | 警方加强处理违反居家令的人 | Police moved to clamp down on repeated breaches. | 高 | 2026-06-21 新收录 |
 | take something on notice | 暂时无法回答，承诺查明后补充答复 | 官员无法立即说明建筑业检查安排 | I will take that question on notice and provide the figures later. | 高 | 2026-06-21 新收录 |
 | patient flow | 患者在急诊、病房和其他环节之间的流转 | 医院通过分流潜在感染者改善急诊运行 | The hospital changed its triage process to improve patient flow. | 高 | 2026-06-21 新收录 |
+| vouch for someone's safety | 保证某人的安全或可信性 | 角色警告若上报 Naomi 的变化，就无法保证她们安全 | I can't vouch for your safety if you ignore the warning. | 高 | 2026-06-22 新收录 |
+| turn back time | 让时间倒流；回到过去 | 讨论是否愿意回到 Naomi 尚未变化的时候 | Even if she could turn back time, she could not erase every consequence. | 高 | 2026-06-22 新收录 |
+| put something on the record | 把某事正式记录在案、公开明确表态 | 要求政府把保障 Naomi 安全的答复留在 OSF 通讯记录中 | The officer wanted the promise put on the record. | 高 | 2026-06-22 新收录 |
+| string someone along | 用含糊承诺拖着某人、让其一直等待 | 队伍指责对方用不完整信息一路牵着他们走 | Stop stringing us along and give us a clear answer. | 高 | 2026-06-22 新收录 |
+| put a damper on | 扫兴；削弱热情或计划效果 | 救援任务打乱了角色原先的安排 | The new complication put a damper on their plans. | 高 | 2026-06-22 新收录 |
+| lose sight of who one is | 逐渐失去身份感、不再清楚自己是谁 | 记忆混乱让 Kasane 的自我认同动摇 | Under pressure, she began to lose sight of who she was. | 高 | 2026-06-22 新收录 |
+| piece oneself together | 把零散记忆或情绪重新拼合，重建自我 | 多段记忆帮助角色重新确认身份 | The memories helped her piece herself together. | 高 | 2026-06-22 新收录 |
+| take hold | 开始牢固控制、占据主导 | 新人格或记忆逐渐在角色意识中占据主导 | The new personality slowly began to take hold. | 高 | 2026-06-22 新收录 |
+| stand fast | 坚守立场、毫不动摇地等待 | Togetsu 人相信 Kasane 会回来并一直坚持等待 | They stood fast in the belief that she would return. | 中 | 2026-06-22 新收录 |
+| blow off steam | 释放压力、放松情绪 | 角色回忆过去与朋友到商业区放松 | We went out after training to blow off steam. | 高 | 2026-06-22 新收录 |
+| drastic times call for drastic measures | 非常时期需要非常手段 | 紧急救治 Yuito 时采用非标准做法 | Drastic times call for drastic measures, but the risks still matter. | 高 | 2026-06-22 新收录 |
+| look at the big picture | 从整体和长远角度看问题 | 角色开始考虑 OSF、城市关系和未来，而非只争强弱 | Leaders need to look at the big picture. | 高 | 2026-06-22 新收录 |
+| a tall order | 艰巨、要求很高而难以完成的任务 | 结尾讨论改变整个社会 | Changing the system is a tall order. | 高 | 2026-06-22 新收录 |
