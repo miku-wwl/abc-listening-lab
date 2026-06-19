@@ -1258,3 +1258,86 @@
 - 连读 / 弱读提示：长尾理由中抓住 `folly / ill terms / live with continually`；`one` 是泛指人。
 - 中文意思：我最终不得不妥协付款，因为我认识到与必须长期共事的人关系不佳是愚蠢的。
 - 跟读次数建议：16 次
+
+## 2026-07-01
+
+### 1
+
+- 日期：2026-07-01
+- 时间戳：00:02:04–00:02:28
+- 原句：I was to serve as an apprentice till I was twenty-one years of age, only I was to be allowed journeyman's wages during the last year.
+- 慢速拆解：I was to serve / as an apprentice / till I was twenty-one years of age / only / I was to be allowed / journeyman's wages / during the last year.
+- 连读 / 弱读提示：`was to serve`、`till I was`、`during the` 可能压缩；重读 `apprentice / twenty-one / journeyman's wages / last year`。
+- 中文意思：我要当学徒直到 21 岁，只有最后一年可以拿熟练工工资。
+- 跟读次数建议：14 次
+
+### 2
+
+- 日期：2026-07-01
+- 时间戳：00:05:49–00:06:28
+- 原句：Though I had the advantage of my antagonist in correct spelling and pointing, I fell far short in elegance of expression, in method and in perspicuity.
+- 慢速拆解：Though I had the advantage / of my antagonist / in correct spelling and pointing / I fell far short / in elegance of expression / in method / and in perspicuity.
+- 连读 / 弱读提示：让步从句后必须重新抓主干 `I fell far short`；重读三项不足。
+- 中文意思：虽然我的拼写和标点优于对手，但在表达优雅、结构和清晰度上远远不如他。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-01
+- 时间戳：00:06:47–00:07:20
+- 原句：I took some of the papers, and, making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again.
+- 慢速拆解：I took some of the papers / making short hints / of the sentiment in each sentence / laid them by / a few days / and then / without looking at the book / tried to complete the papers again.
+- 连读 / 弱读提示：按动作顺序分拍；`laid them by a few days` 和 `without looking at` 容易压缩。
+- 中文意思：我选取一些文章，把每句意思写成简短提示，放置几天后不看原文重新完成文章。
+- 跟读次数建议：18 次
+
+### 4
+
+- 日期：2026-07-01
+- 时间戳：00:12:16–00:13:04
+- 原句：I put on the humble inquirer and doubter, and grew very artful and expert in drawing people into concessions, the consequences of which they did not foresee.
+- 慢速拆解：I put on / the humble inquirer and doubter / and grew very artful and expert / in drawing people / into concessions / the consequences of which / they did not foresee.
+- 连读 / 弱读提示：重读表象与策略两端 `humble / artful / concessions / did not foresee`；不要丢否定。
+- 中文意思：我摆出谦逊提问者和怀疑者的姿态，并逐渐善于诱导别人作出他们未预见后果的让步。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-01
+- 时间戳：00:21:12–00:22:10
+- 原句：My old indenture should be returned to me, with a full discharge on the back of it, but I was to sign new indentures for the remainder of the term, which were to be kept private.
+- 慢速拆解：My old indenture / should be returned to me / with a full discharge / on the back of it / but I was to sign / new indentures / for the remainder of the term / which were to be kept private.
+- 连读 / 弱读提示：强读对比 `old / discharge / but / new / private`；按两份文件分别停顿。
+- 中文意思：旧契约要退还给我，并在背面写明完全解除，但我还要秘密签署覆盖剩余期限的新契约。
+- 跟读次数建议：18 次
+
+### 6
+
+- 日期：2026-07-01
+- 时间戳：00:23:31–00:24:00
+- 原句：In three days I found myself in New York, near three hundred miles from home, a boy of but seventeen, without the least recommendation to, or knowledge of, any person in the place.
+- 慢速拆解：In three days / I found myself in New York / near three hundred miles from home / a boy of but seventeen / without the least recommendation to / or knowledge of / any person in the place.
+- 连读 / 弱读提示：按三个数字和两个 `without` 信息块分拍；重读 `three days / three hundred miles / seventeen / without`。
+- 中文意思：三天后我到了 New York，离家近 300 英里；我只有 17 岁，在当地没有推荐信，也不认识任何人。
+- 跟读次数建议：16 次
+
+### 7
+
+- 日期：2026-07-01
+- 时间戳：00:31:53–00:32:26
+- 原句：My whole stock of cash consisted of a Dutch dollar and about a shilling in copper, the latter of which I gave the people of the boat for my passage.
+- 慢速拆解：My whole stock of cash / consisted of a Dutch dollar / and about a shilling in copper / the latter of which / I gave the people of the boat / for my passage.
+- 连读 / 弱读提示：`consisted of a`、`the latter of which` 可能压缩；重读币种和用途。
+- 中文意思：我全部现金只有一枚 Dutch dollar 和约一先令铜币，后者被我付给船上的人作为船费。
+- 跟读次数建议：14 次
+
+### 8
+
+- 日期：2026-07-01
+- 时间戳：00:41:27–00:42:00
+- 原句：He said I appeared a young man of promising parts, and therefore should be encouraged; if I could set up there, he made no doubt I should succeed.
+- 慢速拆解：He said / I appeared a young man / of promising parts / and therefore should be encouraged / if I could set up there / he made no doubt / I should succeed.
+- 连读 / 弱读提示：`should be encouraged`、`if I could set up there` 可能压缩；重读条件和判断 `if / no doubt / succeed`。
+- 中文意思：他说我看起来很有潜力，因此应当受到鼓励；如果能在那里创业，他毫不怀疑我会成功。
+- 跟读次数建议：16 次
+

@@ -66,3 +66,8 @@
 | 潜在易错点：Quaker 古体代词 | `thee / thou / thy / art` 在直接引语中连续出现 | If thou art not upon thy guard, they will draw thee into some danger. | 现代语法预测无法直接套用，功能词又轻读，容易误判主谓关系。 | 先改写成现代 `you are / your / you`，再保留原节奏跟读。 | 1 段长警告 |
 | 潜在易错点：作品作者归属错位 | 真作者、名义作者、朗读者和评价者并非同一人 | Ralph's poem was copied and presented by Franklin, then praised by Osborne. | 人名与 `his / mine / yours` 频繁切换，听懂句子仍可能把作品归错人。 | 用 author / presenter / evaluator / revealed identity 四栏。 | 1 场文学测试 |
 | 潜在易错点：印刷所非正式规则 | 外来语、行业黑话和群体惩罚共同决定真实规则 | bienvenu; chapel ghost; chapel laws; Saint Monday | 按字面理解会误以为宗教、鬼故事或普通酒钱，无法看出入会费、同伴压力和出勤文化。 | 建 official rule / informal norm / sanction / business impact 四栏。 | 1 个完整职场场景 |
+| 潜在易错点：学习方法步骤失序 | 多个相似动作连续出现，真正价值在执行顺序 | make hints → lay them by → reconstruct → compare → correct | `papers / hints / original` 反复出现，若只记关键词会漏掉等待和比较的先后关系。 | 把每一步改写成动词卡片，打乱后重新排序。 | 1 条六步写作训练链 |
+| 潜在易错点：公开文件与秘密文件错位 | 同一学徒关系同时存在已解除的旧契约和秘密新契约 | old indenture publicly discharged / new indentures kept private | 如果只听到 `indenture`，会把两份文件合并，无法理解 Franklin 后来如何利用制度漏洞离开。 | 记录 document / visibility / purpose / legal effect 四栏。 | 1 组双契约 |
+| 潜在易错点：多交通方式路线链 | 步行、定期船、临时船、划船和夜宿不断切换 | New York → Amboy → Burlington → Cooper's Creek → Philadelphia | 地名与交通方式交替出现，后一段很容易覆盖前一段。 | 画 route / mode / obstacle / next action 四列时间线。 | 1 条跨州旅程 |
+| 潜在易错点：叙述者与编者数字冲突 | 正文回忆、晚年补充和脚注对同一事实使用不同数字 | second newspaper / five-and-twenty in 1771 / really the fifth | 不识别朗读层级时，会以为说话者在同一句中自相矛盾。 | 每次听到脚注说明先标 source，再记录数字。 | 1 组报纸数量 |
+| 潜在易错点：历史钱币与商品数量错配 | 钱币单位、价格和商品数量不是一一对应 | Dutch dollar + shilling in copper + three-penny worth = three rolls | 不熟当地币制和商品名称时，容易把“三便士”误当成“一只三便士面包”。 | 用 currency / requested amount / received item / quantity 四栏。 | 1 个面包购买场景 |

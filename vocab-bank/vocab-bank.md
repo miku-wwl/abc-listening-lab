@@ -190,3 +190,13 @@
 | set someone up in business | 出资或提供条件帮助某人创业 | 父亲和 Keith 对是否资助 Franklin 开印刷所态度不同 | His family helped set him up in business. | 高 | 2026-06-30 新收录 |
 | make interest with someone | 托关系、请某人出面帮忙 | 印刷工欠酒钱后请 Franklin 帮他们继续赊账 | They made interest with a colleague who had the manager's trust. | 中 | 2026-06-30 新收录 |
 | be on a fair footing with | 与某人处于公平、正常或被接纳的关系 | Franklin 支付入会酒钱后与排字工恢复正常关系 | Clear rules put every contractor on a fair footing with the team. | 高 | 2026-06-30 新收录 |
+| lay out money in / on something | 把钱花在某物上 | Franklin 从小把零花钱都用于买书 | She laid out most of her training budget on technical books. | 高 | 2026-07-01 新收录 |
+| turn something to account | 利用某物产生实际收益 | Franklin 的哥哥认为歌谣可能卖钱 | The team turned its operational experience to account in the new design. | 高 | 2026-07-01 新收录 |
+| copy something fair | 把草稿清楚、工整地誊写成正式版本 | Franklin 把自己的论点誊清后寄给 Collins | He copied the proposal fair before sending it to the committee. | 中 | 2026-07-01 新收录 |
+| fall far short in / of | 在某方面远远不足；远未达到标准 | 父亲指出 Franklin 的文风在优雅、结构和清晰度上不足 | The draft fell far short of the required clarity. | 高 | 重复出现；2026-06-28 已收录 `fall far short of`，本次补充 `in` 搭配 |
+| put on the humble inquirer and doubter | 摆出谦逊提问、保留怀疑的姿态 | Franklin 用提问代替直接反驳 | In the review, she put on the humble inquirer rather than attacking the proposal. | 中 | 2026-07-01 新收录 |
+| try one's hand at something | 尝试亲自做某事 | Franklin 听到别人讨论报纸文章后也匿名投稿 | He tried his hand at writing a technical newsletter. | 高 | 2026-07-01 新收录 |
+| take something amiss | 因某事感到被冒犯、不满或委屈 | Franklin 对哥哥经常打他非常不满 | She took the dismissive remark amiss. | 高 | 2026-07-01 新收录 |
+| make a shift to do something | 设法、勉强做到某事 | 风势减弱后，一行人勉强抵达 Amboy | We made a shift to keep the service running until dawn. | 中 | 2026-07-01 新收录 |
+| cut a miserable figure | 显得非常狼狈、可怜或不得体 | Franklin 淋雨步行后被怀疑是逃跑的仆人 | After the overnight journey, he cut a miserable figure. | 中 | 2026-07-01 新收录 |
+| draw someone on by artful questions | 用巧妙问题引导某人继续透露信息 | 老 Bradford 诱导 Keimer 说出经营计划 | The interviewer drew him on by artful questions until the assumptions became clear. | 中 | 2026-07-01 新收录 |
