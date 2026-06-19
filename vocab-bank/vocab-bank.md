@@ -182,3 +182,11 @@
 | take a debt upon oneself | 承担某笔债务 | Franklin 接下公司债务，换取 Meredith 退出合伙 | She took the company's debts upon herself as part of the settlement. | 高 | 2026-06-29 新收录 |
 | give bail | 提供保释金或诉讼担保 | 商人起诉合伙企业后，Franklin 等人提供担保 | The defendants gave bail while the case proceeded. | 中 | 2026-06-29 新收录 |
 | slacken the opposition | 使反对力量减弱 | 反对纸币扩张的一方无人有效回应，小册子使其阻力下降 | A clear public explanation helped slacken the opposition. | 高 | 2026-06-29 新收录 |
+| give a flat denial | 明确、断然拒绝 | Franklin 的父亲拒绝立即资助他开设印刷业务 | The board gave a flat denial to the request for an exception. | 高 | 2026-06-30 新收录 |
+| be liberal of promises | 很慷慨地许诺，常暗示承诺多而兑现少 | Franklin 回顾 Governor Keith 一贯给出大量承诺 | A weak sponsor may be liberal of promises but short on delivery. | 高 | 2026-06-30 新收录 |
+| give expectations | 只给希望或期待，而没有实际帮助 | Keith 没有资源可给，却通过空头承诺讨好众人 | The announcement gave expectations without providing a funded plan. | 高 | 2026-06-30 新收录 |
+| rub on from hand to mouth | 勉强维持生活，赚多少花多少 | Franklin 与 Ralph 花光钱后在伦敦艰难度日 | They rubbed on from hand to mouth until steady work arrived. | 中 | 2026-06-30 新收录 |
+| be upon one's guard | 保持警惕、提防危险 | Quaker 女士提醒 Franklin 警惕两名陌生女子 | Be upon your guard when an offer depends on secrecy and urgency. | 高 | 2026-06-30 新收录 |
+| set someone up in business | 出资或提供条件帮助某人创业 | 父亲和 Keith 对是否资助 Franklin 开印刷所态度不同 | His family helped set him up in business. | 高 | 2026-06-30 新收录 |
+| make interest with someone | 托关系、请某人出面帮忙 | 印刷工欠酒钱后请 Franklin 帮他们继续赊账 | They made interest with a colleague who had the manager's trust. | 中 | 2026-06-30 新收录 |
+| be on a fair footing with | 与某人处于公平、正常或被接纳的关系 | Franklin 支付入会酒钱后与排字工恢复正常关系 | Clear rules put every contractor on a fair footing with the team. | 高 | 2026-06-30 新收录 |

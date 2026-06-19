@@ -1176,3 +1176,85 @@
 - 连读 / 弱读提示：按四项义务分拍；重读 `company debts / father / hundred pounds / personal debts / thirty pounds / saddle`。
 - 中文意思：你承担公司债务，退还我父亲投入的 100 英镑，替我偿还个人小债，再给我 30 英镑和一副新马鞍。
 - 跟读次数建议：18 次
+
+## 2026-06-30
+
+### 1
+
+- 日期：2026-06-30
+- 时间戳：00:03:18–00:03:32
+- 原句：By steady industry and a prudent parsimony, I might save enough by the time I was twenty-one to set me up.
+- 慢速拆解：By steady industry / and a prudent parsimony / I might save enough / by the time I was twenty-one / to set me up.
+- 连读 / 弱读提示：`by steady`、`and a prudent`、`by the time I was` 可能压缩；重读 `industry / parsimony / twenty-one / set me up`。
+- 中文意思：靠持续勤奋和谨慎节俭，我也许能在 21 岁前攒够创业资金。
+- 跟读次数建议：14 次
+
+### 2
+
+- 日期：2026-06-30
+- 时间戳：00:04:42–00:05:03
+- 原句：If thou art not upon thy guard, they will draw thee into some danger.
+- 慢速拆解：If thou art not / upon thy guard / they will draw thee / into some danger.
+- 连读 / 弱读提示：先用现代英语理解为 `If you are not on your guard`；强读否定 `not` 和结果 `danger`。
+- 中文意思：如果你不保持警惕，她们会把你带入某种危险。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-30
+- 时间戳：00:10:57–00:11:11
+- 原句：It was his known character to be liberal of promises which he never meant to keep.
+- 慢速拆解：It was his known character / to be liberal of promises / which he never meant / to keep.
+- 连读 / 弱读提示：`liberal of promises` 和 `meant to keep` 可能压缩；重读反讽骨架 `promises / never / keep`。
+- 中文意思：他一向很会慷慨许诺，但从未打算兑现。
+- 跟读次数建议：14 次
+
+### 4
+
+- 日期：2026-06-30
+- 时间戳：00:12:49–00:13:34
+- 原句：So convenient a thing it is to be a reasonable creature, since it enables one to find or make a reason for everything one has a mind to do.
+- 慢速拆解：So convenient a thing it is / to be a reasonable creature / since it enables one / to find or make a reason / for everything / one has a mind to do.
+- 连读 / 弱读提示：这是反讽；两次 `one` 都是泛指“人”；重读 `convenient / reasonable / find or make a reason / mind to do`。
+- 中文意思：做一个“有理性”的人真方便，因为人总能为自己想做的事找到或制造理由。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-06-30
+- 时间戳：00:24:16–00:24:44
+- 原句：The governor, seeming to like my company, had me frequently to his house, and his setting me up was always mentioned as a fixed thing.
+- 慢速拆解：The governor / seeming to like my company / had me frequently to his house / and his setting me up / was always mentioned / as a fixed thing.
+- 连读 / 弱读提示：插入语后恢复主干；`his setting me up` 是动名词主语；重读 `frequently / setting me up / fixed thing`。
+- 中文意思：总督似乎喜欢我的陪伴，常请我去家里，并一直把资助我创业说成已经确定的事。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-06-30
+- 时间戳：00:30:35–00:30:52
+- 原句：He wished to please everybody, and, having little to give, he gave expectations.
+- 慢速拆解：He wished / to please everybody / and having little to give / he gave expectations.
+- 连读 / 弱读提示：让步原因插在中间；强读对比 `little to give / gave expectations`。
+- 中文意思：他想讨好所有人，而自己没什么可给，于是只给别人期待。
+- 跟读次数建议：12 次
+
+### 7
+
+- 日期：2026-06-30
+- 时间戳：00:38:57–00:39:24
+- 原句：They wondered to see, from this and several instances, that the Water-American, as they called me, was stronger than themselves who drank strong beer.
+- 慢速拆解：They wondered to see / from this and several instances / that the Water-American / as they called me / was stronger than themselves / who drank strong beer.
+- 连读 / 弱读提示：两个插入块前后恢复 `They saw that the Water-American was stronger`；重读比较两端。
+- 中文意思：他们从这些事情中惊讶地发现，被称为“喝水的美国人”的我，比喝烈啤酒的他们更强壮。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-06-30
+- 时间戳：00:41:20–00:41:32
+- 原句：I found myself obliged to comply and pay the money, convinced of the folly of being on ill terms with those one is to live with continually.
+- 慢速拆解：I found myself obliged / to comply and pay the money / convinced of the folly / of being on ill terms / with those / one is to live with continually.
+- 连读 / 弱读提示：长尾理由中抓住 `folly / ill terms / live with continually`；`one` 是泛指人。
+- 中文意思：我最终不得不妥协付款，因为我认识到与必须长期共事的人关系不佳是愚蠢的。
+- 跟读次数建议：16 次
