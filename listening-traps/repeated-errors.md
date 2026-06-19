@@ -84,3 +84,8 @@
 | 潜在易错点：环境争议多方立场 | 企业、工人、社区、环保人士和审批机关围绕同一项目交替发言 | mine closure/jobs/smelter supply vs rainforest/heritage/environment approval | 若只抓到某一受访者，会把整篇报道误判成单一支持或反对立场。 | 用 stakeholder / claim / evidence / desired outcome 四栏复述。 | 1 个完整争议报道 |
 | 潜在易错点：日值、累计值与渠道混合 | tests 和 vaccines 两类指标交替，每类又有 daily/cumulative/channel 差异 | 19,502 tests; 7 million tests; 12,242 state vaccines; 900,000 state total; 2 million Victoria total | 数字单位相似，后一个累计值会覆盖前一个日值，渠道差异也容易丢失。 | 每个数字必须附 metric + period + provider，不接受单独数字笔记。 | 5 个连续统计值 |
 | 潜在易错点：开头承接与结尾截断 | 文件不是完整节目单位，首句从前文中间开始，末句未说完 | `because of the system...`; `we're actually bringing in staff...` | 学习者可能为了补全意义而无意识编造缺失上下文或数字。 | 明确标记 `[starts mid-discussion] / [truncated]`，只分析可见证据，不猜缺失内容。 | 2 个边界缺口 |
+| 潜在易错点：关键名词被整体漏失 | `diagnosed with ...` 后漏掉 `autism`，也漏掉比较货币和部分谓语 | Jack was diagnosed with **[missing]**. | 句型框架仍成立时，容易忽略转写本身存在空洞。 | 必需论元缺失时标 `[ASR omission]`；有可靠上下文才补候选词。 | 3 个明显漏失 |
+| 潜在易错点：澳洲社会口语熟词化 | `houso` 被写成 `household / house oh` | I wanted to be Rob the fighter, not Rob the houso. | 非正式澳洲词不符合标准词汇预测，ASR 和学习者都会向高频熟词靠拢。 | 建立澳洲口语卡片：拼写 / 语境 / 标准英语释义 / 原句。 | 1 个高频词，多次出现 |
+| 潜在易错点：同类百分比跨对象 | 18.50、1%–4%、25 years、0.25%、2%、1.5% 分属碳价、回报、期限、利率和通胀 | Carbon credits trade at $18.50; the RBNZ held at 0.25 percent. | 商业新闻数字共享相似单位，后一个数字会覆盖前一个对象。 | 每个数字后立即写 metric 标签，不允许只抄裸数字。 | 8+ 个商业数字 |
+| 潜在易错点：访谈口语重启升级 | 同一回答里多次重复主语、否定、自我修正和未完成句 | I don't want to get—I don't want to get locked into it. | 期待完整书面句会造成“我漏听了”的错觉。 | 第一遍只抓结论；第二遍标 restart / correction；复述时再整理。 | 贯穿整段访谈 |
+| 潜在易错点：品牌与运动类别混淆 | UFC、MMA、company、sport 快速交替 | UFC is the company; MMA is the sport. | 常把赛事品牌直接当作运动名称，听到近义上下文时不区分层级。 | 做 category card：entity / type / relationship。 | 1 个核心概念组 |

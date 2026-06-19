@@ -1504,3 +1504,95 @@
 - 连读 / 弱读提示：插入语前后恢复主干 `We can never be ... reliant`；重读 `never ever / 100 percent / global supply`。
 - 中文意思：面对疫情，我们绝不能处于完全依赖全球疫苗供应的境地。
 - 跟读次数建议：16 次
+
+## 2026-07-04
+
+### 1
+
+- 日期：2026-07-04
+- 时间戳：00:01:15–00:01:45
+- 原句：Carbon credits currently trade at around $18.50, but the question is how much they're going to be worth in the future.
+- 慢速拆解：Carbon credits / currently trade / at around $18.50 / but the question is / how much they're going to be worth / in the future.
+- 连读 / 弱读提示：用 `but` 切开现价和未来价值；重读 `18.50 / worth / future`。
+- 中文意思：碳信用目前约为 18.50 澳元，但关键是未来会值多少钱。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-04
+- 时间戳：00:05:18–00:05:43
+- 原句：The New Zealand central bank kept rates on hold at 0.25 percent, but said New Zealanders could see a rate rise as early as next year.
+- 慢速拆解：The New Zealand central bank / kept rates on hold / at 0.25 percent / but said / New Zealanders could see / a rate rise / as early as next year.
+- 连读 / 弱读提示：`kept rates` 辅音衔接紧；用 `but` 分开当前政策与未来指引。
+- 中文意思：新西兰央行维持 0.25% 利率，但表示最早次年可能加息。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-04
+- 时间戳：00:07:38–00:08:03
+- 原句：UFC is just a brand, really; it's a company that hosts MMA fights. MMA is the sport.
+- 慢速拆解：UFC is just a brand / really / it's a company / that hosts MMA fights / MMA is the sport.
+- 连读 / 弱读提示：重读类别词 `brand / company / sport`；缩写逐字母清楚读。
+- 中文意思：UFC 是品牌和举办比赛的公司，MMA 才是运动。
+- 跟读次数建议：14 次
+
+### 4
+
+- 日期：2026-07-04
+- 时间戳：00:13:58–00:14:21
+- 原句：I wanted to be Rob the fighter, not Rob the houso, and that's what drove me to fighting.
+- 慢速拆解：I wanted to be / Rob the fighter / not Rob the houso / and that's what drove me / to fighting.
+- 连读 / 弱读提示：强读身份对比 `fighter / houso`；`that's what drove me to` 可整块练。
+- 中文意思：我想成为“拳手 Rob”，而不是“住公屋的 Rob”，这推动我走向格斗。
+- 跟读次数建议：18 次
+
+### 5
+
+- 日期：2026-07-04
+- 时间戳：00:14:55–00:15:39
+- 原句：I walk around out of season at about 98 kilos, but I fight at 84, so it takes a lot of diet and training to bring my weight down.
+- 慢速拆解：I walk around / out of season / at about 98 kilos / but I fight at 84 / so it takes / a lot of diet and training / to bring my weight down.
+- 连读 / 弱读提示：用 `but / so` 固定比较和因果；两个体重后立刻补标签。
+- 中文意思：我非赛期约 98 公斤，但参加 84 公斤级，所以要大量控制饮食和训练减重。
+- 跟读次数建议：18 次
+
+### 6
+
+- 日期：2026-07-04
+- 时间戳：00:18:30–00:19:08
+- 原句：When I'm walking out, it's about putting up invisible glass walls to block me from the crowd, because once the fight starts there's no thinking—it's instinct.
+- 慢速拆解：When I'm walking out / it's about putting up / invisible glass walls / to block me from the crowd / because once the fight starts / there's no thinking / it's instinct.
+- 连读 / 弱读提示：先守住隐喻主干；结尾 `no thinking—instinct` 用短促节奏突出。
+- 中文意思：入场时我会在心理上筑起玻璃墙隔绝观众，因为开打后没有思考时间，只剩本能。
+- 跟读次数建议：18 次
+
+### 7
+
+- 日期：2026-07-04
+- 时间戳：00:22:43–00:24:13
+- 原句：I was burnt out before that fight, and the loss was the catalyst for changing the way I trained and finding the fun in the process again.
+- 慢速拆解：I was burnt out / before that fight / and the loss was the catalyst / for changing the way I trained / and finding the fun / in the process again.
+- 连读 / 弱读提示：重读 `burnt out / loss / catalyst / changing / fun`。
+- 中文意思：那场比赛前我已经倦怠，而失利成为改变训练、重新找到过程乐趣的催化剂。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-07-04
+- 时间戳：00:32:50–00:33:28
+- 原句：I've got a soft cap at 35, but that changes depending on my body; if my body's still good, my head's still good and my family's happy, I'll keep going.
+- 慢速拆解：I've got a soft cap / at 35 / but that changes / depending on my body / if my body's still good / my head's still good / and my family's happy / I'll keep going.
+- 连读 / 弱读提示：`but / if` 标记计划与条件；并列条件保持同一节奏。
+- 中文意思：35 岁是软性退役线，但会根据身体决定；如果身体、脑部和家庭都好，我会继续。
+- 跟读次数建议：18 次
+
+### 8
+
+- 日期：2026-06-28
+- 时间戳：00:44:52–00:45:09
+- 原句：Though my scheme was not wholly without religion, there was in it no mark of any of the distinguishing tenets of any particular sect.
+- 慢速拆解：Though my scheme / was not wholly without religion / there was in it / no mark / of any of the distinguishing tenets / of any particular sect.
+- 连读 / 弱读提示：`not wholly without` 是双重限定，不能只听成 `without religion`；区分 `tenets` 与 `tenants`。
+- 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
+- 跟读次数建议：14 次

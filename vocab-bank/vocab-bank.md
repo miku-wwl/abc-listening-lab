@@ -222,3 +222,13 @@
 | front the independent trade umpire | 到独立贸易裁决机构前接受审理；新闻化表达 | 澳洲将中国葡萄酒关税争议提交 WTO | Both sides may have to front the independent trade umpire. | 中 | 2026-07-03 新收录 |
 | get one's arms wrapped around | 全面掌握、控制并妥善处理某问题 | Victoria 官员称隔离病例已被公共卫生团队控制和支持 | Authorities have their arms wrapped around the cluster. | 高 | 2026-07-03 新收录 |
 | for the seventh consecutive month | 连续第七个月 | 澳洲失业率连续第七个月下降 | Unemployment fell for the seventh consecutive month. | 中 | 2026-07-03 新收录 |
+| carbon sequestration | 碳封存；把二氧化碳长期储存在土壤或植被中 | 再生农业基金计划通过改善土壤产生碳信用 | Soil carbon sequestration can create an additional income stream. | 高 | 2026-07-04 新收录 |
+| revenue stream | 持续收入来源 | 主持人询问出售碳信用可能创造多大收入 | Carbon credits may become a valuable revenue stream. | 高 | 2026-07-04 新收录 |
+| per annum | 每年；按年计算 | 嘉宾讨论未来 25 年每年额外 1%–4% 的潜在回报 | The fund may add four percent per annum. | 高 | 2026-07-04 新收录 |
+| either side of square | 在持平点上下小幅波动 | 市场缺少方向，指数围绕零涨跌 | The market traded a few points either side of square. | 中 | 2026-07-04 新收录 |
+| tailwind / headwind | 推动因素 / 阻力因素 | 低利率和强劲楼市曾推动银行股，未来可能转成阻力 | Low rates were a tailwind, but inflation may become a headwind. | 高 | 2026-07-04 新收录 |
+| get to grips with | 开始理解并有效处理复杂问题 | Whittaker 思考格斗究竟是工作、运动还是生活方式 | He is trying to get to grips with what fighting means. | 高 | 2026-07-04 新收录 |
+| get under someone's skin | 激怒某人；让某人心烦 | 其他孩子用 `houso` 嘲笑年幼的 Whittaker | The insult used to get under his skin. | 高 | 2026-07-04 新收录 |
+| cut corners | 为省事而降低标准、走捷径 | 他从父亲那里学到做正确的事并且不要走捷径 | Good fighters cannot cut corners in training. | 高 | 2026-07-04 新收录 |
+| switch off | 暂时停止思考压力源；放空 | 他用游戏和阅读从赛前压力中抽离 | Reading helps him switch off before a fight. | 高 | 2026-07-04 新收录 |
+| hang up the boots | 退役；结束运动员生涯 | 35 岁是他计划退役的软性上限 | He may hang up the boots at 35. | 高 | 2026-07-04 新收录 |
