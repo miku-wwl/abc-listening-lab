@@ -1012,3 +1012,85 @@
 - 连读 / 弱读提示：`concluded to give`、`stroke of his oratory`、`ashamed of that` 可能压缩；重读升级点 `coppers / ashamed / silver`。
 - 中文意思：我先决定只给铜币，但他的下一波演说让我觉得这样太小气，于是改为给银币。
 - 跟读次数建议：12 次
+
+## 2026-06-28
+
+### 1
+
+- 日期：2026-06-28
+- 时间戳：00:00:07–00:00:37
+- 原句：The utility of this currency became by time and experience so evident as never afterwards to be much disputed.
+- 慢速拆解：The utility of this currency / became by time and experience / so evident / as never afterwards / to be much disputed.
+- 连读 / 弱读提示：`utility of this`、`by time and experience`、`to be much disputed` 可能压缩；重读主干 `utility / became evident / disputed`。
+- 中文意思：这种纸币的效用经时间和经验变得非常明显，后来几乎不再受到质疑。
+- 跟读次数建议：14 次
+
+### 2
+
+- 日期：2026-06-28
+- 时间戳：00:02:10–00:02:23
+- 原句：I took care not only to be in reality industrious and frugal, but to avoid all appearances to the contrary.
+- 慢速拆解：I took care / not only to be in reality / industrious and frugal / but to avoid / all appearances / to the contrary.
+- 连读 / 弱读提示：必须强读 `not only / but`；`to be in reality` 和 `appearances to the contrary` 容易连成一串。
+- 中文意思：我不仅真正勤劳节俭，也避免给人留下相反的印象。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-06-28
+- 时间戳：00:03:35–00:03:43
+- 原句：I therefore proposed a partnership to him, which he, fortunately for me, rejected with scorn.
+- 慢速拆解：I therefore proposed / a partnership to him / which he / fortunately for me / rejected with scorn.
+- 连读 / 弱读提示：插入语前后要恢复主干 `which he rejected`；重读评价反转 `fortunately for me`。
+- 中文意思：我向他提议合伙，他轻蔑地拒绝了，而这后来反倒对我有利。
+- 跟读次数建议：12 次
+
+### 4
+
+- 日期：2026-06-28
+- 时间戳：00:11:20–00:11:42
+- 原句：I set on foot my first project of a public nature, that for a subscription library.
+- 慢速拆解：I set on foot / my first project / of a public nature / that for / a subscription library.
+- 连读 / 弱读提示：把 `set on foot` 当一个语块；`that for a` 可能弱读，实际回指 `project`。
+- 中文意思：我启动了第一个公共性质的项目——订阅图书馆。
+- 跟读次数建议：10 次
+
+### 5
+
+- 日期：2026-06-28
+- 时间戳：00:18:34–00:19:20
+- 原句：Seest thou a man diligent in his calling? He shall stand before kings; he shall not stand before mean men.
+- 慢速拆解：Seest thou a man / diligent in his calling / he shall stand before kings / he shall not stand / before mean men.
+- 连读 / 弱读提示：先用现代形式理解 `Do you see a man ...?`；两次 `stand before` 保持平行，强读 `kings / not / mean men`。
+- 中文意思：你看那勤勉于本业的人；他将站在君王面前，而不是卑微之人面前。
+- 跟读次数建议：14 次
+
+### 6
+
+- 日期：2026-06-28
+- 时间戳：00:26:42–00:27:28
+- 原句：The mere speculative conviction that it was our interest to be completely virtuous was not sufficient to prevent our slipping.
+- 慢速拆解：The mere speculative conviction / that it was our interest / to be completely virtuous / was not sufficient / to prevent our slipping.
+- 连读 / 弱读提示：长主语后才出现谓语 `was not sufficient`；重读逻辑骨架 `conviction / not sufficient / slipping`。
+- 中文意思：仅在理论上知道完全有德对自己有利，并不足以阻止我们犯错。
+- 跟读次数建议：14 次
+
+### 7
+
+- 日期：2026-06-28
+- 时间戳：00:42:12–00:42:44
+- 原句：Though I never arrived at the perfection I had been so ambitious of obtaining, but fell far short of it, yet I was, by the endeavour, a better and a happier man.
+- 慢速拆解：Though I never arrived / at the perfection / I had been so ambitious of obtaining / but fell far short of it / yet I was / by the endeavour / a better and a happier man.
+- 连读 / 弱读提示：用三段重音保持让步关系：`never arrived / fell far short / yet better and happier`。
+- 中文意思：虽然我没有达到渴望的完美、甚至相差很远，但这番努力仍使我成为更好、更快乐的人。
+- 跟读次数建议：16 次
+
+### 8
+
+- 日期：2026-06-28
+- 时间戳：00:44:52–00:45:09
+- 原句：Though my scheme was not wholly without religion, there was in it no mark of any of the distinguishing tenets of any particular sect.
+- 慢速拆解：Though my scheme / was not wholly without religion / there was in it / no mark / of any of the distinguishing tenets / of any particular sect.
+- 连读 / 弱读提示：`not wholly without` 是双重限定，不能只听成 `without religion`；区分 `tenets` 与 `tenants`。
+- 中文意思：这套方法并非完全没有宗教内容，但不带任何特定教派的标志。
+- 跟读次数建议：14 次

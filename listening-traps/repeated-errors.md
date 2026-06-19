@@ -50,3 +50,8 @@
 | 潜在易错点：说服中的金额升级 | 钱币或承诺不是并列清单，而是按心理变化逐步升级 | nothing → coppers → silver → gold and all | 后一个金额层级会覆盖前一个，且真正重点是态度变化而非钱币名称。 | 画 persuasion ladder，按时间顺序复述每次立场改变。 | 1 条完整募捐链 |
 | 潜在易错点：双人物格言回指 | 同一句中两个 `he` 指向两类不同的人 | He who has done you a kindness ... than he whom you have obliged. | 古典语序和重复代词会让两类人物合并，`obliged` 也容易套入现代“有义务”含义。 | 先给人物标 A/B，再把每个代词展开成完整名词短语。 | 1 条格言 |
 | 潜在易错点：字面比喻承载论证 | 先描述具体画面，再用它证明抽象教育观点 | Climbing to the top of a staircase without using the steps. | 如果注意力停在楼梯画面，就会漏掉它在论证“现代语言应先于拉丁语”的功能。 | 做 literal image / target argument 两栏；听完必须说出比喻映射。 | 1 个长比喻 |
+| 潜在易错点：二选一长句延迟结论 | 先铺陈两个假设，句尾才用 `the former / the latter` 选择 | real change of sentiment / only artifice ... I suspect the latter | 工作记忆容易在长解释中丢失 A、B 的顺序，最后即使听到 `latter` 也不知道它指哪项。 | 立即写 A/B 两栏；在听到结论前不提前判断。 | 1 个 80+ 秒婚事长句 |
+| 潜在易错点：同一事件重复叙述 | 作者在不同写作阶段再次讲述同一个项目 | Junto 共用藏书和 subscription library 在第一、第二部分各出现一次 | 若只按线性音频理解，会误判为两个不同图书馆或一次新事件。 | 记录 event / narration time 两条时间线，并检查人物、金额、目的是否相同。 | 1 组重复叙述 |
+| 潜在易错点：抽象分类粒度 | `more names` 与 `fewer ideas` 同时出现，描述更细的分类 | use more names, with fewer ideas annexed to each | 中文直觉容易把 more/fewer 听成自相矛盾，漏掉“每个类别覆盖范围变窄”。 | 用大框变多个小框的图示复述，不逐词翻译。 | 1 个美德分类原则 |
+| 潜在易错点：多层引文切换 | 正文连续切入脚注、经文、诗歌、祷文和编者评论 | Proverbs → Addison → Cicero → prayer → Thomson → editor's footnote | 缺少明显说话人标签时，容易把引文内容当成 Franklin 当前叙事或个人结论。 | 每次遇到 `footnote / motto / prayer / another from` 就切换 source 标签。 | 6+ 次层级切换 |
+| 潜在易错点：完美目标与过程收益 | 作者先承认失败，再肯定努力本身的价值 | fell far short of perfection, yet became better and happier | 若只抓到 `never / far short` 会误判为计划彻底失败；若只抓结尾又会忽略目标未实现。 | 记录 goal / result / secondary benefit 三栏，保留让步关系。 | 1 个核心总结 |

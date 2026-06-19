@@ -162,3 +162,15 @@
 | render accounts with clearness and punctuality | 清楚且准时地报账 | Franklin 把准确及时的账务视为获得新工作的强力信誉 | Contractors must render accounts with clearness and punctuality. | 高 | 2026-06-27 新收录 |
 | be out of one's right senses | 失去正常判断、被冲昏头脑 | 邻人认为 Hopkins 被 Whitefield 的演说打动得不够理智 | He seemed to be out of his right senses when he offered all his savings. | 中 | 2026-06-27 新收录 |
 | the terms on which people stand | 人与人相处的关系和条件 | Franklin 用一件往事说明自己与 Whitefield 的相处方式 | The exchange showed the friendly terms on which they stood. | 高 | 2026-06-27 新收录 |
+| avoid all appearances to the contrary | 避免给人留下与真实情况相反的印象 | Franklin 不仅真正勤劳节俭，也主动维护商业信誉 | A new supplier should avoid all appearances to the contrary when claiming financial discipline. | 高 | 2026-06-28 新收录 |
+| go on swimmingly | 进展十分顺利 | Franklin 的印刷和文具业务逐渐顺利发展 | After the first migration issue was fixed, the rollout went on swimmingly. | 中 | 2026-06-28 新收录 |
+| reject something with scorn | 轻蔑地拒绝某事 | David Harry 拒绝 Franklin 的合伙提议，后来反而使 Franklin 受益 | The rival rejected the partnership with scorn. | 中 | 2026-06-28 新收录 |
+| set a project on foot | 发起并启动一个项目 | Franklin 发起公共订阅图书馆 | The engineers set a reliability programme on foot. | 高 | 2026-06-28 新收录 |
+| put oneself out of sight | 淡化自己的存在或功劳 | Franklin 为减少嫉妒和阻力，不把自己包装成公共项目的唯一发起人 | She put herself out of sight and presented the proposal as a team effort. | 中 | 2026-06-28 新收录 |
+| do justice by someone | 公正评价某人；把应得功劳归还给某人 | 即使有人冒领功劳，公众最后也可能把荣誉还给真正发起者 | The final report did justice by the engineers who had designed the system. | 中 | 2026-06-28 新收录 |
+| stand before kings | 因勤勉和能力进入最高层人物面前 | Franklin 引用《箴言》，并幽默地说自己后来真的见过多位国王 | Technical excellence may allow an engineer to stand before kings. | 中 | 2026-06-28 新收录 |
+| make progress in spite of principle | 不顾原先原则而逐渐发展 | 瓷器和银器进入 Franklin 家庭，象征消费升级逐步发生 | Convenience can make progress in spite of a team's minimalist principles. | 中 | 2026-06-28 新收录 |
+| inculcate a moral principle | 反复教导并强化一种道德原则 | Franklin 批评讲道只讲宗派教义，没有灌输道德原则 | Education should inculcate sound judgment rather than rote obedience. | 高 | 2026-06-28 新收录 |
+| a speculative conviction | 仅停留在理论层面的确信 | 只知道完整美德符合自身利益，并不足以形成稳定行为 | A speculative conviction about security does not replace secure defaults. | 高 | 2026-06-28 新收录 |
+| fall far short of | 远未达到目标或标准 | Franklin 承认自己离道德完美相差很远 | The first prototype fell far short of production requirements. | 高 | 2026-06-28 新收录 |
+| a speckled ax | 接受仍有瑕疵但已经可用的结果；不再追求彻底完美 | Franklin 用磨斧寓言说明人会因改进太费力而接受不完美 | The design is not flawless, but a speckled ax may be better than an unfinished one. | 高 | 2026-06-28 新收录 |
