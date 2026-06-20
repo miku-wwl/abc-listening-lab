@@ -254,3 +254,13 @@
 | delve deeper into | 更深入研究 | textbook 提供 SPBM 和层级地址的更多细节 | The paper delves deeper into geographic routing. | 中 | 2026-07-06 新收录 |
 | a trade-off between A and B | A 与 B 之间的权衡 | multicast splitting 在转发节点数和路径最优性之间取舍 | The design is a trade-off between energy use and route quality. | 高 | 2026-07-06 新收录 |
 | room for improvement | 仍有改进空间 | 没有一种 routing algorithm 对所有场景都最优 | The protocol works, but there is still room for improvement. | 高 | 2026-07-06 新收录 |
+| draw something up | 起草、画出、整理出一个方案 | 老师要求学生先把项目方案整理出来，方便判断可行性 | Draw up your project scope before asking for feedback. | 高 | 2026-07-07 新收录 |
+| plausible and feasible | 听起来合理且实际可执行 | 老师评估 Assignment 1 项目能否执行 | The proposal is plausible, but not feasible with the hardware we have. | 高 | 2026-07-07 新收录 |
+| split up into groups | 分成小组 | 老师让线上学生分组开始讨论 | Split up into groups and decide who owns each part. | 中 | 2026-07-07 新收录 |
+| delegate who does what | 分配每个人负责什么 | Assignment 1 小组分工 | The team needs to delegate who does what before writing the report. | 高 | 2026-07-07 新收录 |
+| business case | 商业/实际价值理由；为什么这个方案值得做 | smart city 子系统不能只采数据，还要说明用途 | A sensor project needs a clear business case. | 高 | 2026-07-07 新收录 |
+| visualize the data | 把数据可视化 | 项目要求 low-power network 采集的数据要展示出来 | The dashboard visualizes the data from the sensors. | 高 | 2026-07-07 重复：与 dashboard / monitoring 相关 |
+| custom image | 定制系统镜像 | Raspberry Pi 需要课程提供的特定 image | The lab relies on a custom Raspberry Pi image. | 高 | 2026-07-07 新收录 |
+| set up headless | 无显示器/键盘地配置设备 | 是否需要 USB-to-serial cable 的讨论 | You can set up the Pi headless if you have a serial cable. | 高 | 2026-07-07 新收录 |
+| USB-to-serial cable | USB 转串口线 | 学生问是否必须购买 | A USB-to-serial cable is useful for headless setup. | 中 | 2026-07-07 新收录 |
+| connect via SSH remotely | 通过 SSH 远程连接 | 用 monitor 设置 Wi-Fi 后，可用 IP 地址 SSH 连接 Raspberry Pi | Once you have the IP address, connect via SSH remotely. | 高 | 2026-07-07 重复：技术 setup 场景 |

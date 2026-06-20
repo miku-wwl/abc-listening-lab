@@ -1761,3 +1761,73 @@
 - 连读 / 弱读提示：强读否定范围 `No ... every`；并列项保持稳定节奏。
 - 中文意思：没有一种路由算法适用于所有网络；正确设计取决于应用、安全、硬件、能量容量和成本。
 - 跟读次数建议：18 次
+
+### 1
+
+- 日期：2026-07-07
+- 时间戳：00:00:08–00:00:24
+- 原句：Draw it up so that I can give you my opinion on whether I think it's plausible and feasible in terms of executing.
+- 慢速拆解：Draw it up / so that I can give you my opinion / on whether I think / it's plausible and feasible / in terms of executing.
+- 连读 / 弱读提示：`draw it up` 可连成一块；`so that I can` 中功能词弱读；强读 `plausible / feasible / executing`。
+- 中文意思：把方案整理出来，这样我才能判断它是否合理、是否可执行。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-07
+- 时间戳：00:01:45–00:02:02
+- 原句：Start delegating who's going to do what part of assignment one.
+- 慢速拆解：Start delegating / who's going to do / what part / of assignment one.
+- 连读 / 弱读提示：`going to` 可弱读为 `gonna`；`what part of` 中 `of` 很轻。
+- 中文意思：开始分配谁负责 Assignment 1 的哪一部分。
+- 跟读次数建议：14 次
+
+### 3
+
+- 日期：2026-07-07
+- 时间戳：00:02:40–00:03:36
+- 原句：It needs to be a low-power network, the data needs to be of value, and you've got to visualize that data.
+- 慢速拆解：It needs to be / a low-power network / the data needs to be / of value / and you've got to / visualize that data.
+- 连读 / 弱读提示：`needs to be` 和 `got to` 都会压缩；强读三个 requirement：`low-power network / value / visualize`。
+- 中文意思：它必须是低功耗网络，数据必须有价值，而且你必须把数据可视化。
+- 跟读次数建议：18 次
+
+### 4
+
+- 日期：2026-07-07
+- 时间戳：00:03:18–00:03:55
+- 原句：What you need to have is a low-power network, data visualized, and a business case for how this can be used.
+- 慢速拆解：What you need to have / is a low-power network / data visualized / and a business case / for how this can be used.
+- 连读 / 弱读提示：`what you need to have is` 前半很口语，别逐词追；强读 `business case`。
+- 中文意思：你需要有低功耗网络、数据可视化，以及说明这个东西如何使用的实际价值理由。
+- 跟读次数建议：18 次
+
+### 5
+
+- 日期：2026-07-07
+- 时间戳：00:08:14–00:08:31
+- 原句：Don't bother doing anything with the Raspberry Pi yet, because once we get that image, you'd have to erase everything you've done so far.
+- 慢速拆解：Don't bother doing anything / with the Raspberry Pi yet / because once we get that image / you'd have to erase everything / you've done so far.
+- 连读 / 弱读提示：强读否定行动 `Don't bother`；`you'd have to` 可能压缩。
+- 中文意思：现在先别动 Raspberry Pi，因为拿到正确镜像后，你可能得把之前做的都清掉。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-07
+- 时间戳：00:11:32–00:12:28
+- 原句：You don't need to do headless if you don't have a serial cable.
+- 慢速拆解：You don't need to / do headless / if you don't have / a serial cable.
+- 连读 / 弱读提示：两个 `don't` 都要保留；`serial cable` 是关键词，不要听成 `serial table`。
+- 中文意思：如果你没有串口线，就不需要做无头配置。
+- 跟读次数建议：16 次
+
+### 7
+
+- 日期：2026-07-07
+- 时间戳：00:14:32–00:14:56
+- 原句：Once you have the IP address, you can connect via SSH remotely and you won't need the serial cable.
+- 慢速拆解：Once you have / the IP address / you can connect / via SSH / remotely / and you won't need / the serial cable.
+- 连读 / 弱读提示：IP 和 SSH 逐字母读；强读流程词 `Once / connect / remotely / won't need`。
+- 中文意思：一旦拿到 IP 地址，你就可以通过 SSH 远程连接，也就不需要串口线了。
+- 跟读次数建议：18 次
