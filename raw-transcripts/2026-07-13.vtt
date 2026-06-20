@@ -1,0 +1,6139 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:28.840 --> 00:00:31.840
+so
+
+00:00:44.530 --> 00:00:47.569
+[Music]
+
+00:00:47.680 --> 00:00:50.879
+good evening everyone welcome to the
+
+00:00:49.840 --> 00:00:53.039
+third week
+
+00:00:50.879 --> 00:00:54.160
+and welcome to the lecture today's
+
+00:00:53.039 --> 00:00:58.239
+lecture
+
+00:00:54.160 --> 00:01:01.039
+um it's six o'clock exact now i'll give
+
+00:00:58.239 --> 00:01:04.239
+it perhaps one or two minutes and i'll
+
+00:01:01.039 --> 00:01:07.119
+let more people come in and join
+
+00:01:04.239 --> 00:01:09.600
+our group and then i will get started
+
+00:01:07.119 --> 00:01:13.840
+with today's lecture
+
+00:01:09.600 --> 00:01:13.840
+i hope you're all keeping well
+
+00:01:35.360 --> 00:01:41.840
+what about now nat is it is it still the
+
+00:01:38.840 --> 00:01:41.840
+same
+
+00:01:42.240 --> 00:01:55.840
+thank you
+
+00:02:13.240 --> 00:02:16.289
+[Music]
+
+00:02:35.280 --> 00:02:39.840
+okay let's get started um welcome ladies
+
+00:02:38.800 --> 00:02:42.959
+and gentlemen
+
+00:02:39.840 --> 00:02:46.000
+welcome to today's
+
+00:02:42.959 --> 00:02:49.680
+lecture as you would all know we are
+
+00:02:46.000 --> 00:02:52.959
+in week three today uh can i please
+
+00:02:49.680 --> 00:02:55.360
+get confirmation that uh
+
+00:02:52.959 --> 00:02:57.200
+that you can hear me well and you are
+
+00:02:55.360 --> 00:03:00.560
+all able to hear me clearly please
+
+00:02:57.200 --> 00:03:01.280
+can someone just um type a message and
+
+00:03:00.560 --> 00:03:04.720
+let me know
+
+00:03:01.280 --> 00:03:08.319
+in the chat in the chat box
+
+00:03:04.720 --> 00:03:09.200
+perfect thank you very much um if at any
+
+00:03:08.319 --> 00:03:12.159
+point
+
+00:03:09.200 --> 00:03:12.159
+my voice gets
+
+00:03:15.200 --> 00:03:19.440
+would all know this is the third week of
+
+00:03:18.080 --> 00:03:22.480
+this subject
+
+00:03:19.440 --> 00:03:22.959
+and today we are going to talk about a
+
+00:03:22.480 --> 00:03:26.239
+very
+
+00:03:22.959 --> 00:03:27.599
+important topic and this topic has to do
+
+00:03:26.239 --> 00:03:31.680
+with
+
+00:03:27.599 --> 00:03:34.799
+uh with virtual with with virtualization
+
+00:03:31.680 --> 00:03:37.760
+so if we all remember
+
+00:03:34.799 --> 00:03:39.519
+let let us quickly recap about what we
+
+00:03:37.760 --> 00:03:42.720
+have learned so far
+
+00:03:39.519 --> 00:03:44.799
+because that sets up the scene
+
+00:03:42.720 --> 00:03:46.080
+very well for what we are going to
+
+00:03:44.799 --> 00:03:49.760
+discuss today
+
+00:03:46.080 --> 00:03:52.720
+so week one apart from the
+
+00:03:49.760 --> 00:03:53.120
+introduction stuff it was primarily
+
+00:03:52.720 --> 00:03:56.480
+about
+
+00:03:53.120 --> 00:03:57.439
+infrastructure as a service and if you
+
+00:03:56.480 --> 00:03:59.879
+all remember
+
+00:03:57.439 --> 00:04:01.920
+i did mention at that time that
+
+00:03:59.879 --> 00:04:05.680
+virtualization
+
+00:04:01.920 --> 00:04:08.799
+was a key enabling technology for
+
+00:04:05.680 --> 00:04:11.599
+enabling cloud computing
+
+00:04:08.799 --> 00:04:14.000
+moving on which was week two last week
+
+00:04:11.599 --> 00:04:17.359
+we discussed about platform as a service
+
+00:04:14.000 --> 00:04:19.759
+and software as a service and we discuss
+
+00:04:17.359 --> 00:04:21.040
+about various different applications but
+
+00:04:19.759 --> 00:04:24.000
+then again i
+
+00:04:21.040 --> 00:04:24.680
+you would perhaps remember me saying
+
+00:04:24.000 --> 00:04:28.720
+that
+
+00:04:24.680 --> 00:04:31.199
+virtualization was again a key enabler
+
+00:04:28.720 --> 00:04:33.440
+in both platform as a service and
+
+00:04:31.199 --> 00:04:36.800
+software as a service
+
+00:04:33.440 --> 00:04:40.479
+moving on the purpose of today's lecture
+
+00:04:36.800 --> 00:04:43.680
+is to understand in greater depth
+
+00:04:40.479 --> 00:04:46.880
+and we have a greater appreciation
+
+00:04:43.680 --> 00:04:49.919
+of what virtualization is and
+
+00:04:46.880 --> 00:04:53.440
+how virtualization facilitates
+
+00:04:49.919 --> 00:04:56.880
+or enables multi-tenancy
+
+00:04:53.440 --> 00:05:00.080
+so before i
+
+00:04:56.880 --> 00:05:00.800
+just one second can i request everyone
+
+00:05:00.080 --> 00:05:04.479
+please to
+
+00:05:00.800 --> 00:05:08.320
+mute their mics um
+
+00:05:04.479 --> 00:05:11.680
+let's so these are the learning
+
+00:05:08.320 --> 00:05:15.440
+objectives for today's lecture
+
+00:05:11.680 --> 00:05:17.919
+part one is essentially focused on
+
+00:05:15.440 --> 00:05:21.360
+understanding what virtualization is and
+
+00:05:17.919 --> 00:05:23.520
+the different types of virtual machines
+
+00:05:21.360 --> 00:05:25.520
+when i'm talking virtual machines of
+
+00:05:23.520 --> 00:05:28.880
+course i'm talking about
+
+00:05:25.520 --> 00:05:31.919
+virtualizing hardware or in other words
+
+00:05:28.880 --> 00:05:35.360
+infrastructure part two
+
+00:05:31.919 --> 00:05:38.080
+is about the comparison
+
+00:05:35.360 --> 00:05:40.080
+and trying to understand the differences
+
+00:05:38.080 --> 00:05:42.800
+and the similarities
+
+00:05:40.080 --> 00:05:45.360
+between the different types of virtual
+
+00:05:42.800 --> 00:05:45.360
+machines
+
+00:05:45.680 --> 00:05:49.919
+part three is where we will try to
+
+00:05:49.039 --> 00:05:54.080
+understand
+
+00:05:49.919 --> 00:05:57.120
+how virtualization
+
+00:05:54.080 --> 00:05:58.720
+facilitates or enables cloud service
+
+00:05:57.120 --> 00:06:02.000
+providers
+
+00:05:58.720 --> 00:06:06.800
+to provide their services
+
+00:06:02.000 --> 00:06:10.080
+at at scale due to automation part 4
+
+00:06:06.800 --> 00:06:12.639
+is focused on the various different
+
+00:06:10.080 --> 00:06:13.919
+applications of virtualization and also
+
+00:06:12.639 --> 00:06:16.960
+the disadvantages
+
+00:06:13.919 --> 00:06:20.080
+as well and last but not the least
+
+00:06:16.960 --> 00:06:23.600
+we will discuss about virtualization
+
+00:06:20.080 --> 00:06:27.600
+as applied to platform as a service
+
+00:06:23.600 --> 00:06:27.600
+and software as a service
+
+00:06:27.759 --> 00:06:33.120
+so in order to get
+
+00:06:31.120 --> 00:06:34.160
+an better understanding of
+
+00:06:33.120 --> 00:06:37.199
+virtualization
+
+00:06:34.160 --> 00:06:40.479
+let's try to take an example
+
+00:06:37.199 --> 00:06:43.520
+let's take company b as an example
+
+00:06:40.479 --> 00:06:46.720
+and they have invested
+
+00:06:43.520 --> 00:06:48.319
+capital or resources in procuring a
+
+00:06:46.720 --> 00:06:51.759
+powerful web server
+
+00:06:48.319 --> 00:06:56.800
+let's call it web server a okay
+
+00:06:51.759 --> 00:06:59.919
+now over a duration of time
+
+00:06:56.800 --> 00:07:03.039
+what company b has found that
+
+00:06:59.919 --> 00:07:05.039
+this web server a has the following
+
+00:07:03.039 --> 00:07:07.919
+utilization profile
+
+00:07:05.039 --> 00:07:08.319
+it's being used about 50 percent of the
+
+00:07:07.919 --> 00:07:11.840
+time
+
+00:07:08.319 --> 00:07:16.479
+on an average the remainder 50
+
+00:07:11.840 --> 00:07:20.160
+of the time it is completely unutilized
+
+00:07:16.479 --> 00:07:24.000
+and because company b
+
+00:07:20.160 --> 00:07:27.919
+has invested capital in web server a
+
+00:07:24.000 --> 00:07:31.120
+they would like to perhaps
+
+00:07:27.919 --> 00:07:31.759
+find a mechanism or find a way by which
+
+00:07:31.120 --> 00:07:34.960
+they can
+
+00:07:31.759 --> 00:07:38.720
+better fully utilize web server a
+
+00:07:34.960 --> 00:07:40.639
+okay and this is where virtualization
+
+00:07:38.720 --> 00:07:42.880
+comes into picture
+
+00:07:40.639 --> 00:07:44.160
+what were using virtualization what
+
+00:07:42.880 --> 00:07:46.759
+would happen is this
+
+00:07:44.160 --> 00:07:47.919
+company b they would run a
+
+00:07:46.759 --> 00:07:50.879
+virtualization
+
+00:07:47.919 --> 00:07:53.440
+software on top of web server a could be
+
+00:07:50.879 --> 00:07:57.840
+any virtualization software
+
+00:07:53.440 --> 00:08:01.919
+and using this virtualization
+
+00:07:57.840 --> 00:08:04.680
+what can happen is multiple entities
+
+00:08:01.919 --> 00:08:05.840
+or multiple businesses can
+
+00:08:04.680 --> 00:08:09.599
+simultaneously
+
+00:08:05.840 --> 00:08:13.199
+interact with the web server a
+
+00:08:09.599 --> 00:08:15.440
+in this figure you can see company b
+
+00:08:13.199 --> 00:08:16.479
+and maybe some other company maybe
+
+00:08:15.440 --> 00:08:19.840
+company d
+
+00:08:16.479 --> 00:08:21.879
+these these entities are interacting
+
+00:08:19.840 --> 00:08:25.120
+with web server a
+
+00:08:21.879 --> 00:08:28.879
+simultaneously however the beauty
+
+00:08:25.120 --> 00:08:32.560
+and the crux of virtualization is that
+
+00:08:28.879 --> 00:08:36.959
+both company b and company
+
+00:08:32.560 --> 00:08:40.959
+d they get the feeling
+
+00:08:36.959 --> 00:08:44.159
+that they they have access to the entire
+
+00:08:40.959 --> 00:08:47.519
+physical resource so there is nothing
+
+00:08:44.159 --> 00:08:50.000
+that leads them to believe that they are
+
+00:08:47.519 --> 00:08:51.120
+sharing this underlying physical
+
+00:08:50.000 --> 00:08:54.160
+resource
+
+00:08:51.120 --> 00:08:56.839
+with someone else it
+
+00:08:54.160 --> 00:08:58.320
+is this technology that of
+
+00:08:56.839 --> 00:09:01.600
+virtualization
+
+00:08:58.320 --> 00:09:03.680
+that it takes this physical resource
+
+00:09:01.600 --> 00:09:07.120
+which is web server a
+
+00:09:03.680 --> 00:09:10.399
+perhaps logically slices it
+
+00:09:07.120 --> 00:09:14.000
+into in this case two or any
+
+00:09:10.399 --> 00:09:17.120
+finite number of smaller units
+
+00:09:14.000 --> 00:09:17.920
+and each logical slice like in this case
+
+00:09:17.120 --> 00:09:21.040
+this slice
+
+00:09:17.920 --> 00:09:24.880
+is a virtual machine here
+
+00:09:21.040 --> 00:09:27.360
+this slice is allocated to a customer
+
+00:09:24.880 --> 00:09:28.800
+and each customer as i explained
+
+00:09:27.360 --> 00:09:31.760
+believes
+
+00:09:28.800 --> 00:09:32.399
+that they have an entire physical
+
+00:09:31.760 --> 00:09:35.519
+machine
+
+00:09:32.399 --> 00:09:36.160
+at their disposal so this is the whole
+
+00:09:35.519 --> 00:09:40.000
+essence
+
+00:09:36.160 --> 00:09:43.120
+of virtualization the ability to slice
+
+00:09:40.000 --> 00:09:45.519
+and dice as they call it physical
+
+00:09:43.120 --> 00:09:48.160
+machines
+
+00:09:45.519 --> 00:09:49.360
+depending upon customer requirements and
+
+00:09:48.160 --> 00:09:53.040
+the ability to
+
+00:09:49.360 --> 00:09:56.320
+share each slice with with a given
+
+00:09:53.040 --> 00:09:59.880
+entity now this
+
+00:09:56.320 --> 00:10:02.800
+is what virtualization is but
+
+00:09:59.880 --> 00:10:05.360
+virtualization as a technology as i've
+
+00:10:02.800 --> 00:10:08.399
+explained it to you just now
+
+00:10:05.360 --> 00:10:11.519
+is not certainly new
+
+00:10:08.399 --> 00:10:14.800
+and certainly it is not specific
+
+00:10:11.519 --> 00:10:19.680
+um certainly it was not something that
+
+00:10:14.800 --> 00:10:22.079
+came about just in the past few years
+
+00:10:19.680 --> 00:10:24.399
+grid computing and i gave you many
+
+00:10:22.079 --> 00:10:28.399
+different examples of grid computing in
+
+00:10:24.399 --> 00:10:30.519
+in week one was again
+
+00:10:28.399 --> 00:10:32.079
+they used a different type of
+
+00:10:30.519 --> 00:10:35.600
+virtualization in which
+
+00:10:32.079 --> 00:10:38.720
+you had multiple idle resources
+
+00:10:35.600 --> 00:10:41.040
+sitting across multiple different
+
+00:10:38.720 --> 00:10:42.240
+computing units and you were able to
+
+00:10:41.040 --> 00:10:44.560
+knit them together
+
+00:10:42.240 --> 00:10:46.920
+or bring them together or logically
+
+00:10:44.560 --> 00:10:49.839
+combine them together
+
+00:10:46.920 --> 00:10:51.200
+virtualization as we will see today
+
+00:10:49.839 --> 00:10:54.000
+applies to both
+
+00:10:51.200 --> 00:10:56.720
+hardware and software many people think
+
+00:10:54.000 --> 00:11:00.240
+of virtualization as being only
+
+00:10:56.720 --> 00:11:03.680
+specific to hardware that's not true
+
+00:11:00.240 --> 00:11:05.839
+it is equally applicable to software
+
+00:11:03.680 --> 00:11:07.120
+when we are talking about virtualization
+
+00:11:05.839 --> 00:11:09.600
+of software
+
+00:11:07.120 --> 00:11:10.399
+we talk about things like how can you
+
+00:11:09.600 --> 00:11:13.760
+share
+
+00:11:10.399 --> 00:11:14.000
+a database with multiple users how can
+
+00:11:13.760 --> 00:11:16.480
+you
+
+00:11:14.000 --> 00:11:17.600
+share a software instance with multiple
+
+00:11:16.480 --> 00:11:20.800
+users
+
+00:11:17.600 --> 00:11:22.880
+so and so and so forth when we are
+
+00:11:20.800 --> 00:11:25.279
+talking about virtualization of
+
+00:11:22.880 --> 00:11:28.320
+hardware we are talking about how you
+
+00:11:25.279 --> 00:11:32.079
+can take a physical web server
+
+00:11:28.320 --> 00:11:33.040
+and create logical slices of it in other
+
+00:11:32.079 --> 00:11:36.640
+words make
+
+00:11:33.040 --> 00:11:37.360
+smaller units out of it and similarly i
+
+00:11:36.640 --> 00:11:41.440
+can have
+
+00:11:37.360 --> 00:11:43.440
+a large ssd memory for example and i can
+
+00:11:41.440 --> 00:11:47.040
+divide it into smaller
+
+00:11:43.440 --> 00:11:50.480
+virtual memory units
+
+00:11:47.040 --> 00:11:53.920
+so again as we always do when we look at
+
+00:11:50.480 --> 00:11:55.760
+important concepts um i would like to
+
+00:11:53.920 --> 00:11:58.240
+draw your attention back to this
+
+00:11:55.760 --> 00:12:01.040
+definition of virtualization
+
+00:11:58.240 --> 00:12:01.360
+can i give you all maybe a few seconds
+
+00:12:01.040 --> 00:12:05.279
+to
+
+00:12:01.360 --> 00:12:05.279
+quickly read through the definition
+
+00:12:08.839 --> 00:12:11.839
+please
+
+00:12:12.399 --> 00:12:17.040
+so what this definition says is that
+
+00:12:14.920 --> 00:12:20.560
+virtualization
+
+00:12:17.040 --> 00:12:23.760
+is any means by which multiple
+
+00:12:20.560 --> 00:12:25.519
+users you see i have got company b other
+
+00:12:23.760 --> 00:12:26.959
+cloud consumers as in different
+
+00:12:25.519 --> 00:12:30.880
+companies
+
+00:12:26.959 --> 00:12:32.720
+can these multiple users or multiple
+
+00:12:30.880 --> 00:12:36.320
+businesses
+
+00:12:32.720 --> 00:12:39.440
+are able to simultaneously interact with
+
+00:12:36.320 --> 00:12:43.360
+one physical system or with
+
+00:12:39.440 --> 00:12:45.680
+one single computing system
+
+00:12:43.360 --> 00:12:46.639
+while each one of them perceiving like
+
+00:12:45.680 --> 00:12:49.839
+company b
+
+00:12:46.639 --> 00:12:50.880
+or other cloud consumers perceiving that
+
+00:12:49.839 --> 00:12:54.639
+they have an
+
+00:12:50.880 --> 00:12:58.160
+entire virtual instance or an
+
+00:12:54.639 --> 00:13:01.279
+entire instance at their own disposal
+
+00:12:58.160 --> 00:13:04.880
+so using virtualization
+
+00:13:01.279 --> 00:13:05.360
+these entities who are interacting with
+
+00:13:04.880 --> 00:13:07.760
+the
+
+00:13:05.360 --> 00:13:08.880
+physical server or with the virtual
+
+00:13:07.760 --> 00:13:11.200
+machines
+
+00:13:08.880 --> 00:13:12.399
+they get the illusion that they are
+
+00:13:11.200 --> 00:13:14.160
+interacting with
+
+00:13:12.399 --> 00:13:17.360
+they have they have the entire they have
+
+00:13:14.160 --> 00:13:20.040
+an entire system at their disposal
+
+00:13:17.360 --> 00:13:22.320
+and as i said when we see when we say
+
+00:13:20.040 --> 00:13:24.800
+virtualization
+
+00:13:22.320 --> 00:13:25.600
+it can mean virtualization to hardware
+
+00:13:24.800 --> 00:13:28.959
+resources
+
+00:13:25.600 --> 00:13:32.800
+like physical servers memory ram
+
+00:13:28.959 --> 00:13:36.079
+etc or it can mean virtualization to
+
+00:13:32.800 --> 00:13:38.639
+software resources as well
+
+00:13:36.079 --> 00:13:39.760
+and in today's lecture we will look at
+
+00:13:38.639 --> 00:13:42.639
+both of them
+
+00:13:39.760 --> 00:13:43.760
+when we are talking about infrastructure
+
+00:13:42.639 --> 00:13:46.880
+as a service
+
+00:13:43.760 --> 00:13:50.000
+we are primarily talking about hardware
+
+00:13:46.880 --> 00:13:52.560
+resource virtualization when we are
+
+00:13:50.000 --> 00:13:55.040
+talking about platform as a service and
+
+00:13:52.560 --> 00:13:56.160
+software as a service we are talking
+
+00:13:55.040 --> 00:14:00.880
+about both
+
+00:13:56.160 --> 00:14:04.480
+hardware and software virtualization
+
+00:14:00.880 --> 00:14:06.800
+okay so let us now
+
+00:14:04.480 --> 00:14:08.639
+go ahead having understood the concept
+
+00:14:06.800 --> 00:14:11.160
+of virtualization
+
+00:14:08.639 --> 00:14:12.320
+let us try to understand how
+
+00:14:11.160 --> 00:14:15.120
+virtualization
+
+00:14:12.320 --> 00:14:17.120
+is applied to hardware the most common
+
+00:14:15.120 --> 00:14:18.880
+form of virtualization
+
+00:14:17.120 --> 00:14:21.519
+so the most common form of
+
+00:14:18.880 --> 00:14:25.920
+virtualization is taking a physical
+
+00:14:21.519 --> 00:14:28.959
+server and making or creating virtual
+
+00:14:25.920 --> 00:14:32.079
+machines from it which means
+
+00:14:28.959 --> 00:14:35.279
+smaller logical subunits
+
+00:14:32.079 --> 00:14:38.480
+of machines from that physical server
+
+00:14:35.279 --> 00:14:42.480
+and these logical smaller subunits
+
+00:14:38.480 --> 00:14:44.720
+are known as vms or virtual machines
+
+00:14:42.480 --> 00:14:46.639
+there are three different types of
+
+00:14:44.720 --> 00:14:49.360
+virtual machines
+
+00:14:46.639 --> 00:14:50.480
+um and we will try to understand each
+
+00:14:49.360 --> 00:14:54.240
+one of these three
+
+00:14:50.480 --> 00:14:55.120
+and see uh and try to appreciate the
+
+00:14:54.240 --> 00:14:57.920
+differences
+
+00:14:55.120 --> 00:14:58.320
+and the similarities between them the
+
+00:14:57.920 --> 00:15:00.800
+third
+
+00:14:58.320 --> 00:15:03.120
+the first one is known as process
+
+00:15:00.800 --> 00:15:05.440
+virtual machine
+
+00:15:03.120 --> 00:15:06.480
+the second one is known as system
+
+00:15:05.440 --> 00:15:09.600
+virtual machine
+
+00:15:06.480 --> 00:15:12.160
+svm running in the host format
+
+00:15:09.600 --> 00:15:13.839
+and the third one is known as system
+
+00:15:12.160 --> 00:15:17.120
+virtual machine
+
+00:15:13.839 --> 00:15:18.160
+running in the native format let's try
+
+00:15:17.120 --> 00:15:20.720
+to
+
+00:15:18.160 --> 00:15:22.000
+understand each one of these three and
+
+00:15:20.720 --> 00:15:25.120
+their differences
+
+00:15:22.000 --> 00:15:26.320
+with some examples so what's a process
+
+00:15:25.120 --> 00:15:29.440
+virtual machine
+
+00:15:26.320 --> 00:15:32.720
+in a in very simple in essence
+
+00:15:29.440 --> 00:15:36.639
+a process virtual machine or pvm
+
+00:15:32.720 --> 00:15:38.079
+it provides a framework or it provides a
+
+00:15:36.639 --> 00:15:41.440
+platform
+
+00:15:38.079 --> 00:15:44.959
+for executing one process
+
+00:15:41.440 --> 00:15:45.920
+only okay so in a process virtual
+
+00:15:44.959 --> 00:15:48.800
+machine
+
+00:15:45.920 --> 00:15:49.839
+you can it creates an environment in
+
+00:15:48.800 --> 00:15:54.639
+which you can run
+
+00:15:49.839 --> 00:15:56.079
+one and only one process okay the most
+
+00:15:54.639 --> 00:15:58.639
+common form of process
+
+00:15:56.079 --> 00:16:00.320
+virtual machine which many of you would
+
+00:15:58.639 --> 00:16:03.519
+have come across
+
+00:16:00.320 --> 00:16:06.320
+is java virtual machine jvm
+
+00:16:03.519 --> 00:16:07.199
+i'm sure many of you if not all of you
+
+00:16:06.320 --> 00:16:10.320
+have
+
+00:16:07.199 --> 00:16:11.519
+had some sort of programming experience
+
+00:16:10.320 --> 00:16:14.639
+with java
+
+00:16:11.519 --> 00:16:18.480
+when you make use or when you install
+
+00:16:14.639 --> 00:16:21.440
+java or the java compiler
+
+00:16:18.480 --> 00:16:22.959
+on your laptop or on your desktop what
+
+00:16:21.440 --> 00:16:25.120
+happens is
+
+00:16:22.959 --> 00:16:27.519
+your laptop in this case if i'm trying
+
+00:16:25.120 --> 00:16:30.800
+to install the java compiler
+
+00:16:27.519 --> 00:16:32.320
+has certain finite number of hardware
+
+00:16:30.800 --> 00:16:35.519
+resources
+
+00:16:32.320 --> 00:16:40.160
+and there is an operating system on that
+
+00:16:35.519 --> 00:16:43.199
+when i install jvm java virtual machine
+
+00:16:40.160 --> 00:16:46.320
+what it does is it
+
+00:16:43.199 --> 00:16:49.839
+it installs itself as a process
+
+00:16:46.320 --> 00:16:52.000
+or as an activity but unlike other
+
+00:16:49.839 --> 00:16:55.040
+activities or processes
+
+00:16:52.000 --> 00:16:56.959
+what it does is it quarantines or it
+
+00:16:55.040 --> 00:17:01.040
+sets aside
+
+00:16:56.959 --> 00:17:04.480
+certain slice of the underlying hardware
+
+00:17:01.040 --> 00:17:07.520
+for its use other processes
+
+00:17:04.480 --> 00:17:09.679
+cannot come and use this hardware
+
+00:17:07.520 --> 00:17:12.799
+resources that the jvm
+
+00:17:09.679 --> 00:17:15.839
+has set aside for itself
+
+00:17:12.799 --> 00:17:16.160
+now as a code or as a programmer when
+
+00:17:15.839 --> 00:17:19.280
+you
+
+00:17:16.160 --> 00:17:22.799
+write a program you can
+
+00:17:19.280 --> 00:17:26.400
+code you can write the java
+
+00:17:22.799 --> 00:17:29.919
+program and it is saved as a dot class
+
+00:17:26.400 --> 00:17:34.400
+file okay after this after the
+
+00:17:29.919 --> 00:17:37.520
+dot class file when you compile it
+
+00:17:34.400 --> 00:17:38.400
+it is converted from the dot class to
+
+00:17:37.520 --> 00:17:41.840
+the dot
+
+00:17:38.400 --> 00:17:46.000
+java file so this is an intermediate
+
+00:17:41.840 --> 00:17:49.600
+code it's not machine executable code
+
+00:17:46.000 --> 00:17:49.600
+this dot java
+
+00:17:49.679 --> 00:17:53.840
+file or this dot java code is
+
+00:17:52.720 --> 00:17:56.880
+intermediate
+
+00:17:53.840 --> 00:17:58.000
+and is platform independent so you can
+
+00:17:56.880 --> 00:18:01.440
+take this
+
+00:17:58.000 --> 00:18:04.960
+dot java file on any java compiler
+
+00:18:01.440 --> 00:18:08.640
+and it will run exactly the same okay
+
+00:18:04.960 --> 00:18:11.760
+and when you execute the java
+
+00:18:08.640 --> 00:18:14.400
+code it is then translated to the
+
+00:18:11.760 --> 00:18:17.679
+corresponding machine code and
+
+00:18:14.400 --> 00:18:18.400
+it runs on the slides of the hardware
+
+00:18:17.679 --> 00:18:22.080
+that
+
+00:18:18.400 --> 00:18:25.520
+the jvm has quarantined or has kept
+
+00:18:22.080 --> 00:18:29.440
+aside for itself so
+
+00:18:25.520 --> 00:18:32.720
+we have jvm running on the underlying
+
+00:18:29.440 --> 00:18:35.120
+hardware and operating system parallelly
+
+00:18:32.720 --> 00:18:37.919
+i can have another application too
+
+00:18:35.120 --> 00:18:40.160
+and application three and each one of
+
+00:18:37.919 --> 00:18:44.080
+these applications they can keep running
+
+00:18:40.160 --> 00:18:48.799
+in parallel so these applications
+
+00:18:44.080 --> 00:18:52.720
+or these processes
+
+00:18:48.799 --> 00:18:53.280
+they run in a virtualized environment
+
+00:18:52.720 --> 00:18:56.480
+because
+
+00:18:53.280 --> 00:18:58.000
+in this case in the case of jvm it has
+
+00:18:56.480 --> 00:19:01.039
+set aside or
+
+00:18:58.000 --> 00:19:02.320
+quarantined a slice of the underlying
+
+00:19:01.039 --> 00:19:05.440
+hardware resource
+
+00:19:02.320 --> 00:19:08.320
+for itself okay so
+
+00:19:05.440 --> 00:19:08.960
+why am i talking about java virtual
+
+00:19:08.320 --> 00:19:12.320
+machine
+
+00:19:08.960 --> 00:19:14.640
+in a class of cloud computing and in a
+
+00:19:12.320 --> 00:19:18.080
+lecture of virtualization
+
+00:19:14.640 --> 00:19:19.600
+the reason is that the way that i
+
+00:19:18.080 --> 00:19:23.600
+describe the working of
+
+00:19:19.600 --> 00:19:27.039
+jvm is how a classic
+
+00:19:23.600 --> 00:19:30.480
+process virtual machine runs
+
+00:19:27.039 --> 00:19:33.120
+so in a process virtual machine you have
+
+00:19:30.480 --> 00:19:34.880
+shared hardware you have got shared
+
+00:19:33.120 --> 00:19:38.160
+operating system
+
+00:19:34.880 --> 00:19:39.600
+and you can install you can you can
+
+00:19:38.160 --> 00:19:43.440
+virtualize and run
+
+00:19:39.600 --> 00:19:44.160
+one process this process quarantines a
+
+00:19:43.440 --> 00:19:47.919
+portion
+
+00:19:44.160 --> 00:19:50.000
+of the underlying hardware for itself
+
+00:19:47.919 --> 00:19:51.520
+and shades the operating system
+
+00:19:50.000 --> 00:19:54.000
+similarly
+
+00:19:51.520 --> 00:19:55.280
+on this process i can run an application
+
+00:19:54.000 --> 00:19:58.400
+if i want
+
+00:19:55.280 --> 00:20:02.320
+and i can have any number of
+
+00:19:58.400 --> 00:20:06.400
+multiple processes running in parallel
+
+00:20:02.320 --> 00:20:09.520
+okay this is this is a classic
+
+00:20:06.400 --> 00:20:12.799
+visualization or a representation of
+
+00:20:09.520 --> 00:20:16.000
+a pvm one thing to note
+
+00:20:12.799 --> 00:20:17.760
+which is what differentiates a process
+
+00:20:16.000 --> 00:20:22.159
+virtual machine
+
+00:20:17.760 --> 00:20:26.720
+with the other types of virtual machines
+
+00:20:22.159 --> 00:20:30.159
+is that when i create a process
+
+00:20:26.720 --> 00:20:33.679
+within the process virtual machine
+
+00:20:30.159 --> 00:20:34.000
+i i cannot run the operating i cannot
+
+00:20:33.679 --> 00:20:36.960
+run
+
+00:20:34.000 --> 00:20:37.200
+a new operating system for example when
+
+00:20:36.960 --> 00:20:39.840
+i
+
+00:20:37.200 --> 00:20:40.960
+have created a logical slice here this
+
+00:20:39.840 --> 00:20:43.360
+process
+
+00:20:40.960 --> 00:20:45.280
+i can run an application but this
+
+00:20:43.360 --> 00:20:48.640
+application cannot be a
+
+00:20:45.280 --> 00:20:52.640
+new operating system okay
+
+00:20:48.640 --> 00:20:53.600
+so in other words all the processes that
+
+00:20:52.640 --> 00:20:56.799
+are there here
+
+00:20:53.600 --> 00:21:00.960
+they share the same underlying operating
+
+00:20:56.799 --> 00:21:04.320
+system so um this is
+
+00:21:00.960 --> 00:21:09.360
+this is this is how a pvm works
+
+00:21:04.320 --> 00:21:11.440
+as and in google app engine when you
+
+00:21:09.360 --> 00:21:12.720
+instantiate and when you are provided
+
+00:21:11.440 --> 00:21:14.640
+with a
+
+00:21:12.720 --> 00:21:16.000
+with a google app engine and you see
+
+00:21:14.640 --> 00:21:21.039
+your ide or
+
+00:21:16.000 --> 00:21:24.640
+you see the the the the
+
+00:21:21.039 --> 00:21:25.840
+the ide in the browser that is running
+
+00:21:24.640 --> 00:21:28.960
+as a pvm
+
+00:21:25.840 --> 00:21:32.240
+you cannot install you
+
+00:21:28.960 --> 00:21:35.440
+a a new operating system
+
+00:21:32.240 --> 00:21:36.960
+within the allocated virtual machine in
+
+00:21:35.440 --> 00:21:40.559
+google app engine
+
+00:21:36.960 --> 00:21:41.600
+whatever host operating system google is
+
+00:21:40.559 --> 00:21:45.039
+using
+
+00:21:41.600 --> 00:21:46.799
+that's what it is that is the single key
+
+00:21:45.039 --> 00:21:49.840
+defining characteristic
+
+00:21:46.799 --> 00:21:50.559
+of a process virtual machine the fact
+
+00:21:49.840 --> 00:21:52.880
+that
+
+00:21:50.559 --> 00:21:54.720
+you can run a process in the virtual
+
+00:21:52.880 --> 00:21:58.080
+machine instance
+
+00:21:54.720 --> 00:22:01.520
+but you cannot run an operating system
+
+00:21:58.080 --> 00:22:05.919
+or a new operating system so
+
+00:22:01.520 --> 00:22:09.600
+moving forward let's move on from pvm to
+
+00:22:05.919 --> 00:22:12.960
+svm host and svm native
+
+00:22:09.600 --> 00:22:14.559
+so in contrast to a process virtual
+
+00:22:12.960 --> 00:22:17.600
+machine
+
+00:22:14.559 --> 00:22:20.799
+be it svm host or
+
+00:22:17.600 --> 00:22:24.480
+be it svm native um
+
+00:22:20.799 --> 00:22:26.240
+each virtual machine that you create or
+
+00:22:24.480 --> 00:22:29.520
+each virtual instance
+
+00:22:26.240 --> 00:22:32.799
+that you create can
+
+00:22:29.520 --> 00:22:35.440
+run their own operating system
+
+00:22:32.799 --> 00:22:36.720
+or customized operating system for
+
+00:22:35.440 --> 00:22:39.679
+example
+
+00:22:36.720 --> 00:22:40.000
+um i can have shared hardware when i'm
+
+00:22:39.679 --> 00:22:43.039
+trying
+
+00:22:40.000 --> 00:22:44.720
+to run i need to have shared hardware
+
+00:22:43.039 --> 00:22:48.400
+when i'm trying to run
+
+00:22:44.720 --> 00:22:51.919
+svm host and then
+
+00:22:48.400 --> 00:22:54.799
+i've got a shared operating system and
+
+00:22:51.919 --> 00:22:56.480
+maybe i'm running a virtualization layer
+
+00:22:54.799 --> 00:23:00.320
+on top
+
+00:22:56.480 --> 00:23:03.280
+this virtualization layer is known as
+
+00:23:00.320 --> 00:23:05.760
+hypervisor there are few terms for it it
+
+00:23:03.280 --> 00:23:08.320
+is also known as hypervisor
+
+00:23:05.760 --> 00:23:09.760
+or it is also known as host virtual
+
+00:23:08.320 --> 00:23:13.440
+machine monitor
+
+00:23:09.760 --> 00:23:17.200
+so for hypervisors which are running
+
+00:23:13.440 --> 00:23:20.400
+in the host format you see the
+
+00:23:17.200 --> 00:23:21.360
+virtual machine monitor is running on
+
+00:23:20.400 --> 00:23:23.520
+the host
+
+00:23:21.360 --> 00:23:25.200
+operating system which is the shade
+
+00:23:23.520 --> 00:23:28.640
+operating system
+
+00:23:25.200 --> 00:23:31.840
+so once i have run an svm
+
+00:23:28.640 --> 00:23:35.120
+running in the host format i can create
+
+00:23:31.840 --> 00:23:37.520
+new virtual machines and each one of
+
+00:23:35.120 --> 00:23:39.120
+these virtual machines i can install a
+
+00:23:37.520 --> 00:23:41.919
+new operating system
+
+00:23:39.120 --> 00:23:43.039
+okay so in in the first case i can
+
+00:23:41.919 --> 00:23:44.960
+install
+
+00:23:43.039 --> 00:23:46.400
+a guest operating system which is
+
+00:23:44.960 --> 00:23:49.679
+windows
+
+00:23:46.400 --> 00:23:53.360
+and here i can run maybe any number of
+
+00:23:49.679 --> 00:23:56.559
+applications that i want then the second
+
+00:23:53.360 --> 00:23:58.080
+virtual machine i can make could be unix
+
+00:23:56.559 --> 00:24:00.559
+for example
+
+00:23:58.080 --> 00:24:02.799
+the third one could be linux fourth one
+
+00:24:00.559 --> 00:24:06.320
+could be another version of windows
+
+00:24:02.799 --> 00:24:10.880
+so each virtual machine
+
+00:24:06.320 --> 00:24:14.640
+running in the svm host format
+
+00:24:10.880 --> 00:24:17.039
+can can install their own customized
+
+00:24:14.640 --> 00:24:18.080
+operating system and that is the
+
+00:24:17.039 --> 00:24:21.919
+difference between
+
+00:24:18.080 --> 00:24:24.960
+svm host and what i said about pvm
+
+00:24:21.919 --> 00:24:26.840
+and as i said each one of these virtual
+
+00:24:24.960 --> 00:24:28.320
+machines i can have multiple
+
+00:24:26.840 --> 00:24:31.200
+applications
+
+00:24:28.320 --> 00:24:32.640
+or multiple processes running again that
+
+00:24:31.200 --> 00:24:36.240
+is different
+
+00:24:32.640 --> 00:24:39.520
+in pvm in the sense i can have only one
+
+00:24:36.240 --> 00:24:43.279
+process running in a pvm
+
+00:24:39.520 --> 00:24:46.880
+so um as i explained
+
+00:24:43.279 --> 00:24:48.760
+in system virtual machine in svm host
+
+00:24:46.880 --> 00:24:51.120
+the virtual machine monitor or
+
+00:24:48.760 --> 00:24:54.880
+hypervisors
+
+00:24:51.120 --> 00:24:58.159
+they they do the job of
+
+00:24:54.880 --> 00:25:00.799
+hosting these virtual machines
+
+00:24:58.159 --> 00:25:01.200
+so you may ask me what is the role or
+
+00:25:00.799 --> 00:25:05.200
+what
+
+00:25:01.200 --> 00:25:06.320
+activity do these host virtual machine
+
+00:25:05.200 --> 00:25:09.679
+monitors
+
+00:25:06.320 --> 00:25:12.240
+serve i mean they they
+
+00:25:09.679 --> 00:25:13.679
+they serve a lot of critical activities
+
+00:25:12.240 --> 00:25:17.520
+i mean they
+
+00:25:13.679 --> 00:25:19.840
+they are crucial in the process of
+
+00:25:17.520 --> 00:25:22.720
+creating this virtual machine or
+
+00:25:19.840 --> 00:25:25.279
+decommissioning it when you need it
+
+00:25:22.720 --> 00:25:25.840
+maintaining a snapshot of the virtual
+
+00:25:25.279 --> 00:25:29.039
+machine
+
+00:25:25.840 --> 00:25:30.960
+all that is done in the host virtual
+
+00:25:29.039 --> 00:25:34.320
+machine monitor
+
+00:25:30.960 --> 00:25:37.600
+or the hypervisor furthermore
+
+00:25:34.320 --> 00:25:37.600
+um if
+
+00:25:37.679 --> 00:25:42.880
+from this guest operating system maybe
+
+00:25:40.159 --> 00:25:45.919
+the underlying operating system here is
+
+00:25:42.880 --> 00:25:47.200
+linux for example and this one here is
+
+00:25:45.919 --> 00:25:50.080
+windows
+
+00:25:47.200 --> 00:25:52.159
+and for for these two operating systems
+
+00:25:50.080 --> 00:25:55.600
+to be able to communicate
+
+00:25:52.159 --> 00:25:58.720
+with each other with a view to
+
+00:25:55.600 --> 00:26:01.679
+access the underlying hardware
+
+00:25:58.720 --> 00:26:04.480
+the hypervisor has to do a lot of
+
+00:26:01.679 --> 00:26:08.240
+translations and function calls
+
+00:26:04.480 --> 00:26:10.640
+so the host virtual machine monitor
+
+00:26:08.240 --> 00:26:12.320
+acts like a bridge between the guest
+
+00:26:10.640 --> 00:26:16.080
+operating system
+
+00:26:12.320 --> 00:26:19.600
+and the host operating system as well
+
+00:26:16.080 --> 00:26:22.799
+okay so the role of the hypervisor
+
+00:26:19.600 --> 00:26:25.840
+is the key in the process of managing
+
+00:26:22.799 --> 00:26:26.640
+virtual machines as i said it serves the
+
+00:26:25.840 --> 00:26:29.760
+purpose
+
+00:26:26.640 --> 00:26:31.279
+of managing the whole life cycle of the
+
+00:26:29.760 --> 00:26:34.080
+virtual machines
+
+00:26:31.279 --> 00:26:35.440
+from its creation to deletion to
+
+00:26:34.080 --> 00:26:38.640
+maintenance to
+
+00:26:35.440 --> 00:26:41.840
+backup the whole lot and
+
+00:26:38.640 --> 00:26:45.200
+it also is responsible for
+
+00:26:41.840 --> 00:26:47.600
+translating access calls or
+
+00:26:45.200 --> 00:26:48.799
+hardware calls between the guest
+
+00:26:47.600 --> 00:26:52.000
+operating system
+
+00:26:48.799 --> 00:26:54.640
+and the host operating system so
+
+00:26:52.000 --> 00:26:55.919
+this shared operating system is also
+
+00:26:54.640 --> 00:26:59.520
+known as the host
+
+00:26:55.919 --> 00:27:03.120
+operating system and these
+
+00:26:59.520 --> 00:27:05.840
+the the operating systems resting in the
+
+00:27:03.120 --> 00:27:08.400
+virtual machines are known as guest
+
+00:27:05.840 --> 00:27:11.760
+operating systems
+
+00:27:08.400 --> 00:27:12.480
+okay so we have looked at system virtual
+
+00:27:11.760 --> 00:27:16.080
+machine
+
+00:27:12.480 --> 00:27:20.080
+svm running in the host format
+
+00:27:16.080 --> 00:27:20.880
+so the an alternative way in which you
+
+00:27:20.080 --> 00:27:24.000
+can run
+
+00:27:20.880 --> 00:27:28.080
+system virtual machines is
+
+00:27:24.000 --> 00:27:31.520
+run them in the native format and
+
+00:27:28.080 --> 00:27:34.320
+let let me explain you how that works so
+
+00:27:31.520 --> 00:27:36.960
+very similar to svm host you have the
+
+00:27:34.320 --> 00:27:40.240
+shared underlying hardware
+
+00:27:36.960 --> 00:27:43.600
+however in svm native
+
+00:27:40.240 --> 00:27:44.960
+you do not have the host operating
+
+00:27:43.600 --> 00:27:47.600
+system
+
+00:27:44.960 --> 00:27:49.279
+okay if you do not have the host
+
+00:27:47.600 --> 00:27:53.360
+operating system
+
+00:27:49.279 --> 00:27:56.559
+the hypervisor or the
+
+00:27:53.360 --> 00:28:00.880
+virtual machine monitor it runs
+
+00:27:56.559 --> 00:28:02.720
+on shared hardware and because it runs
+
+00:28:00.880 --> 00:28:05.360
+on the shade hardware
+
+00:28:02.720 --> 00:28:05.840
+it is it is called as native in other
+
+00:28:05.360 --> 00:28:09.039
+words
+
+00:28:05.840 --> 00:28:10.399
+it is resting on the on the native
+
+00:28:09.039 --> 00:28:13.520
+hardware or
+
+00:28:10.399 --> 00:28:16.240
+just metal in other words so
+
+00:28:13.520 --> 00:28:19.840
+again this native virtual machine
+
+00:28:16.240 --> 00:28:24.320
+monitor it serves the same purpose
+
+00:28:19.840 --> 00:28:26.480
+of a host virtual machine monitor in the
+
+00:28:24.320 --> 00:28:28.480
+sense that it can create new virtual
+
+00:28:26.480 --> 00:28:30.320
+machines
+
+00:28:28.480 --> 00:28:33.200
+each one of these virtual machines you
+
+00:28:30.320 --> 00:28:34.480
+can install a guest operating system and
+
+00:28:33.200 --> 00:28:37.760
+they can run
+
+00:28:34.480 --> 00:28:40.080
+applications so you can have
+
+00:28:37.760 --> 00:28:42.240
+any number of n number of different
+
+00:28:40.080 --> 00:28:45.360
+guest operating systems
+
+00:28:42.240 --> 00:28:47.919
+and these guest operating systems they
+
+00:28:45.360 --> 00:28:48.880
+are created they are managed by the
+
+00:28:47.919 --> 00:28:52.320
+native
+
+00:28:48.880 --> 00:28:54.559
+virtual machine monitor but the key
+
+00:28:52.320 --> 00:28:55.440
+differentiating point and the point to
+
+00:28:54.559 --> 00:28:57.440
+note
+
+00:28:55.440 --> 00:28:58.559
+is that the native virtual machine
+
+00:28:57.440 --> 00:29:01.760
+monitor
+
+00:28:58.559 --> 00:29:04.799
+runs on the underlying native
+
+00:29:01.760 --> 00:29:06.640
+hardware it does not run on a host
+
+00:29:04.799 --> 00:29:09.919
+operating system
+
+00:29:06.640 --> 00:29:11.919
+okay so just to recap for everyone's
+
+00:29:09.919 --> 00:29:14.480
+benefit
+
+00:29:11.919 --> 00:29:15.919
+the primary point of difference between
+
+00:29:14.480 --> 00:29:19.279
+a any system
+
+00:29:15.919 --> 00:29:20.480
+virtual machine an svm host or svm
+
+00:29:19.279 --> 00:29:23.600
+native
+
+00:29:20.480 --> 00:29:27.440
+and a process virtual machine is
+
+00:29:23.600 --> 00:29:30.720
+in terms of operating system in any type
+
+00:29:27.440 --> 00:29:33.760
+of system virtual machine you can
+
+00:29:30.720 --> 00:29:37.039
+install you can run your own
+
+00:29:33.760 --> 00:29:41.679
+guest operating system that is
+
+00:29:37.039 --> 00:29:44.559
+impossible in a process virtual machine
+
+00:29:41.679 --> 00:29:46.320
+the the primary difference again are the
+
+00:29:44.559 --> 00:29:49.679
+two points of difference between
+
+00:29:46.320 --> 00:29:52.240
+svm host and svm native and the two
+
+00:29:49.679 --> 00:29:55.279
+differences are actually related
+
+00:29:52.240 --> 00:29:58.480
+the first one is in terms of host
+
+00:29:55.279 --> 00:30:01.760
+operating system um
+
+00:29:58.480 --> 00:30:02.799
+in svm host you have a host operating
+
+00:30:01.760 --> 00:30:06.000
+system
+
+00:30:02.799 --> 00:30:09.120
+whereas that is absent in the
+
+00:30:06.000 --> 00:30:12.240
+svm native and because
+
+00:30:09.120 --> 00:30:13.520
+there is no host operating system in svm
+
+00:30:12.240 --> 00:30:16.559
+native
+
+00:30:13.520 --> 00:30:17.120
+the virtualization layer or the virtual
+
+00:30:16.559 --> 00:30:20.480
+machine
+
+00:30:17.120 --> 00:30:24.240
+monitor is running on the shared
+
+00:30:20.480 --> 00:30:28.480
+underlying native hardware whereas
+
+00:30:24.240 --> 00:30:28.880
+in the case of svm host it is running on
+
+00:30:28.480 --> 00:30:32.480
+top
+
+00:30:28.880 --> 00:30:36.159
+of the host operating system okay
+
+00:30:32.480 --> 00:30:39.120
+so that's the primary difference between
+
+00:30:36.159 --> 00:30:40.080
+svm host and svm native and that has to
+
+00:30:39.120 --> 00:30:43.679
+do with
+
+00:30:40.080 --> 00:30:46.720
+host operating system and
+
+00:30:43.679 --> 00:30:47.279
+where that i mean where it has to do
+
+00:30:46.720 --> 00:30:49.520
+with
+
+00:30:47.279 --> 00:30:51.600
+virtual machine monitor and the host
+
+00:30:49.520 --> 00:30:55.279
+operating system
+
+00:30:51.600 --> 00:30:58.720
+so i hope this gives you a sense of
+
+00:30:55.279 --> 00:31:01.760
+how virtualization is
+
+00:30:58.720 --> 00:31:05.919
+the key technology in the process
+
+00:31:01.760 --> 00:31:09.240
+of creating virtual machines so
+
+00:31:05.919 --> 00:31:10.399
+moving forward the application of
+
+00:31:09.240 --> 00:31:13.760
+virtualization
+
+00:31:10.399 --> 00:31:16.320
+to cloud computing is not just
+
+00:31:13.760 --> 00:31:19.519
+creating virtual machines i mean the the
+
+00:31:16.320 --> 00:31:24.320
+ability to create a virtual machine
+
+00:31:19.519 --> 00:31:27.679
+maintain its snapshot delete it
+
+00:31:24.320 --> 00:31:29.039
+was actually present even before cloud
+
+00:31:27.679 --> 00:31:33.360
+computing
+
+00:31:29.039 --> 00:31:34.559
+but uh what major cloud service
+
+00:31:33.360 --> 00:31:37.840
+providers have done
+
+00:31:34.559 --> 00:31:41.039
+is they have used virtualization
+
+00:31:37.840 --> 00:31:43.440
+um and they have
+
+00:31:41.039 --> 00:31:44.840
+using open source virtualization
+
+00:31:43.440 --> 00:31:47.840
+technology they have
+
+00:31:44.840 --> 00:31:49.360
+achieved what is known as elastic
+
+00:31:47.840 --> 00:31:52.399
+computing
+
+00:31:49.360 --> 00:31:53.919
+what is elastic computing in very simple
+
+00:31:52.399 --> 00:31:56.960
+words what it means is
+
+00:31:53.919 --> 00:31:59.679
+as an end user if i'm a consumer
+
+00:31:56.960 --> 00:32:01.360
+when i start consuming cloud resources
+
+00:31:59.679 --> 00:32:04.159
+say virtual machine
+
+00:32:01.360 --> 00:32:06.640
+i can start with the base minimum that i
+
+00:32:04.159 --> 00:32:10.159
+i know that i will be using like say
+
+00:32:06.640 --> 00:32:13.279
+two vms i can start with that
+
+00:32:10.159 --> 00:32:14.559
+as my demand increases i can keep on
+
+00:32:13.279 --> 00:32:16.799
+increasing
+
+00:32:14.559 --> 00:32:18.480
+the number of vms that i'm that i'm
+
+00:32:16.799 --> 00:32:21.840
+going to use
+
+00:32:18.480 --> 00:32:25.760
+um and the key thing is that
+
+00:32:21.840 --> 00:32:28.960
+as a cloud consumer i can request
+
+00:32:25.760 --> 00:32:31.919
+any finite i can make
+
+00:32:28.960 --> 00:32:32.799
+any reasonable request for resources i
+
+00:32:31.919 --> 00:32:36.640
+can say
+
+00:32:32.799 --> 00:32:39.360
+i need a thousand vms okay and
+
+00:32:36.640 --> 00:32:40.240
+the cloud service provider can provide
+
+00:32:39.360 --> 00:32:43.519
+me those
+
+00:32:40.240 --> 00:32:47.519
+resources in a very timely manner
+
+00:32:43.519 --> 00:32:50.640
+so to me as an end user just the sheer
+
+00:32:47.519 --> 00:32:52.320
+fact that i am requesting a reasonable
+
+00:32:50.640 --> 00:32:57.120
+amount of requests like say
+
+00:32:52.320 --> 00:32:58.240
+1000 vms and whilst in a non-cloud world
+
+00:32:57.120 --> 00:33:02.080
+it would perhaps
+
+00:32:58.240 --> 00:33:04.240
+take me ages to get those provisioned
+
+00:33:02.080 --> 00:33:07.120
+and made available to me
+
+00:33:04.240 --> 00:33:09.840
+the cloud service provider is able to
+
+00:33:07.120 --> 00:33:12.000
+provide it to me in a very timely manner
+
+00:33:09.840 --> 00:33:14.799
+perhaps a few minutes
+
+00:33:12.000 --> 00:33:16.799
+i get the illusion and i'm using the
+
+00:33:14.799 --> 00:33:19.200
+word illusion here
+
+00:33:16.799 --> 00:33:21.600
+that the cloud service provider has
+
+00:33:19.200 --> 00:33:25.679
+infinite capacity
+
+00:33:21.600 --> 00:33:29.039
+so virtualization is
+
+00:33:25.679 --> 00:33:32.480
+the key is key in enabling
+
+00:33:29.039 --> 00:33:36.399
+elastic computing and in particular
+
+00:33:32.480 --> 00:33:40.000
+in giving end users the illusion
+
+00:33:36.399 --> 00:33:44.640
+that the provider has infinite capacity
+
+00:33:40.000 --> 00:33:47.840
+so in order to achieve elastic computing
+
+00:33:44.640 --> 00:33:50.720
+there are two inbuilt or
+
+00:33:47.840 --> 00:33:52.080
+there are two inbuilt features that all
+
+00:33:50.720 --> 00:33:56.080
+the major cloud service
+
+00:33:52.080 --> 00:33:58.880
+providers use okay the first one is
+
+00:33:56.080 --> 00:33:59.200
+automated provisioning and the second
+
+00:33:58.880 --> 00:34:02.240
+one
+
+00:33:59.200 --> 00:34:06.720
+is elastic operations let's
+
+00:34:02.240 --> 00:34:09.919
+try to understand what each one of these
+
+00:34:06.720 --> 00:34:13.760
+features are automated provisioning
+
+00:34:09.919 --> 00:34:17.520
+and elastic operations and how
+
+00:34:13.760 --> 00:34:19.200
+using these two features cloud service
+
+00:34:17.520 --> 00:34:22.720
+providers can provide
+
+00:34:19.200 --> 00:34:25.760
+services at scale and
+
+00:34:22.720 --> 00:34:28.720
+also in doing so give the
+
+00:34:25.760 --> 00:34:29.440
+end users the illusion that they have
+
+00:34:28.720 --> 00:34:32.800
+almost
+
+00:34:29.440 --> 00:34:36.320
+infinite capacity so the first thing
+
+00:34:32.800 --> 00:34:39.919
+is about automated provisioning
+
+00:34:36.320 --> 00:34:42.879
+automated provisioning means
+
+00:34:39.919 --> 00:34:43.359
+or in a non-cloud world what would
+
+00:34:42.879 --> 00:34:46.639
+happen
+
+00:34:43.359 --> 00:34:47.599
+is let's forget cloud computing for a
+
+00:34:46.639 --> 00:34:50.720
+minute
+
+00:34:47.599 --> 00:34:53.280
+in a non-cloud world the process
+
+00:34:50.720 --> 00:34:55.359
+by which a virtual machine like for
+
+00:34:53.280 --> 00:34:58.640
+example if i'm making a request
+
+00:34:55.359 --> 00:34:59.760
+for a virtual machine the process by
+
+00:34:58.640 --> 00:35:02.480
+which
+
+00:34:59.760 --> 00:35:04.480
+a virtual machine is allocated to the
+
+00:35:02.480 --> 00:35:07.839
+consumer
+
+00:35:04.480 --> 00:35:11.280
+may or may not be completely automated
+
+00:35:07.839 --> 00:35:16.079
+okay however in the cloud realm
+
+00:35:11.280 --> 00:35:19.359
+the process of provisioning or providing
+
+00:35:16.079 --> 00:35:21.680
+a virtual machine to a cloud consumer in
+
+00:35:19.359 --> 00:35:25.119
+response to their request
+
+00:35:21.680 --> 00:35:26.640
+is completely automated in other words
+
+00:35:25.119 --> 00:35:29.680
+when a cloud consumer
+
+00:35:26.640 --> 00:35:32.720
+is providing
+
+00:35:29.680 --> 00:35:35.760
+the the request what happens
+
+00:35:32.720 --> 00:35:37.040
+here is most of the major cloud service
+
+00:35:35.760 --> 00:35:40.240
+providers
+
+00:35:37.040 --> 00:35:42.320
+they have their own internal inter
+
+00:35:40.240 --> 00:35:44.560
+intelligent provisioning layer or
+
+00:35:42.320 --> 00:35:47.640
+automated provisioning layer
+
+00:35:44.560 --> 00:35:50.079
+what this this is part of the
+
+00:35:47.640 --> 00:35:53.760
+virtualization layer what this does
+
+00:35:50.079 --> 00:35:55.040
+is that it takes into account multiple
+
+00:35:53.760 --> 00:35:58.240
+factors
+
+00:35:55.040 --> 00:36:01.760
+and then automatically decides okay
+
+00:35:58.240 --> 00:36:03.040
+which physical machine here should the
+
+00:36:01.760 --> 00:36:06.079
+cloud consumers
+
+00:36:03.040 --> 00:36:09.520
+virtual machine sit should it be
+
+00:36:06.079 --> 00:36:12.880
+physical machine a b c
+
+00:36:09.520 --> 00:36:17.119
+or d and maybe it decides that okay
+
+00:36:12.880 --> 00:36:21.119
+the best fit for me is say server a
+
+00:36:17.119 --> 00:36:21.119
+so this process of
+
+00:36:21.760 --> 00:36:27.760
+taking in customer request
+
+00:36:24.880 --> 00:36:28.560
+taking an intelligent decision to decide
+
+00:36:27.760 --> 00:36:30.880
+where
+
+00:36:28.560 --> 00:36:32.560
+the request or where which physical
+
+00:36:30.880 --> 00:36:35.359
+machine
+
+00:36:32.560 --> 00:36:35.760
+the the virtual machine should be seated
+
+00:36:35.359 --> 00:36:39.839
+in
+
+00:36:35.760 --> 00:36:41.359
+like server a and d provisioning them is
+
+00:36:39.839 --> 00:36:44.560
+completely
+
+00:36:41.359 --> 00:36:47.839
+end to end automated there is
+
+00:36:44.560 --> 00:36:50.960
+no human intervention involved at all
+
+00:36:47.839 --> 00:36:53.200
+it is only due to the fact that
+
+00:36:50.960 --> 00:36:55.839
+the major cloud service providers have
+
+00:36:53.200 --> 00:36:58.720
+completely automated provisioning
+
+00:36:55.839 --> 00:37:00.720
+that these cloud service providers can
+
+00:36:58.720 --> 00:37:04.400
+provide or provision
+
+00:37:00.720 --> 00:37:07.119
+virtual machines running into
+
+00:37:04.400 --> 00:37:07.599
+tens of thousands daily otherwise it
+
+00:37:07.119 --> 00:37:10.720
+would
+
+00:37:07.599 --> 00:37:11.280
+simply not be possible if there was a
+
+00:37:10.720 --> 00:37:15.440
+human
+
+00:37:11.280 --> 00:37:17.920
+effort involved okay so as i said
+
+00:37:15.440 --> 00:37:19.119
+uh in automated provisioning the process
+
+00:37:17.920 --> 00:37:22.960
+of allocating
+
+00:37:19.119 --> 00:37:27.119
+configuring provisioning managing
+
+00:37:22.960 --> 00:37:30.320
+keeping a snapshot completely automated
+
+00:37:27.119 --> 00:37:32.079
+one thing to note here is that once
+
+00:37:30.320 --> 00:37:34.160
+say for example the automated
+
+00:37:32.079 --> 00:37:37.280
+provisioning layer has decided that
+
+00:37:34.160 --> 00:37:40.960
+my request or my virtual machine
+
+00:37:37.280 --> 00:37:43.040
+should sit in server a the allocation of
+
+00:37:40.960 --> 00:37:44.079
+the virtual machine to the physical
+
+00:37:43.040 --> 00:37:47.760
+machine
+
+00:37:44.079 --> 00:37:49.200
+is static that means during the life of
+
+00:37:47.760 --> 00:37:51.440
+the virtual machine
+
+00:37:49.200 --> 00:37:54.160
+it does not move around it doesn't the
+
+00:37:51.440 --> 00:37:57.200
+virtual machine doesn't move from
+
+00:37:54.160 --> 00:38:00.960
+server a to maybe b c d or
+
+00:37:57.200 --> 00:38:03.520
+e so it is static
+
+00:38:00.960 --> 00:38:04.640
+so that's one thing completely automated
+
+00:38:03.520 --> 00:38:07.839
+provisioning
+
+00:38:04.640 --> 00:38:07.839
+the second thing
+
+00:38:08.640 --> 00:38:13.839
+that cloud service providers use
+
+00:38:11.839 --> 00:38:15.280
+as a part of the virtualization
+
+00:38:13.839 --> 00:38:19.599
+capability
+
+00:38:15.280 --> 00:38:23.760
+is elastic operations the basic idea
+
+00:38:19.599 --> 00:38:23.760
+in elastic operations is that
+
+00:38:25.119 --> 00:38:30.320
+is that the assignment of a the basic
+
+00:38:28.640 --> 00:38:33.280
+idea in elastic operations
+
+00:38:30.320 --> 00:38:34.240
+is that the assignment of a virtual
+
+00:38:33.280 --> 00:38:37.920
+machine to a
+
+00:38:34.240 --> 00:38:41.520
+physical machine is not static
+
+00:38:37.920 --> 00:38:44.839
+okay and it can be controlled
+
+00:38:41.520 --> 00:38:46.240
+dynamically at runtime based on multiple
+
+00:38:44.839 --> 00:38:49.760
+factors so
+
+00:38:46.240 --> 00:38:51.920
+let me come to some of those factors in
+
+00:38:49.760 --> 00:38:53.359
+some time but let me tell you what may
+
+00:38:51.920 --> 00:38:56.480
+happen in elastic
+
+00:38:53.359 --> 00:38:57.359
+operations so again very similar like
+
+00:38:56.480 --> 00:39:00.000
+before
+
+00:38:57.359 --> 00:39:00.400
+i'm a cloud consumer and i'm requesting
+
+00:39:00.000 --> 00:39:04.079
+for
+
+00:39:00.400 --> 00:39:06.640
+a virtual machine just one i've got
+
+00:39:04.079 --> 00:39:08.640
+maybe a few others that are running but
+
+00:39:06.640 --> 00:39:09.520
+at the moment i'm just requesting for
+
+00:39:08.640 --> 00:39:12.160
+one
+
+00:39:09.520 --> 00:39:12.880
+and very similar to what i have
+
+00:39:12.160 --> 00:39:15.359
+explained in
+
+00:39:12.880 --> 00:39:16.640
+automated provisioning this request is
+
+00:39:15.359 --> 00:39:19.920
+sent to
+
+00:39:16.640 --> 00:39:24.400
+elastic operations layer and this layer
+
+00:39:19.920 --> 00:39:28.320
+says okay let based on the request
+
+00:39:24.400 --> 00:39:30.000
+let this request be handled by physical
+
+00:39:28.320 --> 00:39:33.200
+machine a
+
+00:39:30.000 --> 00:39:35.599
+so far exactly the same about
+
+00:39:33.200 --> 00:39:36.800
+what we discussed in the automated
+
+00:39:35.599 --> 00:39:40.160
+provisioning
+
+00:39:36.800 --> 00:39:43.359
+however at run time when the physical
+
+00:39:40.160 --> 00:39:46.240
+when the virtual machine is running
+
+00:39:43.359 --> 00:39:46.880
+in elastic operations layer what it does
+
+00:39:46.240 --> 00:39:49.440
+it is
+
+00:39:46.880 --> 00:39:51.119
+keeps an eye out on the performance of
+
+00:39:49.440 --> 00:39:53.560
+the virtual machine
+
+00:39:51.119 --> 00:39:55.119
+perhaps this virtual machine is
+
+00:39:53.560 --> 00:39:57.839
+communicating
+
+00:39:55.119 --> 00:39:58.560
+with a few other virtual machines
+
+00:39:57.839 --> 00:40:02.320
+sitting in
+
+00:39:58.560 --> 00:40:05.119
+in machine c or maybe
+
+00:40:02.320 --> 00:40:05.599
+this physical machine where this virtual
+
+00:40:05.119 --> 00:40:09.520
+machine
+
+00:40:05.599 --> 00:40:12.000
+is sitting it seems that its performance
+
+00:40:09.520 --> 00:40:14.160
+is degrading in other words its looks
+
+00:40:12.000 --> 00:40:17.280
+like its going to fail
+
+00:40:14.160 --> 00:40:21.200
+so in elastic operations
+
+00:40:17.280 --> 00:40:22.240
+what may happen in elastic operations
+
+00:40:21.200 --> 00:40:25.520
+what may happen
+
+00:40:22.240 --> 00:40:27.200
+is the elastic operations layer keeps an
+
+00:40:25.520 --> 00:40:28.880
+eye out for the performance of the
+
+00:40:27.200 --> 00:40:31.680
+virtual machine
+
+00:40:28.880 --> 00:40:32.800
+or its communication latency and
+
+00:40:31.680 --> 00:40:35.839
+bandwidth
+
+00:40:32.800 --> 00:40:38.480
+and if it decides that it may need to
+
+00:40:35.839 --> 00:40:40.000
+move it from one physical machine like
+
+00:40:38.480 --> 00:40:43.440
+machine a
+
+00:40:40.000 --> 00:40:46.640
+to machine d so this process
+
+00:40:43.440 --> 00:40:49.280
+of moving from one machine
+
+00:40:46.640 --> 00:40:51.760
+physical machine a moving a virtual
+
+00:40:49.280 --> 00:40:55.119
+machine from physical machine a
+
+00:40:51.760 --> 00:40:58.480
+to physical machine d is
+
+00:40:55.119 --> 00:41:01.599
+possible and happens in elastic
+
+00:40:58.480 --> 00:41:04.800
+operations this process of moving
+
+00:41:01.599 --> 00:41:05.440
+from one machine to another machine is
+
+00:41:04.800 --> 00:41:08.640
+known as
+
+00:41:05.440 --> 00:41:11.760
+virtual machine migration
+
+00:41:08.640 --> 00:41:12.880
+okay you may be wondering why would you
+
+00:41:11.760 --> 00:41:16.400
+need to migrate
+
+00:41:12.880 --> 00:41:19.680
+why does one need to migrate there are
+
+00:41:16.400 --> 00:41:21.920
+plethora of reasons maybe
+
+00:41:19.680 --> 00:41:23.040
+the original virtual machine as was
+
+00:41:21.920 --> 00:41:26.400
+sitting in
+
+00:41:23.040 --> 00:41:28.640
+uh in physical machine a
+
+00:41:26.400 --> 00:41:29.839
+maybe the elastic operations layer has
+
+00:41:28.640 --> 00:41:32.000
+found out
+
+00:41:29.839 --> 00:41:32.880
+that the performance of the physical
+
+00:41:32.000 --> 00:41:36.160
+machine a
+
+00:41:32.880 --> 00:41:38.240
+is degrading and hence
+
+00:41:36.160 --> 00:41:40.480
+because it is degrading it wants to
+
+00:41:38.240 --> 00:41:43.680
+migrate it proactively
+
+00:41:40.480 --> 00:41:47.200
+before the machine degrade before the
+
+00:41:43.680 --> 00:41:50.319
+physical machine a stops functioning
+
+00:41:47.200 --> 00:41:50.960
+another option is or another reason is
+
+00:41:50.319 --> 00:41:53.280
+that
+
+00:41:50.960 --> 00:41:55.359
+it may be the case that this virtual
+
+00:41:53.280 --> 00:41:57.520
+machine which was sitting in machine
+
+00:41:55.359 --> 00:41:57.520
+a
+
+00:41:58.960 --> 00:42:02.480
+was communicating with a lot of virtual
+
+00:42:01.760 --> 00:42:05.520
+machines
+
+00:42:02.480 --> 00:42:08.000
+sitting in physical machine d
+
+00:42:05.520 --> 00:42:08.960
+and because it was communicating it was
+
+00:42:08.000 --> 00:42:12.079
+experiencing
+
+00:42:08.960 --> 00:42:15.200
+latency and perhaps delays
+
+00:42:12.079 --> 00:42:16.000
+so to stop that it says okay given that
+
+00:42:15.200 --> 00:42:17.920
+you have got a lot
+
+00:42:16.000 --> 00:42:19.040
+of virtual machines in this physical
+
+00:42:17.920 --> 00:42:21.920
+machine
+
+00:42:19.040 --> 00:42:24.000
+let me move it closer to where all the
+
+00:42:21.920 --> 00:42:27.839
+virtual machines are
+
+00:42:24.000 --> 00:42:28.400
+okay alternatively it may be the case
+
+00:42:27.839 --> 00:42:31.520
+that
+
+00:42:28.400 --> 00:42:34.720
+a new request has come in and
+
+00:42:31.520 --> 00:42:37.760
+and that new request is for a
+
+00:42:34.720 --> 00:42:41.000
+for a large number of virtual machines
+
+00:42:37.760 --> 00:42:44.480
+so what it can do is it can
+
+00:42:41.000 --> 00:42:46.680
+consolidate using
+
+00:42:44.480 --> 00:42:48.319
+virtual machine migration it can
+
+00:42:46.680 --> 00:42:51.920
+consolidate
+
+00:42:48.319 --> 00:42:54.400
+the existing workloads or existing
+
+00:42:51.920 --> 00:42:57.359
+virtual machine workloads
+
+00:42:54.400 --> 00:42:58.160
+into a smaller number of physical
+
+00:42:57.359 --> 00:43:01.760
+machines
+
+00:42:58.160 --> 00:43:03.359
+as in what it can do is all the existing
+
+00:43:01.760 --> 00:43:06.560
+workloads in say machine
+
+00:43:03.359 --> 00:43:07.119
+a and machine b they can take this and
+
+00:43:06.560 --> 00:43:10.160
+move it
+
+00:43:07.119 --> 00:43:12.480
+only to c and d and make
+
+00:43:10.160 --> 00:43:13.599
+machine physical machine a and physical
+
+00:43:12.480 --> 00:43:17.440
+machine be
+
+00:43:13.599 --> 00:43:21.599
+available for new requests so you see
+
+00:43:17.440 --> 00:43:24.720
+the whole essence of elastic operations
+
+00:43:21.599 --> 00:43:28.079
+which is to move virtual machines
+
+00:43:24.720 --> 00:43:30.560
+across at run time
+
+00:43:28.079 --> 00:43:31.800
+gives cloud service providers the
+
+00:43:30.560 --> 00:43:34.800
+ability to
+
+00:43:31.800 --> 00:43:37.920
+consolidate existing
+
+00:43:34.800 --> 00:43:39.760
+virtual machine loads onto a smaller set
+
+00:43:37.920 --> 00:43:43.680
+of physical machines
+
+00:43:39.760 --> 00:43:47.280
+and hence for you and i it almost
+
+00:43:43.680 --> 00:43:48.640
+gives the illusion that if i put in any
+
+00:43:47.280 --> 00:43:52.000
+reasonable request
+
+00:43:48.640 --> 00:43:54.160
+for virtual machines that request will
+
+00:43:52.000 --> 00:43:55.440
+not be declined because they can always
+
+00:43:54.160 --> 00:43:59.359
+consolidate
+
+00:43:55.440 --> 00:44:02.720
+and they can create new capacity for me
+
+00:43:59.359 --> 00:44:05.920
+okay so this process as i said
+
+00:44:02.720 --> 00:44:08.160
+uh the process of migrating from one
+
+00:44:05.920 --> 00:44:09.200
+physical machine to another physical
+
+00:44:08.160 --> 00:44:11.359
+machine
+
+00:44:09.200 --> 00:44:13.280
+as i explained is known as virtual
+
+00:44:11.359 --> 00:44:16.319
+machine migration
+
+00:44:13.280 --> 00:44:19.280
+and if the underlying physical machines
+
+00:44:16.319 --> 00:44:22.079
+are very large and cloud service
+
+00:44:19.280 --> 00:44:23.440
+providers they have physical machines in
+
+00:44:22.079 --> 00:44:25.839
+a data center
+
+00:44:23.440 --> 00:44:26.800
+running into perhaps hundreds of
+
+00:44:25.839 --> 00:44:30.160
+thousands
+
+00:44:26.800 --> 00:44:32.240
+okay and with
+
+00:44:30.160 --> 00:44:35.920
+with virtual machine migration they can
+
+00:44:32.240 --> 00:44:36.640
+consolidate workloads into a smaller set
+
+00:44:35.920 --> 00:44:39.440
+of
+
+00:44:36.640 --> 00:44:40.480
+physical machines then for the cloud
+
+00:44:39.440 --> 00:44:43.520
+consumers we
+
+00:44:40.480 --> 00:44:47.040
+we almost get the illusion or feeling of
+
+00:44:43.520 --> 00:44:51.440
+infinite capacity okay
+
+00:44:47.040 --> 00:44:54.800
+so this virtual machine migration
+
+00:44:51.440 --> 00:44:55.119
+is a process that is very commonly used
+
+00:44:54.800 --> 00:44:58.400
+by
+
+00:44:55.119 --> 00:45:01.200
+most major cloud service providers
+
+00:44:58.400 --> 00:45:03.760
+depending upon the actual process
+
+00:45:01.200 --> 00:45:05.599
+involved in virtual machine migration as
+
+00:45:03.760 --> 00:45:08.720
+a consumer
+
+00:45:05.599 --> 00:45:12.960
+you may or you may not notice that
+
+00:45:08.720 --> 00:45:16.400
+your vm is being migrated there are
+
+00:45:12.960 --> 00:45:18.160
+at least four steps involved in virtual
+
+00:45:16.400 --> 00:45:21.760
+machine migration
+
+00:45:18.160 --> 00:45:25.200
+so say if i am interacting with
+
+00:45:21.760 --> 00:45:27.599
+aws ec2 and that is running on a
+
+00:45:25.200 --> 00:45:30.160
+physical machine of course
+
+00:45:27.599 --> 00:45:31.280
+and that needs to be migrated the first
+
+00:45:30.160 --> 00:45:34.560
+thing that will happen
+
+00:45:31.280 --> 00:45:37.839
+is it'll suspend the virtual machine's
+
+00:45:34.560 --> 00:45:39.680
+execution so all the execution that's
+
+00:45:37.839 --> 00:45:41.599
+being done and all of those things it
+
+00:45:39.680 --> 00:45:44.800
+will stop it there
+
+00:45:41.599 --> 00:45:47.359
+and it will also suspend me
+
+00:45:44.800 --> 00:45:48.160
+as a user it will suspend any
+
+00:45:47.359 --> 00:45:53.040
+interaction
+
+00:45:48.160 --> 00:45:55.440
+so i can perhaps keep on giving requests
+
+00:45:53.040 --> 00:45:57.440
+but these requests are not reaching the
+
+00:45:55.440 --> 00:45:59.200
+virtual machine they are just being
+
+00:45:57.440 --> 00:46:02.880
+queued
+
+00:45:59.200 --> 00:46:06.079
+so that's the first step in second step
+
+00:46:02.880 --> 00:46:09.440
+the virtual machines state is saved
+
+00:46:06.079 --> 00:46:12.160
+okay third step
+
+00:46:09.440 --> 00:46:12.560
+the saved state of the virtual machine
+
+00:46:12.160 --> 00:46:15.680
+is
+
+00:46:12.560 --> 00:46:18.640
+moved to the new host or through the new
+
+00:46:15.680 --> 00:46:18.640
+physical machine
+
+00:46:18.720 --> 00:46:23.760
+um and and in step four the execution of
+
+00:46:22.079 --> 00:46:24.560
+the physical machine of the virtual
+
+00:46:23.760 --> 00:46:28.400
+machine then
+
+00:46:24.560 --> 00:46:30.960
+is then starts again and if my
+
+00:46:28.400 --> 00:46:31.839
+requests or if my interaction has been
+
+00:46:30.960 --> 00:46:34.800
+queued
+
+00:46:31.839 --> 00:46:36.480
+it will be pushed back to the virtual
+
+00:46:34.800 --> 00:46:39.599
+machine again
+
+00:46:36.480 --> 00:46:42.160
+so these are at a very simplistic level
+
+00:46:39.599 --> 00:46:42.880
+these are the steps involved in virtual
+
+00:46:42.160 --> 00:46:46.880
+machine
+
+00:46:42.880 --> 00:46:49.040
+migration or vmm migration vmware which
+
+00:46:46.880 --> 00:46:53.599
+is a very popular virtualization
+
+00:46:49.040 --> 00:46:53.599
+software their vmotion
+
+00:46:53.680 --> 00:46:59.680
+tool is used for virtual machine
+
+00:46:56.480 --> 00:47:02.720
+migration it's very common
+
+00:46:59.680 --> 00:47:04.560
+so having looked at uh you would not
+
+00:47:02.720 --> 00:47:06.079
+hopefully this would have given you a
+
+00:47:04.560 --> 00:47:08.960
+sense of not just
+
+00:47:06.079 --> 00:47:11.440
+what virtualization is the ability to
+
+00:47:08.960 --> 00:47:15.760
+create virtual machines
+
+00:47:11.440 --> 00:47:18.160
+um and the lot but how virtualization
+
+00:47:15.760 --> 00:47:21.040
+can be used
+
+00:47:18.160 --> 00:47:22.160
+specifically or how virtualization is
+
+00:47:21.040 --> 00:47:25.520
+used
+
+00:47:22.160 --> 00:47:26.319
+um specifically in the context of cloud
+
+00:47:25.520 --> 00:47:30.000
+computing
+
+00:47:26.319 --> 00:47:32.880
+okay and that is essentially to do with
+
+00:47:30.000 --> 00:47:35.680
+automated provisioning i mean all major
+
+00:47:32.880 --> 00:47:37.839
+cloud service providers they use
+
+00:47:35.680 --> 00:47:39.119
+virtualization to achieve automated
+
+00:47:37.839 --> 00:47:43.280
+provisioning
+
+00:47:39.119 --> 00:47:47.040
+and number two virtual machine migration
+
+00:47:43.280 --> 00:47:50.839
+okay so moving on um let's
+
+00:47:47.040 --> 00:47:54.079
+discuss some applications of
+
+00:47:50.839 --> 00:47:55.200
+virtualization and whilst i will only
+
+00:47:54.079 --> 00:47:57.599
+mention a few
+
+00:47:55.200 --> 00:47:58.400
+there are actually very many different
+
+00:47:57.599 --> 00:48:01.599
+types of
+
+00:47:58.400 --> 00:48:05.200
+applications the first one is
+
+00:48:01.599 --> 00:48:09.280
+the most common uh application of
+
+00:48:05.200 --> 00:48:13.040
+or the most common use of virtualization
+
+00:48:09.280 --> 00:48:14.640
+is server consolidation i'm sure many of
+
+00:48:13.040 --> 00:48:17.680
+you would have noticed that
+
+00:48:14.640 --> 00:48:19.680
+it is not uncommon or at least
+
+00:48:17.680 --> 00:48:21.040
+in the pre-cloud days it was not
+
+00:48:19.680 --> 00:48:24.240
+uncommon
+
+00:48:21.040 --> 00:48:26.800
+for whenever we start a new project
+
+00:48:24.240 --> 00:48:27.359
+we budget for a new web server or a new
+
+00:48:26.800 --> 00:48:30.720
+server
+
+00:48:27.359 --> 00:48:31.599
+that that will be used perhaps only for
+
+00:48:30.720 --> 00:48:34.800
+that project
+
+00:48:31.599 --> 00:48:38.000
+or for those project needs
+
+00:48:34.800 --> 00:48:42.400
+okay so what you may end up happening
+
+00:48:38.000 --> 00:48:45.680
+is you may have multiple web servers
+
+00:48:42.400 --> 00:48:46.559
+within a given enterprise that leads to
+
+00:48:45.680 --> 00:48:49.760
+what is known
+
+00:48:46.559 --> 00:48:53.119
+as a server sprawl and that is
+
+00:48:49.760 --> 00:48:54.160
+a not a good situation to be in first of
+
+00:48:53.119 --> 00:48:57.200
+all
+
+00:48:54.160 --> 00:48:58.880
+if you have got n number of different
+
+00:48:57.200 --> 00:49:00.640
+servers sitting across in your
+
+00:48:58.880 --> 00:49:03.040
+enterprise
+
+00:49:00.640 --> 00:49:04.720
+first of all it's inefficient because
+
+00:49:03.040 --> 00:49:07.920
+each web server is
+
+00:49:04.720 --> 00:49:11.520
+expensive you have spent resources
+
+00:49:07.920 --> 00:49:15.040
+capital to purchase the web server
+
+00:49:11.520 --> 00:49:17.760
+number two from a maintenance viewpoint
+
+00:49:15.040 --> 00:49:18.559
+for your i.t people to be able to
+
+00:49:17.760 --> 00:49:21.599
+maintain
+
+00:49:18.559 --> 00:49:23.520
+manage and service any number of
+
+00:49:21.599 --> 00:49:26.559
+different web servers is quite
+
+00:49:23.520 --> 00:49:27.920
+a challenging ask and on top of it you
+
+00:49:26.559 --> 00:49:31.200
+would see
+
+00:49:27.920 --> 00:49:34.079
+that none of these web servers
+
+00:49:31.200 --> 00:49:35.440
+are perhaps being utilized up to
+
+00:49:34.079 --> 00:49:38.400
+capacity
+
+00:49:35.440 --> 00:49:39.680
+i mean you can have as i said it's not
+
+00:49:38.400 --> 00:49:42.640
+uncommon to just
+
+00:49:39.680 --> 00:49:43.599
+procure web servers for specific
+
+00:49:42.640 --> 00:49:46.079
+projects
+
+00:49:43.599 --> 00:49:47.920
+so you may have web server a which is
+
+00:49:46.079 --> 00:49:48.800
+being utilized twenty percent of the
+
+00:49:47.920 --> 00:49:51.920
+time
+
+00:49:48.800 --> 00:49:53.040
+web server b ten percent of the time and
+
+00:49:51.920 --> 00:49:56.480
+web server c
+
+00:49:53.040 --> 00:49:59.200
+fifty percent of the time okay
+
+00:49:56.480 --> 00:49:59.920
+alternatively using virtualization what
+
+00:49:59.200 --> 00:50:03.359
+you could do
+
+00:49:59.920 --> 00:50:06.160
+is these desperite workloads
+
+00:50:03.359 --> 00:50:07.839
+which are spread across multiple web
+
+00:50:06.160 --> 00:50:10.640
+servers
+
+00:50:07.839 --> 00:50:12.160
+and each workload being hosted by when
+
+00:50:10.640 --> 00:50:15.280
+one web server
+
+00:50:12.160 --> 00:50:18.160
+you could consolidate them using one
+
+00:50:15.280 --> 00:50:20.880
+in one web server say web server d you
+
+00:50:18.160 --> 00:50:24.960
+can run a virtualization software on top
+
+00:50:20.880 --> 00:50:28.720
+and it can be accessed by the people
+
+00:50:24.960 --> 00:50:32.559
+who were accessing a b web server a b
+
+00:50:28.720 --> 00:50:33.280
+and c your id guys would be very happy
+
+00:50:32.559 --> 00:50:35.599
+because
+
+00:50:33.280 --> 00:50:36.880
+they only have to look after one web
+
+00:50:35.599 --> 00:50:40.640
+server
+
+00:50:36.880 --> 00:50:43.839
+and number two this web server is now
+
+00:50:40.640 --> 00:50:47.440
+being utilized a decent amount like 80
+
+00:50:43.839 --> 00:50:50.720
+in this case so addressing
+
+00:50:47.440 --> 00:50:54.480
+server sprawl and server consolidation
+
+00:50:50.720 --> 00:50:58.000
+is one of the most common use cases
+
+00:50:54.480 --> 00:51:00.720
+of virtualization okay
+
+00:50:58.000 --> 00:51:00.720
+the second
+
+00:51:01.359 --> 00:51:09.280
+form or the second most common
+
+00:51:04.640 --> 00:51:12.880
+uh use case of virtualization
+
+00:51:09.280 --> 00:51:14.960
+has to do with security written for
+
+00:51:12.880 --> 00:51:18.400
+example if i go back as i said
+
+00:51:14.960 --> 00:51:19.760
+if i'm your ip guy and if i have to
+
+00:51:18.400 --> 00:51:22.559
+ensure
+
+00:51:19.760 --> 00:51:23.200
+that each one of these three web servers
+
+00:51:22.559 --> 00:51:26.400
+are
+
+00:51:23.200 --> 00:51:27.680
+secure they have the they have the
+
+00:51:26.400 --> 00:51:31.040
+correct
+
+00:51:27.680 --> 00:51:33.440
+antivirus they the each one of them are
+
+00:51:31.040 --> 00:51:35.280
+um following the correct enterprise
+
+00:51:33.440 --> 00:51:38.880
+policy in terms of them
+
+00:51:35.280 --> 00:51:40.559
+it's it's a big job because
+
+00:51:38.880 --> 00:51:42.480
+in this case we have three but if you
+
+00:51:40.559 --> 00:51:44.079
+have got n number of different web
+
+00:51:42.480 --> 00:51:46.800
+servers
+
+00:51:44.079 --> 00:51:47.440
+it's difficult for it guys to go and
+
+00:51:46.800 --> 00:51:50.000
+look
+
+00:51:47.440 --> 00:51:51.280
+and ensure security for each one of
+
+00:51:50.000 --> 00:51:53.280
+those
+
+00:51:51.280 --> 00:51:56.319
+different physical servers that are
+
+00:51:53.280 --> 00:52:00.240
+there in contrast
+
+00:51:56.319 --> 00:52:03.359
+what is possible is
+
+00:52:00.240 --> 00:52:05.119
+security can be embedded into the
+
+00:52:03.359 --> 00:52:07.680
+virtualization layer
+
+00:52:05.119 --> 00:52:08.559
+so for example if i've got this shared
+
+00:52:07.680 --> 00:52:11.599
+hardware
+
+00:52:08.559 --> 00:52:13.760
+even if i take a web server and if i
+
+00:52:11.599 --> 00:52:16.160
+take this shared hardware
+
+00:52:13.760 --> 00:52:17.280
+and if i run a native virtual machine
+
+00:52:16.160 --> 00:52:19.920
+monitor
+
+00:52:17.280 --> 00:52:21.040
+various security mechanisms that i want
+
+00:52:19.920 --> 00:52:24.079
+to implement
+
+00:52:21.040 --> 00:52:26.720
+i can embed this as the part of the
+
+00:52:24.079 --> 00:52:27.359
+native virtual machine monitor for
+
+00:52:26.720 --> 00:52:32.160
+example
+
+00:52:27.359 --> 00:52:35.280
+if i have got organizational policies
+
+00:52:32.160 --> 00:52:38.960
+on proper use of internet
+
+00:52:35.280 --> 00:52:41.359
+or or or those things i can just
+
+00:52:38.960 --> 00:52:42.400
+embed them in the native virtual machine
+
+00:52:41.359 --> 00:52:44.480
+monitor
+
+00:52:42.400 --> 00:52:46.800
+the native virtual machine monitor in
+
+00:52:44.480 --> 00:52:49.359
+turn will make sure
+
+00:52:46.800 --> 00:52:51.280
+that each one of these guest virtual
+
+00:52:49.359 --> 00:52:54.720
+machines will comply
+
+00:52:51.280 --> 00:52:58.400
+with that policy if i want to
+
+00:52:54.720 --> 00:53:00.800
+install antivirus software for example
+
+00:52:58.400 --> 00:53:02.240
+what i could do is i've got two options
+
+00:53:00.800 --> 00:53:05.280
+i can install
+
+00:53:02.240 --> 00:53:05.680
+one in guest os one two three each one
+
+00:53:05.280 --> 00:53:08.960
+of them
+
+00:53:05.680 --> 00:53:11.839
+and that's one approach the other one
+
+00:53:08.960 --> 00:53:13.680
+is i can simply install it in the native
+
+00:53:11.839 --> 00:53:17.760
+virtual machine monitor
+
+00:53:13.680 --> 00:53:20.240
+whenever a new guest operating system is
+
+00:53:17.760 --> 00:53:22.800
+turned on the native virtual machine
+
+00:53:20.240 --> 00:53:24.800
+monitor will make sure that it runs the
+
+00:53:22.800 --> 00:53:27.680
+anti-virus software
+
+00:53:24.800 --> 00:53:28.480
+so this whole notion of bringing in
+
+00:53:27.680 --> 00:53:31.000
+security
+
+00:53:28.480 --> 00:53:32.880
+enabling security through the
+
+00:53:31.000 --> 00:53:36.160
+virtualization layer is a
+
+00:53:32.880 --> 00:53:37.760
+very powerful concept and very easy to
+
+00:53:36.160 --> 00:53:40.880
+implement
+
+00:53:37.760 --> 00:53:43.200
+if i've got new security software that i
+
+00:53:40.880 --> 00:53:44.400
+want to roll out like new antivirus
+
+00:53:43.200 --> 00:53:47.599
+version
+
+00:53:44.400 --> 00:53:49.440
+i can simply push it out from the native
+
+00:53:47.599 --> 00:53:52.160
+virtual machine monitor
+
+00:53:49.440 --> 00:53:54.400
+my it guys don't need to go around and
+
+00:53:52.160 --> 00:53:57.760
+install it in each one of them
+
+00:53:54.400 --> 00:54:00.960
+so that's another um very very
+
+00:53:57.760 --> 00:54:04.240
+niche use of virtualization layer
+
+00:54:00.960 --> 00:54:06.319
+for achieving security the last
+
+00:54:04.240 --> 00:54:07.599
+but not the least but something that we
+
+00:54:06.319 --> 00:54:10.720
+are seeing
+
+00:54:07.599 --> 00:54:12.640
+it's getting a lot of it is getting very
+
+00:54:10.720 --> 00:54:16.400
+popular these days
+
+00:54:12.640 --> 00:54:16.800
+is desktop virtualization what i mean by
+
+00:54:16.400 --> 00:54:20.240
+that
+
+00:54:16.800 --> 00:54:23.359
+is almost all our organizations
+
+00:54:20.240 --> 00:54:26.240
+have a fluctuating employee base
+
+00:54:23.359 --> 00:54:28.400
+take uts for example i'm i'm using
+
+00:54:26.240 --> 00:54:31.680
+hypothetical numbers here
+
+00:54:28.400 --> 00:54:32.240
+let's say uts um the number of staff in
+
+00:54:31.680 --> 00:54:35.680
+uts
+
+00:54:32.240 --> 00:54:38.960
+are 5000 okay but that number is not
+
+00:54:35.680 --> 00:54:43.680
+fixed it can vary i mean 5 000
+
+00:54:38.960 --> 00:54:47.040
+plus or minus maybe 50 or 100 or 200
+
+00:54:43.680 --> 00:54:51.359
+on it on any day so
+
+00:54:47.040 --> 00:54:54.160
+if if if a new person joins uts tomorrow
+
+00:54:51.359 --> 00:54:57.359
+the process by which we would request a
+
+00:54:54.160 --> 00:55:00.480
+desktop for him it would be provisioned
+
+00:54:57.359 --> 00:55:03.760
+and it will be provided back to the
+
+00:55:00.480 --> 00:55:07.280
+new employee is quite large
+
+00:55:03.760 --> 00:55:08.799
+okay plus as in the case of a web server
+
+00:55:07.280 --> 00:55:11.920
+for the it people
+
+00:55:08.799 --> 00:55:13.280
+to be able to run around and configure
+
+00:55:11.920 --> 00:55:16.880
+desktops
+
+00:55:13.280 --> 00:55:20.079
+install uh security patches is
+
+00:55:16.880 --> 00:55:23.920
+quite a challenging job
+
+00:55:20.079 --> 00:55:27.280
+so in about 2013
+
+00:55:23.920 --> 00:55:28.240
+i mean amazon launched what is what they
+
+00:55:27.280 --> 00:55:32.400
+call as
+
+00:55:28.240 --> 00:55:36.319
+amazon workspaces amazon workspaces
+
+00:55:32.400 --> 00:55:40.079
+is simply put is desktop as a service
+
+00:55:36.319 --> 00:55:43.520
+okay what it does is um
+
+00:55:40.079 --> 00:55:45.920
+your whole desktop so what it does is
+
+00:55:43.520 --> 00:55:47.040
+in am and i'll show you a video on that
+
+00:55:45.920 --> 00:55:49.200
+in amazon
+
+00:55:47.040 --> 00:55:50.720
+workspaces you can have you can take a
+
+00:55:49.200 --> 00:55:54.000
+very large
+
+00:55:50.720 --> 00:55:57.599
+enterprise server slice it down into
+
+00:55:54.000 --> 00:56:01.200
+a finite number of logical units
+
+00:55:57.599 --> 00:56:04.880
+and each small logical unit would be
+
+00:56:01.200 --> 00:56:07.280
+a virtual desktop for a person okay
+
+00:56:04.880 --> 00:56:08.160
+and as a user what i would do is i would
+
+00:56:07.280 --> 00:56:12.559
+take a thin
+
+00:56:08.160 --> 00:56:15.680
+client maybe a mobile device or a laptop
+
+00:56:12.559 --> 00:56:17.200
+and i would simply log in to my virtual
+
+00:56:15.680 --> 00:56:20.960
+desktop
+
+00:56:17.200 --> 00:56:24.640
+sitting in a virtual machine okay
+
+00:56:20.960 --> 00:56:28.880
+it saves organizations like uts a
+
+00:56:24.640 --> 00:56:32.240
+lot of money in procuring new desktops
+
+00:56:28.880 --> 00:56:33.520
+time in procuring new desktop it's a lot
+
+00:56:32.240 --> 00:56:36.000
+more quicker
+
+00:56:33.520 --> 00:56:37.839
+and more importantly the maintenance of
+
+00:56:36.000 --> 00:56:41.359
+that
+
+00:56:37.839 --> 00:56:43.440
+i mean keeping an eye on organizational
+
+00:56:41.359 --> 00:56:47.200
+compliance the maintenance
+
+00:56:43.440 --> 00:56:50.240
+is a lot more easier than physical
+
+00:56:47.200 --> 00:56:52.640
+desktops okay so
+
+00:56:50.240 --> 00:56:55.040
+new desktops as i said can be provided
+
+00:56:52.640 --> 00:56:56.480
+very quickly in a matter of few minutes
+
+00:56:55.040 --> 00:56:59.680
+at the most
+
+00:56:56.480 --> 00:57:02.640
+and safe for tomorrow morning if if uts
+
+00:56:59.680 --> 00:57:05.920
+wants to roll out a new software
+
+00:57:02.640 --> 00:57:06.720
+um in all the stops it's just a click of
+
+00:57:05.920 --> 00:57:09.680
+a button
+
+00:57:06.720 --> 00:57:12.319
+at the virtualization layer and there is
+
+00:57:09.680 --> 00:57:15.599
+no need for it people to go around
+
+00:57:12.319 --> 00:57:19.119
+and install these
+
+00:57:15.599 --> 00:57:19.920
+desktops physically or install this new
+
+00:57:19.119 --> 00:57:23.359
+software
+
+00:57:19.920 --> 00:57:25.280
+on these desktops okay i want to show
+
+00:57:23.359 --> 00:57:29.839
+you a small video on
+
+00:57:25.280 --> 00:57:29.839
+amazon workspaces just give me a second
+
+00:57:38.839 --> 00:57:41.839
+please
+
+00:57:52.839 --> 00:57:55.839
+uh
+
+00:58:07.820 --> 00:58:11.539
+[Music]
+
+00:58:18.319 --> 00:58:22.799
+the way people work and interact is
+
+00:58:20.319 --> 00:58:25.280
+changing employees and contractors
+
+00:58:22.799 --> 00:58:26.079
+are increasingly working remotely but
+
+00:58:25.280 --> 00:58:28.079
+they still need
+
+00:58:26.079 --> 00:58:30.079
+secure and reliable access to their
+
+00:58:28.079 --> 00:58:32.480
+desktops and applications
+
+00:58:30.079 --> 00:58:34.160
+customers are enabling this access with
+
+00:58:32.480 --> 00:58:37.040
+amazon workspaces
+
+00:58:34.160 --> 00:58:37.839
+as a managed secure desktop as a service
+
+00:58:37.040 --> 00:58:40.319
+solution
+
+00:58:37.839 --> 00:58:43.200
+you can provision for just one or go up
+
+00:58:40.319 --> 00:58:45.280
+to tens of thousands of windows or linux
+
+00:58:43.200 --> 00:58:45.920
+desktops for remote and contingent
+
+00:58:45.280 --> 00:58:48.880
+workers
+
+00:58:45.920 --> 00:58:51.359
+around the globe amazon workspaces
+
+00:58:48.880 --> 00:58:52.799
+provides each user with access to secure
+
+00:58:51.359 --> 00:58:54.559
+storage in the cloud
+
+00:58:52.799 --> 00:58:57.200
+and no data is stored on the local
+
+00:58:54.559 --> 00:59:00.480
+device ensuring your organization's
+
+00:58:57.200 --> 00:59:02.640
+information is kept safe and protected
+
+00:59:00.480 --> 00:59:03.520
+your remote workers can use amazon
+
+00:59:02.640 --> 00:59:05.680
+workspaces
+
+00:59:03.520 --> 00:59:07.040
+with no complex licensing and no
+
+00:59:05.680 --> 00:59:09.359
+long-term contracts
+
+00:59:07.040 --> 00:59:11.200
+making getting started simple if you
+
+00:59:09.359 --> 00:59:13.200
+don't have an aws account
+
+00:59:11.200 --> 00:59:14.640
+you'll need to set one up before you can
+
+00:59:13.200 --> 00:59:17.520
+launch this service
+
+00:59:14.640 --> 00:59:18.000
+once you have your aws account begin by
+
+00:59:17.520 --> 00:59:20.559
+opening
+
+00:59:18.000 --> 00:59:22.000
+amazon workspaces from the aws
+
+00:59:20.559 --> 00:59:25.280
+management console
+
+00:59:22.000 --> 00:59:26.079
+and click get started now launch your
+
+00:59:25.280 --> 00:59:27.920
+quick setup
+
+00:59:26.079 --> 00:59:30.000
+and select the bundle that best suits
+
+00:59:27.920 --> 00:59:31.920
+your needs select users
+
+00:59:30.000 --> 00:59:34.799
+set up a password and download the
+
+00:59:31.920 --> 00:59:37.040
+client once the setup is complete
+
+00:59:34.799 --> 00:59:39.200
+sign in and your end users can start
+
+00:59:37.040 --> 00:59:41.280
+using their desktops right away to get
+
+00:59:39.200 --> 00:59:43.520
+their job done securely
+
+00:59:41.280 --> 00:59:44.880
+help your remote workers access a cloud
+
+00:59:43.520 --> 00:59:48.990
+desktop anywhere
+
+00:59:44.880 --> 00:59:53.190
+anytime and from any device with amazon
+
+00:59:48.990 --> 00:59:53.190
+[Music]
+
+00:59:58.839 --> 01:00:01.839
+workspaces
+
+01:00:06.319 --> 01:00:09.520
+so coming back
+
+01:00:10.400 --> 01:00:14.720
+so we had a look at the advantages of
+
+01:00:13.319 --> 01:00:18.240
+virtualization
+
+01:00:14.720 --> 01:00:20.880
+but like any other any any technology
+
+01:00:18.240 --> 01:00:25.280
+i mean you have to be at least be
+
+01:00:20.880 --> 01:00:25.280
+mindful of its pitfalls as well
+
+01:00:25.440 --> 01:00:29.200
+over the years virtualization technology
+
+01:00:28.400 --> 01:00:32.799
+has become
+
+01:00:29.200 --> 01:00:33.839
+so mature that the probability of the
+
+01:00:32.799 --> 01:00:36.640
+chances of
+
+01:00:33.839 --> 01:00:37.359
+some of these pitfalls happening is
+
+01:00:36.640 --> 01:00:39.440
+perhaps
+
+01:00:37.359 --> 01:00:40.480
+not very high but at least as a
+
+01:00:39.440 --> 01:00:44.079
+professional
+
+01:00:40.480 --> 01:00:45.280
+you need to be you need to be mindful of
+
+01:00:44.079 --> 01:00:47.839
+them
+
+01:00:45.280 --> 01:00:49.520
+so the first thing is that in
+
+01:00:47.839 --> 01:00:52.319
+virtualization
+
+01:00:49.520 --> 01:00:55.680
+in a web server environment for example
+
+01:00:52.319 --> 01:00:57.599
+if the shared hardware fails
+
+01:00:55.680 --> 01:01:00.640
+what do you think would happen i mean as
+
+01:00:57.599 --> 01:01:02.960
+soon as the shared hardware fails
+
+01:01:00.640 --> 01:01:03.760
+uh the native virtual machine monitor
+
+01:01:02.960 --> 01:01:06.240
+has
+
+01:01:03.760 --> 01:01:07.280
+nothing to run on remember it's running
+
+01:01:06.240 --> 01:01:10.720
+on the bare metal
+
+01:01:07.280 --> 01:01:12.720
+just the metal it has nothing to run on
+
+01:01:10.720 --> 01:01:14.640
+and once the native virtual machine
+
+01:01:12.720 --> 01:01:17.599
+monitor fails
+
+01:01:14.640 --> 01:01:18.160
+all your guest operating systems fail as
+
+01:01:17.599 --> 01:01:21.200
+well
+
+01:01:18.160 --> 01:01:21.760
+so that is uh one implication that you
+
+01:01:21.200 --> 01:01:24.799
+should be
+
+01:01:21.760 --> 01:01:28.079
+mindful of at least the second thing
+
+01:01:24.799 --> 01:01:29.359
+is in terms of some hacker or someone
+
+01:01:28.079 --> 01:01:31.680
+trying to
+
+01:01:29.359 --> 01:01:33.920
+hack into and getting access to your
+
+01:01:31.680 --> 01:01:37.040
+native virtual machine
+
+01:01:33.920 --> 01:01:39.920
+um for example so
+
+01:01:37.040 --> 01:01:41.200
+if in this case i mean this is not a in
+
+01:01:39.920 --> 01:01:44.799
+the case of a hacker but
+
+01:01:41.200 --> 01:01:47.119
+if for some reason the
+
+01:01:44.799 --> 01:01:49.200
+native virtual machine monitor fails or
+
+01:01:47.119 --> 01:01:51.920
+stops communicating
+
+01:01:49.200 --> 01:01:53.119
+all your remember the at your guest
+
+01:01:51.920 --> 01:01:56.079
+operating sys
+
+01:01:53.119 --> 01:01:57.359
+your your guest virtual machines only
+
+01:01:56.079 --> 01:01:59.280
+came about
+
+01:01:57.359 --> 01:02:00.640
+because of the native virtual machine
+
+01:01:59.280 --> 01:02:03.599
+monitor if
+
+01:02:00.640 --> 01:02:06.720
+that is absent if that for some reason
+
+01:02:03.599 --> 01:02:10.400
+the native virtual machine monitor
+
+01:02:06.720 --> 01:02:11.280
+fails then the whole guest operating
+
+01:02:10.400 --> 01:02:14.799
+systems
+
+01:02:11.280 --> 01:02:17.520
+they stop functioning as well okay
+
+01:02:14.799 --> 01:02:18.480
+so let's move on to the last part of
+
+01:02:17.520 --> 01:02:21.520
+today's lecture
+
+01:02:18.480 --> 01:02:24.000
+and then i'll perhaps stop and take
+
+01:02:21.520 --> 01:02:25.839
+as many questions as you would all have
+
+01:02:24.000 --> 01:02:28.480
+so so far i've spoken at
+
+01:02:25.839 --> 01:02:30.000
+length about virtualization what it is
+
+01:02:28.480 --> 01:02:32.480
+as a technology
+
+01:02:30.000 --> 01:02:33.359
+how virtualization is being used in the
+
+01:02:32.480 --> 01:02:36.640
+context of
+
+01:02:33.359 --> 01:02:40.319
+cloud in particular of course it's being
+
+01:02:36.640 --> 01:02:43.520
+used to create vms and managing vms but
+
+01:02:40.319 --> 01:02:46.880
+um it virtualization is
+
+01:02:43.520 --> 01:02:48.400
+key in enabling cloud computing from two
+
+01:02:46.880 --> 01:02:51.839
+perspectives
+
+01:02:48.400 --> 01:02:54.240
+automated provisioning and and and
+
+01:02:51.839 --> 01:02:55.599
+and virtual machine mobility as they
+
+01:02:54.240 --> 01:02:59.680
+call it
+
+01:02:55.599 --> 01:03:04.240
+then we looked at
+
+01:02:59.680 --> 01:03:07.359
+the advantages of virtualization
+
+01:03:04.240 --> 01:03:09.760
+and we looked at disadvantages
+
+01:03:07.359 --> 01:03:12.000
+something that we have not spoken so far
+
+01:03:09.760 --> 01:03:12.000
+is
+
+01:03:12.319 --> 01:03:19.839
+how is virtualization achieved
+
+01:03:16.880 --> 01:03:21.280
+in platform as a service and in software
+
+01:03:19.839 --> 01:03:24.160
+as a service
+
+01:03:21.280 --> 01:03:28.079
+okay in other words if i take the
+
+01:03:24.160 --> 01:03:28.079
+example of a platform as a service
+
+01:03:28.319 --> 01:03:35.760
+i have multiple tenants sharing the same
+
+01:03:32.559 --> 01:03:39.200
+software resources okay and the
+
+01:03:35.760 --> 01:03:39.200
+same hardware resources
+
+01:03:39.839 --> 01:03:44.000
+so we spoke about how multiple tenants
+
+01:03:43.599 --> 01:03:48.000
+can
+
+01:03:44.000 --> 01:03:51.359
+share the same hardware resources
+
+01:03:48.000 --> 01:03:54.640
+but how are software resources such as
+
+01:03:51.359 --> 01:03:54.960
+database and database tables how are
+
+01:03:54.640 --> 01:03:58.799
+they
+
+01:03:54.960 --> 01:04:01.760
+shared in platform as a service okay
+
+01:03:58.799 --> 01:04:03.839
+so the virtualization software that is
+
+01:04:01.760 --> 01:04:06.319
+used in pass
+
+01:04:03.839 --> 01:04:08.720
+is different from the virtualized or has
+
+01:04:06.319 --> 01:04:10.880
+different capabilities
+
+01:04:08.720 --> 01:04:12.400
+from the virtualization software that is
+
+01:04:10.880 --> 01:04:15.440
+used in infrastructure
+
+01:04:12.400 --> 01:04:18.480
+as a service or sas as well
+
+01:04:15.440 --> 01:04:21.280
+in the sense that in
+
+01:04:18.480 --> 01:04:22.079
+the virtualization software for pass it
+
+01:04:21.280 --> 01:04:25.599
+allows
+
+01:04:22.079 --> 01:04:28.240
+sharing of software framework and
+
+01:04:25.599 --> 01:04:29.200
+and software resources as well something
+
+01:04:28.240 --> 01:04:31.359
+which
+
+01:04:29.200 --> 01:04:32.400
+virtualization in infrastructure as a
+
+01:04:31.359 --> 01:04:35.760
+service
+
+01:04:32.400 --> 01:04:38.319
+it doesn't have that similarly
+
+01:04:35.760 --> 01:04:40.240
+when we talk about software as a service
+
+01:04:38.319 --> 01:04:42.400
+immediately i mean we just don't have
+
+01:04:40.240 --> 01:04:46.000
+the application code
+
+01:04:42.400 --> 01:04:49.280
+but we have things like database as well
+
+01:04:46.000 --> 01:04:51.839
+and this database how is it
+
+01:04:49.280 --> 01:04:52.839
+shared amongst multiple tenants or
+
+01:04:51.839 --> 01:04:56.079
+multiple
+
+01:04:52.839 --> 01:04:59.039
+users so as i said again the
+
+01:04:56.079 --> 01:04:59.680
+the type of virtualization that is
+
+01:04:59.039 --> 01:05:03.280
+applied
+
+01:04:59.680 --> 01:05:05.480
+in sas and pass
+
+01:05:03.280 --> 01:05:07.039
+is known as application level
+
+01:05:05.480 --> 01:05:10.240
+virtualization
+
+01:05:07.039 --> 01:05:13.440
+because it enables sharing of
+
+01:05:10.240 --> 01:05:14.160
+software resources as well and one of
+
+01:05:13.440 --> 01:05:17.520
+the most
+
+01:05:14.160 --> 01:05:20.839
+common software resources that is shared
+
+01:05:17.520 --> 01:05:25.280
+in pass and sas is
+
+01:05:20.839 --> 01:05:28.079
+databases okay and let me try to
+
+01:05:25.280 --> 01:05:29.200
+explain this to you with an example
+
+01:05:28.079 --> 01:05:33.280
+let's say
+
+01:05:29.200 --> 01:05:36.319
+i've written a very simple code for
+
+01:05:33.280 --> 01:05:36.880
+for registering customers what my code
+
+01:05:36.319 --> 01:05:40.799
+does
+
+01:05:36.880 --> 01:05:41.520
+is it takes in customer details from the
+
+01:05:40.799 --> 01:05:43.280
+user
+
+01:05:41.520 --> 01:05:44.960
+it takes in customer details from the
+
+01:05:43.280 --> 01:05:47.760
+user and
+
+01:05:44.960 --> 01:05:48.319
+it stores it in the database and it
+
+01:05:47.760 --> 01:05:50.079
+gives
+
+01:05:48.319 --> 01:05:51.520
+an acknowledgement saying that your
+
+01:05:50.079 --> 01:05:54.799
+customer has been
+
+01:05:51.520 --> 01:05:57.760
+registered nothing fancy about it
+
+01:05:54.799 --> 01:05:58.559
+quite simple software but as you might
+
+01:05:57.760 --> 01:06:01.920
+see
+
+01:05:58.559 --> 01:06:04.400
+that almost every organization in this
+
+01:06:01.920 --> 01:06:05.920
+world has some sort of customer
+
+01:06:04.400 --> 01:06:09.039
+registration process
+
+01:06:05.920 --> 01:06:12.799
+or some sort of customer registration
+
+01:06:09.039 --> 01:06:15.920
+activity so perhaps if i make this
+
+01:06:12.799 --> 01:06:20.559
+a software application which as i said
+
+01:06:15.920 --> 01:06:25.039
+takes a name and address stores it uh
+
+01:06:20.559 --> 01:06:27.119
+in a in a in a database and gives a
+
+01:06:25.039 --> 01:06:29.119
+acknowledgement saying that your
+
+01:06:27.119 --> 01:06:32.559
+customer has been registered
+
+01:06:29.119 --> 01:06:35.920
+i can provide it to a large number of
+
+01:06:32.559 --> 01:06:38.960
+businesses a large number of enterprises
+
+01:06:35.920 --> 01:06:40.880
+so in making this sas
+
+01:06:38.960 --> 01:06:42.160
+that i want to i want to make this
+
+01:06:40.880 --> 01:06:45.520
+product into a sas
+
+01:06:42.160 --> 01:06:49.359
+and sell it to a large number of clients
+
+01:06:45.520 --> 01:06:52.240
+what i have done is i have i have
+
+01:06:49.359 --> 01:06:52.960
+chosen the two most common fields that
+
+01:06:52.240 --> 01:06:55.839
+perhaps
+
+01:06:52.960 --> 01:06:58.160
+every registration process every
+
+01:06:55.839 --> 01:07:01.839
+customer registration process
+
+01:06:58.160 --> 01:07:04.960
+needs to have customer name and address
+
+01:07:01.839 --> 01:07:06.880
+okay but it may be the case that when i
+
+01:07:04.960 --> 01:07:10.319
+try to sell this software to
+
+01:07:06.880 --> 01:07:13.119
+user a um they want it to be
+
+01:07:10.319 --> 01:07:14.160
+customized in a very specific manner
+
+01:07:13.119 --> 01:07:17.200
+they want
+
+01:07:14.160 --> 01:07:20.079
+it to take and store of course
+
+01:07:17.200 --> 01:07:22.079
+not just name and address but passport
+
+01:07:20.079 --> 01:07:23.200
+number as well and passport number is
+
+01:07:22.079 --> 01:07:26.640
+quite a
+
+01:07:23.200 --> 01:07:29.039
+sensitive piece of information
+
+01:07:26.640 --> 01:07:30.640
+when i try to sell it to customer b
+
+01:07:29.039 --> 01:07:32.079
+their requirements are completely
+
+01:07:30.640 --> 01:07:35.520
+different so they want
+
+01:07:32.079 --> 01:07:38.960
+not just the core attributes
+
+01:07:35.520 --> 01:07:41.039
+as a name and address but
+
+01:07:38.960 --> 01:07:42.640
+niche or specific attributes like
+
+01:07:41.039 --> 01:07:45.039
+license number
+
+01:07:42.640 --> 01:07:47.359
+center link number passport number
+
+01:07:45.039 --> 01:07:52.640
+employer name and abn
+
+01:07:47.359 --> 01:07:52.640
+so the question for me
+
+01:07:53.839 --> 01:08:00.720
+as a software as a service provider is
+
+01:07:58.079 --> 01:08:02.079
+how can i architect my application in
+
+01:08:00.720 --> 01:08:06.400
+such a way
+
+01:08:02.079 --> 01:08:10.359
+that it can store my customers details
+
+01:08:06.400 --> 01:08:13.440
+see i've got the standard field i've got
+
+01:08:10.359 --> 01:08:15.599
+customizations relevant to customer a
+
+01:08:13.440 --> 01:08:18.080
+then to customer b so somehow i should
+
+01:08:15.599 --> 01:08:22.400
+be able to store it in my
+
+01:08:18.080 --> 01:08:24.480
+database or databases and
+
+01:08:22.400 --> 01:08:27.279
+retrieve it when needed without
+
+01:08:24.480 --> 01:08:30.880
+compromising on anyone's security or
+
+01:08:27.279 --> 01:08:33.600
+privacy okay so um
+
+01:08:30.880 --> 01:08:35.120
+the this is the fundamental question as
+
+01:08:33.600 --> 01:08:38.640
+a sas
+
+01:08:35.120 --> 01:08:40.000
+application how do i store my data in a
+
+01:08:38.640 --> 01:08:42.640
+manner
+
+01:08:40.000 --> 01:08:44.640
+that can store i can store all the
+
+01:08:42.640 --> 01:08:47.600
+customizations of the customers
+
+01:08:44.640 --> 01:08:49.600
+whatever customization they want but
+
+01:08:47.600 --> 01:08:52.640
+when the customer needs it
+
+01:08:49.600 --> 01:08:56.000
+i retrieve that their specific details
+
+01:08:52.640 --> 01:08:58.719
+and display it back to them okay
+
+01:08:56.000 --> 01:09:01.600
+so there are three different data
+
+01:08:58.719 --> 01:09:05.359
+management approaches
+
+01:09:01.600 --> 01:09:09.040
+for developing or
+
+01:09:05.359 --> 01:09:09.040
+sharing um
+
+01:09:09.120 --> 01:09:15.279
+for sas or even for pass as well
+
+01:09:12.319 --> 01:09:16.880
+okay the first one is separate database
+
+01:09:15.279 --> 01:09:21.679
+for each tenant
+
+01:09:16.880 --> 01:09:25.440
+okay the second one is shared database
+
+01:09:21.679 --> 01:09:28.640
+between all the tenants but
+
+01:09:25.440 --> 01:09:31.040
+separate schema okay so you have got one
+
+01:09:28.640 --> 01:09:33.600
+shared database but within the shared
+
+01:09:31.040 --> 01:09:34.319
+databases you have got perhaps silos to
+
+01:09:33.600 --> 01:09:36.000
+say
+
+01:09:34.319 --> 01:09:37.520
+this is for this customer this is for
+
+01:09:36.000 --> 01:09:40.159
+this customer
+
+01:09:37.520 --> 01:09:41.040
+and the third one is you've got a shared
+
+01:09:40.159 --> 01:09:44.880
+database
+
+01:09:41.040 --> 01:09:48.000
+amongst multiple tenants and
+
+01:09:44.880 --> 01:09:51.120
+the schema is also shared
+
+01:09:48.000 --> 01:09:53.600
+as well let's try to understand how each
+
+01:09:51.120 --> 01:09:57.199
+one of these three works
+
+01:09:53.600 --> 01:09:59.520
+and how sas providers or even past
+
+01:09:57.199 --> 01:10:04.080
+providers can use
+
+01:09:59.520 --> 01:10:07.800
+the third approach only to provide
+
+01:10:04.080 --> 01:10:11.280
+their services at scale in a truly
+
+01:10:07.800 --> 01:10:13.520
+multi-tenant manner so
+
+01:10:11.280 --> 01:10:15.440
+the the idea of the first approach is
+
+01:10:13.520 --> 01:10:17.840
+quite simple so i've got
+
+01:10:15.440 --> 01:10:19.360
+customer a whenever a new customer comes
+
+01:10:17.840 --> 01:10:22.719
+in i instantiate
+
+01:10:19.360 --> 01:10:25.679
+or run a new database for that customer
+
+01:10:22.719 --> 01:10:28.080
+so customer a has come along i create a
+
+01:10:25.679 --> 01:10:31.520
+new database for customer a
+
+01:10:28.080 --> 01:10:34.880
+i store all information about cus user a
+
+01:10:31.520 --> 01:10:38.480
+in this database only then come
+
+01:10:34.880 --> 01:10:40.960
+customer user b i create a new
+
+01:10:38.480 --> 01:10:42.640
+database for him or her and his
+
+01:10:40.960 --> 01:10:44.560
+information goes in there
+
+01:10:42.640 --> 01:10:45.840
+so in other words if i've got thousand
+
+01:10:44.560 --> 01:10:48.239
+customers i've got
+
+01:10:45.840 --> 01:10:49.600
+thousand different databases to
+
+01:10:48.239 --> 01:10:52.960
+instantiate
+
+01:10:49.600 --> 01:10:57.040
+manage cater for as well
+
+01:10:52.960 --> 01:11:01.600
+now is this does would this solution
+
+01:10:57.040 --> 01:11:04.640
+scale no it would not scale because
+
+01:11:01.600 --> 01:11:05.040
+i mean i there would be limits into how
+
+01:11:04.640 --> 01:11:08.880
+many
+
+01:11:05.040 --> 01:11:10.719
+databases as a size provider i can keep
+
+01:11:08.880 --> 01:11:14.080
+on instantiating
+
+01:11:10.719 --> 01:11:18.000
+managing maintaining and those things
+
+01:11:14.080 --> 01:11:20.480
+okay so uh furthermore
+
+01:11:18.000 --> 01:11:22.880
+in this approach there is hardly any
+
+01:11:20.480 --> 01:11:25.920
+multi-tenancy in the sense that
+
+01:11:22.880 --> 01:11:27.679
+look whatever information is there for
+
+01:11:25.920 --> 01:11:30.560
+user a
+
+01:11:27.679 --> 01:11:32.159
+is being stored in this database
+
+01:11:30.560 --> 01:11:32.800
+whatever whatever user information for
+
+01:11:32.159 --> 01:11:35.199
+user b
+
+01:11:32.800 --> 01:11:37.920
+is stored in this database there is
+
+01:11:35.199 --> 01:11:39.120
+clear division there is no multi tenancy
+
+01:11:37.920 --> 01:11:42.880
+at all
+
+01:11:39.120 --> 01:11:44.400
+so whilst um in this separate database
+
+01:11:42.880 --> 01:11:47.199
+for each tenant
+
+01:11:44.400 --> 01:11:48.000
+that's how it that that's how i mean
+
+01:11:47.199 --> 01:11:51.120
+each
+
+01:11:48.000 --> 01:11:51.520
+tenant gets their own database to play
+
+01:11:51.120 --> 01:11:54.080
+with
+
+01:11:51.520 --> 01:11:55.360
+and store information it is simple to
+
+01:11:54.080 --> 01:11:59.280
+implement
+
+01:11:55.360 --> 01:12:03.040
+and as i said the disadvantage is that
+
+01:11:59.280 --> 01:12:06.239
+it does not scale it is highly expensive
+
+01:12:03.040 --> 01:12:07.520
+in terms of for for every new customer
+
+01:12:06.239 --> 01:12:11.440
+you get you need to
+
+01:12:07.520 --> 01:12:12.400
+keep on getting new databases as well
+
+01:12:11.440 --> 01:12:15.280
+and
+
+01:12:12.400 --> 01:12:16.560
+there are additional costs to secure
+
+01:12:15.280 --> 01:12:19.920
+each database
+
+01:12:16.560 --> 01:12:20.400
+and on top as i said it doesn't go with
+
+01:12:19.920 --> 01:12:23.600
+the
+
+01:12:20.400 --> 01:12:24.080
+cloud principle of multi-tenancy there
+
+01:12:23.600 --> 01:12:28.800
+is
+
+01:12:24.080 --> 01:12:28.800
+nothing in there that that is shared
+
+01:12:29.199 --> 01:12:32.560
+so that was the first approach the
+
+01:12:31.440 --> 01:12:35.920
+second approach
+
+01:12:32.560 --> 01:12:36.719
+is shared database so you have got one
+
+01:12:35.920 --> 01:12:39.840
+and only
+
+01:12:36.719 --> 01:12:44.080
+one database for
+
+01:12:39.840 --> 01:12:48.640
+all the tenants however you have got
+
+01:12:44.080 --> 01:12:51.520
+separate schemas to store or separate
+
+01:12:48.640 --> 01:12:53.360
+tables to store information for
+
+01:12:51.520 --> 01:12:55.840
+different tenants so
+
+01:12:53.360 --> 01:12:58.719
+what may happen here is that again
+
+01:12:55.840 --> 01:13:02.480
+carrying on with the previous example
+
+01:12:58.719 --> 01:13:05.600
+i've got customer a and customer b
+
+01:13:02.480 --> 01:13:09.199
+i have just one single
+
+01:13:05.600 --> 01:13:12.640
+shared large database okay
+
+01:13:09.199 --> 01:13:16.480
+and this large database what i do
+
+01:13:12.640 --> 01:13:19.199
+is for for customer a
+
+01:13:16.480 --> 01:13:20.400
+i store their tables or their
+
+01:13:19.199 --> 01:13:23.440
+information here
+
+01:13:20.400 --> 01:13:25.040
+okay so maybe i can have one table that
+
+01:13:23.440 --> 01:13:29.120
+has the attributes name
+
+01:13:25.040 --> 01:13:32.560
+address passport number for customer b
+
+01:13:29.120 --> 01:13:33.199
+here i can have name address license
+
+01:13:32.560 --> 01:13:35.199
+number
+
+01:13:33.199 --> 01:13:36.400
+central link number and then so once and
+
+01:13:35.199 --> 01:13:39.760
+so forth
+
+01:13:36.400 --> 01:13:40.800
+so one shared database but different
+
+01:13:39.760 --> 01:13:43.520
+tables
+
+01:13:40.800 --> 01:13:46.320
+okay so whenever there is a user query
+
+01:13:43.520 --> 01:13:48.800
+that is coming in
+
+01:13:46.320 --> 01:13:50.080
+so the metadata table what it does is it
+
+01:13:48.800 --> 01:13:53.440
+tries to find out
+
+01:13:50.080 --> 01:13:56.400
+okay where is the query coming from
+
+01:13:53.440 --> 01:13:59.520
+it's coming from customer b let me
+
+01:13:56.400 --> 01:14:01.360
+redirect the query to customer b
+
+01:13:59.520 --> 01:14:03.120
+similarly the query is coming from
+
+01:14:01.360 --> 01:14:06.640
+customer a
+
+01:14:03.120 --> 01:14:10.640
+let me redirect to custom array so this
+
+01:14:06.640 --> 01:14:15.840
+approach in which you multiple customers
+
+01:14:10.640 --> 01:14:19.040
+are sharing one single database
+
+01:14:15.840 --> 01:14:23.040
+but yet they have their own
+
+01:14:19.040 --> 01:14:26.640
+separate schema or tables in which they
+
+01:14:23.040 --> 01:14:29.760
+they store their information is known as
+
+01:14:26.640 --> 01:14:34.000
+shared database and separate
+
+01:14:29.760 --> 01:14:36.640
+schema okay now what's good about this
+
+01:14:34.000 --> 01:14:37.360
+uh the the good thing about this
+
+01:14:36.640 --> 01:14:41.520
+database
+
+01:14:37.360 --> 01:14:42.719
+is that um there is one database that
+
+01:14:41.520 --> 01:14:45.199
+the
+
+01:14:42.719 --> 01:14:46.159
+cloud service provider has to manage
+
+01:14:45.199 --> 01:14:49.520
+okay so it
+
+01:14:46.159 --> 01:14:52.080
+scales much more
+
+01:14:49.520 --> 01:14:54.000
+it scales well as compared to approach
+
+01:14:52.080 --> 01:14:57.679
+number one
+
+01:14:54.000 --> 01:15:00.719
+the the flip side is that
+
+01:14:57.679 --> 01:15:03.920
+still in terms of multi-tenancy
+
+01:15:00.719 --> 01:15:05.040
+you have specific tables that belong to
+
+01:15:03.920 --> 01:15:07.520
+a customer
+
+01:15:05.040 --> 01:15:08.800
+okay so these sets of tables in green
+
+01:15:07.520 --> 01:15:11.760
+belong to customer
+
+01:15:08.800 --> 01:15:13.280
+a these sets of tables in blue belong to
+
+01:15:11.760 --> 01:15:16.880
+customer b
+
+01:15:13.280 --> 01:15:19.040
+um these tables are not shared
+
+01:15:16.880 --> 01:15:21.040
+that's the first thing the second thing
+
+01:15:19.040 --> 01:15:24.239
+is this meta i mean
+
+01:15:21.040 --> 01:15:26.560
+here we have got only two
+
+01:15:24.239 --> 01:15:28.560
+customers imagine if there are tens and
+
+01:15:26.560 --> 01:15:32.159
+thousands of customers
+
+01:15:28.560 --> 01:15:36.960
+the the task of resolving
+
+01:15:32.159 --> 01:15:39.920
+um these queries coming into those
+
+01:15:36.960 --> 01:15:41.600
+can be can can potentially become a
+
+01:15:39.920 --> 01:15:44.800
+bottleneck
+
+01:15:41.600 --> 01:15:47.920
+okay so the third one
+
+01:15:44.800 --> 01:15:48.800
+uh the third approach is known as shared
+
+01:15:47.920 --> 01:15:52.000
+database
+
+01:15:48.800 --> 01:15:55.360
+in the sense that here very much similar
+
+01:15:52.000 --> 01:15:56.880
+to approach to you have got a shared
+
+01:15:55.360 --> 01:16:00.159
+database
+
+01:15:56.880 --> 01:16:00.560
+and you have got a shared schema as well
+
+01:16:00.159 --> 01:16:03.199
+so
+
+01:16:00.560 --> 01:16:06.640
+remember that in the previous approach
+
+01:16:03.199 --> 01:16:10.320
+we had only a shared database
+
+01:16:06.640 --> 01:16:11.280
+the schema was not shared but here even
+
+01:16:10.320 --> 01:16:14.640
+the schema is
+
+01:16:11.280 --> 01:16:15.760
+shared so there are various ways in
+
+01:16:14.640 --> 01:16:18.000
+which
+
+01:16:15.760 --> 01:16:20.080
+the shared database and shared schema
+
+01:16:18.000 --> 01:16:22.880
+approach can be implemented
+
+01:16:20.080 --> 01:16:23.520
+let me explain you the most common one
+
+01:16:22.880 --> 01:16:26.080
+so
+
+01:16:23.520 --> 01:16:28.320
+in for custom array what it can happen
+
+01:16:26.080 --> 01:16:28.800
+is i can see that the attributes are
+
+01:16:28.320 --> 01:16:32.480
+name
+
+01:16:28.800 --> 01:16:35.520
+address passport number so i can create
+
+01:16:32.480 --> 01:16:39.280
+one table for name one table
+
+01:16:35.520 --> 01:16:40.080
+for address one table for passport
+
+01:16:39.280 --> 01:16:43.600
+number
+
+01:16:40.080 --> 01:16:44.080
+okay similarly in this case i've got
+
+01:16:43.600 --> 01:16:46.800
+name
+
+01:16:44.080 --> 01:16:49.280
+address license number so i can create
+
+01:16:46.800 --> 01:16:51.280
+one more table for license number
+
+01:16:49.280 --> 01:16:53.600
+then another table for center link
+
+01:16:51.280 --> 01:16:56.719
+number another table for passport number
+
+01:16:53.600 --> 01:16:57.679
+in other words in the shared schema and
+
+01:16:56.719 --> 01:17:00.880
+shared
+
+01:16:57.679 --> 01:17:02.480
+share database and shared schema there
+
+01:17:00.880 --> 01:17:03.440
+are various ways by which you can
+
+01:17:02.480 --> 01:17:05.920
+implement it
+
+01:17:03.440 --> 01:17:08.080
+but one approach is that for every
+
+01:17:05.920 --> 01:17:11.600
+attribute that you see
+
+01:17:08.080 --> 01:17:14.800
+you create a table okay and
+
+01:17:11.600 --> 01:17:18.239
+the name attribute for
+
+01:17:14.800 --> 01:17:21.199
+customer a would go into this
+
+01:17:18.239 --> 01:17:22.320
+table in green so as the name attribute
+
+01:17:21.199 --> 01:17:25.440
+in customer b
+
+01:17:22.320 --> 01:17:28.840
+would also go into the green table
+
+01:17:25.440 --> 01:17:30.239
+as well so in this case i've got shared
+
+01:17:28.840 --> 01:17:33.520
+database and
+
+01:17:30.239 --> 01:17:34.880
+also the schema is shared now you might
+
+01:17:33.520 --> 01:17:36.719
+be wondering
+
+01:17:34.880 --> 01:17:39.520
+how do they maintain privacy of
+
+01:17:36.719 --> 01:17:43.440
+information and how do they maintain the
+
+01:17:39.520 --> 01:17:46.080
+the fact that one customer should not be
+
+01:17:43.440 --> 01:17:48.960
+able to see other people's information
+
+01:17:46.080 --> 01:17:50.159
+so what they use here is they use
+
+01:17:48.960 --> 01:17:53.199
+something known as
+
+01:17:50.159 --> 01:17:55.280
+tenant ide so
+
+01:17:53.199 --> 01:17:56.239
+for this customer there will be a tenant
+
+01:17:55.280 --> 01:17:59.280
+id
+
+01:17:56.239 --> 01:18:01.120
+and in the shared table for
+
+01:17:59.280 --> 01:18:03.280
+name like i think i would i have a
+
+01:18:01.120 --> 01:18:05.440
+figure here yes so
+
+01:18:03.280 --> 01:18:06.960
+in the shared table for let's say
+
+01:18:05.440 --> 01:18:10.080
+passport number here
+
+01:18:06.960 --> 01:18:10.320
+so there will be a tenant id so when i
+
+01:18:10.080 --> 01:18:13.679
+am
+
+01:18:10.320 --> 01:18:15.600
+retrieving when this table is retrieving
+
+01:18:13.679 --> 01:18:19.440
+it will make sure
+
+01:18:15.600 --> 01:18:22.480
+that the information that i'm retrieving
+
+01:18:19.440 --> 01:18:25.280
+from this table matches with the tenant
+
+01:18:22.480 --> 01:18:28.880
+id which is initiating the query
+
+01:18:25.280 --> 01:18:30.960
+okay so at runtime what happens is
+
+01:18:28.880 --> 01:18:32.719
+whenever if i'm trying to just retrieve
+
+01:18:30.960 --> 01:18:35.360
+information about customer a
+
+01:18:32.719 --> 01:18:36.480
+for example which is name address and
+
+01:18:35.360 --> 01:18:39.920
+passport
+
+01:18:36.480 --> 01:18:41.199
+the query goes to the share table and at
+
+01:18:39.920 --> 01:18:44.560
+run time
+
+01:18:41.199 --> 01:18:47.040
+they create joints between using this
+
+01:18:44.560 --> 01:18:48.640
+tenant id they create joints between
+
+01:18:47.040 --> 01:18:51.679
+name table
+
+01:18:48.640 --> 01:18:54.719
+address table passport number table
+
+01:18:51.679 --> 01:18:57.120
+at runtime they create these joints
+
+01:18:54.719 --> 01:18:58.239
+they use the tenant id as a means to
+
+01:18:57.120 --> 01:19:01.280
+ensure
+
+01:18:58.239 --> 01:19:04.960
+that they are not retrieving the details
+
+01:19:01.280 --> 01:19:06.000
+of any other customer these joints are
+
+01:19:04.960 --> 01:19:08.480
+created
+
+01:19:06.000 --> 01:19:09.440
+and are displayed back to the custom
+
+01:19:08.480 --> 01:19:12.239
+array
+
+01:19:09.440 --> 01:19:14.239
+so in order to ensure that these joints
+
+01:19:12.239 --> 01:19:17.920
+are very efficient and very
+
+01:19:14.239 --> 01:19:20.159
+fast various
+
+01:19:17.920 --> 01:19:21.040
+cloud service providers they make use of
+
+01:19:20.159 --> 01:19:24.000
+ssds
+
+01:19:21.040 --> 01:19:26.960
+for running these joints or they
+
+01:19:24.000 --> 01:19:30.000
+optimize the querying process
+
+01:19:26.960 --> 01:19:31.840
+so as i said
+
+01:19:30.000 --> 01:19:34.560
+in this approach you have got a single
+
+01:19:31.840 --> 01:19:37.199
+table for multiple tenants and
+
+01:19:34.560 --> 01:19:38.400
+in this what you do is you create one
+
+01:19:37.199 --> 01:19:41.679
+table for every
+
+01:19:38.400 --> 01:19:42.400
+attribute and for every new customized
+
+01:19:41.679 --> 01:19:44.560
+table
+
+01:19:42.400 --> 01:19:46.000
+you create a table and then you run
+
+01:19:44.560 --> 01:19:49.040
+joins
+
+01:19:46.000 --> 01:19:52.480
+this is the most common approach for
+
+01:19:49.040 --> 01:19:53.360
+achieving true multi-tenancy in platform
+
+01:19:52.480 --> 01:19:57.040
+as a service
+
+01:19:53.360 --> 01:20:00.239
+and sas as well it's very commonly used
+
+01:19:57.040 --> 01:20:00.560
+and as i said you might be wondering if
+
+01:20:00.239 --> 01:20:04.320
+this
+
+01:20:00.560 --> 01:20:07.280
+raises the issues of privacy and all but
+
+01:20:04.320 --> 01:20:08.080
+using things like tenant id checks and
+
+01:20:07.280 --> 01:20:11.760
+balances
+
+01:20:08.080 --> 01:20:13.360
+they make sure that only the information
+
+01:20:11.760 --> 01:20:16.080
+that needs to be retrieved
+
+01:20:13.360 --> 01:20:16.080
+is retrieved
+
+01:20:16.960 --> 01:20:23.120
+so that brings us to end of today's
+
+01:20:20.080 --> 01:20:27.120
+lecture on virtualization
+
+01:20:23.120 --> 01:20:30.800
+um i am happy to stop here and take
+
+01:20:27.120 --> 01:20:34.000
+any questions from you all let me go
+
+01:20:30.800 --> 01:20:47.840
+and see in the chat session if you have
+
+01:20:34.000 --> 01:20:47.840
+written any questions
+
+01:20:59.199 --> 01:21:05.120
+okay the the first thing is that um
+
+01:21:02.320 --> 01:21:05.920
+there is there are some questions on
+
+01:21:05.120 --> 01:21:07.760
+whether the
+
+01:21:05.920 --> 01:21:09.600
+recorded whether the lecture is being
+
+01:21:07.760 --> 01:21:12.880
+recorded i can confirm
+
+01:21:09.600 --> 01:21:15.760
+that not just this one um
+
+01:21:12.880 --> 01:21:16.159
+all the previous lectures are recorded
+
+01:21:15.760 --> 01:21:18.960
+and
+
+01:21:16.159 --> 01:21:20.080
+are saved in the chat session thank you
+
+01:21:18.960 --> 01:21:23.679
+very much curtis
+
+01:21:20.080 --> 01:21:27.280
+for pointing it out uh
+
+01:21:23.679 --> 01:21:30.000
+prakrit i can see that you are in um
+
+01:21:27.280 --> 01:21:31.600
+why did you please let me know if you're
+
+01:21:30.000 --> 01:21:34.880
+having issues
+
+01:21:31.600 --> 01:21:37.199
+so first thing um i i could see that
+
+01:21:34.880 --> 01:21:39.840
+some of you started your own
+
+01:21:37.199 --> 01:21:40.800
+group just before the lecture please
+
+01:21:39.840 --> 01:21:43.920
+don't do that
+
+01:21:40.800 --> 01:21:47.120
+i have regularly scheduled
+
+01:21:43.920 --> 01:21:49.600
+um lectures every week
+
+01:21:47.120 --> 01:21:50.880
+on thursday at six you just need to go
+
+01:21:49.600 --> 01:21:57.840
+and join that
+
+01:21:50.880 --> 01:21:57.840
+and and and i'll be there
+
+01:22:13.440 --> 01:22:16.480
+so ahmad you have you have a question
+
+01:22:16.000 --> 01:22:18.320
+here
+
+01:22:16.480 --> 01:22:21.040
+does elastic operations or cloud
+
+01:22:18.320 --> 01:22:22.239
+computing in general use the same
+
+01:22:21.040 --> 01:22:25.679
+mirroring
+
+01:22:22.239 --> 01:22:27.440
+technique as on premise virtualization
+
+01:22:25.679 --> 01:22:30.320
+for redundancy
+
+01:22:27.440 --> 01:22:31.360
+uh look that's a good question these
+
+01:22:30.320 --> 01:22:34.239
+concepts of
+
+01:22:31.360 --> 01:22:35.120
+elast these are concepts elastic
+
+01:22:34.239 --> 01:22:38.000
+operations
+
+01:22:35.120 --> 01:22:40.960
+and automated provisioning and these
+
+01:22:38.000 --> 01:22:42.880
+have been implemented at scale by
+
+01:22:40.960 --> 01:22:44.159
+almost all the major cloud service
+
+01:22:42.880 --> 01:22:46.320
+providers
+
+01:22:44.159 --> 01:22:48.719
+many of them have used open source
+
+01:22:46.320 --> 01:22:52.080
+virtualization tools so
+
+01:22:48.719 --> 01:22:55.120
+they have certainly um
+
+01:22:52.080 --> 01:22:58.239
+inbuilt the concept of redundancy
+
+01:22:55.120 --> 01:23:00.960
+and fault tolerance as well
+
+01:22:58.239 --> 01:23:03.520
+i hope that answers your question ahmed
+
+01:23:00.960 --> 01:23:06.960
+saath is desktop virtualization can
+
+01:23:03.520 --> 01:23:09.679
+can use offline now unfortunately no
+
+01:23:06.960 --> 01:23:10.320
+desktop virtualization is like any cloud
+
+01:23:09.679 --> 01:23:21.840
+service
+
+01:23:10.320 --> 01:23:21.840
+you need internet access to it
+
+01:23:23.280 --> 01:23:29.440
+yes i i agree that the lack of
+
+01:23:26.800 --> 01:23:30.159
+internet or lack of proper internet can
+
+01:23:29.440 --> 01:23:34.159
+be
+
+01:23:30.159 --> 01:23:37.120
+a bottleneck for desktop as a service
+
+01:23:34.159 --> 01:23:37.920
+and i can see comments especially damien
+
+01:23:37.120 --> 01:23:40.560
+that
+
+01:23:37.920 --> 01:23:41.679
+it can be useful for hard disking or so
+
+01:23:40.560 --> 01:23:45.679
+but uh but that
+
+01:23:41.679 --> 01:23:48.880
+i mean you don't need
+
+01:23:45.679 --> 01:23:50.400
+strong i mean broadband to be able to do
+
+01:23:48.880 --> 01:23:56.719
+that it's just
+
+01:23:50.400 --> 01:23:56.719
+even any internet signal should be fine
+
+01:23:58.480 --> 01:24:02.159
+patrick berry does anyone know how to
+
+01:24:00.400 --> 01:24:05.199
+access the tute remotely
+
+01:24:02.159 --> 01:24:17.840
+at 7 30. can you contact me
+
+01:24:05.199 --> 01:24:17.840
+please and i can help you with that
+
+01:24:29.360 --> 01:24:33.760
+does the david i've seen your message
+
+01:24:32.560 --> 01:24:35.840
+can you please
+
+01:24:33.760 --> 01:24:36.880
+contact me just after this and i'll
+
+01:24:35.840 --> 01:24:39.360
+certainly
+
+01:24:36.880 --> 01:24:42.639
+put you in touch and i'll make sure that
+
+01:24:39.360 --> 01:24:46.080
+you you are able to access the tutorial
+
+01:24:42.639 --> 01:24:46.880
+um ansel does the about three approaches
+
+01:24:46.080 --> 01:24:49.280
+mean that they
+
+01:24:46.880 --> 01:24:51.120
+should have separate code bases for
+
+01:24:49.280 --> 01:24:54.880
+customers
+
+01:24:51.120 --> 01:24:58.239
+uh no no the code base is shared between
+
+01:24:54.880 --> 01:25:01.520
+all the customers be it pass or sass
+
+01:24:58.239 --> 01:25:04.639
+otherwise if the code bases
+
+01:25:01.520 --> 01:25:05.760
+are separate there is no way either a
+
+01:25:04.639 --> 01:25:08.800
+pass provider
+
+01:25:05.760 --> 01:25:10.159
+or a software as a service provider
+
+01:25:08.800 --> 01:25:14.719
+would be able to
+
+01:25:10.159 --> 01:25:14.719
+provide these applications at scale
+
+01:25:22.560 --> 01:25:26.480
+jeffrey where will the tutorials be held
+
+01:25:25.040 --> 01:25:29.280
+is it on teams
+
+01:25:26.480 --> 01:25:31.679
+if you are a post graduate student all
+
+01:25:29.280 --> 01:25:34.320
+tutorials are on teams
+
+01:25:31.679 --> 01:25:34.960
+alternatively if you are undergraduate
+
+01:25:34.320 --> 01:25:39.120
+then
+
+01:25:34.960 --> 01:25:44.159
+four of the five sessions are
+
+01:25:39.120 --> 01:25:44.159
+on campus the other ones are on teams
+
+01:25:44.400 --> 01:25:48.239
+uh yes sorry for the undergraduate one
+
+01:25:46.960 --> 01:25:50.159
+which one is on
+
+01:25:48.239 --> 01:25:52.960
+online like which one's online because
+
+01:25:50.159 --> 01:25:55.040
+you said number five
+
+01:25:52.960 --> 01:25:56.960
+when when does it have like when does it
+
+01:25:55.040 --> 01:25:58.560
+happen
+
+01:25:56.960 --> 01:26:01.520
+i'm not sure you can look it up in the
+
+01:25:58.560 --> 01:26:01.520
+timetable please
+
+01:26:04.880 --> 01:26:09.600
+so weighing shia when is online tutorial
+
+01:26:08.560 --> 01:26:11.679
+held
+
+01:26:09.600 --> 01:26:13.280
+it depends i mean if you're talking
+
+01:26:11.679 --> 01:26:15.920
+about post graduates
+
+01:26:13.280 --> 01:26:17.920
+all tutorials are online if you're
+
+01:26:15.920 --> 01:26:23.840
+talking about undergraduate then there
+
+01:26:17.920 --> 01:26:23.840
+is only one as i just told you
+
+01:26:28.159 --> 01:26:31.840
+david i can see that you want access to
+
+01:26:31.280 --> 01:26:34.960
+the
+
+01:26:31.840 --> 01:26:36.880
+lab at 7 30 please as i said just send
+
+01:26:34.960 --> 01:26:38.880
+me a message and as soon as i finish
+
+01:26:36.880 --> 01:26:42.400
+answering all the questions
+
+01:26:38.880 --> 01:26:42.400
+i'll be delighted to help you all
+
+01:26:43.120 --> 01:26:48.080
+neeraj so we can do the tutorial
+
+01:26:44.960 --> 01:26:50.560
+remotely don't have to come in person
+
+01:26:48.080 --> 01:26:51.360
+look this the whole tutorial is in the
+
+01:26:50.560 --> 01:26:55.280
+cloud
+
+01:26:51.360 --> 01:26:55.920
+so i mean if if you have been allocated
+
+01:26:55.280 --> 01:26:59.679
+to a
+
+01:26:55.920 --> 01:27:02.320
+face to face or on campus uh
+
+01:26:59.679 --> 01:27:03.600
+tutorial i would highly recommend you
+
+01:27:02.320 --> 01:27:06.800
+come
+
+01:27:03.600 --> 01:27:09.280
+you you you come
+
+01:27:06.800 --> 01:27:10.080
+to the campus otherwise if you have been
+
+01:27:09.280 --> 01:27:14.880
+allocated to
+
+01:27:10.080 --> 01:27:14.880
+an online one by all means you can do it
+
+01:27:16.840 --> 01:27:22.320
+online
+
+01:27:18.320 --> 01:27:26.080
+curtis is vmware esxi
+
+01:27:22.320 --> 01:27:29.520
+a host or native svm
+
+01:27:26.080 --> 01:27:32.000
+um look i've used vmware but i have not
+
+01:27:29.520 --> 01:27:35.360
+used esxi if you can elaborate on that
+
+01:27:32.000 --> 01:27:40.560
+i can perhaps give you an answer on
+
+01:27:35.360 --> 01:27:40.560
+so my understanding is that most of the
+
+01:27:41.280 --> 01:27:44.880
+if you install esxi on the bare metal
+
+01:27:43.760 --> 01:27:47.840
+then 100
+
+01:27:44.880 --> 01:27:47.840
+it is native
+
+01:27:48.000 --> 01:28:05.120
+no doubt about it
+
+01:28:00.800 --> 01:28:06.719
+uh chris bern fernandez can you provide
+
+01:28:05.120 --> 01:28:09.280
+an example
+
+01:28:06.719 --> 01:28:12.719
+uh can you provide an example of where
+
+01:28:09.280 --> 01:28:15.040
+kvm fits in host and native
+
+01:28:12.719 --> 01:28:15.960
+um chris burn can you elaborate what do
+
+01:28:15.040 --> 01:28:18.960
+you mean by
+
+01:28:15.960 --> 01:28:18.960
+kvm
+
+01:28:22.000 --> 01:28:32.320
+do you
+
+01:28:28.639 --> 01:28:34.719
+um so kvm is uh
+
+01:28:32.320 --> 01:28:35.440
+uh lets you do like virtual machines on
+
+01:28:34.719 --> 01:28:37.920
+the
+
+01:28:35.440 --> 01:28:39.600
+kernel itself so i'm just wondering on
+
+01:28:37.920 --> 01:28:42.639
+the difference between the
+
+01:28:39.600 --> 01:28:46.159
+the host and the native so can i run
+
+01:28:42.639 --> 01:28:49.360
+kvm natively and then run like
+
+01:28:46.159 --> 01:28:49.360
+virtual machine workloads
+
+01:28:49.840 --> 01:28:53.920
+no what is kvm
+
+01:28:54.159 --> 01:28:58.480
+um it's an open source virtualization
+
+01:28:57.679 --> 01:29:01.199
+technology
+
+01:28:58.480 --> 01:29:01.920
+so it's it's like your vmm uh like you
+
+01:29:01.199 --> 01:29:05.040
+specify
+
+01:29:01.920 --> 01:29:08.639
+look i've not played with kvm before so
+
+01:29:05.040 --> 01:29:12.719
+uh i mean can you run can you run kvm
+
+01:29:08.639 --> 01:29:17.840
+i mean can you run it on bare metal
+
+01:29:12.719 --> 01:29:21.120
+uh yes then then it is definitely native
+
+01:29:17.840 --> 01:29:23.280
+okay if if you are running it on
+
+01:29:21.120 --> 01:29:24.800
+just the underlying hardware with no
+
+01:29:23.280 --> 01:29:27.920
+operating system on top
+
+01:29:24.800 --> 01:29:31.520
+it is definitely a native no
+
+01:29:27.920 --> 01:29:34.880
+no doubt about it all right let's see
+
+01:29:31.520 --> 01:29:38.080
+thank you curtis
+
+01:29:34.880 --> 01:29:38.800
+um so virtualbox would be host yes it
+
+01:29:38.080 --> 01:29:41.600
+would be
+
+01:29:38.800 --> 01:29:44.480
+from my understanding it would be a host
+
+01:29:41.600 --> 01:29:44.480
+svm host
+
+01:29:46.060 --> 01:29:51.600
+[Music]
+
+01:29:48.480 --> 01:29:54.960
+in the shade ahmad
+
+01:29:51.600 --> 01:29:58.239
+in the shared database approaches
+
+01:29:54.960 --> 01:30:00.639
+is approach one the most popular for big
+
+01:29:58.239 --> 01:30:02.000
+and secure companies or not particularly
+
+01:30:00.639 --> 01:30:05.520
+not at all
+
+01:30:02.000 --> 01:30:07.440
+i have never come across a sas firm
+
+01:30:05.520 --> 01:30:08.719
+i'm talking about sas forms using
+
+01:30:07.440 --> 01:30:11.440
+approach one
+
+01:30:08.719 --> 01:30:12.400
+it it just does not scale and it is just
+
+01:30:11.440 --> 01:30:16.239
+not
+
+01:30:12.400 --> 01:30:19.760
+possible to make revenue out of it
+
+01:30:16.239 --> 01:30:23.360
+you have to be able to provide
+
+01:30:19.760 --> 01:30:24.880
+your sas at scale and do it in a very
+
+01:30:23.360 --> 01:30:28.719
+efficient manner
+
+01:30:24.880 --> 01:30:33.679
+um google for example
+
+01:30:28.719 --> 01:30:36.960
+um they they use approach three
+
+01:30:33.679 --> 01:30:40.159
+for for most of their data so
+
+01:30:36.960 --> 01:30:43.440
+uh i mean i know it would come
+
+01:30:40.159 --> 01:30:44.960
+you you you you may explore this as
+
+01:30:43.440 --> 01:30:46.880
+one of the topics you're doing in your
+
+01:30:44.960 --> 01:30:50.400
+assignment one but
+
+01:30:46.880 --> 01:30:52.480
+the most common approach for sas
+
+01:30:50.400 --> 01:30:55.840
+or pass for that matter in a truly
+
+01:30:52.480 --> 01:31:03.840
+multi-tenant one is approach three
+
+01:30:55.840 --> 01:31:03.840
+does it answer your question ahmed
+
+01:31:10.639 --> 01:31:14.239
+okay any other questions ladies and
+
+01:31:13.199 --> 01:31:16.000
+gentlemen
+
+01:31:14.239 --> 01:31:18.800
+i can see that i'm getting a few
+
+01:31:16.000 --> 01:31:21.920
+requests for help from the lab so
+
+01:31:18.800 --> 01:31:24.719
+uh i i'll come and help you all once i'm
+
+01:31:21.920 --> 01:31:26.400
+once i'm done with my with answering all
+
+01:31:24.719 --> 01:31:28.320
+the questions which of
+
+01:31:26.400 --> 01:31:30.159
+uh are there any other questions for
+
+01:31:28.320 --> 01:31:35.199
+today's
+
+01:31:30.159 --> 01:31:35.199
+lecture feedback
+
+01:31:42.840 --> 01:31:48.639
+suggestions
+
+01:31:44.960 --> 01:31:48.639
+okay so now
+
+01:31:48.800 --> 01:31:54.400
+oh thank you very much ansel i i i'm
+
+01:31:51.840 --> 01:31:56.560
+thank you very much for your kind words
+
+01:31:54.400 --> 01:31:58.960
+now uh for those of you
+
+01:31:56.560 --> 01:32:00.800
+thank you very much ahmed for those of
+
+01:31:58.960 --> 01:32:02.719
+you uh
+
+01:32:00.800 --> 01:32:04.400
+i mean i know some of you would have to
+
+01:32:02.719 --> 01:32:07.520
+run to the
+
+01:32:04.400 --> 01:32:08.560
+lab now and i'll be as soon as i finish
+
+01:32:07.520 --> 01:32:10.800
+my call here i will
+
+01:32:08.560 --> 01:32:12.800
+go and help you with with the issues
+
+01:32:10.800 --> 01:32:15.840
+that you are facing with the lab
+
+01:32:12.800 --> 01:32:18.560
+um you should have received
+
+01:32:15.840 --> 01:32:20.159
+an invitation from aws and you should be
+
+01:32:18.560 --> 01:32:23.360
+able to
+
+01:32:20.159 --> 01:32:28.000
+accept it accept in sign in and
+
+01:32:23.360 --> 01:32:31.840
+use it for the lab if for some reason
+
+01:32:28.000 --> 01:32:34.480
+that is is not true please
+
+01:32:31.840 --> 01:32:35.360
+send me an email or send me a message on
+
+01:32:34.480 --> 01:32:39.120
+teams
+
+01:32:35.360 --> 01:32:39.440
+okay i also hope that you are finding
+
+01:32:39.120 --> 01:32:43.199
+the
+
+01:32:39.440 --> 01:32:46.400
+videos that i have made for you all
+
+01:32:43.199 --> 01:32:49.360
+uh and that are available almost
+
+01:32:46.400 --> 01:32:51.679
+five days before the lecture useful for
+
+01:32:49.360 --> 01:32:53.520
+your understanding and then you can come
+
+01:32:51.679 --> 01:32:54.719
+and hopefully this lecture which i'm
+
+01:32:53.520 --> 01:32:57.760
+giving again
+
+01:32:54.719 --> 01:32:58.639
+serves to as a refresher and then you
+
+01:32:57.760 --> 01:33:02.000
+can ask
+
+01:32:58.639 --> 01:33:03.920
+any questions any questions any feedback
+
+01:33:02.000 --> 01:33:07.600
+that you have i'm here to help
+
+01:33:03.920 --> 01:33:10.480
+okay okay then if there are no other
+
+01:33:07.600 --> 01:33:12.560
+questions then i'll we'll perhaps draw
+
+01:33:10.480 --> 01:33:15.120
+today's lecture to a close
+
+01:33:12.560 --> 01:33:17.440
+i look forward to next week's lecture so
+
+01:33:15.120 --> 01:33:18.880
+now we have covered all the basics that
+
+01:33:17.440 --> 01:33:22.239
+we need to
+
+01:33:18.880 --> 01:33:25.360
+we now go uh into
+
+01:33:22.239 --> 01:33:28.159
+amazon elastic beanstalk next week
+
+01:33:25.360 --> 01:33:28.880
+okay um thank you very much ladies and
+
+01:33:28.159 --> 01:33:32.320
+gentlemen
+
+01:33:28.880 --> 01:33:34.960
+uh it's a pleasure to work with you all
+
+01:33:32.320 --> 01:33:37.840
+and i hope to see you all next week bye
+
+01:33:34.960 --> 01:33:37.840
+bye
+

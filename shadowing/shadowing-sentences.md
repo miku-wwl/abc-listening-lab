@@ -1831,3 +1831,809 @@
 - 连读 / 弱读提示：IP 和 SSH 逐字母读；强读流程词 `Once / connect / remotely / won't need`。
 - 中文意思：一旦拿到 IP 地址，你就可以通过 SSH 远程连接，也就不需要串口线了。
 - 跟读次数建议：18 次
+
+## 2026-07-08
+
+### 1
+
+- 日期：2026-07-08
+- 时间戳：00:00:03–00:00:20
+- 原句：custom ami and as we mentioned last week ami is a template that contains the software configuration the operating system the web server application the application file so if you want to create for example multiple instances
+- 慢速拆解：custom ami and as we mentioned last week / ami is a template that contains the software / configuration the operating system the web server application / the application file so if you want to
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-08
+- 时间戳：00:01:52–00:02:09
+- 原句：login to get to campus and select module then go to week four under a week for eb lab you can find you can find a zip folder this is for the sample a custom application for the for the
+- 慢速拆解：login to get to campus and select module / then go to week four under a week / for eb lab you can find you can / find a zip folder this is for the
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-08
+- 时间戳：00:10:06–00:10:21
+- 原句：then for the application code you either select sample or upload your code if you want to use the default application that is provided by aws then select sample application if you want to upload your code and you want to launch a castle application then you have to select upload
+- 慢速拆解：then for the application code you either select / sample or upload your code if you want / to use the default application that is provided / by aws then select sample application if you
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-08
+- 时间戳：00:39:44–00:39:59
+- 原句：uploading also the configurations from aws we will select the branch for also the zip folder on canvas you have to select linux because it's built for linux not for linux 2. if
+- 慢速拆解：uploading also the configurations from aws we will / select the branch for also the zip folder / on canvas you have to select linux because / it's built for linux not for linux 2.
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-08
+- 时间戳：00:50:40–00:50:58
+- 原句：you can trace by one messages you can see that the transition of the health the health i mean the health transitions from green to yellow and is expecting to have one instance but the actual is zero
+- 慢速拆解：you can trace by one messages you can / see that the transition of the health the / health i mean the health transitions from green / to yellow and is expecting to have one
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-08
+- 时间戳：00:58:51–00:59:07
+- 原句：topic we can overlap another topic like multi-tenancy so what we can do in this scenarios because it's the assessment specified that we
+- 慢速拆解：topic we can overlap another topic like multi-tenancy / so what we can do in this scenarios / because it's the assessment specified that we
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-09
+
+### 1
+
+- 日期：2026-07-09
+- 时间戳：00:01:33–00:01:47
+- 原句：okay it's a common uh mistake in the assignments the probability of a or b is not the summation of individual probabilities we will talk about this today
+- 慢速拆解：okay it's a common uh mistake in the / assignments the probability of a or b is / not the summation of individual probabilities we will / talk about this today
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-09
+- 时间戳：00:29:50–00:30:06
+- 原句：you have the lower layers until the basic events using boolean algebra and representation of gates you try to identify the minimum cut sets minimum cuts are minimum requirement for
+- 慢速拆解：you have the lower layers until the basic / events using boolean algebra and representation of gates / you try to identify the minimum cut sets / minimum cuts are minimum requirement for
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-09
+- 时间戳：00:30:06–00:30:24
+- 原句：the failure of the top event based on the brilliant presentation then you do quantitative evaluation you have the probability for the basic events you start to do calcul calculation of the probability
+- 慢速拆解：the failure of the top event based on / the brilliant presentation then you do quantitative evaluation / you have the probability for the basic events / you start to do calcul calculation of the
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-09
+- 时间戳：00:22:36–00:22:52
+- 原句：you when you have a or gate one failure as an input is enough for a failure output for the or gate at least one
+- 慢速拆解：you when you have a or gate one / failure as an input is enough for a / failure output for the or gate at least / one
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-09
+- 时间戳：02:10:02–02:10:18
+- 原句：shows the undeveloped event so we don't know why what's the actual reason for that okay and then
+- 慢速拆解：shows the undeveloped event so we don't know / why what's the actual reason for that okay / and then
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-09
+- 时间戳：00:04:01–00:04:16
+- 原句：we will get back to the risk management plan from next week we talked about systems thinking and reliability engineering we start risk assessment process we introduce a process for doing risk assessment starting from
+- 慢速拆解：we will get back to the risk management / plan from next week we talked about systems / thinking and reliability engineering we start risk assessment / process we introduce a process for doing risk
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-10
+
+### 1
+
+- 日期：2026-07-10
+- 时间戳：00:10:47–00:11:07
+- 原句：to the notion of what elastic bean stock is and then i will explain you the different types of tiers in elastic bean stock and there are two broadly different types of tears the first one sorry to
+- 慢速拆解：to the notion of what elastic bean stock / is and then i will explain you the / different types of tiers in elastic bean stock / and there are two broadly different types of
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-10
+- 时间戳：00:20:06–00:20:25
+- 原句：is that as you will see not in today's lecture but in next week's lecture is that it gives you quite granular control what i mean by that is it gives you the ability to specify
+- 慢速拆解：is that as you will see not in / today's lecture but in next week's lecture is / that it gives you quite granular control what / i mean by that is it gives you
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-10
+- 时间戳：00:31:41–00:32:01
+- 原句：intensive process the whole idea of a worker environment is to abstract away or take away these time con these time intensive
+- 慢速拆解：intensive process the whole idea of a worker / environment is to abstract away or take away / these time con these time intensive
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-10
+- 时间戳：00:13:16–00:13:36
+- 原句：as you will see in a little while it supports a whole host of different languages starting from java.net php node.js python you're spoiled for choice in terms of the platforms that you can
+- 慢速拆解：as you will see in a little while / it supports a whole host of different languages / starting from java.net php node.js python you're spoiled / for choice in terms of the platforms that
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-10
+- 时间戳：01:20:27–01:20:44
+- 原句：sense that it consumes time that is being offloaded and i want to send it to the computational server similarly process 2 which is which needs the use of ai algorithm i want to send it to perhaps a gpu
+- 慢速拆解：sense that it consumes time that is being / offloaded and i want to send it to / the computational server similarly process 2 which is / which needs the use of ai algorithm i
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-10
+- 时间戳：01:29:38–01:29:56
+- 原句：fifo or first in first out fifo queues are designed to guarantee that the order in which messages are placed on a queue is the order in which they will be retrieved from it this lets you use sqs for systems that depend on receiving messages in exact order
+- 慢速拆解：fifo or first in first out fifo queues / are designed to guarantee that the order in / which messages are placed on a queue is / the order in which they will be retrieved
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-11
+
+### 1
+
+- 日期：2026-07-11
+- 时间戳：00:00:02–00:00:17
+- 原句：this is lab number two for wireless sensor networks um so basically i'm just going to go over an overview of what's expected what's coming up and what you need to do um this is only going to be a short zoom can how do we adjust um
+- 慢速拆解：this is lab number two for wireless sensor / networks um so basically i'm just going to / go over an overview of what's expected what's / coming up and what you need to do
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-11
+- 时间戳：00:00:02–00:00:17
+- 原句：this is lab number two for wireless sensor networks um so basically i'm just going to go over an overview of what's expected what's coming up and what you need to do um this is only going to be a short zoom can how do we adjust um
+- 慢速拆解：this is lab number two for wireless sensor / networks um so basically i'm just going to / go over an overview of what's expected what's / coming up and what you need to do
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-11
+- 时间戳：00:04:51–00:05:07
+- 原句：assignment's gonna ask you to do over the next few days is to actually collate some research papers from some reputable sources so i just thought i'd share my screen on basically how i would go about that i'm just in some of you may already know how to do this
+- 慢速拆解：assignment's gonna ask you to do over the / next few days is to actually collate some / research papers from some reputable sources so i / just thought i'd share my screen on basically
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-11
+- 时间戳：00:04:51–00:05:07
+- 原句：assignment's gonna ask you to do over the next few days is to actually collate some research papers from some reputable sources so i just thought i'd share my screen on basically how i would go about that i'm just in some of you may already know how to do this
+- 慢速拆解：assignment's gonna ask you to do over the / next few days is to actually collate some / research papers from some reputable sources so i / just thought i'd share my screen on basically
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-11
+- 时间戳：00:01:23–00:01:39
+- 原句：so i will need you to fill that excel spreadsheet out um to do that you need to log in with your uts account so you can't just use any gmail hotmail account i won't let you in um you might if you're in a gmail account you'll have to sign out and sign in with your uts account if you
+- 慢速拆解：so i will need you to fill that / excel spreadsheet out um to do that you / need to log in with your uts account / so you can't just use any gmail hotmail
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-11
+- 时间戳：00:02:27–00:02:43
+- 原句：and a bit of research behind it um the assignment is getting released uh over the next few sometime over the next few days might be tonight maybe over the next few couple of days negan's just um finessing it and finishing it off and that will get released which will give you a gun
+- 慢速拆解：and a bit of research behind it um / the assignment is getting released uh over the / next few sometime over the next few days / might be tonight maybe over the next few
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-12
+
+### 1
+
+- 日期：2026-07-12
+- 时间戳：00:07:53–00:08:10
+- 原句：very good by the way i'm sure you haven't started your topic and you have selected your cases studies if you had any question feel free any time posted on canvas i reply as soon as possible so far we talked about risk terminologies risk management
+- 慢速拆解：very good by the way i'm sure you / haven't started your topic and you have selected / your cases studies if you had any question / feel free any time posted on canvas i
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-12
+- 时间戳：00:24:52–00:25:08
+- 原句：and the remaining risk is acceptable then you need to do continuous monitoring and follow up for your discussions so for both economic and efficiency
+- 慢速拆解：and the remaining risk is acceptable then you / need to do continuous monitoring and follow up / for your discussions so for both economic and / efficiency
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-12
+- 时间戳：00:46:23–00:46:40
+- 原句：individually if they can show any failure in their life cycle as so this is called failure mode and effect analysis so it's a old technique again in 1940s
+- 慢速拆解：individually if they can show any failure in / their life cycle as so this is called / failure mode and effect analysis so it's a / old technique again in 1940s
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-12
+- 时间戳：00:54:47–00:55:05
+- 原句：all these numbers together for each failure mode so you get a number between 1 to 125 for each failure mode so using this priority number you do ranking at the end of this study
+- 慢速拆解：all these numbers together for each failure mode / so you get a number between 1 to / 125 for each failure mode so using this / priority number you do ranking at the end
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-12
+- 时间戳：01:00:06–01:00:25
+- 原句：or high pressure at the same time can make the failure mode for you know about different kind of things and usually abnormal situations include multiple failures but in fmea we cannot consider
+- 慢速拆解：or high pressure at the same time can / make the failure mode for you know about / different kind of things and usually abnormal situations / include multiple failures but in fmea we cannot
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-12
+- 时间戳：02:29:51–02:30:16
+- 原句：personal auditor or the equipment so we have different uh functions and different operational parameters and the guide word [Music]
+- 慢速拆解：personal auditor or the equipment so we have / different uh functions and different operational parameters and / the guide word [Music]
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-13
+
+### 1
+
+- 日期：2026-07-13
+- 时间戳：00:03:59–00:04:19
+- 原句：virtualization was a key enabling technology for enabling cloud computing moving on which was week two last week we discussed about platform as a service and software as a service and we discuss
+- 慢速拆解：virtualization was a key enabling technology for enabling / cloud computing moving on which was week two / last week we discussed about platform as a / service and software as a service and we
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-13
+- 时间戳：00:05:08–00:05:25
+- 原句：objectives for today's lecture part one is essentially focused on understanding what virtualization is and the different types of virtual machines when i'm talking virtual machines of
+- 慢速拆解：objectives for today's lecture part one is essentially / focused on understanding what virtualization is and the / different types of virtual machines when i'm talking / virtual machines of
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-13
+- 时间戳：00:21:32–00:21:50
+- 原句：within the allocated virtual machine in google app engine whatever host operating system google is using that's what it is that is the single key defining characteristic of a process virtual machine the fact
+- 慢速拆解：within the allocated virtual machine in google app / engine whatever host operating system google is using / that's what it is that is the single / key defining characteristic of a process virtual machine
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-13
+- 时间戳：00:41:04–00:41:23
+- 原句：known as virtual machine migration okay you may be wondering why would you need to migrate why does one need to migrate there are plethora of reasons maybe the original virtual machine as was
+- 慢速拆解：known as virtual machine migration okay you may / be wondering why would you need to migrate / why does one need to migrate there are / plethora of reasons maybe the original virtual machine
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-13
+- 时间戳：00:04:49–00:05:11
+- 原句：or enables multi-tenancy so before i just one second can i request everyone please to mute their mics um let's so these are the learning
+- 慢速拆解：or enables multi-tenancy so before i just one / second can i request everyone please to mute / their mics um let's so these are the / learning
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-13
+- 时间戳：01:14:52–01:15:08
+- 原句：number one the the flip side is that still in terms of multi-tenancy you have specific tables that belong to a customer okay so these sets of tables in green
+- 慢速拆解：number one the the flip side is that / still in terms of multi-tenancy you have specific / tables that belong to a customer okay so / these sets of tables in green
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-14
+
+### 1
+
+- 日期：2026-07-14
+- 时间戳：00:08:55–00:09:11
+- 原句：so let's uh go through our uh lecture by the end of this session or probably in the middle we will have break and we can discuss more about your other questions uh so today we're gonna focus on writing in wireless natural network section one we have three sessions dedicated to routing and to me
+- 慢速拆解：so let's uh go through our uh lecture / by the end of this session or probably / in the middle we will have break and / we can discuss more about your other questions
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-14
+- 时间戳：00:24:47–00:25:04
+- 原句：clear questions the next one is the quality of service you may have some criteria in your network for example latency or delay or throughput or packet loss or whatever is important in
+- 慢速拆解：clear questions the next one is the quality / of service you may have some criteria in / your network for example latency or delay or / throughput or packet loss or whatever is important
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-14
+- 时间戳：00:26:31–00:26:49
+- 原句：and one one metric will be minimum energy consumed per packet so the minimum energy consumption packet basically aims to minimize the total amount of energy ex for to propagate
+- 慢速拆解：and one one metric will be minimum energy / consumed per packet so the minimum energy consumption / packet basically aims to minimize the total amount / of energy ex for to propagate
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-14
+- 时间戳：00:23:27–00:23:42
+- 原句：shortest path uh which will result in low end-to-end delays and low resources uh resource consumption you want to let's say you want to take a bus from your home to uts your criteria is to pass
+- 慢速拆解：shortest path uh which will result in low / end-to-end delays and low resources uh resource consumption / you want to let's say you want to / take a bus from your home to uts
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-14
+- 时间戳：01:09:33–01:09:48
+- 原句：protocol for information negotiations it's a family of negotiation-based data centric and flooding protocols you remember flooding in this protocol we basically send metadata
+- 慢速拆解：protocol for information negotiations it's a family of / negotiation-based data centric and flooding protocols you remember / flooding in this protocol we basically send metadata
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-14
+- 时间戳：01:14:50–01:15:05
+- 原句：message to a so we have a threshold uh defined in our network energy threshold nodes check their energy compared to this threshold if they are blue threshold they will not
+- 慢速拆解：message to a so we have a threshold / uh defined in our network energy threshold nodes / check their energy compared to this threshold if / they are blue threshold they will not
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-15
+
+### 1
+
+- 日期：2026-07-15
+- 时间戳：00:07:53–00:08:10
+- 原句：figures if you can to help the reader the marker to understand your case study then you set the boundary then you do a stakeholder analysis which is which is not very difficult i'll talk about this then you determine the inherent risk and
+- 慢速拆解：figures if you can to help the reader / the marker to understand your case study then / you set the boundary then you do a / stakeholder analysis which is which is not very
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-15
+- 时间戳：00:12:04–00:12:20
+- 原句：yourself already a couple of the students have done this so you maybe introduce yourself a bit about your risk management process be based on oiso 31000 standard and we will talk about systems thinking
+- 慢速拆解：yourself already a couple of the students have / done this so you maybe introduce yourself a / bit about your risk management process be based / on oiso 31000 standard and we will talk
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-15
+- 时间戳：00:49:43–00:49:56
+- 原句：and if the failure of the system has a density function of time f a t you can convert this definition to to this integral
+- 慢速拆解：and if the failure of the system has / a density function of time f a t / you can convert this definition to to this / integral
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-15
+- 时间戳：00:51:39–00:51:55
+- 原句：if you do the summation of total operation hours divided by number of failures so you have you can calculate mean time between failures or mtvm this is the average mean means average
+- 慢速拆解：if you do the summation of total operation / hours divided by number of failures so you / have you can calculate mean time between failures / or mtvm this is the average mean means
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-15
+- 时间戳：01:14:43–01:14:59
+- 原句：tutorial and it's very common to get some complex reliability blockchain from and at the end of your reliability block diagram and you may use truth tables or boolean
+- 慢速拆解：tutorial and it's very common to get some / complex reliability blockchain from and at the end / of your reliability block diagram and you may / use truth tables or boolean
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-15
+- 时间戳：00:44:40–00:44:53
+- 原句：the reliability maintainability and availability of the safety system before going to the reliability we need to identify
+- 慢速拆解：the reliability maintainability and availability of the safety / system before going to the reliability we need / to identify
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-16
+
+### 1
+
+- 日期：2026-07-16
+- 时间戳：00:09:56–00:10:15
+- 原句：resources combined that can be used by a developer to build program and deploy software applications in other words computing platform is meant for software
+- 慢速拆解：resources combined that can be used by a / developer to build program and deploy software applications / in other words computing platform is meant for / software
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-16
+- 时间戳：00:18:31–00:18:49
+- 原句：bill you for resource provisioning and again there are different pricing mechanisms and strategies different pass providers use different pricing mechanisms but some of the most common ones are
+- 慢速拆解：bill you for resource provisioning and again there / are different pricing mechanisms and strategies different pass / providers use different pricing mechanisms but some of / the most common ones are
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-16
+- 时间戳：00:24:48–00:25:09
+- 原句：now in order to in order for you as an end user to be able to just simply write code in any of the languages that are supported by google deploy and let google do
+- 慢速拆解：now in order to in order for you / as an end user to be able to / just simply write code in any of the / languages that are supported by google deploy and
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-16
+- 时间戳：00:04:40–00:04:56
+- 原句：the first one is platform as a service which is pass and the second one is software as a service or sas i have got two different modules that i will cover today one is
+- 慢速拆解：the first one is platform as a service / which is pass and the second one is / software as a service or sas i have / got two different modules that i will cover
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-16
+- 时间戳：00:05:49–00:06:06
+- 原句：at the architecture and the working of google app engine which is one of the major platform as a service providers and in part three the final part of the pass module we will look about force.com which is
+- 慢速拆解：at the architecture and the working of google / app engine which is one of the major / platform as a service providers and in part / three the final part of the pass module
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-16
+- 时间戳：01:24:58–01:25:16
+- 原句：a pre-built completely managed software application great but in sas there is limited customization only one size fits all that's the approach that says providers take
+- 慢速拆解：a pre-built completely managed software application great but / in sas there is limited customization only one / size fits all that's the approach that says / providers take
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-17
+
+### 1
+
+- 日期：2026-07-17
+- 时间戳：00:00:49–00:01:24
+- 原句：um no labs aren't recorded um partially i'll explain um in a bit why not
+- 慢速拆解：um no labs aren't recorded um partially i'll / explain um in a bit why not
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-17
+- 时间戳：00:15:32–00:15:49
+- 原句：hardware directed one is software directed so um i'll expand a little bit more detail on the next couple of slides basically it's flexible based on your needs and what you're capable of doing and what you're passionate about the assignments provided are
+- 慢速拆解：hardware directed one is software directed so um / i'll expand a little bit more detail on / the next couple of slides basically it's flexible / based on your needs and what you're capable
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-17
+- 时间戳：00:29:46–00:30:03
+- 原句：c plus so if you want to do your own project you might have an arduino that has some sensors on it you programmed that in crc plus um javascript which is particularly useful for nodejs which is js stands for javascript which is developing the server um or node red
+- 慢速拆解：c plus so if you want to do / your own project you might have an arduino / that has some sensors on it you programmed / that in crc plus um javascript which is
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-17
+- 时间戳：00:34:36–00:34:52
+- 原句：before we end this call um to try and uh allocate groups we'll work out a way um and oh lastly is ms teams so what we want we're going to create a team uh group where we're all going to be in that and then we're going to create
+- 慢速拆解：before we end this call um to try / and uh allocate groups we'll work out a / way um and oh lastly is ms teams / so what we want we're going to create
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-17
+- 时间戳：00:43:44–00:44:01
+- 原句：aren't compulsory it's just a good way for you to drop in for 10 minutes so i definitely won't talk this long each week it'll be 10 minutes here's what you've got to do go into your mstms calls and at me if you've got a problem and i'll help debug um there is no weekly tasks it's just gonna be um...
+- 慢速拆解：aren't compulsory it's just a good way for / you to drop in for 10 minutes so / i definitely won't talk this long each week / it'll be 10 minutes here's what you've got
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-17
+- 时间戳：01:20:12–01:20:28
+- 原句：yeah you use that at home yeah so we'll take your names down and your group names down but you can borrow you can yeah borrow the equipment for 12 weeks just like it's i guess there's no way you could possibly get it all up and running on like in two hours without any teething problems and pull t...
+- 慢速拆解：yeah you use that at home yeah so / we'll take your names down and your group / names down but you can borrow you can / yeah borrow the equipment for 12 weeks just
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-18
+
+### 1
+
+- 日期：2026-07-18
+- 时间戳：00:00:18–00:00:36
+- 原句：home my point i go to the extent of saying that without virtualization you cannot have cloud computing and i think i've said that before so just to illustrate my point let us suppose that i am a cloud service provider and i have
+- 慢速拆解：home my point i go to the extent / of saying that without virtualization you cannot have / cloud computing and i think i've said that / before so just to illustrate my point let
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-18
+- 时间戳：00:09:49–00:10:04
+- 原句：or virtual instances as a service and in in within aws you are actually spoiled for choice about the different types of ec2 instances that you may instantiate
+- 慢速拆解：or virtual instances as a service and in / in within aws you are actually spoiled for / choice about the different types of ec2 instances / that you may instantiate
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-18
+- 时间戳：00:18:24–00:18:41
+- 原句：a legally binding agreement wherein i reserve it for a specific duration of time quite different is the spot instances so the way the spot instances work is quite interesting in the sense that
+- 慢速拆解：a legally binding agreement wherein i reserve it / for a specific duration of time quite different / is the spot instances so the way the / spot instances work is quite interesting in the
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-18
+- 时间戳：00:30:07–00:30:23
+- 原句：minimal latency then i should deploy it in different regions one for each of my customers for example if micro if i don't have much customers in europe i may choose not to deploy in any region there if i've got it in
+- 慢速拆解：minimal latency then i should deploy it in / different regions one for each of my customers / for example if micro if i don't have / much customers in europe i may choose not
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-18
+- 时间戳：00:38:58–00:39:17
+- 原句：now one interesting proposition and you may have seen there you may have seen a place there for uh elastic ip address as well uh especially ipv4 is that as you see you you have an application
+- 慢速拆解：now one interesting proposition and you may have / seen there you may have seen a place / there for uh elastic ip address as well / uh especially ipv4 is that as you see
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-18
+- 时间戳：00:49:53–00:50:10
+- 原句：example very very cheap last but not the least is amazon cloud watch so with all these resources that you are using amazon keeps an eye on their performance in the case of ec2 instances for example
+- 慢速拆解：example very very cheap last but not the / least is amazon cloud watch so with all / these resources that you are using amazon keeps / an eye on their performance in the case
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-19
+
+### 1
+
+- 日期：2026-07-19
+- 时间戳：00:04:43–00:04:59
+- 原句：have and i also hope to be exposing you all to a lot of industry best practices as well so in today's lecture we have three modules today's lecture is quite big but this is the because this is week one
+- 慢速拆解：have and i also hope to be exposing / you all to a lot of industry best / practices as well so in today's lecture we / have three modules today's lecture is quite big
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-19
+- 时间戳：00:20:31–00:20:47
+- 原句：quite different so for assignment one which is a research essay i'll give you a few topics and you are most welcome to come up with your own topic what you are required to do is do
+- 慢速拆解：quite different so for assignment one which is / a research essay i'll give you a few / topics and you are most welcome to come / up with your own topic what you are
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-19
+- 时间戳：00:50:36–00:50:53
+- 原句：and in answer to that question came this concept of what is known as time sharing or virtualization um what that meant is using some form of mechanism or some mechanism
+- 慢速拆解：and in answer to that question came this / concept of what is known as time sharing / or virtualization um what that meant is using / some form of mechanism or some mechanism
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-19
+- 时间戳：01:10:05–01:10:20
+- 原句：and these services can be very rapidly provisioned and released with minimal effort or service provider interaction you will see in a little while when i come to
+- 慢速拆解：and these services can be very rapidly provisioned / and released with minimal effort or service provider / interaction you will see in a little while / when i come to
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-19
+- 时间戳：01:21:17–01:21:32
+- 原句：can be converted from capital expenses which is upfront to ongoing operational expense and that's from a business viewpoint it makes a lot of sense
+- 慢速拆解：can be converted from capital expenses which is / upfront to ongoing operational expense and that's from / a business viewpoint it makes a lot of / sense
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-19
+- 时间戳：00:05:33–00:05:49
+- 原句：computing and the third module is about infrastructure as a service this subject is very hands-on so more or less you would be getting your hands dirty
+- 慢速拆解：computing and the third module is about infrastructure / as a service this subject is very hands-on / so more or less you would be getting / your hands dirty
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+## 2026-07-20
+
+### 1
+
+- 日期：2026-07-20
+- 时间戳：00:01:25–00:01:41
+- 原句：okay hello everyone welcome to wireless sensor network this is our first session uh i apologize apparently there was a mistake in the calendar invitation uh just put pretty thirty just in case you have some problems to log into zoom but our class starts every week from four to six based
+- 慢速拆解：okay hello everyone welcome to wireless sensor network / this is our first session uh i apologize / apparently there was a mistake in the calendar / invitation uh just put pretty thirty just in
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-20
+- 时间戳：00:11:50–00:12:06
+- 原句：laps uh on tuesday so this week we don't have any lap tomorrow this is mainly because i wanted to give you more time to create your teams and your your groups for uh wider sensor network uh briefly about myself apart from my
+- 慢速拆解：laps uh on tuesday so this week we / don't have any lap tomorrow this is mainly / because i wanted to give you more time / to create your teams and your your groups
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-20
+- 时间戳：00:39:39–00:39:57
+- 原句：extend it to more advanced levels okay uh final uh teaching sessions will be dedicated to resource management in wireless sensor network and energy efficiency you know power is uh one of the main issue in
+- 慢速拆解：extend it to more advanced levels okay uh / final uh teaching sessions will be dedicated to / resource management in wireless sensor network and energy / efficiency you know power is uh one of
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-20
+- 时间戳：00:29:19–00:29:36
+- 原句：week um gonna design three online quizzes and this online quizzes will be held during lecture time and the details are in and your subject outline i think week 4 6 and 8
+- 慢速拆解：week um gonna design three online quizzes and / this online quizzes will be held during lecture / time and the details are in and your / subject outline i think week 4 6 and
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-20
+- 时间戳：00:05:08–00:05:25
+- 原句：starting from next week same material will be covered in both labs but uh i'm gonna explain later but uh if because the subject is mainly uh about working with hardware like raspberry pi sensor tags and
+- 慢速拆解：starting from next week same material will be / covered in both labs but uh i'm gonna / explain later but uh if because the subject / is mainly uh about working with hardware like
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-20
+- 时间戳：01:29:56–01:30:11
+- 原句：uh addressing and then in 2025 this is expected to have 100 billion or probably more connected iot devices so this would also create lots of opportunities for engineers and
+- 慢速拆解：uh addressing and then in 2025 this is / expected to have 100 billion or probably more / connected iot devices so this would also create / lots of opportunities for engineers and
+- 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
+- 中文意思：本次材料的核心概念、条件或操作说明。
+- 跟读次数建议：16 次

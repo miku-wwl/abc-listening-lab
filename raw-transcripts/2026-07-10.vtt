@@ -1,0 +1,6808 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:14.920 --> 00:00:17.920
+um
+
+00:00:24.260 --> 00:00:27.510
+[Music]
+
+00:00:42.840 --> 00:00:45.840
+um
+
+00:01:24.840 --> 00:01:27.840
+um
+
+00:01:38.840 --> 00:01:41.840
+oh
+
+00:01:52.840 --> 00:01:55.840
+them
+
+00:02:19.440 --> 00:02:37.840
+good evening everyone how are you all
+
+00:02:43.280 --> 00:03:05.840
+okay may i ask if you are able to
+
+00:02:47.120 --> 00:03:05.840
+tell me yesterday quick yes or no
+
+00:03:15.120 --> 00:03:18.959
+good evening everyone welcome to the
+
+00:03:17.360 --> 00:03:22.480
+fourth week
+
+00:03:18.959 --> 00:03:25.840
+of this subject is of
+
+00:03:22.480 --> 00:03:29.840
+elastic beanstalk uh i would like to
+
+00:03:25.840 --> 00:03:29.840
+very warmly welcome you all
+
+00:03:30.000 --> 00:03:36.799
+which is me i would also give you
+
+00:03:33.440 --> 00:03:46.640
+perhaps a few minutes to settle down
+
+00:03:36.799 --> 00:03:49.840
+and also give you all
+
+00:03:46.640 --> 00:04:01.840
+just before i start i can see david can
+
+00:03:49.840 --> 00:04:01.840
+you hear me
+
+00:04:07.840 --> 00:04:14.959
+uh it's the audio is not clear so it's
+
+00:04:12.239 --> 00:04:16.560
+interesting let me see why it's not
+
+00:04:14.959 --> 00:04:29.840
+clear give me one second okay
+
+00:04:16.560 --> 00:04:29.840
+yeah thank you
+
+00:04:38.400 --> 00:04:57.840
+what's up
+
+00:04:43.600 --> 00:04:57.840
+is this any clear can you hear me
+
+00:05:08.840 --> 00:05:11.840
+uh
+
+00:05:26.479 --> 00:05:30.240
+can can everyone see
+
+00:05:30.960 --> 00:05:39.840
+that is running the wall
+
+00:05:47.199 --> 00:05:53.840
+is this any clear i mean can you hear me
+
+00:06:16.720 --> 00:06:22.800
+okay give me a second i'll just make a
+
+00:06:19.919 --> 00:06:26.400
+few changes just give me a second
+
+00:06:22.800 --> 00:06:35.840
+stay on there i'll just line again
+
+00:06:26.400 --> 00:06:35.840
+give me a second
+
+00:07:00.840 --> 00:07:03.840
+uh
+
+00:07:14.840 --> 00:07:17.840
+oh
+
+00:07:42.840 --> 00:07:45.840
+um
+
+00:07:56.840 --> 00:07:59.840
+um
+
+00:08:03.600 --> 00:08:07.599
+[Applause]
+
+00:08:04.960 --> 00:08:08.479
+good evening everyone i'm back again uh
+
+00:08:07.599 --> 00:08:12.080
+i would welcome
+
+00:08:08.479 --> 00:08:15.199
+any feedback or response if
+
+00:08:12.080 --> 00:08:18.479
+my voice is a little bit clearer
+
+00:08:15.199 --> 00:08:19.919
+it's much better now thank you good good
+
+00:08:18.479 --> 00:08:21.919
+excellent thank you very much for
+
+00:08:19.919 --> 00:08:26.000
+letting me know
+
+00:08:21.919 --> 00:08:28.240
+that's great i'm very happy to see that
+
+00:08:26.000 --> 00:08:28.240
+so
+
+00:08:35.279 --> 00:08:43.440
+welcome everyone welcome to week four
+
+00:08:39.360 --> 00:08:45.839
+i would also recommend
+
+00:08:43.440 --> 00:08:46.720
+that you keep yourself muted throughout
+
+00:08:45.839 --> 00:08:49.279
+the lecture
+
+00:08:46.720 --> 00:08:50.560
+i will stop for questions and at that
+
+00:08:49.279 --> 00:08:53.440
+point in time
+
+00:08:50.560 --> 00:08:54.959
+you're most welcome to ask any questions
+
+00:08:53.440 --> 00:08:58.640
+that you have
+
+00:08:54.959 --> 00:09:01.360
+so as you all know uh this is week four
+
+00:08:58.640 --> 00:09:02.560
+and today we would be talking we would
+
+00:09:01.360 --> 00:09:09.839
+be talking about a
+
+00:09:02.560 --> 00:09:09.839
+very interesting
+
+00:09:11.440 --> 00:09:15.680
+i'm sorry i think you mute yourself
+
+00:09:21.519 --> 00:09:26.640
+yes someone muted me uh can you please
+
+00:09:24.480 --> 00:09:28.399
+not try to mute me while i'm talking
+
+00:09:26.640 --> 00:09:32.000
+please
+
+00:09:28.399 --> 00:09:34.560
+uh so now i was saying that
+
+00:09:32.000 --> 00:09:35.600
+um today we would be talking about
+
+00:09:34.560 --> 00:09:38.720
+elastic
+
+00:09:35.600 --> 00:09:40.560
+bean stock which is
+
+00:09:38.720 --> 00:09:42.399
+and if you all remember i wanted to give
+
+00:09:40.560 --> 00:09:44.800
+you an idea of
+
+00:09:42.399 --> 00:09:46.560
+how we got here week one was an
+
+00:09:44.800 --> 00:09:50.240
+introduction if you all remember
+
+00:09:46.560 --> 00:09:53.920
+including infrastructure as a service
+
+00:09:50.240 --> 00:09:57.360
+week two was about platform as a service
+
+00:09:53.920 --> 00:09:58.320
+and the last week was on software as a
+
+00:09:57.360 --> 00:10:00.640
+service
+
+00:09:58.320 --> 00:10:01.360
+i feel extremely confident in saying
+
+00:10:00.640 --> 00:10:04.720
+that
+
+00:10:01.360 --> 00:10:07.360
+you have been given a very
+
+00:10:04.720 --> 00:10:09.120
+thorough background and theoretical
+
+00:10:07.360 --> 00:10:11.440
+knowledge from now
+
+00:10:09.120 --> 00:10:12.800
+so that you can now start and going to
+
+00:10:11.440 --> 00:10:15.920
+explore
+
+00:10:12.800 --> 00:10:18.480
+and build new applications using
+
+00:10:15.920 --> 00:10:20.480
+cloud technologies and that's exactly
+
+00:10:18.480 --> 00:10:21.440
+what we are going to do from this week
+
+00:10:20.480 --> 00:10:24.399
+onwards
+
+00:10:21.440 --> 00:10:25.600
+from now onwards till the remain there
+
+00:10:24.399 --> 00:10:27.920
+of this subject
+
+00:10:25.600 --> 00:10:30.959
+we will all be either be playing with
+
+00:10:27.920 --> 00:10:34.240
+different aws technologies
+
+00:10:30.959 --> 00:10:36.000
+or force.com so
+
+00:10:34.240 --> 00:10:37.600
+what you see on the on the left hand
+
+00:10:36.000 --> 00:10:40.800
+side here
+
+00:10:37.600 --> 00:10:43.920
+is uh the elastic bean stock
+
+00:10:40.800 --> 00:10:47.200
+logo so this is what we would be
+
+00:10:43.920 --> 00:10:49.440
+learning today i want to introduce you
+
+00:10:47.200 --> 00:10:52.640
+to the notion of what elastic bean stock
+
+00:10:49.440 --> 00:10:55.920
+is and then i will explain you
+
+00:10:52.640 --> 00:10:58.640
+the different types of tiers
+
+00:10:55.920 --> 00:11:01.440
+in elastic bean stock and there are two
+
+00:10:58.640 --> 00:11:04.480
+broadly different types of tears
+
+00:11:01.440 --> 00:11:07.040
+the first one sorry to
+
+00:11:04.480 --> 00:11:09.519
+interrupt you yours we can't see your
+
+00:11:07.040 --> 00:11:09.519
+screen
+
+00:11:10.079 --> 00:11:17.279
+the slide sign in thank you
+
+00:11:14.560 --> 00:11:19.920
+let me see why that has happened what
+
+00:11:17.279 --> 00:11:19.920
+about now
+
+00:11:21.360 --> 00:11:27.600
+yeah it's available now
+
+00:11:25.760 --> 00:11:29.279
+excellent thank you very much sorry for
+
+00:11:27.600 --> 00:11:30.880
+the teething issues today i don't know
+
+00:11:29.279 --> 00:11:34.480
+what's happening today
+
+00:11:30.880 --> 00:11:37.839
+so as i said we will start off with
+
+00:11:34.480 --> 00:11:39.519
+what elastic bean stock is and then we
+
+00:11:37.839 --> 00:11:40.720
+will try to understand the different
+
+00:11:39.519 --> 00:11:43.279
+types of tears
+
+00:11:40.720 --> 00:11:45.600
+in the elastic beam stock and there are
+
+00:11:43.279 --> 00:11:46.640
+broadly speaking two different types of
+
+00:11:45.600 --> 00:11:50.240
+tiers
+
+00:11:46.640 --> 00:11:52.399
+the web server tier and the worker tier
+
+00:11:50.240 --> 00:11:54.320
+we will try to understand what a web
+
+00:11:52.399 --> 00:11:57.360
+server tier is
+
+00:11:54.320 --> 00:11:58.399
+and i will also jump onto the aws
+
+00:11:57.360 --> 00:12:00.880
+console
+
+00:11:58.399 --> 00:12:03.760
+and give you a demonstration of the
+
+00:12:00.880 --> 00:12:06.639
+working of the web server tier
+
+00:12:03.760 --> 00:12:07.920
+then we will try to understand what the
+
+00:12:06.639 --> 00:12:11.519
+worker tier is
+
+00:12:07.920 --> 00:12:14.720
+and then i will give you a demo as well
+
+00:12:11.519 --> 00:12:15.120
+at the end of today's lecture you should
+
+00:12:14.720 --> 00:12:18.320
+all
+
+00:12:15.120 --> 00:12:19.760
+be very confident and you should all be
+
+00:12:18.320 --> 00:12:22.560
+able to understand
+
+00:12:19.760 --> 00:12:23.040
+the purpose of elastic bean stock and
+
+00:12:22.560 --> 00:12:25.839
+how
+
+00:12:23.040 --> 00:12:27.519
+and when you can use it and more
+
+00:12:25.839 --> 00:12:30.639
+importantly
+
+00:12:27.519 --> 00:12:34.160
+the different types of tiers
+
+00:12:30.639 --> 00:12:37.760
+so in a very simple
+
+00:12:34.160 --> 00:12:40.480
+in a nutshell elastic beanstalk is
+
+00:12:37.760 --> 00:12:41.600
+amazon's version of platform as a
+
+00:12:40.480 --> 00:12:45.760
+service
+
+00:12:41.600 --> 00:12:49.680
+it gives you an extremely easy to use
+
+00:12:45.760 --> 00:12:53.040
+platform for deploying
+
+00:12:49.680 --> 00:12:55.600
+and scaling web applications
+
+00:12:53.040 --> 00:12:56.560
+mind you i've not used the word
+
+00:12:55.600 --> 00:12:58.399
+developing
+
+00:12:56.560 --> 00:13:00.320
+that means it doesn't give you elastic
+
+00:12:58.399 --> 00:13:01.680
+bean stock doesn't give you the
+
+00:13:00.320 --> 00:13:05.279
+capability to write
+
+00:13:01.680 --> 00:13:07.680
+code but it gives you the ability
+
+00:13:05.279 --> 00:13:09.680
+if we have written your code it gives
+
+00:13:07.680 --> 00:13:12.880
+you the ability to deploy
+
+00:13:09.680 --> 00:13:16.959
+and run it globally
+
+00:13:12.880 --> 00:13:19.440
+the beauty of elastic bean stock is that
+
+00:13:16.959 --> 00:13:20.079
+as you will see in a little while it
+
+00:13:19.440 --> 00:13:23.120
+supports
+
+00:13:20.079 --> 00:13:26.560
+a whole host of different languages
+
+00:13:23.120 --> 00:13:30.240
+starting from java.net php
+
+00:13:26.560 --> 00:13:33.760
+node.js python you're spoiled for choice
+
+00:13:30.240 --> 00:13:36.480
+in terms of the platforms that you can
+
+00:13:33.760 --> 00:13:39.360
+select or choose from
+
+00:13:36.480 --> 00:13:43.199
+and remember so a professor for
+
+00:13:39.360 --> 00:13:43.199
+encryption i can't see slides
+
+00:13:44.000 --> 00:13:46.639
+i can
+
+00:13:47.040 --> 00:13:55.360
+yep i can see that it is being like
+
+00:13:52.000 --> 00:13:57.440
+i can see that it is being uh
+
+00:13:55.360 --> 00:13:59.279
+broadcasted i can see it from the here
+
+00:13:57.440 --> 00:14:00.399
+so i don't know why you're not able to
+
+00:13:59.279 --> 00:14:05.040
+see
+
+00:14:00.399 --> 00:14:05.040
+i didn't see in it's your video
+
+00:14:07.440 --> 00:14:14.399
+can everyone else see my slides please
+
+00:14:10.880 --> 00:14:17.760
+yes yes yep yes okay yeah
+
+00:14:14.399 --> 00:14:21.279
+see good so yes can you i mean
+
+00:14:17.760 --> 00:14:23.440
+um if you're not able to see it i would
+
+00:14:21.279 --> 00:14:24.079
+suggest close your teams and then reopen
+
+00:14:23.440 --> 00:14:26.959
+it again
+
+00:14:24.079 --> 00:14:28.160
+that might do the trick bottom right you
+
+00:14:26.959 --> 00:14:30.720
+can
+
+00:14:28.160 --> 00:14:31.279
+swap back and forth between the exactly
+
+00:14:30.720 --> 00:14:34.800
+your
+
+00:14:31.279 --> 00:14:34.800
+exact new presentation
+
+00:14:35.120 --> 00:14:39.120
+that's something you can do at your end
+
+00:14:38.079 --> 00:14:42.079
+so
+
+00:14:39.120 --> 00:14:43.600
+as i said elastic bean stock is platform
+
+00:14:42.079 --> 00:14:47.040
+as a service
+
+00:14:43.600 --> 00:14:50.240
+so what that means is that if i am
+
+00:14:47.040 --> 00:14:51.839
+if i have written my code and if i'm
+
+00:14:50.240 --> 00:14:55.279
+deploying my code
+
+00:14:51.839 --> 00:14:57.920
+there are a lot of underlying or
+
+00:14:55.279 --> 00:14:59.120
+activities that need to be carried out
+
+00:14:57.920 --> 00:15:01.440
+in the process of
+
+00:14:59.120 --> 00:15:02.639
+deploying and scaling my web
+
+00:15:01.440 --> 00:15:06.880
+applications
+
+00:15:02.639 --> 00:15:06.880
+things like provisioning
+
+00:15:06.959 --> 00:15:11.120
+virtual machines setting up their load
+
+00:15:10.160 --> 00:15:13.440
+balancers
+
+00:15:11.120 --> 00:15:15.519
+setting up their security policies
+
+00:15:13.440 --> 00:15:19.120
+setting up databases
+
+00:15:15.519 --> 00:15:21.760
+setting up web servers all that
+
+00:15:19.120 --> 00:15:22.720
+because this is a managed platform as a
+
+00:15:21.760 --> 00:15:25.199
+service
+
+00:15:22.720 --> 00:15:28.160
+you don't need to worry about them just
+
+00:15:25.199 --> 00:15:28.160
+upload your code
+
+00:15:28.320 --> 00:15:35.120
+deploy it and let amazon
+
+00:15:31.839 --> 00:15:38.959
+or in this case amazon elastic beanstalk
+
+00:15:35.120 --> 00:15:42.160
+do all the overheads associated with
+
+00:15:38.959 --> 00:15:45.680
+deploying and running such
+
+00:15:42.160 --> 00:15:48.560
+global web applications so this is
+
+00:15:45.680 --> 00:15:50.160
+the whole essence of elastic bean stock
+
+00:15:48.560 --> 00:15:53.519
+i want to show you all
+
+00:15:50.160 --> 00:15:55.839
+a short video of few minutes so that
+
+00:15:53.519 --> 00:15:56.800
+you are able to better understand and
+
+00:15:55.839 --> 00:15:59.440
+grasp
+
+00:15:56.800 --> 00:16:00.800
+elastic bean stock just give me a minute
+
+00:15:59.440 --> 00:16:09.839
+please
+
+00:16:00.800 --> 00:16:09.839
+while i show the video to you all
+
+00:16:15.920 --> 00:16:20.079
+okay so i believe you should be able to
+
+00:16:18.079 --> 00:16:22.880
+see my screen now
+
+00:16:20.079 --> 00:16:37.839
+and i'm playing the video now if you're
+
+00:16:22.880 --> 00:16:37.839
+not able to see it please let me know
+
+00:16:46.320 --> 00:16:51.839
+we couldn't hear the sound though
+
+00:17:02.839 --> 00:17:05.839
+okay
+
+00:17:30.840 --> 00:17:33.840
+is
+
+00:17:42.320 --> 00:17:47.679
+look there is something uh i'll look we
+
+00:17:45.840 --> 00:17:49.440
+look at the video later let's get on
+
+00:17:47.679 --> 00:17:53.280
+with the lecture i'll perhaps
+
+00:17:49.440 --> 00:17:53.280
+show it to you at the end of today's
+
+00:17:58.840 --> 00:18:01.840
+lecture
+
+00:18:09.440 --> 00:18:16.640
+so as i said elastic beanstalk
+
+00:18:13.120 --> 00:18:17.919
+is nothing but a managed platform as a
+
+00:18:16.640 --> 00:18:22.320
+service
+
+00:18:17.919 --> 00:18:27.280
+for deploying and scaling
+
+00:18:22.320 --> 00:18:30.400
+web-based applications so as a developer
+
+00:18:27.280 --> 00:18:32.880
+it there are many benefits of using
+
+00:18:30.400 --> 00:18:36.000
+elastic bean stock
+
+00:18:32.880 --> 00:18:38.960
+the first one is that
+
+00:18:36.000 --> 00:18:39.679
+it offers extremely quick and easy
+
+00:18:38.960 --> 00:18:42.240
+deployment
+
+00:18:39.679 --> 00:18:43.840
+you will see that in a few minutes that
+
+00:18:42.240 --> 00:18:47.440
+when i go to the console
+
+00:18:43.840 --> 00:18:49.919
+when i specify my parameters
+
+00:18:47.440 --> 00:18:51.360
+and when i click on deploy it takes
+
+00:18:49.919 --> 00:18:55.360
+perhaps
+
+00:18:51.360 --> 00:18:57.919
+three to four minutes for the beanstalk
+
+00:18:55.360 --> 00:19:00.960
+environment to behind the scenes
+
+00:18:57.919 --> 00:19:04.960
+do all the underlying activities that
+
+00:19:00.960 --> 00:19:08.240
+need to be done to be able to deploy
+
+00:19:04.960 --> 00:19:11.440
+an application on the web
+
+00:19:08.240 --> 00:19:14.080
+that's the first thing the second thing
+
+00:19:11.440 --> 00:19:15.760
+is that as a developer and if you are a
+
+00:19:14.080 --> 00:19:19.039
+software developer
+
+00:19:15.760 --> 00:19:21.600
+you would like to write software code
+
+00:19:19.039 --> 00:19:23.440
+and deploy it and make changes to it
+
+00:19:21.600 --> 00:19:25.200
+again and deploy it again and keep on
+
+00:19:23.440 --> 00:19:28.240
+testing it again
+
+00:19:25.200 --> 00:19:30.720
+you do not want to be bogged down and
+
+00:19:28.240 --> 00:19:32.320
+you do not want to spend time on doing
+
+00:19:30.720 --> 00:19:34.970
+things like
+
+00:19:32.320 --> 00:19:36.320
+configuring servers maintaining them
+
+00:19:34.970 --> 00:19:39.840
+[Music]
+
+00:19:36.320 --> 00:19:40.720
+configuring databases firewalls security
+
+00:19:39.840 --> 00:19:43.840
+policies
+
+00:19:40.720 --> 00:19:47.120
+networks and the like and
+
+00:19:43.840 --> 00:19:47.600
+amazon elastic bean stock is your best
+
+00:19:47.120 --> 00:19:50.160
+friend
+
+00:19:47.600 --> 00:19:51.120
+in that regard in the sense that it
+
+00:19:50.160 --> 00:19:54.320
+allows you
+
+00:19:51.120 --> 00:19:57.600
+to just focus on the code
+
+00:19:54.320 --> 00:20:01.039
+write the code deploy it leave
+
+00:19:57.600 --> 00:20:04.320
+all these underlying activities
+
+00:20:01.039 --> 00:20:06.960
+to amazon to take care of
+
+00:20:04.320 --> 00:20:08.159
+the third benefit of elastic bean stock
+
+00:20:06.960 --> 00:20:11.280
+is that as
+
+00:20:08.159 --> 00:20:13.120
+you will see not in today's lecture but
+
+00:20:11.280 --> 00:20:16.320
+in next week's lecture
+
+00:20:13.120 --> 00:20:19.600
+is that it gives you quite
+
+00:20:16.320 --> 00:20:22.960
+granular control what i mean by that
+
+00:20:19.600 --> 00:20:25.679
+is it gives you the ability to specify
+
+00:20:22.960 --> 00:20:26.799
+the security policies for your bin stock
+
+00:20:25.679 --> 00:20:29.520
+environment
+
+00:20:26.799 --> 00:20:30.559
+you can specify the size of the auto
+
+00:20:29.520 --> 00:20:34.159
+scaling group
+
+00:20:30.559 --> 00:20:37.760
+as in how many ec2 instances
+
+00:20:34.159 --> 00:20:40.080
+i should have in my group
+
+00:20:37.760 --> 00:20:42.240
+it gives you the ability to specify
+
+00:20:40.080 --> 00:20:44.799
+health parameters as in
+
+00:20:42.240 --> 00:20:47.120
+when should i regard a given ec2
+
+00:20:44.799 --> 00:20:49.840
+instance as being unhealthy
+
+00:20:47.120 --> 00:20:51.760
+it gives you the ability even to select
+
+00:20:49.840 --> 00:20:55.360
+ec2 instance type
+
+00:20:51.760 --> 00:20:57.600
+and database parameters so as you will
+
+00:20:55.360 --> 00:20:58.880
+see not in today's lecture but in next
+
+00:20:57.600 --> 00:21:03.520
+week's lecture
+
+00:20:58.880 --> 00:21:05.840
+it gives you quite granular
+
+00:21:03.520 --> 00:21:08.320
+control over the under underlying
+
+00:21:05.840 --> 00:21:11.440
+hardware resources that you are going to
+
+00:21:08.320 --> 00:21:14.720
+launch using your environment uh
+
+00:21:11.440 --> 00:21:18.480
+that's the third benefit of elastic
+
+00:21:14.720 --> 00:21:22.880
+bean stock the last and not the least
+
+00:21:18.480 --> 00:21:26.159
+is that actually
+
+00:21:22.880 --> 00:21:29.280
+elastic bean stock as a service is
+
+00:21:26.159 --> 00:21:30.480
+free you don't have to pay for elastic
+
+00:21:29.280 --> 00:21:34.720
+bean stock
+
+00:21:30.480 --> 00:21:36.960
+however when elastic bean stock
+
+00:21:34.720 --> 00:21:39.760
+launches or when you're trying to deploy
+
+00:21:36.960 --> 00:21:42.400
+an application using elastic bean stock
+
+00:21:39.760 --> 00:21:44.080
+it in turn invokes a number of different
+
+00:21:42.400 --> 00:21:47.280
+aws resources
+
+00:21:44.080 --> 00:21:48.320
+like ec2 instance like load balancers
+
+00:21:47.280 --> 00:21:51.440
+like
+
+00:21:48.320 --> 00:21:53.760
+security groups like s3 buckets
+
+00:21:51.440 --> 00:21:54.880
+you would have to pay for that resource
+
+00:21:53.760 --> 00:21:58.240
+usage
+
+00:21:54.880 --> 00:22:01.760
+not for elastic bean stock itself
+
+00:21:58.240 --> 00:22:03.120
+okay so moving forward before we get any
+
+00:22:01.760 --> 00:22:05.440
+further
+
+00:22:03.120 --> 00:22:06.320
+there are few terms that i think you
+
+00:22:05.440 --> 00:22:08.880
+should
+
+00:22:06.320 --> 00:22:11.039
+understand and be able to appreciate the
+
+00:22:08.880 --> 00:22:14.080
+difference between them
+
+00:22:11.039 --> 00:22:16.720
+so that once when we talk about the web
+
+00:22:14.080 --> 00:22:18.320
+server tier and the worker tier you are
+
+00:22:16.720 --> 00:22:21.520
+able to understand
+
+00:22:18.320 --> 00:22:22.400
+and use these terms confidently so the
+
+00:22:21.520 --> 00:22:25.280
+first thing
+
+00:22:22.400 --> 00:22:25.760
+in elastic bean stock is something known
+
+00:22:25.280 --> 00:22:28.640
+as an
+
+00:22:25.760 --> 00:22:30.880
+application let us say that i am a
+
+00:22:28.640 --> 00:22:33.840
+software development house
+
+00:22:30.880 --> 00:22:34.640
+and i am writing a credit risk
+
+00:22:33.840 --> 00:22:38.400
+assessment
+
+00:22:34.640 --> 00:22:40.880
+application this credit risk assessment
+
+00:22:38.400 --> 00:22:45.120
+application it does two things
+
+00:22:40.880 --> 00:22:48.799
+the first thing is for a given user say
+
+00:22:45.120 --> 00:22:51.919
+joe blogs what it does is it
+
+00:22:48.799 --> 00:22:55.039
+it makes an intelligent decision about
+
+00:22:51.919 --> 00:22:57.600
+number one is this should we give
+
+00:22:55.039 --> 00:22:59.039
+or should we give a line of credit to
+
+00:22:57.600 --> 00:23:01.760
+this person
+
+00:22:59.039 --> 00:23:02.720
+and number two if we should give a line
+
+00:23:01.760 --> 00:23:05.520
+of credit
+
+00:23:02.720 --> 00:23:06.720
+what's the dollar value or what's the
+
+00:23:05.520 --> 00:23:09.440
+amount of credit
+
+00:23:06.720 --> 00:23:09.840
+that we should give so this is quite a
+
+00:23:09.440 --> 00:23:12.640
+big
+
+00:23:09.840 --> 00:23:13.600
+and complex software application and
+
+00:23:12.640 --> 00:23:17.200
+clearly
+
+00:23:13.600 --> 00:23:20.640
+there are two strong threats there
+
+00:23:17.200 --> 00:23:23.520
+the first one is the decision
+
+00:23:20.640 --> 00:23:24.880
+should we give credit to this person yes
+
+00:23:23.520 --> 00:23:27.679
+or no
+
+00:23:24.880 --> 00:23:29.440
+and the second one is if we are giving
+
+00:23:27.679 --> 00:23:31.600
+credit to this person
+
+00:23:29.440 --> 00:23:33.520
+what's the dollar value of credit that
+
+00:23:31.600 --> 00:23:34.400
+we are extending is it ten thousand
+
+00:23:33.520 --> 00:23:37.840
+dollars
+
+00:23:34.400 --> 00:23:41.200
+fifty thousand dollars or even more
+
+00:23:37.840 --> 00:23:44.720
+now as you can see this is quite a
+
+00:23:41.200 --> 00:23:46.640
+big software application understandably
+
+00:23:44.720 --> 00:23:49.120
+this software application will be
+
+00:23:46.640 --> 00:23:52.640
+developed in iterations
+
+00:23:49.120 --> 00:23:55.440
+it will not be developed in one go okay
+
+00:23:52.640 --> 00:23:56.640
+so this what what will happen is this
+
+00:23:55.440 --> 00:23:59.679
+application
+
+00:23:56.640 --> 00:24:04.000
+will have a number of smaller
+
+00:23:59.679 --> 00:24:07.600
+versions the first version can just be
+
+00:24:04.000 --> 00:24:10.799
+the tool or the mechanism for
+
+00:24:07.600 --> 00:24:13.919
+say making a decision of whether
+
+00:24:10.799 --> 00:24:17.600
+risk whether credit should be awarded
+
+00:24:13.919 --> 00:24:19.600
+the second one could be testing of that
+
+00:24:17.600 --> 00:24:22.640
+and revisions based on that
+
+00:24:19.600 --> 00:24:23.679
+the third one could be the module which
+
+00:24:22.640 --> 00:24:27.200
+makes
+
+00:24:23.679 --> 00:24:28.240
+decisions on how much credit should be
+
+00:24:27.200 --> 00:24:30.880
+extended
+
+00:24:28.240 --> 00:24:32.799
+the fourth one could be beta testing on
+
+00:24:30.880 --> 00:24:35.200
+that so there could be
+
+00:24:32.799 --> 00:24:36.960
+in other words in the life of
+
+00:24:35.200 --> 00:24:39.919
+development or
+
+00:24:36.960 --> 00:24:41.039
+in the life of a software application it
+
+00:24:39.919 --> 00:24:44.400
+is never written
+
+00:24:41.039 --> 00:24:46.960
+in one go it is written in a number of
+
+00:24:44.400 --> 00:24:50.640
+different iterations
+
+00:24:46.960 --> 00:24:51.600
+aws elastic bean stock allows you the
+
+00:24:50.640 --> 00:24:54.480
+ability to
+
+00:24:51.600 --> 00:24:55.679
+capture the fact that you can have an
+
+00:24:54.480 --> 00:24:58.559
+application
+
+00:24:55.679 --> 00:25:00.159
+in this case a credit risk assessment
+
+00:24:58.559 --> 00:25:02.960
+and it can have
+
+00:25:00.159 --> 00:25:04.000
+multiple versions or multiple iterations
+
+00:25:02.960 --> 00:25:07.360
+of it
+
+00:25:04.000 --> 00:25:09.120
+okay and each version like say
+
+00:25:07.360 --> 00:25:11.120
+let us talk about the first version
+
+00:25:09.120 --> 00:25:13.360
+which is simply
+
+00:25:11.120 --> 00:25:14.720
+about the fact that looking at an
+
+00:25:13.360 --> 00:25:18.559
+application
+
+00:25:14.720 --> 00:25:22.159
+somehow making an intelligent decision
+
+00:25:18.559 --> 00:25:23.600
+um whether or whether credit should be
+
+00:25:22.159 --> 00:25:26.559
+awarded to that person
+
+00:25:23.600 --> 00:25:27.200
+yes or no and the way that this is done
+
+00:25:26.559 --> 00:25:30.960
+is
+
+00:25:27.200 --> 00:25:32.960
+we perhaps send out queries to
+
+00:25:30.960 --> 00:25:34.320
+different people who have been nominated
+
+00:25:32.960 --> 00:25:36.480
+as referees
+
+00:25:34.320 --> 00:25:37.760
+and based on that we make a decision
+
+00:25:36.480 --> 00:25:41.039
+okay
+
+00:25:37.760 --> 00:25:43.200
+so this version i may have developed it
+
+00:25:41.039 --> 00:25:44.960
+and when i deploy it in elastic bean
+
+00:25:43.200 --> 00:25:48.960
+stock it uses
+
+00:25:44.960 --> 00:25:52.000
+certain amazon resources resources like
+
+00:25:48.960 --> 00:25:55.679
+ec2 instances databases
+
+00:25:52.000 --> 00:25:59.279
+load balancers ip addresses
+
+00:25:55.679 --> 00:26:02.320
+the collection of all these resources
+
+00:25:59.279 --> 00:26:06.159
+that a given application version
+
+00:26:02.320 --> 00:26:10.559
+consumes is known as an environment
+
+00:26:06.159 --> 00:26:14.320
+okay however as a developer
+
+00:26:10.559 --> 00:26:17.679
+i may be able to test my
+
+00:26:14.320 --> 00:26:20.480
+code or my application version
+
+00:26:17.679 --> 00:26:21.919
+i may be able to test it on multiple
+
+00:26:20.480 --> 00:26:24.640
+environments
+
+00:26:21.919 --> 00:26:25.679
+say for beta testing or for alpha
+
+00:26:24.640 --> 00:26:27.919
+testing
+
+00:26:25.679 --> 00:26:29.440
+or maybe not even for testing i want to
+
+00:26:27.919 --> 00:26:33.440
+see how my
+
+00:26:29.440 --> 00:26:34.880
+application behaves when i change the
+
+00:26:33.440 --> 00:26:37.120
+underlying
+
+00:26:34.880 --> 00:26:39.520
+parameters of the environment like the
+
+00:26:37.120 --> 00:26:42.559
+number of ec2 instances
+
+00:26:39.520 --> 00:26:44.240
+or load balancer so i have the
+
+00:26:42.559 --> 00:26:47.279
+flexibility to
+
+00:26:44.240 --> 00:26:51.840
+run a given application version on
+
+00:26:47.279 --> 00:26:54.080
+multiple different types of environments
+
+00:26:51.840 --> 00:26:57.120
+so this is the relationship between
+
+00:26:54.080 --> 00:26:59.760
+an application application version
+
+00:26:57.120 --> 00:27:01.360
+and an environment that you need to i
+
+00:26:59.760 --> 00:27:04.880
+hope that this is clear
+
+00:27:01.360 --> 00:27:08.080
+an application as i said is written over
+
+00:27:04.880 --> 00:27:11.600
+multiple iterations or in other words
+
+00:27:08.080 --> 00:27:14.480
+versions and each version i can
+
+00:27:11.600 --> 00:27:15.919
+choose either to run it on a single
+
+00:27:14.480 --> 00:27:19.520
+environment
+
+00:27:15.919 --> 00:27:22.559
+or i have the flexibility to run it over
+
+00:27:19.520 --> 00:27:26.640
+n number of different environments
+
+00:27:22.559 --> 00:27:29.279
+okay in the process
+
+00:27:26.640 --> 00:27:30.240
+of developing not developing but
+
+00:27:29.279 --> 00:27:33.600
+deploying
+
+00:27:30.240 --> 00:27:35.520
+your application on elastic bean stock
+
+00:27:33.600 --> 00:27:36.720
+these are the four steps that you will
+
+00:27:35.520 --> 00:27:39.919
+have to follow
+
+00:27:36.720 --> 00:27:42.159
+the first one is you create an
+
+00:27:39.919 --> 00:27:45.039
+application which means
+
+00:27:42.159 --> 00:27:47.039
+and this is beanstalk doesn't provide
+
+00:27:45.039 --> 00:27:48.640
+the development tools
+
+00:27:47.039 --> 00:27:51.760
+for you to be able to create an
+
+00:27:48.640 --> 00:27:52.720
+application offline or maybe using your
+
+00:27:51.760 --> 00:27:55.120
+favorite
+
+00:27:52.720 --> 00:27:57.120
+compilers or ides you create an
+
+00:27:55.120 --> 00:27:59.840
+application
+
+00:27:57.120 --> 00:28:00.240
+once the application has been created
+
+00:27:59.840 --> 00:28:03.360
+you
+
+00:28:00.240 --> 00:28:04.799
+upload it in the bin stock environment
+
+00:28:03.360 --> 00:28:07.840
+and we will go
+
+00:28:04.799 --> 00:28:09.279
+and do that in a few minutes once it has
+
+00:28:07.840 --> 00:28:13.200
+been uploaded
+
+00:28:09.279 --> 00:28:14.640
+it to run the application it launches
+
+00:28:13.200 --> 00:28:18.159
+its own aws
+
+00:28:14.640 --> 00:28:20.960
+environment without you doing anything
+
+00:28:18.159 --> 00:28:21.600
+and once the environment is running you
+
+00:28:20.960 --> 00:28:23.279
+have to
+
+00:28:21.600 --> 00:28:25.760
+you have to keep you have to keep an eye
+
+00:28:23.279 --> 00:28:27.840
+out for it it may be the case that you
+
+00:28:25.760 --> 00:28:29.600
+are not happy with the performance of
+
+00:28:27.840 --> 00:28:31.760
+the application
+
+00:28:29.600 --> 00:28:32.880
+and and in that case what you do is you
+
+00:28:31.760 --> 00:28:34.960
+come back
+
+00:28:32.880 --> 00:28:36.960
+and make some small changes to the
+
+00:28:34.960 --> 00:28:40.640
+application itself
+
+00:28:36.960 --> 00:28:43.600
+and it runs in a new environment again
+
+00:28:40.640 --> 00:28:45.279
+so this is the whole workflow or the
+
+00:28:43.600 --> 00:28:48.480
+life cycle
+
+00:28:45.279 --> 00:28:52.320
+of deploying and running applications
+
+00:28:48.480 --> 00:28:54.960
+in an elastic b stock environment
+
+00:28:52.320 --> 00:28:55.520
+so having understood about elastic bean
+
+00:28:54.960 --> 00:28:58.960
+stock
+
+00:28:55.520 --> 00:29:01.440
+and more importantly about the different
+
+00:28:58.960 --> 00:29:01.440
+um
+
+00:29:02.559 --> 00:29:09.600
+about the about what an environment is
+
+00:29:06.559 --> 00:29:11.039
+let's move on into the different types
+
+00:29:09.600 --> 00:29:14.399
+of environments
+
+00:29:11.039 --> 00:29:16.720
+there are broadly speaking two different
+
+00:29:14.399 --> 00:29:21.279
+types of environments
+
+00:29:16.720 --> 00:29:23.679
+but it's essential to understand the
+
+00:29:21.279 --> 00:29:27.840
+purpose of each one of them
+
+00:29:23.679 --> 00:29:30.559
+and the and their relationship so
+
+00:29:27.840 --> 00:29:31.840
+the whole idea of elastic bean stock is
+
+00:29:30.559 --> 00:29:34.960
+to be able to
+
+00:29:31.840 --> 00:29:38.080
+deploy and run
+
+00:29:34.960 --> 00:29:40.799
+um web facing or web-based
+
+00:29:38.080 --> 00:29:42.000
+applications so the web server
+
+00:29:40.799 --> 00:29:45.520
+environment
+
+00:29:42.000 --> 00:29:49.600
+is meant to facilitate exactly that
+
+00:29:45.520 --> 00:29:53.039
+the fact that i can deploy
+
+00:29:49.600 --> 00:29:55.120
+in this case the credit risk assessment
+
+00:29:53.039 --> 00:29:58.480
+application that i have developed
+
+00:29:55.120 --> 00:30:02.240
+i can write my code offline
+
+00:29:58.480 --> 00:30:06.399
+deployed on elastic bean stock and let
+
+00:30:02.240 --> 00:30:09.760
+aws and elastic bean stock worry about
+
+00:30:06.399 --> 00:30:11.679
+the deployment and the scale out or the
+
+00:30:09.760 --> 00:30:13.039
+or the management of the fleet of
+
+00:30:11.679 --> 00:30:16.559
+instances
+
+00:30:13.039 --> 00:30:19.679
+okay the web server environment is meant
+
+00:30:16.559 --> 00:30:20.960
+to handle or is meant to take care of
+
+00:30:19.679 --> 00:30:24.000
+exactly
+
+00:30:20.960 --> 00:30:27.039
+that purpose is meant to
+
+00:30:24.000 --> 00:30:28.640
+look after applications which run or
+
+00:30:27.039 --> 00:30:32.320
+which have a
+
+00:30:28.640 --> 00:30:34.000
+or are running in a web server or with
+
+00:30:32.320 --> 00:30:37.600
+the consumers
+
+00:30:34.000 --> 00:30:40.399
+however as is the case with almost
+
+00:30:37.600 --> 00:30:41.600
+all applications let us take the credit
+
+00:30:40.399 --> 00:30:44.880
+risk
+
+00:30:41.600 --> 00:30:47.919
+assessment application
+
+00:30:44.880 --> 00:30:51.200
+there could be many applications can be
+
+00:30:47.919 --> 00:30:54.000
+computationally expensive or
+
+00:30:51.200 --> 00:30:54.480
+can be time consuming like in the case
+
+00:30:54.000 --> 00:30:57.120
+of
+
+00:30:54.480 --> 00:30:58.000
+credit risk assessment it may be the
+
+00:30:57.120 --> 00:31:00.480
+case that
+
+00:30:58.000 --> 00:31:01.919
+in order to find out or in order to make
+
+00:31:00.480 --> 00:31:05.840
+a judgment
+
+00:31:01.919 --> 00:31:06.880
+on whether to give credit to a given
+
+00:31:05.840 --> 00:31:10.000
+person
+
+00:31:06.880 --> 00:31:13.440
+yes or no i have to send out
+
+00:31:10.000 --> 00:31:15.279
+email requests or online requests to
+
+00:31:13.440 --> 00:31:18.640
+multiple people
+
+00:31:15.279 --> 00:31:21.039
+i have to wait for them to reply
+
+00:31:18.640 --> 00:31:22.080
+collate their responses and then make a
+
+00:31:21.039 --> 00:31:26.000
+decision
+
+00:31:22.080 --> 00:31:28.559
+this is a time intensive process okay
+
+00:31:26.000 --> 00:31:30.480
+similarly in order to make a decision
+
+00:31:28.559 --> 00:31:34.240
+about
+
+00:31:30.480 --> 00:31:36.880
+how much credit i should give to a given
+
+00:31:34.240 --> 00:31:37.840
+individual it may be the case that i'm
+
+00:31:36.880 --> 00:31:40.320
+running ai
+
+00:31:37.840 --> 00:31:41.519
+algorithms again that is a
+
+00:31:40.320 --> 00:31:45.360
+computationally
+
+00:31:41.519 --> 00:31:48.480
+intensive process the whole idea
+
+00:31:45.360 --> 00:31:52.960
+of a worker environment is to
+
+00:31:48.480 --> 00:31:57.200
+abstract away or take away
+
+00:31:52.960 --> 00:32:01.360
+these time con these time intensive
+
+00:31:57.200 --> 00:32:04.640
+and resource consuming
+
+00:32:01.360 --> 00:32:08.159
+processes away from the web server and
+
+00:32:04.640 --> 00:32:10.320
+assign it to a different environment
+
+00:32:08.159 --> 00:32:11.440
+so that they can run in their own
+
+00:32:10.320 --> 00:32:13.519
+environment
+
+00:32:11.440 --> 00:32:14.640
+and that environment is the worker
+
+00:32:13.519 --> 00:32:18.000
+environment
+
+00:32:14.640 --> 00:32:19.279
+so as you can see essentially the worker
+
+00:32:18.000 --> 00:32:22.320
+environment
+
+00:32:19.279 --> 00:32:25.360
+is nothing but is like a supporting
+
+00:32:22.320 --> 00:32:28.080
+actor or a supporting role
+
+00:32:25.360 --> 00:32:29.039
+to the web server environment and it
+
+00:32:28.080 --> 00:32:32.080
+helps
+
+00:32:29.039 --> 00:32:32.559
+the web server environment in carrying
+
+00:32:32.080 --> 00:32:35.600
+out
+
+00:32:32.559 --> 00:32:36.320
+resource con intensive and time
+
+00:32:35.600 --> 00:32:40.240
+intensive
+
+00:32:36.320 --> 00:32:42.080
+activities so this is the entire
+
+00:32:40.240 --> 00:32:44.799
+architecture of the web server
+
+00:32:42.080 --> 00:32:46.880
+and environment let us go through this
+
+00:32:44.799 --> 00:32:50.480
+and then i will jump onto the console
+
+00:32:46.880 --> 00:32:54.000
+and explain this to you coming
+
+00:32:50.480 --> 00:32:54.559
+on the back of an aws ec2 lab that you
+
+00:32:54.000 --> 00:32:57.440
+have done
+
+00:32:54.559 --> 00:32:58.960
+last week and in which there was load
+
+00:32:57.440 --> 00:33:00.880
+balancing as well
+
+00:32:58.960 --> 00:33:03.120
+you would be able to understand and
+
+00:33:00.880 --> 00:33:07.440
+appreciate this diagram
+
+00:33:03.120 --> 00:33:11.120
+that you see on on on the screens
+
+00:33:07.440 --> 00:33:13.200
+so as a end user and you will see this
+
+00:33:11.120 --> 00:33:16.240
+in a little while when i provision an
+
+00:33:13.200 --> 00:33:18.880
+environment i will get an elastic
+
+00:33:16.240 --> 00:33:22.799
+beanstalk environment which is
+
+00:33:18.880 --> 00:33:26.480
+the one in the the blue circle here
+
+00:33:22.799 --> 00:33:29.039
+at the outer rim and that environment is
+
+00:33:26.480 --> 00:33:32.399
+referred to by a url here
+
+00:33:29.039 --> 00:33:34.640
+and i will be given that url
+
+00:33:32.399 --> 00:33:35.760
+underneath or encompassing that
+
+00:33:34.640 --> 00:33:39.120
+environment
+
+00:33:35.760 --> 00:33:42.000
+are a whole host of other resources
+
+00:33:39.120 --> 00:33:43.919
+which you may not necessarily know about
+
+00:33:42.000 --> 00:33:45.360
+but you are able to configure them to
+
+00:33:43.919 --> 00:33:49.360
+some extent
+
+00:33:45.360 --> 00:33:50.960
+the at the heart of your elastic bean
+
+00:33:49.360 --> 00:33:54.480
+stock environment
+
+00:33:50.960 --> 00:33:58.960
+are the ec2 instances these are the same
+
+00:33:54.480 --> 00:34:02.000
+elastic compute cloud instances that we
+
+00:33:58.960 --> 00:34:02.399
+discussed during week one and you had a
+
+00:34:02.000 --> 00:34:05.679
+lab
+
+00:34:02.399 --> 00:34:08.480
+last week about them you can think of
+
+00:34:05.679 --> 00:34:12.079
+ec2 as the workhorse
+
+00:34:08.480 --> 00:34:14.159
+of your web server environment so
+
+00:34:12.079 --> 00:34:15.520
+depending upon your application it will
+
+00:34:14.159 --> 00:34:17.440
+start off with
+
+00:34:15.520 --> 00:34:18.560
+i mean depending upon how much you have
+
+00:34:17.440 --> 00:34:21.679
+specified
+
+00:34:18.560 --> 00:34:23.919
+it will start off with maybe the base
+
+00:34:21.679 --> 00:34:27.280
+load as we call it maybe
+
+00:34:23.919 --> 00:34:32.480
+one or maybe two you have to specify the
+
+00:34:27.280 --> 00:34:35.599
+minimum number of ec2 instances so it
+
+00:34:32.480 --> 00:34:36.560
+let us say it starts off with one ec2
+
+00:34:35.599 --> 00:34:40.079
+instance
+
+00:34:36.560 --> 00:34:44.079
+okay this ec2 instance
+
+00:34:40.079 --> 00:34:45.440
+as is common whenever you provision an
+
+00:34:44.079 --> 00:34:48.480
+ec2 instance
+
+00:34:45.440 --> 00:34:49.679
+it comes pre-packaged with a security
+
+00:34:48.480 --> 00:34:51.440
+group
+
+00:34:49.679 --> 00:34:52.800
+just to remind you all what is a
+
+00:34:51.440 --> 00:34:56.560
+security group
+
+00:34:52.800 --> 00:35:00.240
+a security group is a software-based
+
+00:34:56.560 --> 00:35:01.599
+firewall okay whether you like it or
+
+00:35:00.240 --> 00:35:04.960
+whether you don't
+
+00:35:01.599 --> 00:35:06.960
+your ec2 instances come pre-packaged
+
+00:35:04.960 --> 00:35:10.720
+with a security group
+
+00:35:06.960 --> 00:35:13.599
+you can add additional load
+
+00:35:10.720 --> 00:35:14.720
+additional security policies to the
+
+00:35:13.599 --> 00:35:18.079
+security group
+
+00:35:14.720 --> 00:35:21.440
+as well so
+
+00:35:18.079 --> 00:35:22.800
+now one other thing that comes with your
+
+00:35:21.440 --> 00:35:26.160
+elastic bean stock
+
+00:35:22.800 --> 00:35:29.119
+environment is the auto scaling group
+
+00:35:26.160 --> 00:35:32.560
+now you do not need to enable auto
+
+00:35:29.119 --> 00:35:35.520
+scaling group but it is always a wise
+
+00:35:32.560 --> 00:35:37.359
+decision or judgment to have auto
+
+00:35:35.520 --> 00:35:39.440
+scaling group enabled
+
+00:35:37.359 --> 00:35:40.880
+if you all remember the role of an auto
+
+00:35:39.440 --> 00:35:44.720
+scaling group
+
+00:35:40.880 --> 00:35:47.760
+is to keep an eye out on the load
+
+00:35:44.720 --> 00:35:50.640
+that each active ec2 instance
+
+00:35:47.760 --> 00:35:53.680
+is serving and that load could be
+
+00:35:50.640 --> 00:35:56.160
+characterized by multiple parameters
+
+00:35:53.680 --> 00:35:57.359
+it could be things like the number of
+
+00:35:56.160 --> 00:36:01.040
+requests
+
+00:35:57.359 --> 00:36:04.560
+and ec2 instances serving it could be
+
+00:36:01.040 --> 00:36:08.560
+average delay that is being encountered
+
+00:36:04.560 --> 00:36:09.599
+by each user a whole host of different
+
+00:36:08.560 --> 00:36:13.119
+things
+
+00:36:09.599 --> 00:36:16.400
+and if
+
+00:36:13.119 --> 00:36:20.640
+you have enabled auto scaling group
+
+00:36:16.400 --> 00:36:23.200
+and when these and if the
+
+00:36:20.640 --> 00:36:25.599
+health parameters at the if the
+
+00:36:23.200 --> 00:36:28.480
+specified health parameters
+
+00:36:25.599 --> 00:36:28.880
+that you have specified are met what it
+
+00:36:28.480 --> 00:36:31.200
+does
+
+00:36:28.880 --> 00:36:33.280
+what the auto scaling group does is it
+
+00:36:31.200 --> 00:36:36.560
+can automatically
+
+00:36:33.280 --> 00:36:39.359
+scale up the size of your group either
+
+00:36:36.560 --> 00:36:41.040
+up or down and that is the whole idea of
+
+00:36:39.359 --> 00:36:44.400
+auto scaling group
+
+00:36:41.040 --> 00:36:46.720
+and to scale up or scale down
+
+00:36:44.400 --> 00:36:49.040
+the auto scaling group the one in the
+
+00:36:46.720 --> 00:36:51.839
+black dotted line here
+
+00:36:49.040 --> 00:36:53.440
+it works hand in hand with the elastic
+
+00:36:51.839 --> 00:36:55.839
+load balancer
+
+00:36:53.440 --> 00:36:58.400
+what's the elastic load balancer the
+
+00:36:55.839 --> 00:37:01.599
+role of the elastic load balancer is to
+
+00:36:58.400 --> 00:37:05.520
+spread the load the incoming
+
+00:37:01.599 --> 00:37:09.520
+traffic to your beanstalk environment
+
+00:37:05.520 --> 00:37:10.800
+amongst the amongst the number of ec2
+
+00:37:09.520 --> 00:37:13.839
+instances
+
+00:37:10.800 --> 00:37:15.200
+there are different ways for load
+
+00:37:13.839 --> 00:37:17.760
+balancing
+
+00:37:15.200 --> 00:37:19.680
+and we will learn about them in next
+
+00:37:17.760 --> 00:37:22.320
+week's lecture
+
+00:37:19.680 --> 00:37:24.240
+you could use round robin balancing
+
+00:37:22.320 --> 00:37:26.880
+which means
+
+00:37:24.240 --> 00:37:29.760
+you could go with the you could go in a
+
+00:37:26.880 --> 00:37:31.760
+linear manner and then come back again
+
+00:37:29.760 --> 00:37:33.760
+so we will discuss about different load
+
+00:37:31.760 --> 00:37:36.960
+balancing policies
+
+00:37:33.760 --> 00:37:39.760
+in the neck in next week's lecture
+
+00:37:36.960 --> 00:37:43.359
+and last but not the least whenever you
+
+00:37:39.760 --> 00:37:47.599
+lost whenever you launch an ec2 instance
+
+00:37:43.359 --> 00:37:49.680
+it has to launch in an availability zone
+
+00:37:47.599 --> 00:37:51.119
+so you can specify your availability
+
+00:37:49.680 --> 00:37:53.440
+zone and
+
+00:37:51.119 --> 00:37:54.880
+this instance and the others that you
+
+00:37:53.440 --> 00:37:57.599
+have specified
+
+00:37:54.880 --> 00:37:59.280
+they always get launched within that
+
+00:37:57.599 --> 00:38:01.920
+availability zone
+
+00:37:59.280 --> 00:38:03.200
+and that is specified by the orange
+
+00:38:01.920 --> 00:38:06.640
+dotted
+
+00:38:03.200 --> 00:38:08.880
+line that you can see here now i'm
+
+00:38:06.640 --> 00:38:10.960
+hovering my mouse over it
+
+00:38:08.880 --> 00:38:13.040
+so this is the whole architecture of
+
+00:38:10.960 --> 00:38:15.440
+elastic bean stock
+
+00:38:13.040 --> 00:38:16.320
+you as an end user if you're not
+
+00:38:15.440 --> 00:38:19.119
+technically
+
+00:38:16.320 --> 00:38:21.119
+oriented you don't need to worry about
+
+00:38:19.119 --> 00:38:24.800
+load balancers
+
+00:38:21.119 --> 00:38:27.280
+ec2 instances the fact that
+
+00:38:24.800 --> 00:38:28.320
+you have to launch it in an availability
+
+00:38:27.280 --> 00:38:32.240
+zone
+
+00:38:28.320 --> 00:38:36.000
+leave all that to aws okay
+
+00:38:32.240 --> 00:38:39.200
+also for most web-based applications
+
+00:38:36.000 --> 00:38:42.240
+you need a database
+
+00:38:39.200 --> 00:38:45.119
+of some sort and
+
+00:38:42.240 --> 00:38:47.680
+a database comes pre-packaged with your
+
+00:38:45.119 --> 00:38:50.720
+elastic bean stock environment
+
+00:38:47.680 --> 00:38:51.359
+and again there is a default security
+
+00:38:50.720 --> 00:38:54.640
+group
+
+00:38:51.359 --> 00:38:55.520
+associated with that database so this is
+
+00:38:54.640 --> 00:38:57.920
+the overall
+
+00:38:55.520 --> 00:38:59.359
+architecture of the web server
+
+00:38:57.920 --> 00:39:02.160
+environment here
+
+00:38:59.359 --> 00:39:04.079
+and as i said at the heart of it is the
+
+00:39:02.160 --> 00:39:08.480
+ec2 instance
+
+00:39:04.079 --> 00:39:12.400
+so the ec2 instance is
+
+00:39:08.480 --> 00:39:16.240
+as i said can run software applications
+
+00:39:12.400 --> 00:39:19.040
+let me now go and explain you all
+
+00:39:16.240 --> 00:39:20.560
+how it does that and i will take you all
+
+00:39:19.040 --> 00:39:23.839
+to the console
+
+00:39:20.560 --> 00:39:29.839
+to be able to demonstrate how it
+
+00:39:23.839 --> 00:39:29.839
+it does its job
+
+00:39:50.960 --> 00:39:56.320
+so this is how i'm sure you would be
+
+00:39:53.839 --> 00:39:57.839
+aware of the aws console
+
+00:39:56.320 --> 00:40:00.160
+given that we have been talking about
+
+00:39:57.839 --> 00:40:03.280
+this for some time and also
+
+00:40:00.160 --> 00:40:04.960
+the fact that you have done a lab on
+
+00:40:03.280 --> 00:40:10.000
+this already
+
+00:40:04.960 --> 00:40:13.760
+so the service that i want is elastic
+
+00:40:10.000 --> 00:40:16.560
+in stock so the first one here let me go
+
+00:40:13.760 --> 00:40:16.560
+and select it
+
+00:40:19.599 --> 00:40:26.720
+i can see that i have already
+
+00:40:23.440 --> 00:40:30.160
+i have already two environments
+
+00:40:26.720 --> 00:40:32.880
+in my account which is great
+
+00:40:30.160 --> 00:40:33.280
+i already have perhaps an application
+
+00:40:32.880 --> 00:40:36.720
+but
+
+00:40:33.280 --> 00:40:39.920
+let me go here and i'll try to create
+
+00:40:36.720 --> 00:40:43.280
+a new application okay
+
+00:40:39.920 --> 00:40:46.720
+now i want you to pay notice to this
+
+00:40:43.280 --> 00:40:50.000
+um when i try to press on this button
+
+00:40:46.720 --> 00:40:53.200
+create new application
+
+00:40:50.000 --> 00:40:53.599
+it doesn't ask me for the environment
+
+00:40:53.200 --> 00:40:55.119
+type
+
+00:40:53.599 --> 00:40:57.599
+remember i told you that there are two
+
+00:40:55.119 --> 00:41:01.760
+different types of environments
+
+00:40:57.599 --> 00:41:04.560
+um web server environment
+
+00:41:01.760 --> 00:41:05.520
+and the worker environment so if i go to
+
+00:41:04.560 --> 00:41:08.960
+an application
+
+00:41:05.520 --> 00:41:11.040
+and create a new application it
+
+00:41:08.960 --> 00:41:12.240
+doesn't ask me for the type of
+
+00:41:11.040 --> 00:41:14.560
+environment
+
+00:41:12.240 --> 00:41:15.680
+similarly if i have to go to an
+
+00:41:14.560 --> 00:41:18.880
+environment and i
+
+00:41:15.680 --> 00:41:19.839
+create a new environment it then asks me
+
+00:41:18.880 --> 00:41:22.240
+for the type of
+
+00:41:19.839 --> 00:41:23.520
+environment whether it is a web server
+
+00:41:22.240 --> 00:41:26.640
+environment
+
+00:41:23.520 --> 00:41:28.800
+or a worker environment
+
+00:41:26.640 --> 00:41:31.920
+nonetheless i want to create a new
+
+00:41:28.800 --> 00:41:35.280
+application so that's where i go
+
+00:41:31.920 --> 00:41:38.560
+create a new application
+
+00:41:35.280 --> 00:41:41.920
+my first elastic bean stock application
+
+00:41:38.560 --> 00:41:42.240
+i will give it a legible name and what i
+
+00:41:41.920 --> 00:41:45.760
+do
+
+00:41:42.240 --> 00:41:49.200
+is i just create so all i have done
+
+00:41:45.760 --> 00:41:51.280
+is i have only created an
+
+00:41:49.200 --> 00:41:53.280
+application in other words i've only
+
+00:41:51.280 --> 00:41:56.319
+created a folder
+
+00:41:53.280 --> 00:42:00.800
+however i have not launched
+
+00:41:56.319 --> 00:42:04.000
+any resources against this application
+
+00:42:00.800 --> 00:42:06.160
+so to be able to do that i click on
+
+00:42:04.000 --> 00:42:08.880
+create a new environment
+
+00:42:06.160 --> 00:42:10.480
+and i say okay i want to run in web
+
+00:42:08.880 --> 00:42:13.200
+server environment
+
+00:42:10.480 --> 00:42:15.599
+and then i go to select so it says okay
+
+00:42:13.200 --> 00:42:17.760
+this is your application name
+
+00:42:15.599 --> 00:42:18.720
+in this application name this is the
+
+00:42:17.760 --> 00:42:20.640
+environment that
+
+00:42:18.720 --> 00:42:23.040
+this is the name of the environment that
+
+00:42:20.640 --> 00:42:27.520
+it is going to create
+
+00:42:23.040 --> 00:42:31.359
+i can give my environment a
+
+00:42:27.520 --> 00:42:34.240
+a url and luckily my name is available
+
+00:42:31.359 --> 00:42:35.200
+and now it's asking me in the platform
+
+00:42:34.240 --> 00:42:38.720
+section
+
+00:42:35.200 --> 00:42:42.000
+it's asking me to select a platform
+
+00:42:38.720 --> 00:42:44.800
+so let me click on my options
+
+00:42:42.000 --> 00:42:46.640
+you can see that i've got dotnet on
+
+00:42:44.800 --> 00:42:50.640
+linux and windows
+
+00:42:46.640 --> 00:42:53.760
+i've got docker glass fish
+
+00:42:50.640 --> 00:42:56.640
+go remember i explained you all that go
+
+00:42:53.760 --> 00:43:00.319
+is an open source programming language
+
+00:42:56.640 --> 00:43:04.560
+developed by google java
+
+00:43:00.319 --> 00:43:07.839
+node js the list is quite extensive
+
+00:43:04.560 --> 00:43:10.160
+tomcat ruby python so let me go with
+
+00:43:07.839 --> 00:43:12.880
+java which happens to be my favorite
+
+00:43:10.160 --> 00:43:16.400
+programming language and
+
+00:43:12.880 --> 00:43:19.839
+i would go with say this version of java
+
+00:43:16.400 --> 00:43:26.400
+okay query to 11 and this is the version
+
+00:43:19.839 --> 00:43:30.880
+so if i am going to be making use
+
+00:43:26.400 --> 00:43:30.880
+i think someone has unmuted themselves
+
+00:43:37.440 --> 00:43:43.200
+okay so if i'm going now i've said that
+
+00:43:40.160 --> 00:43:47.200
+this is the platform i want i want java
+
+00:43:43.200 --> 00:43:49.839
+i want uh maybe java 8
+
+00:43:47.200 --> 00:43:50.240
+this platform version and i say that
+
+00:43:49.839 --> 00:43:53.119
+okay
+
+00:43:50.240 --> 00:43:54.000
+just go with the sample application or i
+
+00:43:53.119 --> 00:43:57.520
+can upload
+
+00:43:54.000 --> 00:43:59.119
+my own code in doing so i can specify my
+
+00:43:57.520 --> 00:44:02.720
+code upload it
+
+00:43:59.119 --> 00:44:06.839
+as a public s3 bucket as well but let me
+
+00:44:02.720 --> 00:44:10.160
+make keep things simple let me go and
+
+00:44:06.839 --> 00:44:13.760
+uh use the sample application
+
+00:44:10.160 --> 00:44:16.880
+and now i'm saying create environment
+
+00:44:13.760 --> 00:44:18.720
+so first thing i want to make it clear
+
+00:44:16.880 --> 00:44:22.000
+that what it will do is that
+
+00:44:18.720 --> 00:44:25.280
+this template it says okay java i
+
+00:44:22.000 --> 00:44:28.880
+um it will go and it will create a
+
+00:44:25.280 --> 00:44:32.560
+clone of an existing ec2 instance
+
+00:44:28.880 --> 00:44:35.920
+that has the java platform running
+
+00:44:32.560 --> 00:44:37.599
+on a 64-bit linux machine and with this
+
+00:44:35.920 --> 00:44:40.560
+version so it will take that
+
+00:44:37.599 --> 00:44:41.680
+and it will create a clone of that this
+
+00:44:40.560 --> 00:44:44.319
+process
+
+00:44:41.680 --> 00:44:46.160
+is also known as containerization the
+
+00:44:44.319 --> 00:44:49.599
+fact that
+
+00:44:46.160 --> 00:44:52.960
+they already have a packaged
+
+00:44:49.599 --> 00:44:56.160
+software application in this case java
+
+00:44:52.960 --> 00:44:58.319
+sitting there and when needed like in
+
+00:44:56.160 --> 00:45:02.560
+this case they're going to take it
+
+00:44:58.319 --> 00:45:05.359
+and they're going to clone that pack
+
+00:45:02.560 --> 00:45:07.280
+package software application to create
+
+00:45:05.359 --> 00:45:10.720
+new ec2 instances
+
+00:45:07.280 --> 00:45:13.520
+that is known as containers okay
+
+00:45:10.720 --> 00:45:14.079
+so while we are on the console let me go
+
+00:45:13.520 --> 00:45:19.839
+and
+
+00:45:14.079 --> 00:45:19.839
+create environment
+
+00:45:21.040 --> 00:45:25.280
+please keep a very close eye on the
+
+00:45:23.359 --> 00:45:29.520
+event that happening
+
+00:45:25.280 --> 00:45:33.040
+so first it says that 6 44 right now
+
+00:45:29.520 --> 00:45:35.599
+it has provisioned an s3 bucket mind you
+
+00:45:33.040 --> 00:45:37.680
+i did not ask it to do anything i did
+
+00:45:35.599 --> 00:45:39.680
+not say that i needed an s3 bucket
+
+00:45:37.680 --> 00:45:41.599
+but it realized that as a part of a
+
+00:45:39.680 --> 00:45:43.520
+web-based application
+
+00:45:41.599 --> 00:45:45.119
+you would need an i would need an s3
+
+00:45:43.520 --> 00:45:47.280
+bucket or rather
+
+00:45:45.119 --> 00:45:49.119
+my application would need an s3 bucket
+
+00:45:47.280 --> 00:45:51.599
+and it provisioned it
+
+00:45:49.119 --> 00:45:53.520
+similarly it created a new security
+
+00:45:51.599 --> 00:45:55.839
+group and this is the name
+
+00:45:53.520 --> 00:45:58.319
+and this security group it would be
+
+00:45:55.839 --> 00:46:01.920
+wrapped around my ec2 instance
+
+00:45:58.319 --> 00:46:04.800
+let's see what more it does
+
+00:46:01.920 --> 00:46:06.480
+it automatically created an auto scaling
+
+00:46:04.800 --> 00:46:09.119
+group
+
+00:46:06.480 --> 00:46:09.839
+i did not ask it once again to do that
+
+00:46:09.119 --> 00:46:12.960
+but
+
+00:46:09.839 --> 00:46:15.119
+hey any web-based application would need
+
+00:46:12.960 --> 00:46:17.599
+to scale up or scale down
+
+00:46:15.119 --> 00:46:18.880
+and this is what it's it's doing i can
+
+00:46:17.599 --> 00:46:22.000
+switch it off
+
+00:46:18.880 --> 00:46:24.400
+but i'll tell you how you can do that in
+
+00:46:22.000 --> 00:46:26.800
+next week's lecture let's see what more
+
+00:46:24.400 --> 00:46:26.800
+it does
+
+00:46:27.040 --> 00:46:30.319
+so so far it has provisioned a security
+
+00:46:29.359 --> 00:46:34.560
+group
+
+00:46:30.319 --> 00:46:43.839
+an auto scaling group and
+
+00:46:34.560 --> 00:46:43.839
+also an s3 bucket
+
+00:46:46.940 --> 00:46:50.800
+[Applause]
+
+00:46:48.640 --> 00:46:52.480
+the next thing if i'm not wrong would be
+
+00:46:50.800 --> 00:46:55.200
+launching the ec2 instance
+
+00:46:52.480 --> 00:46:55.890
+itself and it will give me an instance
+
+00:46:55.200 --> 00:46:57.440
+id
+
+00:46:55.890 --> 00:46:59.520
+[Applause]
+
+00:46:57.440 --> 00:47:00.720
+and this is the ec2 instance i'm talking
+
+00:46:59.520 --> 00:47:04.000
+about so
+
+00:47:00.720 --> 00:47:07.839
+depending upon my template
+
+00:47:04.000 --> 00:47:11.440
+it is now going to create a clone and
+
+00:47:07.839 --> 00:47:15.200
+yes waiting for ec2 instances to launch
+
+00:47:11.440 --> 00:47:15.200
+this may take a few minutes
+
+00:47:16.880 --> 00:47:22.800
+so mind you here it has also enabled
+
+00:47:20.000 --> 00:47:25.520
+amazon cloud watch which is which will
+
+00:47:22.800 --> 00:47:29.280
+keep an eye out on the performance
+
+00:47:25.520 --> 00:47:30.319
+of my ec2 instances and report their
+
+00:47:29.280 --> 00:47:32.720
+health
+
+00:47:30.319 --> 00:47:34.480
+back to me along multiple different
+
+00:47:32.720 --> 00:47:37.760
+parameters like latency
+
+00:47:34.480 --> 00:47:38.960
+response time it has created a load
+
+00:47:37.760 --> 00:47:43.200
+balancer
+
+00:47:38.960 --> 00:47:45.920
+for spreading load evenly or
+
+00:47:43.200 --> 00:47:47.359
+according to different policies that i
+
+00:47:45.920 --> 00:47:53.839
+can specify
+
+00:47:47.359 --> 00:47:53.839
+amongst my fleet of ec2 instances
+
+00:47:55.740 --> 00:48:11.440
+[Applause]
+
+00:48:08.400 --> 00:48:11.920
+i think the only event we are waiting
+
+00:48:11.440 --> 00:48:14.400
+for
+
+00:48:11.920 --> 00:48:17.520
+is the launch of the ec2 instance itself
+
+00:48:14.400 --> 00:48:17.520
+and yes there it is
+
+00:48:17.599 --> 00:48:22.160
+so there it is my application is ready
+
+00:48:20.319 --> 00:48:25.920
+it has been deployed
+
+00:48:22.160 --> 00:48:29.599
+um you see i launched it
+
+00:48:25.920 --> 00:48:34.000
+perhaps in three minutes it has
+
+00:48:29.599 --> 00:48:37.359
+provisioned the entire um
+
+00:48:34.000 --> 00:48:40.160
+collection of all the resources needed
+
+00:48:37.359 --> 00:48:42.400
+for me to deploy my application this is
+
+00:48:40.160 --> 00:48:42.960
+the name of my application i gave this
+
+00:48:42.400 --> 00:48:46.480
+name
+
+00:48:42.960 --> 00:48:50.480
+my first eb this is the url
+
+00:48:46.480 --> 00:48:53.680
+by which i can access my environment
+
+00:48:50.480 --> 00:48:55.839
+let me click on this and here we go so
+
+00:48:53.680 --> 00:48:58.640
+the sample code that was there
+
+00:48:55.839 --> 00:49:00.480
+had this web page sitting in there you
+
+00:48:58.640 --> 00:49:04.400
+can upload your own
+
+00:49:00.480 --> 00:49:07.839
+code web web facing and it will be
+
+00:49:04.400 --> 00:49:08.559
+served to the world okay so this is the
+
+00:49:07.839 --> 00:49:11.839
+whole
+
+00:49:08.559 --> 00:49:16.079
+this is how elastic bean stock works
+
+00:49:11.839 --> 00:49:19.119
+especially in the web server environment
+
+00:49:16.079 --> 00:49:21.359
+if i want to update my code i can upload
+
+00:49:19.119 --> 00:49:25.040
+an additional version here you see
+
+00:49:21.359 --> 00:49:27.200
+upload and deploy furthermore
+
+00:49:25.040 --> 00:49:28.079
+as i said this is my application my
+
+00:49:27.200 --> 00:49:30.720
+first eb
+
+00:49:28.079 --> 00:49:31.599
+application and these are the
+
+00:49:30.720 --> 00:49:34.640
+application
+
+00:49:31.599 --> 00:49:36.880
+versions so i have just
+
+00:49:34.640 --> 00:49:39.280
+one application at the moment i can add
+
+00:49:36.880 --> 00:49:42.240
+more if i want
+
+00:49:39.280 --> 00:49:44.559
+one thing i want you to a few things i
+
+00:49:42.240 --> 00:49:45.839
+want you to show before i go back to the
+
+00:49:44.559 --> 00:49:49.359
+slides
+
+00:49:45.839 --> 00:49:52.720
+is in terms of actions
+
+00:49:49.359 --> 00:49:54.319
+i can clone another environment or i can
+
+00:49:52.720 --> 00:49:59.040
+terminate it as well
+
+00:49:54.319 --> 00:50:01.760
+okay i'll show you i mean as i said
+
+00:49:59.040 --> 00:50:02.800
+the elastic bean stock environment this
+
+00:50:01.760 --> 00:50:06.960
+the use of this
+
+00:50:02.800 --> 00:50:10.400
+itself doesn't cost me anything however
+
+00:50:06.960 --> 00:50:14.000
+i'm paying for my environment which is
+
+00:50:10.400 --> 00:50:14.800
+how many requests this elast ec2 servers
+
+00:50:14.000 --> 00:50:19.119
+are
+
+00:50:14.800 --> 00:50:21.920
+serving um the ec2 servers themselves
+
+00:50:19.119 --> 00:50:23.200
+load balancers all that i still have to
+
+00:50:21.920 --> 00:50:26.160
+pay
+
+00:50:23.200 --> 00:50:27.920
+now if i want to go to the environment
+
+00:50:26.160 --> 00:50:30.079
+so this is my environment i can
+
+00:50:27.920 --> 00:50:31.760
+click on this and this is my environment
+
+00:50:30.079 --> 00:50:35.520
+here which is
+
+00:50:31.760 --> 00:50:37.839
+well and good but
+
+00:50:35.520 --> 00:50:38.640
+what i want to draw your attention to is
+
+00:50:37.839 --> 00:50:41.760
+this
+
+00:50:38.640 --> 00:50:45.040
+point here which is configuration
+
+00:50:41.760 --> 00:50:48.880
+if i want to change my underlying
+
+00:50:45.040 --> 00:50:52.240
+environment that is possible
+
+00:50:48.880 --> 00:50:53.280
+um i i'm i wouldn't say you can
+
+00:50:52.240 --> 00:50:56.720
+completely
+
+00:50:53.280 --> 00:50:58.559
+change it but you can customize it to a
+
+00:50:56.720 --> 00:51:01.200
+very large degree
+
+00:50:58.559 --> 00:51:03.359
+and you can do it along multiple
+
+00:51:01.200 --> 00:51:06.240
+different parameters like
+
+00:51:03.359 --> 00:51:08.640
+what software is it running what
+
+00:51:06.240 --> 00:51:10.800
+instances is it running
+
+00:51:08.640 --> 00:51:12.640
+we will discuss about how you can
+
+00:51:10.800 --> 00:51:15.520
+customize
+
+00:51:12.640 --> 00:51:16.480
+the environment of your elastic bean
+
+00:51:15.520 --> 00:51:18.960
+stock
+
+00:51:16.480 --> 00:51:21.440
+in next week's lecture we will see how
+
+00:51:18.960 --> 00:51:24.559
+you can customize the capacity
+
+00:51:21.440 --> 00:51:26.240
+of the ec2 instances for example load
+
+00:51:24.559 --> 00:51:28.880
+balancers i can
+
+00:51:26.240 --> 00:51:29.680
+go back and say enable these load
+
+00:51:28.880 --> 00:51:32.960
+balancers
+
+00:51:29.680 --> 00:51:36.800
+or perhaps just don't need them i can
+
+00:51:32.960 --> 00:51:39.040
+here i can specify the load balancing
+
+00:51:36.800 --> 00:51:42.319
+policies
+
+00:51:39.040 --> 00:51:44.480
+similarly i can set up alarms
+
+00:51:42.319 --> 00:51:46.640
+for to monitor the health of my
+
+00:51:44.480 --> 00:51:50.079
+instances
+
+00:51:46.640 --> 00:51:55.040
+so all these things i can very well go
+
+00:51:50.079 --> 00:51:57.839
+and configure my underlying environment
+
+00:51:55.040 --> 00:51:58.480
+i have dedicated an entire lecture to
+
+00:51:57.839 --> 00:52:01.839
+that
+
+00:51:58.480 --> 00:52:02.160
+and that will be during next week which
+
+00:52:01.839 --> 00:52:05.920
+is
+
+00:52:02.160 --> 00:52:08.319
+week five so so far as i said
+
+00:52:05.920 --> 00:52:10.160
+what we have done is this is my
+
+00:52:08.319 --> 00:52:13.760
+application here
+
+00:52:10.160 --> 00:52:17.520
+it's healthy it's running green
+
+00:52:13.760 --> 00:52:21.680
+it is if i want to access it i can
+
+00:52:17.520 --> 00:52:24.240
+take this now i can take this url
+
+00:52:21.680 --> 00:52:27.119
+give it to my clients and it doesn't
+
+00:52:24.240 --> 00:52:30.240
+matter if my website is getting
+
+00:52:27.119 --> 00:52:33.359
+10 hits or a billion hits
+
+00:52:30.240 --> 00:52:36.400
+aws will take care of everything
+
+00:52:33.359 --> 00:52:40.400
+under under the hood for it for this
+
+00:52:36.400 --> 00:52:44.319
+web for this application to run at scale
+
+00:52:40.400 --> 00:52:47.760
+deployment and auto scaling as well
+
+00:52:44.319 --> 00:52:50.880
+so uh let us go back to the
+
+00:52:47.760 --> 00:52:52.880
+uh lectures now
+
+00:52:50.880 --> 00:52:55.280
+give me one second can you i hope you
+
+00:52:52.880 --> 00:52:57.839
+can see all see my screen the
+
+00:52:55.280 --> 00:52:59.040
+ppt slides if that's not the case please
+
+00:52:57.839 --> 00:53:02.240
+let me know
+
+00:52:59.040 --> 00:53:04.319
+so uh the point at which i went from the
+
+00:53:02.240 --> 00:53:07.359
+screens to the
+
+00:53:04.319 --> 00:53:09.920
+to the demo was where i was saying that
+
+00:53:07.359 --> 00:53:11.280
+you can specify your template the fact
+
+00:53:09.920 --> 00:53:14.960
+that i want
+
+00:53:11.280 --> 00:53:18.559
+elastic bean stock to create copies
+
+00:53:14.960 --> 00:53:19.359
+of a java environment running in linux
+
+00:53:18.559 --> 00:53:22.880
+mode
+
+00:53:19.359 --> 00:53:25.359
+and using that server so there are
+
+00:53:22.880 --> 00:53:26.640
+amazon has these environments as
+
+00:53:25.359 --> 00:53:29.119
+containers
+
+00:53:26.640 --> 00:53:30.400
+and they create replicas and and run
+
+00:53:29.119 --> 00:53:34.400
+them
+
+00:53:30.400 --> 00:53:38.000
+furthermore running on each ec2 instance
+
+00:53:34.400 --> 00:53:41.119
+is something known as a host manager
+
+00:53:38.000 --> 00:53:41.839
+the host manager's role is critical what
+
+00:53:41.119 --> 00:53:45.280
+it does
+
+00:53:41.839 --> 00:53:48.240
+is a few things during the process of
+
+00:53:45.280 --> 00:53:49.520
+provisioning the ec2 instance which you
+
+00:53:48.240 --> 00:53:53.040
+saw just now
+
+00:53:49.520 --> 00:53:54.000
+the host manager will take the copy of
+
+00:53:53.040 --> 00:53:56.880
+the
+
+00:53:54.000 --> 00:53:57.920
+software resources from the container
+
+00:53:56.880 --> 00:54:02.079
+and
+
+00:53:57.920 --> 00:54:05.599
+copy and put it in the local machine so
+
+00:54:02.079 --> 00:54:08.720
+the host manager plays a critical role
+
+00:54:05.599 --> 00:54:09.280
+in the cloning process furthermore it
+
+00:54:08.720 --> 00:54:12.800
+keeps an
+
+00:54:09.280 --> 00:54:13.920
+eye out on the performance of the ec2
+
+00:54:12.800 --> 00:54:16.880
+instance
+
+00:54:13.920 --> 00:54:19.119
+such as the health of the ec2 instances
+
+00:54:16.880 --> 00:54:22.880
+how many requests they are serving
+
+00:54:19.119 --> 00:54:27.760
+latency etc and reports it back
+
+00:54:22.880 --> 00:54:30.000
+via cloud watch or using an api
+
+00:54:27.760 --> 00:54:30.960
+the second thing is the security group
+
+00:54:30.000 --> 00:54:34.000
+again you saw
+
+00:54:30.960 --> 00:54:36.559
+i did not ask aws to launch me
+
+00:54:34.000 --> 00:54:37.520
+to launch a security group whether you
+
+00:54:36.559 --> 00:54:41.119
+like it or not
+
+00:54:37.520 --> 00:54:43.520
+every ec2 and every rds instance
+
+00:54:41.119 --> 00:54:44.720
+will have a security group and that
+
+00:54:43.520 --> 00:54:48.000
+security group
+
+00:54:44.720 --> 00:54:51.200
+comes with a default security policy
+
+00:54:48.000 --> 00:54:54.880
+which is allow i mean
+
+00:54:51.200 --> 00:54:59.760
+allow traffic into standard http port 80
+
+00:54:54.880 --> 00:55:02.880
+and for https for secure traffic
+
+00:54:59.760 --> 00:55:05.040
+on port 443 you can write
+
+00:55:02.880 --> 00:55:06.240
+additional security groups as well and
+
+00:55:05.040 --> 00:55:09.200
+we'll show you
+
+00:55:06.240 --> 00:55:11.520
+how you can do that next week and you
+
+00:55:09.200 --> 00:55:13.040
+can write multiple security groups one
+
+00:55:11.520 --> 00:55:15.599
+on top of each other
+
+00:55:13.040 --> 00:55:16.640
+and they during runtime they are all
+
+00:55:15.599 --> 00:55:19.440
+compiled
+
+00:55:16.640 --> 00:55:21.520
+and executed to make sure whether a
+
+00:55:19.440 --> 00:55:23.839
+given packet or whether a given
+
+00:55:21.520 --> 00:55:26.319
+piece of information should be let
+
+00:55:23.839 --> 00:55:28.640
+inside or not
+
+00:55:26.319 --> 00:55:30.319
+next thing which you all saw again the
+
+00:55:28.640 --> 00:55:32.480
+fact that
+
+00:55:30.319 --> 00:55:36.240
+it automatically launched an auto
+
+00:55:32.480 --> 00:55:39.760
+scaling group so what that means is that
+
+00:55:36.240 --> 00:55:43.119
+as a part of auto scaling group i have
+
+00:55:39.760 --> 00:55:46.480
+a fleet of instances my environment has
+
+00:55:43.119 --> 00:55:49.440
+a fleet of instances
+
+00:55:46.480 --> 00:55:51.920
+and i as a user i can specify the
+
+00:55:49.440 --> 00:55:55.280
+minimum size of that fleet
+
+00:55:51.920 --> 00:55:58.799
+which could be one and the maximum size
+
+00:55:55.280 --> 00:56:01.280
+which could be any finite number so
+
+00:55:58.799 --> 00:56:02.400
+depending upon the group size which is
+
+00:56:01.280 --> 00:56:05.520
+the minimum
+
+00:56:02.400 --> 00:56:08.559
+and the maximum aws
+
+00:56:05.520 --> 00:56:12.000
+and in particular auto scaling group
+
+00:56:08.559 --> 00:56:15.280
+will vary the size of the
+
+00:56:12.000 --> 00:56:17.200
+fleet depending upon the traffic sides
+
+00:56:15.280 --> 00:56:20.160
+to my environment
+
+00:56:17.200 --> 00:56:22.240
+okay furthermore during next week as we
+
+00:56:20.160 --> 00:56:25.280
+will see you could have things like
+
+00:56:22.240 --> 00:56:26.880
+scaling policies that means when should
+
+00:56:25.280 --> 00:56:31.599
+aws
+
+00:56:26.880 --> 00:56:35.200
+increase the size of the fleet so if if
+
+00:56:31.599 --> 00:56:39.359
+the size of the fleet is just one
+
+00:56:35.200 --> 00:56:42.400
+and this one instance is
+
+00:56:39.359 --> 00:56:46.720
+is completely overloaded when should it
+
+00:56:42.400 --> 00:56:50.559
+increase is it based on the fact that
+
+00:56:46.720 --> 00:56:54.000
+the instance is is handling
+
+00:56:50.559 --> 00:56:56.720
+a certain predefined threshold of
+
+00:56:54.000 --> 00:56:57.520
+incoming requests or is it on the fact
+
+00:56:56.720 --> 00:56:59.680
+that the
+
+00:56:57.520 --> 00:57:00.559
+latency being experienced by the end
+
+00:56:59.680 --> 00:57:04.240
+users is
+
+00:57:00.559 --> 00:57:07.839
+very high so you have to specify
+
+00:57:04.240 --> 00:57:10.720
+when um the size of the instance
+
+00:57:07.839 --> 00:57:11.119
+should be increased and by how much so
+
+00:57:10.720 --> 00:57:13.440
+when
+
+00:57:11.119 --> 00:57:14.400
+when this is met should i increase it by
+
+00:57:13.440 --> 00:57:18.319
+one
+
+00:57:14.400 --> 00:57:21.359
+by two by three or by ten okay
+
+00:57:18.319 --> 00:57:22.880
+furthermore is load balancing which as
+
+00:57:21.359 --> 00:57:26.000
+i've been explaining
+
+00:57:22.880 --> 00:57:28.960
+is how can you balance
+
+00:57:26.000 --> 00:57:29.599
+the incoming load or the incoming
+
+00:57:28.960 --> 00:57:33.200
+traffic
+
+00:57:29.599 --> 00:57:36.400
+in in into the eb environment
+
+00:57:33.200 --> 00:57:40.480
+amongst the fleet of instances
+
+00:57:36.400 --> 00:57:42.480
+so should it go to in this case if i go
+
+00:57:40.480 --> 00:57:44.640
+back here the role of the load balancing
+
+00:57:42.480 --> 00:57:48.160
+if there is incoming traffic
+
+00:57:44.640 --> 00:57:52.160
+should it go to instance one two
+
+00:57:48.160 --> 00:57:52.480
+three or four and why and this process
+
+00:57:52.160 --> 00:57:55.680
+of
+
+00:57:52.480 --> 00:57:57.280
+balancing load between the entire fleet
+
+00:57:55.680 --> 00:58:00.960
+of instances
+
+00:57:57.280 --> 00:58:03.680
+is known as load balancing and you can
+
+00:58:00.960 --> 00:58:04.559
+write your own policies for load
+
+00:58:03.680 --> 00:58:07.839
+balancing
+
+00:58:04.559 --> 00:58:10.079
+and we i will tell you examples of that
+
+00:58:07.839 --> 00:58:13.040
+in next week's lecture
+
+00:58:10.079 --> 00:58:14.640
+and then of course health checks which
+
+00:58:13.040 --> 00:58:17.520
+are carried out by the
+
+00:58:14.640 --> 00:58:19.920
+host manager so the host manager will do
+
+00:58:17.520 --> 00:58:23.040
+these health checks and if it finds that
+
+00:58:19.920 --> 00:58:26.319
+this ec2 instance is not performing well
+
+00:58:23.040 --> 00:58:28.240
+report it back so that auto scaling
+
+00:58:26.319 --> 00:58:29.440
+group can replace it with a healthy
+
+00:58:28.240 --> 00:58:31.599
+instance
+
+00:58:29.440 --> 00:58:32.559
+so the basic idea of an auto scaling
+
+00:58:31.599 --> 00:58:36.720
+group is
+
+00:58:32.559 --> 00:58:38.160
+you start off with the minimum number of
+
+00:58:36.720 --> 00:58:41.599
+ec2 instances
+
+00:58:38.160 --> 00:58:45.200
+minimum as specified in the group size
+
+00:58:41.599 --> 00:58:49.119
+and then scale up based on
+
+00:58:45.200 --> 00:58:52.240
+scaling policies and distributed
+
+00:58:49.119 --> 00:58:55.760
+traffic between the fleet
+
+00:58:52.240 --> 00:58:57.839
+based on load balancing i hope
+
+00:58:55.760 --> 00:58:59.119
+that you understand i mean without auto
+
+00:58:57.839 --> 00:59:02.160
+scaling group
+
+00:58:59.119 --> 00:59:05.359
+it simply would not be possible to
+
+00:59:02.160 --> 00:59:08.160
+deploy applications at web scale that
+
+00:59:05.359 --> 00:59:10.799
+can scale up or down
+
+00:59:08.160 --> 00:59:11.680
+the last but not the least is the
+
+00:59:10.799 --> 00:59:14.000
+storage
+
+00:59:11.680 --> 00:59:15.520
+environment which is this part the
+
+00:59:14.000 --> 00:59:19.119
+storage component
+
+00:59:15.520 --> 00:59:22.640
+okay every application every
+
+00:59:19.119 --> 00:59:25.920
+whether it is web-based or not requires
+
+00:59:22.640 --> 00:59:28.240
+storage of some sort um
+
+00:59:25.920 --> 00:59:30.160
+your elastic bean stock environment
+
+00:59:28.240 --> 00:59:33.680
+comes pre-packaged
+
+00:59:30.160 --> 00:59:35.599
+with a relational database service
+
+00:59:33.680 --> 00:59:37.440
+for those of you i mean you would
+
+00:59:35.599 --> 00:59:38.640
+remember that relational database
+
+00:59:37.440 --> 00:59:41.760
+service
+
+00:59:38.640 --> 00:59:44.400
+is a is an
+
+00:59:41.760 --> 00:59:45.559
+amazon service for storing relational
+
+00:59:44.400 --> 00:59:49.520
+data
+
+00:59:45.559 --> 00:59:52.160
+unfortunately you cannot associate
+
+00:59:49.520 --> 00:59:53.760
+non-relational databases with an elastic
+
+00:59:52.160 --> 00:59:56.799
+bean stock environment
+
+00:59:53.760 --> 00:59:59.280
+you can have s3 buckets and those things
+
+00:59:56.799 --> 01:00:02.240
+but you can't have other databases like
+
+00:59:59.280 --> 01:00:05.359
+no no sql and all
+
+01:00:02.240 --> 01:00:08.559
+for the relational database service
+
+01:00:05.359 --> 01:00:09.280
+you are spoiled for choice in terms of
+
+01:00:08.559 --> 01:00:12.400
+database
+
+01:00:09.280 --> 01:00:16.400
+engines you can go with
+
+01:00:12.400 --> 01:00:19.760
+sql server if that's what your
+
+01:00:16.400 --> 01:00:21.960
+database engine is or you can go with my
+
+01:00:19.760 --> 01:00:24.799
+sequel server or
+
+01:00:21.960 --> 01:00:28.079
+postgresql or oracle
+
+01:00:24.799 --> 01:00:31.920
+or even amazon aurora
+
+01:00:28.079 --> 01:00:35.200
+amazon aurora is amazon's version
+
+01:00:31.920 --> 01:00:38.720
+of relational database engine
+
+01:00:35.200 --> 01:00:40.640
+it is quite a powerful relational
+
+01:00:38.720 --> 01:00:41.760
+database engine in the sense that it
+
+01:00:40.640 --> 01:00:45.599
+combines
+
+01:00:41.760 --> 01:00:47.599
+it's not just uh fast
+
+01:00:45.599 --> 01:00:49.119
+but it is quite simple and cost
+
+01:00:47.599 --> 01:00:52.400
+effective as well
+
+01:00:49.119 --> 01:00:55.839
+you the counterparts like oracle and
+
+01:00:52.400 --> 01:00:57.599
+sql server can be very very expensive
+
+01:00:55.839 --> 01:01:00.720
+very expensive
+
+01:00:57.599 --> 01:01:04.559
+okay so amazon claims that aurora is
+
+01:01:00.720 --> 01:01:07.760
+five times faster than uh rds my
+
+01:01:04.559 --> 01:01:10.319
+my sequel server okay so
+
+01:01:07.760 --> 01:01:11.200
+um i have shown you all how to create
+
+01:01:10.319 --> 01:01:14.640
+the web
+
+01:01:11.200 --> 01:01:17.200
+uh server tier so
+
+01:01:14.640 --> 01:01:19.440
+these are the steps for those of you who
+
+01:01:17.200 --> 01:01:22.079
+would like to repeat that process at the
+
+01:01:19.440 --> 01:01:25.440
+comfort of your own home
+
+01:01:22.079 --> 01:01:27.119
+i would before i go any ahead i would
+
+01:01:25.440 --> 01:01:30.160
+perhaps like to stop
+
+01:01:27.119 --> 01:01:33.440
+and take a few questions
+
+01:01:30.160 --> 01:01:36.240
+and then go and complete today's lecture
+
+01:01:33.440 --> 01:01:38.079
+uh if you have got any questions about
+
+01:01:36.240 --> 01:01:42.079
+all that what i've spoken so
+
+01:01:38.079 --> 01:01:42.079
+far about elastic bean stock
+
+01:01:42.640 --> 01:01:49.119
+different environments worker
+
+01:01:46.000 --> 01:01:53.839
+web application tier please feel free to
+
+01:01:49.119 --> 01:01:53.839
+ask me
+
+01:02:07.839 --> 01:02:14.960
+david that's a good comment um
+
+01:02:11.839 --> 01:02:17.599
+you would be deploying your application
+
+01:02:14.960 --> 01:02:20.240
+in elastic bean stock next week i think
+
+01:02:17.599 --> 01:02:23.359
+next week's lab is focused on that
+
+01:02:20.240 --> 01:02:26.960
+you can figure out yourself
+
+01:02:23.359 --> 01:02:30.400
+how intuitive how simple
+
+01:02:26.960 --> 01:02:34.079
+it is to deploy and
+
+01:02:30.400 --> 01:02:49.839
+leave the hard job of
+
+01:02:34.079 --> 01:02:49.839
+maintaining your environment to amazon
+
+01:02:50.240 --> 01:02:54.559
+any questions before i go ahead
+
+01:02:56.480 --> 01:03:00.799
+rahul you have asked a question what do
+
+01:02:58.559 --> 01:03:04.160
+you mean by load balancing
+
+01:03:00.799 --> 01:03:06.960
+are you clear on that now um
+
+01:03:04.160 --> 01:03:08.400
+yes i got it thank you lord balancing
+
+01:03:06.960 --> 01:03:11.520
+input means thank you
+
+01:03:08.400 --> 01:03:14.839
+means the ability to distribute
+
+01:03:11.520 --> 01:03:17.839
+incoming traffic to your fleet of ec2
+
+01:03:14.839 --> 01:03:17.839
+instances
+
+01:03:21.839 --> 01:03:25.599
+okay it seems that
+
+01:03:25.920 --> 01:03:29.039
+adnan could you please explain web
+
+01:03:27.920 --> 01:03:31.200
+server environment
+
+01:03:29.039 --> 01:03:32.559
+and worker environment i am coming to
+
+01:03:31.200 --> 01:03:35.680
+worker environment
+
+01:03:32.559 --> 01:03:36.960
+in about as soon as i finish that's my
+
+01:03:35.680 --> 01:03:38.559
+next topic
+
+01:03:36.960 --> 01:03:41.039
+and you will see the relationship
+
+01:03:38.559 --> 01:03:45.599
+between web server environment and
+
+01:03:41.039 --> 01:03:47.760
+worker environment
+
+01:03:45.599 --> 01:03:49.200
+it seems to me that there are no
+
+01:03:47.760 --> 01:03:53.039
+questions so far
+
+01:03:49.200 --> 01:03:54.960
+so uh let us go
+
+01:03:53.039 --> 01:03:57.599
+and complete the next part of the
+
+01:03:54.960 --> 01:04:00.160
+lecture while i'm there i'll try to see
+
+01:03:57.599 --> 01:04:02.799
+if i have any luck with the video with
+
+01:04:00.160 --> 01:04:12.559
+showing you all the video
+
+01:04:02.799 --> 01:04:14.799
+um give me one second
+
+01:04:12.559 --> 01:04:27.839
+i understand that you are not able to
+
+01:04:14.799 --> 01:04:27.839
+hear the audio
+
+01:04:38.839 --> 01:04:43.920
+uh
+
+01:04:40.640 --> 01:04:45.440
+ah the frustrating job of the accidental
+
+01:04:43.920 --> 01:04:47.680
+sysadmin
+
+01:04:45.440 --> 01:04:50.079
+as a developer you just want to build a
+
+01:04:47.680 --> 01:04:52.559
+great website or mobile app but somehow
+
+01:04:50.079 --> 01:04:54.400
+always end up as a system administrator
+
+01:04:52.559 --> 01:04:55.680
+you spend a lot of time managing and
+
+01:04:54.400 --> 01:04:58.640
+configuring servers
+
+01:04:55.680 --> 01:05:01.039
+databases load balancers firewalls and
+
+01:04:58.640 --> 01:05:03.119
+networks instead of coding
+
+01:05:01.039 --> 01:05:04.799
+whenever you have to scale your servers
+
+01:05:03.119 --> 01:05:06.480
+to support more users
+
+01:05:04.799 --> 01:05:08.480
+it becomes a headache because of the
+
+01:05:06.480 --> 01:05:10.160
+extra time you spend re-architecting
+
+01:05:08.480 --> 01:05:12.000
+your infrastructure
+
+01:05:10.160 --> 01:05:14.000
+wouldn't it be nice if you could just
+
+01:05:12.000 --> 01:05:14.960
+focus on writing code and building a
+
+01:05:14.000 --> 01:05:16.799
+great product
+
+01:05:14.960 --> 01:05:18.559
+and hand over the provisioning and
+
+01:05:16.799 --> 01:05:20.480
+scaling of the infrastructure
+
+01:05:18.559 --> 01:05:23.520
+and the installation and management of
+
+01:05:20.480 --> 01:05:27.000
+the application stack to someone else
+
+01:05:23.520 --> 01:05:29.119
+introducing aws elastic beanstalk
+
+01:05:27.000 --> 01:05:30.960
+elasticbeanstock is an easy to use
+
+01:05:29.119 --> 01:05:33.599
+service that deploys
+
+01:05:30.960 --> 01:05:34.960
+manages and scales web apps and services
+
+01:05:33.599 --> 01:05:36.880
+for you
+
+01:05:34.960 --> 01:05:38.480
+elastic beanstalk uses managed
+
+01:05:36.880 --> 01:05:40.559
+containers that support environments
+
+01:05:38.480 --> 01:05:44.079
+such as java.net
+
+01:05:40.559 --> 01:05:46.559
+so you see these are containers like
+
+01:05:44.079 --> 01:05:48.000
+a container for net environment a
+
+01:05:46.559 --> 01:05:51.599
+container for java
+
+01:05:48.000 --> 01:05:54.799
+php that amazon already
+
+01:05:51.599 --> 01:05:55.440
+has or have in the data center when you
+
+01:05:54.799 --> 01:05:58.799
+request
+
+01:05:55.440 --> 01:06:00.640
+for for your ones depending on what
+
+01:05:58.799 --> 01:06:03.680
+platform you have specified
+
+01:06:00.640 --> 01:06:07.839
+they simply take that and clone it
+
+01:06:03.680 --> 01:06:10.640
+php node.js python ruby and docker
+
+01:06:07.839 --> 01:06:11.119
+on familiar servers such as apache http
+
+01:06:10.640 --> 01:06:15.000
+server
+
+01:06:11.119 --> 01:06:17.440
+apache tomcat nginx passenger and iis
+
+01:06:15.000 --> 01:06:19.599
+elasticbeanstock leverages familiar aws
+
+01:06:17.440 --> 01:06:22.240
+services such as amazon ec2
+
+01:06:19.599 --> 01:06:23.280
+s3 simple notification service elastic
+
+01:06:22.240 --> 01:06:25.920
+load balancing and
+
+01:06:23.280 --> 01:06:27.280
+auto scaling it's easy to get started on
+
+01:06:25.920 --> 01:06:29.520
+elastic bean stock
+
+01:06:27.280 --> 01:06:32.240
+you can use the aws management console
+
+01:06:29.520 --> 01:06:33.920
+the command line interface or the api
+
+01:06:32.240 --> 01:06:35.920
+you just choose your platform like
+
+01:06:33.920 --> 01:06:39.280
+node.js or ruby
+
+01:06:35.920 --> 01:06:41.280
+and amazon ec2 instance type then
+
+01:06:39.280 --> 01:06:43.520
+you select additional resources to use
+
+01:06:41.280 --> 01:06:44.160
+such as amazon relational database
+
+01:06:43.520 --> 01:06:47.039
+service
+
+01:06:44.160 --> 01:06:48.559
+or amazon virtual private cloud and then
+
+01:06:47.039 --> 01:06:50.720
+just upload your code
+
+01:06:48.559 --> 01:06:52.559
+elastic bean stock will handle the rest
+
+01:06:50.720 --> 01:06:53.760
+of the deployment details such as
+
+01:06:52.559 --> 01:06:55.839
+provisioning
+
+01:06:53.760 --> 01:06:57.599
+load balancing auto scaling and
+
+01:06:55.839 --> 01:06:59.359
+application health monitoring
+
+01:06:57.599 --> 01:07:00.720
+elastic bean stock will automatically
+
+01:06:59.359 --> 01:07:03.520
+scale your application
+
+01:07:00.720 --> 01:07:05.280
+up and down based on easily adjustable
+
+01:07:03.520 --> 01:07:07.920
+auto scaling settings
+
+01:07:05.280 --> 01:07:08.880
+with elastic beanstalk you also retain
+
+01:07:07.920 --> 01:07:11.760
+full control
+
+01:07:08.880 --> 01:07:12.720
+over all the aws resources powering your
+
+01:07:11.760 --> 01:07:14.720
+app
+
+01:07:12.720 --> 01:07:17.039
+you can take over some or all of the
+
+01:07:14.720 --> 01:07:17.839
+resources of your infrastructure anytime
+
+01:07:17.039 --> 01:07:19.440
+so you're not
+
+01:07:17.839 --> 01:07:20.880
+forced to live with predetermined
+
+01:07:19.440 --> 01:07:23.039
+configurations
+
+01:07:20.880 --> 01:07:25.280
+elastic beanstalk lets you focus on
+
+01:07:23.039 --> 01:07:26.960
+building great web or mobile apps for
+
+01:07:25.280 --> 01:07:28.400
+your users without spending a lot of
+
+01:07:26.960 --> 01:07:29.599
+time managing and configuring
+
+01:07:28.400 --> 01:07:31.440
+infrastructure
+
+01:07:29.599 --> 01:07:33.119
+you can build things like websites
+
+01:07:31.440 --> 01:07:36.480
+content management systems
+
+01:07:33.119 --> 01:07:38.720
+api back-ends and even sas applications
+
+01:07:36.480 --> 01:07:39.920
+elastic beanstalk can help get you to
+
+01:07:38.720 --> 01:07:41.520
+market faster
+
+01:07:39.920 --> 01:07:43.760
+because it's quick and simple to get
+
+01:07:41.520 --> 01:07:46.240
+started elastic beanstalk
+
+01:07:43.760 --> 01:07:48.319
+automatically load balances and manages
+
+01:07:46.240 --> 01:07:49.520
+scale helping to make sure your app is
+
+01:07:48.319 --> 01:07:51.839
+always available
+
+01:07:49.520 --> 01:07:53.760
+you can also tweak any elastic beanstalk
+
+01:07:51.839 --> 01:07:55.680
+resource you want when you need to
+
+01:07:53.760 --> 01:07:58.079
+giving you complete control under the
+
+01:07:55.680 --> 01:07:59.920
+hood even better there's no additional
+
+01:07:58.079 --> 01:08:02.240
+charge for elastic bean stock
+
+01:07:59.920 --> 01:08:03.760
+you pay only for the aws resources
+
+01:08:02.240 --> 01:08:05.039
+needed to store and run your
+
+01:08:03.760 --> 01:08:06.960
+applications
+
+01:08:05.039 --> 01:08:09.280
+to get started running your applications
+
+01:08:06.960 --> 01:08:10.960
+with aws elastic beanstalk visit our
+
+01:08:09.280 --> 01:08:12.640
+website and get your first app
+
+01:08:10.960 --> 01:08:16.319
+up and running with a few clicks in the
+
+01:08:12.640 --> 01:08:16.319
+aws management console
+
+01:08:23.440 --> 01:08:29.120
+so let's come back to the lecture
+
+01:08:26.640 --> 01:08:30.159
+and then i i have got another video to
+
+01:08:29.120 --> 01:08:32.960
+show you
+
+01:08:30.159 --> 01:08:33.600
+but uh we will come to that in due
+
+01:08:32.960 --> 01:08:35.920
+course
+
+01:08:33.600 --> 01:08:37.199
+so so far we have learned in detail
+
+01:08:35.920 --> 01:08:39.839
+about
+
+01:08:37.199 --> 01:08:39.839
+deploying
+
+01:08:42.239 --> 01:08:48.640
+web-based or customer
+
+01:08:45.520 --> 01:08:50.400
+facing applications
+
+01:08:48.640 --> 01:08:52.080
+and leaving the rest to amazon we
+
+01:08:50.400 --> 01:08:54.719
+learned how
+
+01:08:52.080 --> 01:08:55.920
+under the hood they do a range of
+
+01:08:54.719 --> 01:08:59.279
+processes not just
+
+01:08:55.920 --> 01:09:01.600
+provisioning a plethora of instances but
+
+01:08:59.279 --> 01:09:02.239
+auto scaling and all just to make sure
+
+01:09:01.600 --> 01:09:05.359
+that
+
+01:09:02.239 --> 01:09:06.640
+come what may your application is is
+
+01:09:05.359 --> 01:09:09.279
+available
+
+01:09:06.640 --> 01:09:10.799
+and if you have specified the right
+
+01:09:09.279 --> 01:09:14.080
+policies
+
+01:09:10.799 --> 01:09:17.920
+your consumers will experience
+
+01:09:14.080 --> 01:09:20.799
+minimal latency however
+
+01:09:17.920 --> 01:09:22.159
+there is a catch there that that you
+
+01:09:20.799 --> 01:09:26.080
+need to be aware of
+
+01:09:22.159 --> 01:09:28.480
+let us take the example of the
+
+01:09:26.080 --> 01:09:29.759
+credit assessment application that i've
+
+01:09:28.480 --> 01:09:32.960
+been talking about
+
+01:09:29.759 --> 01:09:34.000
+and let me elaborate on what we do there
+
+01:09:32.960 --> 01:09:36.640
+so that i can relate
+
+01:09:34.000 --> 01:09:37.839
+it better the need for a worker
+
+01:09:36.640 --> 01:09:41.040
+environment so
+
+01:09:37.839 --> 01:09:44.239
+in the credit application
+
+01:09:41.040 --> 01:09:47.679
+that i'm i'm developing
+
+01:09:44.239 --> 01:09:50.319
+stage one what it does is based on the
+
+01:09:47.679 --> 01:09:52.400
+references that i have given so it could
+
+01:09:50.319 --> 01:09:56.560
+be references about my
+
+01:09:52.400 --> 01:09:58.800
+previous lenders or people
+
+01:09:56.560 --> 01:09:59.840
+the application sends out emails to
+
+01:09:58.800 --> 01:10:03.199
+those peoples
+
+01:09:59.840 --> 01:10:05.360
+and waits for them to reply
+
+01:10:03.199 --> 01:10:06.719
+indicating whether i am a trustworthy
+
+01:10:05.360 --> 01:10:10.080
+person or a
+
+01:10:06.719 --> 01:10:12.640
+not a trustworthy person so based on the
+
+01:10:10.080 --> 01:10:14.800
+replies from two or four or five i don't
+
+01:10:12.640 --> 01:10:17.440
+know how many people
+
+01:10:14.800 --> 01:10:18.400
+it does it takes all of them into
+
+01:10:17.440 --> 01:10:21.360
+account and
+
+01:10:18.400 --> 01:10:22.480
+makes a judgment whether i'm credit
+
+01:10:21.360 --> 01:10:25.760
+worthy or not
+
+01:10:22.480 --> 01:10:28.239
+so that is phase one okay if i'm
+
+01:10:25.760 --> 01:10:29.199
+credit worthy then we go to the next
+
+01:10:28.239 --> 01:10:32.719
+phase
+
+01:10:29.199 --> 01:10:35.840
+and it looks at multiple
+
+01:10:32.719 --> 01:10:38.239
+parameters to find out a dollar value
+
+01:10:35.840 --> 01:10:41.600
+and says okay i can we can lend
+
+01:10:38.239 --> 01:10:44.960
+maybe ten thousand dollars to faro so
+
+01:10:41.600 --> 01:10:48.640
+assume that these are the two processes
+
+01:10:44.960 --> 01:10:51.679
+or two broad activities
+
+01:10:48.640 --> 01:10:54.960
+that this credit application does
+
+01:10:51.679 --> 01:10:55.760
+okay sweet no problem so i have
+
+01:10:54.960 --> 01:10:58.480
+developed this
+
+01:10:55.760 --> 01:10:59.520
+uh credit risk application i have
+
+01:10:58.480 --> 01:11:02.960
+deployed this
+
+01:10:59.520 --> 01:11:05.440
+onto the web server here
+
+01:11:02.960 --> 01:11:06.159
+so what would happen is if i've deployed
+
+01:11:05.440 --> 01:11:10.560
+it there
+
+01:11:06.159 --> 01:11:12.320
+um customers are coming back so
+
+01:11:10.560 --> 01:11:14.719
+let us say don't don't worry about this
+
+01:11:12.320 --> 01:11:16.800
+so what what would happen is
+
+01:11:14.719 --> 01:11:19.120
+uh i've deployed this loan application
+
+01:11:16.800 --> 01:11:22.480
+here or credit application here
+
+01:11:19.120 --> 01:11:26.320
+so the first customer comes in
+
+01:11:22.480 --> 01:11:29.600
+and my application it it asks for
+
+01:11:26.320 --> 01:11:32.320
+the reference details from the customer
+
+01:11:29.600 --> 01:11:33.440
+and it sends out say five different
+
+01:11:32.320 --> 01:11:36.239
+emails
+
+01:11:33.440 --> 01:11:38.239
+to different people and is waiting for a
+
+01:11:36.239 --> 01:11:41.679
+response from them
+
+01:11:38.239 --> 01:11:44.719
+so for this activity
+
+01:11:41.679 --> 01:11:48.040
+waiting for a response from them um
+
+01:11:44.719 --> 01:11:51.280
+i can say that it may happen
+
+01:11:48.040 --> 01:11:53.360
+instantaneously or it can take
+
+01:11:51.280 --> 01:11:54.560
+quite a long time it can take days
+
+01:11:53.360 --> 01:11:58.239
+together
+
+01:11:54.560 --> 01:12:01.440
+and during this time the the first
+
+01:11:58.239 --> 01:12:04.239
+activity which is making judgment on
+
+01:12:01.440 --> 01:12:06.239
+whether i am carried worthy or not i am
+
+01:12:04.239 --> 01:12:07.679
+unable to make that judgment i have to
+
+01:12:06.239 --> 01:12:11.199
+keep on waiting
+
+01:12:07.679 --> 01:12:12.800
+waiting for people to respond okay
+
+01:12:11.199 --> 01:12:14.480
+so maybe if i have deployed the
+
+01:12:12.800 --> 01:12:19.679
+application here
+
+01:12:14.480 --> 01:12:19.679
+it is as a part of that
+
+01:12:19.920 --> 01:12:24.400
+there would be resources spent on just
+
+01:12:22.960 --> 01:12:27.679
+doing nothing but
+
+01:12:24.400 --> 01:12:30.640
+waiting for people to reply
+
+01:12:27.679 --> 01:12:32.560
+similarly what would happen is when a
+
+01:12:30.640 --> 01:12:34.880
+second customer comes in
+
+01:12:32.560 --> 01:12:37.040
+yeah i can take that and again i can
+
+01:12:34.880 --> 01:12:38.800
+send out emails to say
+
+01:12:37.040 --> 01:12:40.159
+five or ten different people for
+
+01:12:38.800 --> 01:12:42.159
+references
+
+01:12:40.159 --> 01:12:43.360
+and again i have to go into a waiting
+
+01:12:42.159 --> 01:12:46.560
+mode
+
+01:12:43.360 --> 01:12:50.719
+similarly third when that happens
+
+01:12:46.560 --> 01:12:53.679
+i can the application is well received i
+
+01:12:50.719 --> 01:12:54.239
+send out requests for reference to 10
+
+01:12:53.679 --> 01:12:57.920
+people
+
+01:12:54.239 --> 01:13:00.960
+and go on to a waiting mode
+
+01:12:57.920 --> 01:13:02.480
+and maybe during this time i have
+
+01:13:00.960 --> 01:13:05.360
+received
+
+01:13:02.480 --> 01:13:06.320
+the responses for the first customer in
+
+01:13:05.360 --> 01:13:09.040
+which case
+
+01:13:06.320 --> 01:13:11.280
+when i get that and i make it the the
+
+01:13:09.040 --> 01:13:14.239
+application makes a judgment
+
+01:13:11.280 --> 01:13:16.080
+that yes this person is credit worthy
+
+01:13:14.239 --> 01:13:19.440
+and now we move on to the
+
+01:13:16.080 --> 01:13:20.960
+second stage for the first applicant
+
+01:13:19.440 --> 01:13:23.440
+only which is
+
+01:13:20.960 --> 01:13:26.480
+perhaps using a computationally
+
+01:13:23.440 --> 01:13:29.679
+expensive ai algorithm to find out
+
+01:13:26.480 --> 01:13:31.520
+the dollar value of credit and again
+
+01:13:29.679 --> 01:13:34.800
+when i start using the
+
+01:13:31.520 --> 01:13:38.719
+computationally expensive ai algorithm
+
+01:13:34.800 --> 01:13:41.120
+the load or the computational resources
+
+01:13:38.719 --> 01:13:42.239
+are being consumed from this ec2
+
+01:13:41.120 --> 01:13:45.840
+instance
+
+01:13:42.239 --> 01:13:48.159
+this ec2 instance one only so when a
+
+01:13:45.840 --> 01:13:52.080
+fourth application comes in
+
+01:13:48.159 --> 01:13:54.480
+it may be the case that because
+
+01:13:52.080 --> 01:13:56.239
+in for two applications for two
+
+01:13:54.480 --> 01:13:59.280
+applicants two and three
+
+01:13:56.239 --> 01:14:00.320
+i am still waiting for a response on
+
+01:13:59.280 --> 01:14:02.880
+their
+
+01:14:00.320 --> 01:14:05.040
+uh from their uh from the from the
+
+01:14:02.880 --> 01:14:07.360
+referees or from the people
+
+01:14:05.040 --> 01:14:09.360
+and for the first application i am
+
+01:14:07.360 --> 01:14:12.640
+running an ai algorithm
+
+01:14:09.360 --> 01:14:16.000
+this web server is already
+
+01:14:12.640 --> 01:14:17.120
+uh overloaded even if it is not
+
+01:14:16.000 --> 01:14:20.560
+overloaded
+
+01:14:17.120 --> 01:14:21.760
+it may be the case that it is responding
+
+01:14:20.560 --> 01:14:25.440
+but the response
+
+01:14:21.760 --> 01:14:26.960
+is maybe slower it's taking perhaps a
+
+01:14:25.440 --> 01:14:31.040
+few seconds
+
+01:14:26.960 --> 01:14:34.400
+for it to respond so you see
+
+01:14:31.040 --> 01:14:38.239
+in web-based applications invariably
+
+01:14:34.400 --> 01:14:41.360
+you will have processes
+
+01:14:38.239 --> 01:14:42.320
+or components or modules whatever you
+
+01:14:41.360 --> 01:14:45.600
+call it
+
+01:14:42.320 --> 01:14:49.760
+that will either consume time
+
+01:14:45.600 --> 01:14:52.800
+or consume a lot of resources
+
+01:14:49.760 --> 01:14:55.440
+you have the option of
+
+01:14:52.800 --> 01:14:56.159
+architecting your application in such a
+
+01:14:55.440 --> 01:14:59.360
+way
+
+01:14:56.159 --> 01:15:02.719
+that all the processes are carried out
+
+01:14:59.360 --> 01:15:07.199
+in the ec2 instance one fine but
+
+01:15:02.719 --> 01:15:10.320
+then you run the risk of the fact that
+
+01:15:07.199 --> 01:15:12.400
+the response of the responses the the
+
+01:15:10.320 --> 01:15:15.760
+speed of responses
+
+01:15:12.400 --> 01:15:19.120
+from easy to instance one could be quite
+
+01:15:15.760 --> 01:15:21.440
+slow even if that's not happening
+
+01:15:19.120 --> 01:15:23.679
+it could be the case that this ec2
+
+01:15:21.440 --> 01:15:26.880
+instance one
+
+01:15:23.679 --> 01:15:28.000
+is getting overloaded very quickly maybe
+
+01:15:26.880 --> 01:15:31.520
+after maybe
+
+01:15:28.000 --> 01:15:32.000
+a handful of requests whereas if it was
+
+01:15:31.520 --> 01:15:35.040
+just
+
+01:15:32.000 --> 01:15:37.360
+serving just
+
+01:15:35.040 --> 01:15:38.239
+web-based queries just the consumer
+
+01:15:37.360 --> 01:15:41.840
+queries
+
+01:15:38.239 --> 01:15:45.040
+then it could handle a lot more perhaps
+
+01:15:41.840 --> 01:15:47.280
+tens of thousands so
+
+01:15:45.040 --> 01:15:48.560
+this is where the distinction between
+
+01:15:47.280 --> 01:15:52.640
+web server
+
+01:15:48.560 --> 01:15:55.360
+and computational server comes into play
+
+01:15:52.640 --> 01:15:57.199
+so when architecting your application in
+
+01:15:55.360 --> 01:16:00.880
+inelastic being stock
+
+01:15:57.199 --> 01:16:03.600
+you could say any any process any module
+
+01:16:00.880 --> 01:16:04.800
+any activity that is going to consume
+
+01:16:03.600 --> 01:16:07.520
+time
+
+01:16:04.800 --> 01:16:08.000
+i will not run it in the web server but
+
+01:16:07.520 --> 01:16:10.960
+i will
+
+01:16:08.000 --> 01:16:11.440
+offload it to a different server let's
+
+01:16:10.960 --> 01:16:14.800
+say
+
+01:16:11.440 --> 01:16:16.880
+a computationally exp computationally
+
+01:16:14.800 --> 01:16:20.159
+intensive server that can run
+
+01:16:16.880 --> 01:16:21.040
+processes very quickly similarly any
+
+01:16:20.159 --> 01:16:24.159
+process
+
+01:16:21.040 --> 01:16:26.480
+any module or activity that needs
+
+01:16:24.159 --> 01:16:28.640
+number crunching or needs a lot of
+
+01:16:26.480 --> 01:16:32.000
+computational resources
+
+01:16:28.640 --> 01:16:35.600
+i'm not going to host them here
+
+01:16:32.000 --> 01:16:38.480
+but i'm going to offload them to
+
+01:16:35.600 --> 01:16:39.440
+servers that are better able to handle
+
+01:16:38.480 --> 01:16:42.640
+that
+
+01:16:39.440 --> 01:16:46.000
+that's exactly the role of a worker here
+
+01:16:42.640 --> 01:16:47.120
+the role of a worker here is nothing but
+
+01:16:46.000 --> 01:16:50.320
+a worker tier
+
+01:16:47.120 --> 01:16:53.520
+are servers that are
+
+01:16:50.320 --> 01:16:57.440
+perhaps better equipped to
+
+01:16:53.520 --> 01:17:00.400
+handle processes that require a lot more
+
+01:16:57.440 --> 01:17:01.360
+computational resources or which are
+
+01:17:00.400 --> 01:17:04.800
+going to consume
+
+01:17:01.360 --> 01:17:08.640
+time so instead of putting
+
+01:17:04.800 --> 01:17:08.960
+everything in the web server or in the
+
+01:17:08.640 --> 01:17:12.080
+web
+
+01:17:08.960 --> 01:17:15.360
+server layer and in doing so
+
+01:17:12.080 --> 01:17:18.560
+delaying the requests or responses
+
+01:17:15.360 --> 01:17:18.880
+from the web servers why don't we put
+
+01:17:18.560 --> 01:17:21.600
+them
+
+01:17:18.880 --> 01:17:22.480
+into the computational servers that's
+
+01:17:21.600 --> 01:17:25.840
+how
+
+01:17:22.480 --> 01:17:30.159
+or that's the main idea of
+
+01:17:25.840 --> 01:17:33.600
+the web server and the worker node
+
+01:17:30.159 --> 01:17:37.679
+so as i said the
+
+01:17:33.600 --> 01:17:41.199
+a worker environment only exists
+
+01:17:37.679 --> 01:17:44.480
+to help a web server environment
+
+01:17:41.199 --> 01:17:47.600
+without a web server environment
+
+01:17:44.480 --> 01:17:52.239
+there is no role or no purpose for
+
+01:17:47.600 --> 01:17:54.960
+a worker environment okay so on its own
+
+01:17:52.239 --> 01:17:56.080
+the web the worker environment there is
+
+01:17:54.960 --> 01:17:59.600
+no role i mean
+
+01:17:56.080 --> 01:18:03.440
+it's meaningless okay and if
+
+01:17:59.600 --> 01:18:07.760
+a worker environment is actually
+
+01:18:03.440 --> 01:18:10.800
+geared to handle resource intensive
+
+01:18:07.760 --> 01:18:11.600
+such as processes that require the use
+
+01:18:10.800 --> 01:18:14.880
+of ai
+
+01:18:11.600 --> 01:18:16.080
+resources for example or gpus for
+
+01:18:14.880 --> 01:18:19.679
+example
+
+01:18:16.080 --> 01:18:24.159
+or time intensive operations okay
+
+01:18:19.679 --> 01:18:26.719
+so instead of running them in the
+
+01:18:24.159 --> 01:18:27.679
+web server tier the idea is to offload
+
+01:18:26.719 --> 01:18:31.440
+them to the
+
+01:18:27.679 --> 01:18:34.719
+worker tier okay so it's a clear
+
+01:18:31.440 --> 01:18:37.360
+decoupling of your web application uh
+
+01:18:34.719 --> 01:18:38.480
+using a worker environment process so
+
+01:18:37.360 --> 01:18:41.120
+that
+
+01:18:38.480 --> 01:18:41.679
+resource and time intensive activities
+
+01:18:41.120 --> 01:18:44.880
+can be
+
+01:18:41.679 --> 01:18:48.400
+handled by a worker environment
+
+01:18:44.880 --> 01:18:50.320
+so that's all good but you might be
+
+01:18:48.400 --> 01:18:53.600
+wondering
+
+01:18:50.320 --> 01:18:56.400
+how do the worker environment and the
+
+01:18:53.600 --> 01:18:57.840
+web server environment how do they
+
+01:18:56.400 --> 01:19:01.520
+coordinate
+
+01:18:57.840 --> 01:19:05.040
+communicate and manage
+
+01:19:01.520 --> 01:19:07.120
+the interaction between each other okay
+
+01:19:05.040 --> 01:19:08.480
+and this is where i want to introduce
+
+01:19:07.120 --> 01:19:12.719
+you all to the notion
+
+01:19:08.480 --> 01:19:14.880
+of q those of you who have been into
+
+01:19:12.719 --> 01:19:18.719
+programming i'm sure you would
+
+01:19:14.880 --> 01:19:22.320
+understand what i'm talking about i mean
+
+01:19:18.719 --> 01:19:26.080
+q is a programming language
+
+01:19:22.320 --> 01:19:29.280
+construct in which what you do is
+
+01:19:26.080 --> 01:19:30.080
+you if you have a job you just put it in
+
+01:19:29.280 --> 01:19:32.960
+a queue
+
+01:19:30.080 --> 01:19:35.679
+much like when we line up in supermarket
+
+01:19:32.960 --> 01:19:38.800
+or at mcdonald's to purchase anything
+
+01:19:35.679 --> 01:19:43.360
+you have to line up first in first in
+
+01:19:38.800 --> 01:19:47.679
+first out okay so let me explain you
+
+01:19:43.360 --> 01:19:49.600
+how the web server environment and the
+
+01:19:47.679 --> 01:19:51.120
+worker environment on the right hand
+
+01:19:49.600 --> 01:19:54.719
+side how they
+
+01:19:51.120 --> 01:19:55.520
+interact and how they communicate with
+
+01:19:54.719 --> 01:19:57.600
+each other
+
+01:19:55.520 --> 01:20:00.480
+so let's suppose on the left hand side
+
+01:19:57.600 --> 01:20:02.719
+are web server tiers for my environment
+
+01:20:00.480 --> 01:20:04.320
+i'm starting off with the base minimum
+
+01:20:02.719 --> 01:20:07.280
+of 1
+
+01:20:04.320 --> 01:20:08.480
+and on the right hand side are worker
+
+01:20:07.280 --> 01:20:12.239
+environments
+
+01:20:08.480 --> 01:20:14.320
+so for my credit risk application i've
+
+01:20:12.239 --> 01:20:16.400
+got incoming requests
+
+01:20:14.320 --> 01:20:18.480
+very good what i'm doing from these
+
+01:20:16.400 --> 01:20:20.719
+requests is
+
+01:20:18.480 --> 01:20:22.639
+i've architected the application in such
+
+01:20:20.719 --> 01:20:25.679
+a way that
+
+01:20:22.639 --> 01:20:27.760
+process one which is
+
+01:20:25.679 --> 01:20:29.920
+time intensive in the says that in the
+
+01:20:27.760 --> 01:20:32.480
+sense that it consumes time
+
+01:20:29.920 --> 01:20:35.120
+that is being offloaded and i want to
+
+01:20:32.480 --> 01:20:38.000
+send it to the computational server
+
+01:20:35.120 --> 01:20:40.239
+similarly process 2 which is which needs
+
+01:20:38.000 --> 01:20:43.199
+the use of ai algorithm
+
+01:20:40.239 --> 01:20:44.480
+i want to send it to perhaps a gpu
+
+01:20:43.199 --> 01:20:48.000
+server
+
+01:20:44.480 --> 01:20:52.000
+what i could do is i can put this
+
+01:20:48.000 --> 01:20:55.280
+activity 1 or process 1 and activity 2
+
+01:20:52.000 --> 01:20:58.560
+or process 2 into a queue
+
+01:20:55.280 --> 01:21:00.000
+a queue is very similar to i mean q is
+
+01:20:58.560 --> 01:21:02.960
+as i said is a programming
+
+01:21:00.000 --> 01:21:05.120
+language construct what you do is
+
+01:21:02.960 --> 01:21:09.120
+activity one goes first
+
+01:21:05.120 --> 01:21:09.920
+activity two goes second and you keep on
+
+01:21:09.120 --> 01:21:12.719
+lining up
+
+01:21:09.920 --> 01:21:14.719
+okay so that is the cube the
+
+01:21:12.719 --> 01:21:16.239
+computational servers on the right hand
+
+01:21:14.719 --> 01:21:19.360
+side what they do
+
+01:21:16.239 --> 01:21:20.719
+is the the queue here behind the queue
+
+01:21:19.360 --> 01:21:23.120
+running
+
+01:21:20.719 --> 01:21:24.719
+always running in behind the queue is
+
+01:21:23.120 --> 01:21:28.000
+something known as a
+
+01:21:24.719 --> 01:21:31.600
+daemon process okay it is scanning the
+
+01:21:28.000 --> 01:21:34.239
+queue 24x7 to find out
+
+01:21:31.600 --> 01:21:36.800
+if there are any tasks that have been
+
+01:21:34.239 --> 01:21:40.159
+populated in the queue for execution
+
+01:21:36.800 --> 01:21:43.280
+and as soon as a task has been is found
+
+01:21:40.159 --> 01:21:46.560
+the daemon process picks it up and
+
+01:21:43.280 --> 01:21:48.719
+assigns it to a worker
+
+01:21:46.560 --> 01:21:49.600
+node or a worker or a computational
+
+01:21:48.719 --> 01:21:52.960
+server
+
+01:21:49.600 --> 01:21:56.000
+so activity one may be assigned here
+
+01:21:52.960 --> 01:21:58.400
+activity two may also be assigned at the
+
+01:21:56.000 --> 01:21:59.120
+at the web at the at the server one as
+
+01:21:58.400 --> 01:22:01.440
+well
+
+01:21:59.120 --> 01:22:02.719
+so you now you see there is clear
+
+01:22:01.440 --> 01:22:06.800
+decoupling
+
+01:22:02.719 --> 01:22:08.840
+between the front end of the web servers
+
+01:22:06.800 --> 01:22:10.000
+and the computationally intensive
+
+01:22:08.840 --> 01:22:12.360
+activities
+
+01:22:10.000 --> 01:22:13.840
+the web servers can be much more
+
+01:22:12.360 --> 01:22:16.400
+responsive
+
+01:22:13.840 --> 01:22:17.520
+much more agile keep on responding to
+
+01:22:16.400 --> 01:22:20.880
+queries
+
+01:22:17.520 --> 01:22:24.800
+much more quickly relatively
+
+01:22:20.880 --> 01:22:26.159
+when the server one completes their
+
+01:22:24.800 --> 01:22:29.199
+activities
+
+01:22:26.159 --> 01:22:29.600
+what they do is they put the information
+
+01:22:29.199 --> 01:22:33.199
+back
+
+01:22:29.600 --> 01:22:33.760
+into the queue and the queue notifies
+
+01:22:33.199 --> 01:22:36.320
+the
+
+01:22:33.760 --> 01:22:38.000
+ec2 instance one and they get the
+
+01:22:36.320 --> 01:22:40.639
+information back
+
+01:22:38.000 --> 01:22:42.480
+but what i want you to focus on is let's
+
+01:22:40.639 --> 01:22:45.360
+say that
+
+01:22:42.480 --> 01:22:46.159
+all of a sudden three or four customers
+
+01:22:45.360 --> 01:22:49.199
+came in
+
+01:22:46.159 --> 01:22:51.280
+for application again very similar that
+
+01:22:49.199 --> 01:22:52.159
+information can be populated into the
+
+01:22:51.280 --> 01:22:56.880
+queue
+
+01:22:52.159 --> 01:23:00.159
+and because worker node one is busy
+
+01:22:56.880 --> 01:23:02.239
+um automatically the daemon process
+
+01:23:00.159 --> 01:23:06.159
+without you doing anything
+
+01:23:02.239 --> 01:23:09.360
+would scan the queue pull out the
+
+01:23:06.159 --> 01:23:13.600
+pull out the job and it'll
+
+01:23:09.360 --> 01:23:17.199
+it'll fire up a new server worker note 2
+
+01:23:13.600 --> 01:23:19.520
+and again if it if the
+
+01:23:17.199 --> 01:23:21.120
+auto scaling group on the web server
+
+01:23:19.520 --> 01:23:24.960
+side finds that
+
+01:23:21.120 --> 01:23:26.080
+oops uh the number of requests that are
+
+01:23:24.960 --> 01:23:29.440
+being handled by
+
+01:23:26.080 --> 01:23:32.480
+ec2 instance one are quite high
+
+01:23:29.440 --> 01:23:34.000
+and i need to load balance them or i
+
+01:23:32.480 --> 01:23:37.520
+need to reduce the response
+
+01:23:34.000 --> 01:23:40.880
+time it can automatically increase
+
+01:23:37.520 --> 01:23:43.360
+the size of the ec2
+
+01:23:40.880 --> 01:23:44.159
+of the web server group so as you can
+
+01:23:43.360 --> 01:23:48.080
+see very
+
+01:23:44.159 --> 01:23:51.360
+seamlessly the worker nodes
+
+01:23:48.080 --> 01:23:54.560
+can keep on the size of i mean
+
+01:23:51.360 --> 01:23:58.000
+the the worker nodes or the fleet of
+
+01:23:54.560 --> 01:24:01.520
+worker nodes can keep on increasing
+
+01:23:58.000 --> 01:24:03.920
+and the fleet of the web server nodes
+
+01:24:01.520 --> 01:24:05.120
+can keep on increasing on the left hand
+
+01:24:03.920 --> 01:24:08.440
+side as well
+
+01:24:05.120 --> 01:24:10.960
+and these two they exist
+
+01:24:08.440 --> 01:24:11.679
+independently of each other in the sense
+
+01:24:10.960 --> 01:24:15.040
+that
+
+01:24:11.679 --> 01:24:18.560
+they communicate with each other using
+
+01:24:15.040 --> 01:24:21.679
+a queue so whenever as i said
+
+01:24:18.560 --> 01:24:24.480
+the daemon process scans the queue
+
+01:24:21.679 --> 01:24:25.760
+pulls the information out and gives it
+
+01:24:24.480 --> 01:24:27.760
+to a server
+
+01:24:25.760 --> 01:24:29.520
+and when the server is finished when the
+
+01:24:27.760 --> 01:24:32.080
+server finishes its job
+
+01:24:29.520 --> 01:24:34.000
+they put it back into the queue and that
+
+01:24:32.080 --> 01:24:35.280
+information is relayed back to web
+
+01:24:34.000 --> 01:24:38.400
+servers
+
+01:24:35.280 --> 01:24:41.120
+so this is without queue without
+
+01:24:38.400 --> 01:24:43.920
+the q without the concept of queue here
+
+01:24:41.120 --> 01:24:44.960
+it would simply not be possible for
+
+01:24:43.920 --> 01:24:47.360
+number one
+
+01:24:44.960 --> 01:24:48.960
+the worker node and the web server nodes
+
+01:24:47.360 --> 01:24:51.679
+to be decoupled
+
+01:24:48.960 --> 01:24:52.239
+in the manner that you see and number
+
+01:24:51.679 --> 01:24:54.800
+two
+
+01:24:52.239 --> 01:24:56.560
+to be able to scale up or scale down
+
+01:24:54.800 --> 01:25:00.719
+very gracefully
+
+01:24:56.560 --> 01:25:04.159
+as you can see here so what amazon did
+
+01:25:00.719 --> 01:25:07.679
+was they implemented seeing
+
+01:25:04.159 --> 01:25:10.880
+how important the notion of
+
+01:25:07.679 --> 01:25:14.320
+queue is they implemented a
+
+01:25:10.880 --> 01:25:15.520
+managed queuing service which is known
+
+01:25:14.320 --> 01:25:19.360
+as
+
+01:25:15.520 --> 01:25:22.800
+amazon sqs simple
+
+01:25:19.360 --> 01:25:24.639
+queue service sqs so the basic idea i
+
+01:25:22.800 --> 01:25:25.600
+mean what you see on the screen right
+
+01:25:24.639 --> 01:25:30.320
+now
+
+01:25:25.600 --> 01:25:31.520
+is exactly what i've explained here to
+
+01:25:30.320 --> 01:25:35.679
+you all
+
+01:25:31.520 --> 01:25:39.679
+but in this case i'm making use of aws
+
+01:25:35.679 --> 01:25:42.719
+services icons so on the left hand side
+
+01:25:39.679 --> 01:25:45.120
+this side here is the
+
+01:25:42.719 --> 01:25:46.960
+web server environment here i've
+
+01:25:45.120 --> 01:25:48.719
+explained this to you so
+
+01:25:46.960 --> 01:25:50.000
+this is your elastic bin stock
+
+01:25:48.719 --> 01:25:53.600
+application
+
+01:25:50.000 --> 01:25:55.840
+at the core is the workhorse is the ec2
+
+01:25:53.600 --> 01:25:59.440
+instances
+
+01:25:55.840 --> 01:26:02.000
+you have an auto scaling group and
+
+01:25:59.440 --> 01:26:03.760
+whenever there is a need to offload
+
+01:26:02.000 --> 01:26:06.719
+applications
+
+01:26:03.760 --> 01:26:07.360
+computationally intensive applications
+
+01:26:06.719 --> 01:26:09.600
+this
+
+01:26:07.360 --> 01:26:12.400
+elastic bean stock environment or the
+
+01:26:09.600 --> 01:26:16.320
+work of the web server node it makes it
+
+01:26:12.400 --> 01:26:19.679
+sqs message and it populates it
+
+01:26:16.320 --> 01:26:22.320
+into a queue okay and
+
+01:26:19.679 --> 01:26:23.120
+when the queue within the queue as i
+
+01:26:22.320 --> 01:26:26.080
+said
+
+01:26:23.120 --> 01:26:27.920
+there is a daemon process running behind
+
+01:26:26.080 --> 01:26:31.440
+always
+
+01:26:27.920 --> 01:26:32.960
+in the in the worker node it keeps on
+
+01:26:31.440 --> 01:26:36.000
+scanning the queue
+
+01:26:32.960 --> 01:26:39.920
+24 by 7 and whenever there is a new
+
+01:26:36.000 --> 01:26:43.440
+activity or a new process it picks it up
+
+01:26:39.920 --> 01:26:46.560
+and it assigns it to either existing
+
+01:26:43.440 --> 01:26:49.280
+or a new ec2 instance
+
+01:26:46.560 --> 01:26:50.080
+but the ec2 instances on the right hand
+
+01:26:49.280 --> 01:26:53.360
+side
+
+01:26:50.080 --> 01:26:54.800
+are worker nodes okay so i hope you can
+
+01:26:53.360 --> 01:26:57.679
+see the
+
+01:26:54.800 --> 01:26:59.840
+interaction between web the web server
+
+01:26:57.679 --> 01:27:02.840
+nodes and the worker nodes
+
+01:26:59.840 --> 01:27:05.920
+i repeat again the worker nodes only
+
+01:27:02.840 --> 01:27:09.120
+exist to supplement
+
+01:27:05.920 --> 01:27:11.600
+and to help the web server nodes
+
+01:27:09.120 --> 01:27:14.159
+in responding to their cloud to the
+
+01:27:11.600 --> 01:27:17.440
+customers in a timely manner
+
+01:27:14.159 --> 01:27:19.920
+so these are the steps in uh of the
+
+01:27:17.440 --> 01:27:22.400
+working of the worker node as i said
+
+01:27:19.920 --> 01:27:23.679
+the first thing is that the web server
+
+01:27:22.400 --> 01:27:27.679
+environment places
+
+01:27:23.679 --> 01:27:30.320
+any job in the sqs queue
+
+01:27:27.679 --> 01:27:31.360
+and step two that there is a daemon
+
+01:27:30.320 --> 01:27:34.159
+process which is
+
+01:27:31.360 --> 01:27:36.239
+always running and which is always
+
+01:27:34.159 --> 01:27:40.639
+polling and looking for
+
+01:27:36.239 --> 01:27:43.760
+new jobs in the sqsq
+
+01:27:40.639 --> 01:27:44.719
+when a new job has been found the demon
+
+01:27:43.760 --> 01:27:47.760
+retrieves it
+
+01:27:44.719 --> 01:27:50.800
+and either assigns it to an existing
+
+01:27:47.760 --> 01:27:53.280
+worker node or fires up a new worker
+
+01:27:50.800 --> 01:27:55.280
+node that's the decision that they make
+
+01:27:53.280 --> 01:27:56.400
+and when the job is completed by the
+
+01:27:55.280 --> 01:27:59.360
+worker node
+
+01:27:56.400 --> 01:28:00.159
+the daemon process notifies the web
+
+01:27:59.360 --> 01:28:03.199
+server tier
+
+01:28:00.159 --> 01:28:05.360
+as well so this is how
+
+01:28:03.199 --> 01:28:06.560
+this is the working of the worker
+
+01:28:05.360 --> 01:28:10.239
+environment
+
+01:28:06.560 --> 01:28:14.000
+i would like to show you one video about
+
+01:28:10.239 --> 01:28:16.719
+amazon simple queue service before we
+
+01:28:14.000 --> 01:28:17.040
+wind up today's lecture i hope you can
+
+01:28:16.719 --> 01:28:20.800
+see
+
+01:28:17.040 --> 01:28:24.080
+my screen now please let me know if you
+
+01:28:20.800 --> 01:28:24.080
+can't hear the audio
+
+01:28:24.560 --> 01:28:29.840
+enjoy the video
+
+01:28:32.000 --> 01:28:35.520
+greetings my name is matt wood and i'm
+
+01:28:33.760 --> 01:28:37.280
+here at aws headquarters in seattle to
+
+01:28:35.520 --> 01:28:38.239
+give you an update on the amazon simple
+
+01:28:37.280 --> 01:28:41.520
+q service
+
+01:28:38.239 --> 01:28:43.920
+sqs sqs is a fully managed message
+
+01:28:41.520 --> 01:28:45.760
+queuing service for reliably communicate
+
+01:28:43.920 --> 01:28:48.320
+distributed software components and
+
+01:28:45.760 --> 01:28:50.159
+microservices at any scale
+
+01:28:48.320 --> 01:28:52.159
+sqs makes it simple to decouple
+
+01:28:50.159 --> 01:28:54.400
+application components so they can run
+
+01:28:52.159 --> 01:28:55.679
+and fail independently this lets you
+
+01:28:54.400 --> 01:28:57.679
+build applications that are fault
+
+01:28:55.679 --> 01:29:00.719
+tolerant and easy to scale
+
+01:28:57.679 --> 01:29:02.960
+with these concepts of what
+
+01:29:00.719 --> 01:29:04.000
+matt is saying they are very important i
+
+01:29:02.960 --> 01:29:07.360
+mean
+
+01:29:04.000 --> 01:29:09.600
+the worker application and the web
+
+01:29:07.360 --> 01:29:11.199
+application in this case they are
+
+01:29:09.600 --> 01:29:13.600
+decoupled
+
+01:29:11.199 --> 01:29:15.040
+they can fail independently and they can
+
+01:29:13.600 --> 01:29:17.760
+run independently
+
+01:29:15.040 --> 01:29:18.080
+but if they were couple if they fail
+
+01:29:17.760 --> 01:29:21.840
+they
+
+01:29:18.080 --> 01:29:23.840
+fail as a unit sqs
+
+01:29:21.840 --> 01:29:25.760
+you can exchange messages between any
+
+01:29:23.840 --> 01:29:27.679
+number of systems at any volume
+
+01:29:25.760 --> 01:29:29.920
+without losing messages and without the
+
+01:29:27.679 --> 01:29:33.040
+overhead of managing dedicated messaging
+
+01:29:29.920 --> 01:29:34.800
+software and infrastructure now
+
+01:29:33.040 --> 01:29:36.400
+sqs gives you even more power and
+
+01:29:34.800 --> 01:29:38.800
+flexibility with the introduction
+
+01:29:36.400 --> 01:29:39.440
+of an entirely new queue type called
+
+01:29:38.800 --> 01:29:43.040
+fifo
+
+01:29:39.440 --> 01:29:44.880
+or first in first out fifo queues are
+
+01:29:43.040 --> 01:29:46.800
+designed to guarantee that the order in
+
+01:29:44.880 --> 01:29:48.159
+which messages are placed on a queue
+
+01:29:46.800 --> 01:29:50.560
+is the order in which they will be
+
+01:29:48.159 --> 01:29:52.800
+retrieved from it this lets you use
+
+01:29:50.560 --> 01:29:54.480
+sqs for systems that depend on receiving
+
+01:29:52.800 --> 01:29:56.800
+messages in exact order
+
+01:29:54.480 --> 01:29:59.760
+and exactly once such as financial
+
+01:29:56.800 --> 01:30:02.400
+services and e-commerce applications
+
+01:29:59.760 --> 01:30:04.000
+for example fifo queues help ensure
+
+01:30:02.400 --> 01:30:05.920
+mobile banking transactions are
+
+01:30:04.000 --> 01:30:07.920
+processed in the correct sequence and
+
+01:30:05.920 --> 01:30:09.040
+the price updates for online retail
+
+01:30:07.920 --> 01:30:10.560
+sites like amazon
+
+01:30:09.040 --> 01:30:12.080
+are processed and published in the right
+
+01:30:10.560 --> 01:30:14.800
+order
+
+01:30:12.080 --> 01:30:15.760
+fifo queues complement our existing sqs
+
+01:30:14.800 --> 01:30:17.520
+standard cues
+
+01:30:15.760 --> 01:30:19.360
+which offer higher throughput best
+
+01:30:17.520 --> 01:30:20.480
+effort ordering and at least once
+
+01:30:19.360 --> 01:30:22.400
+delivery
+
+01:30:20.480 --> 01:30:24.000
+the same api functions apply to both
+
+01:30:22.400 --> 01:30:26.480
+types of queues
+
+01:30:24.000 --> 01:30:28.639
+amazon sqs fifo queues are priced at 50
+
+01:30:26.480 --> 01:30:30.639
+cents per million api requests
+
+01:30:28.639 --> 01:30:32.080
+the first 1 million monthly requests
+
+01:30:30.639 --> 01:30:34.560
+free
+
+01:30:32.080 --> 01:30:36.719
+today we have expanded sqs fifo queues
+
+01:30:34.560 --> 01:30:38.880
+to us east virginia region
+
+01:30:36.719 --> 01:30:41.120
+you can get started with sqs fifo queues
+
+01:30:38.880 --> 01:30:42.960
+using the aws console or sdk
+
+01:30:41.120 --> 01:30:44.560
+of your choice with just three simple
+
+01:30:42.960 --> 01:30:49.840
+commands that's it
+
+01:30:44.560 --> 01:30:49.840
+thanks a lot
+
+01:30:50.159 --> 01:30:54.880
+so uh one last thing i want to show you
+
+01:30:53.840 --> 01:30:57.840
+all
+
+01:30:54.880 --> 01:30:59.679
+is how we can create a worker
+
+01:30:57.840 --> 01:31:01.360
+environment and that'll
+
+01:30:59.679 --> 01:31:02.960
+and then we'll draw the lecture to a
+
+01:31:01.360 --> 01:31:06.080
+close so
+
+01:31:02.960 --> 01:31:09.520
+uh again i go to my environments
+
+01:31:06.080 --> 01:31:11.280
+okay you see all mine this is running
+
+01:31:09.520 --> 01:31:15.920
+here which is quite healthy
+
+01:31:11.280 --> 01:31:18.480
+i click on create a new environment and
+
+01:31:15.920 --> 01:31:20.880
+so far i've been saying i need to run a
+
+01:31:18.480 --> 01:31:21.679
+web web server environment but now i'll
+
+01:31:20.880 --> 01:31:24.159
+say
+
+01:31:21.679 --> 01:31:25.120
+i need to run a worker environment
+
+01:31:24.159 --> 01:31:28.239
+select
+
+01:31:25.120 --> 01:31:31.440
+and like before i mean i'll say
+
+01:31:28.239 --> 01:31:33.280
+this is a worker environment application
+
+01:31:31.440 --> 01:31:36.480
+let the environment name populate by
+
+01:31:33.280 --> 01:31:39.280
+itself very similar to
+
+01:31:36.480 --> 01:31:40.880
+um what it was doing in the web server
+
+01:31:39.280 --> 01:31:44.080
+here it's asking me
+
+01:31:40.880 --> 01:31:47.600
+tell me the platform that you need
+
+01:31:44.080 --> 01:31:50.560
+to run your worker nodes so let me again
+
+01:31:47.600 --> 01:31:53.679
+say that it needs to be run in java
+
+01:31:50.560 --> 01:31:56.480
+uh java 8 here
+
+01:31:53.679 --> 01:31:59.679
+and again i can either i can run a
+
+01:31:56.480 --> 01:32:03.520
+simple application or upload your code
+
+01:31:59.679 --> 01:32:06.080
+but let me create my environment
+
+01:32:03.520 --> 01:32:08.000
+i request you all to keep an eye out for
+
+01:32:06.080 --> 01:32:09.920
+what's happening i mean the activities
+
+01:32:08.000 --> 01:32:27.840
+that are taking place so
+
+01:32:09.920 --> 01:32:27.840
+first thing the environment is starting
+
+01:32:34.239 --> 01:32:39.120
+so once again because this is platform
+
+01:32:37.840 --> 01:32:41.920
+as a service
+
+01:32:39.120 --> 01:32:44.000
+it knows that i would need a security
+
+01:32:41.920 --> 01:32:45.120
+group for my ec2 instances so it has
+
+01:32:44.000 --> 01:32:48.480
+created one
+
+01:32:45.120 --> 01:32:50.560
+for me already and remember worker nodes
+
+01:32:48.480 --> 01:32:51.840
+are nothing but specialized ec2
+
+01:32:50.560 --> 01:32:55.679
+instances
+
+01:32:51.840 --> 01:33:09.840
+it has then created an auto scaling
+
+01:32:55.679 --> 01:33:09.840
+node or group for my worker nodes
+
+01:33:26.960 --> 01:33:31.280
+please bear with me for perhaps one or
+
+01:33:29.040 --> 01:33:34.320
+two minutes and it will launch the
+
+01:33:31.280 --> 01:33:34.320
+worker environment
+
+01:33:34.480 --> 01:33:37.679
+and then i want to show you the
+
+01:33:36.080 --> 01:33:40.480
+difference between
+
+01:33:37.679 --> 01:33:42.239
+the worker environment and the web web
+
+01:33:40.480 --> 01:33:44.880
+server environment remember in the web
+
+01:33:42.239 --> 01:33:47.840
+server environment there was a web page
+
+01:33:44.880 --> 01:33:50.159
+i could see a web page so now it has
+
+01:33:47.840 --> 01:33:53.600
+added
+
+01:33:50.159 --> 01:33:54.880
+this is the ec2 instance it has added it
+
+01:33:53.600 --> 01:33:57.920
+to my environment
+
+01:33:54.880 --> 01:34:01.920
+and it has added this ec2 instance to
+
+01:33:57.920 --> 01:34:01.920
+the auto scaling group as well which is
+
+01:34:02.840 --> 01:34:05.840
+superb
+
+01:34:07.520 --> 01:34:12.000
+and it has created now a cloud watch to
+
+01:34:10.159 --> 01:34:19.840
+keep an eye out on for the
+
+01:34:12.000 --> 01:34:19.840
+health of my ec2 of my worker instances
+
+01:34:34.080 --> 01:34:37.920
+it should launch my worker environment
+
+01:34:36.239 --> 01:34:42.480
+anytime now
+
+01:34:37.920 --> 01:34:42.480
+so remember we started at 7 31
+
+01:34:42.560 --> 01:34:47.840
+we are two minutes into the process
+
+01:35:01.520 --> 01:35:05.280
+okay so that's it my environment is now
+
+01:35:04.880 --> 01:35:07.520
+ready
+
+01:35:05.280 --> 01:35:09.440
+successfully loaded one scheduled task
+
+01:35:07.520 --> 01:35:14.480
+and that's the default one
+
+01:35:09.440 --> 01:35:15.280
+so i can go to my environments uh it's
+
+01:35:14.480 --> 01:35:18.800
+still great
+
+01:35:15.280 --> 01:35:18.800
+means it's still happening
+
+01:35:18.960 --> 01:35:29.840
+sorry still not complete
+
+01:35:58.239 --> 01:36:02.400
+so that's it successfully launched the
+
+01:36:00.480 --> 01:36:11.840
+environment so in about
+
+01:36:02.400 --> 01:36:11.840
+roughly four minutes
+
+01:36:19.040 --> 01:36:25.280
+so now unlike web server tier you see
+
+01:36:23.920 --> 01:36:26.400
+which you remember this is my
+
+01:36:25.280 --> 01:36:30.080
+application name
+
+01:36:26.400 --> 01:36:31.679
+well and good uh in web server tier i
+
+01:36:30.080 --> 01:36:34.400
+had a
+
+01:36:31.679 --> 01:36:36.000
+url a public url where i could see my
+
+01:36:34.400 --> 01:36:39.199
+application
+
+01:36:36.000 --> 01:36:41.360
+but that is missing in the web
+
+01:36:39.199 --> 01:36:43.360
+in the worker environment here and
+
+01:36:41.360 --> 01:36:46.560
+that's understandable because
+
+01:36:43.360 --> 01:36:49.199
+the worker environment is not meant
+
+01:36:46.560 --> 01:36:50.080
+for delivering content to the public at
+
+01:36:49.199 --> 01:36:53.440
+large
+
+01:36:50.080 --> 01:36:56.400
+it's meant to supplement the web server
+
+01:36:53.440 --> 01:36:58.639
+environment here so what you instead see
+
+01:36:56.400 --> 01:36:59.679
+is the queue that this worker
+
+01:36:58.639 --> 01:37:03.199
+environment will be
+
+01:36:59.679 --> 01:37:06.880
+feeding tasks to so if i click on
+
+01:37:03.199 --> 01:37:10.400
+this queue it's taking me to a different
+
+01:37:06.880 --> 01:37:11.199
+simple q service and this was launched
+
+01:37:10.400 --> 01:37:15.119
+about
+
+01:37:11.199 --> 01:37:17.840
+maybe 7 31 a few minutes ago
+
+01:37:15.119 --> 01:37:18.880
+this is the queue where uh i mean one of
+
+01:37:17.840 --> 01:37:22.320
+them is
+
+01:37:18.880 --> 01:37:24.320
+one of them is an aws eb worker
+
+01:37:22.320 --> 01:37:25.600
+dead letter q not this one but this is
+
+01:37:24.320 --> 01:37:29.440
+the queue where
+
+01:37:25.600 --> 01:37:33.840
+my worker where i would be posting jobs
+
+01:37:29.440 --> 01:37:36.159
+about posting jobs and the demon process
+
+01:37:33.840 --> 01:37:38.400
+will be picking it up from this queue
+
+01:37:36.159 --> 01:37:40.880
+so here's where i could send and receive
+
+01:37:38.400 --> 01:37:45.600
+messages from
+
+01:37:40.880 --> 01:37:45.600
+so once again
+
+01:37:46.239 --> 01:37:54.159
+these are the steps for launching a um
+
+01:37:50.400 --> 01:37:56.320
+worker environment so that brings us
+
+01:37:54.159 --> 01:37:59.199
+to the end of today's lecture so as i
+
+01:37:56.320 --> 01:38:01.360
+said elastic bean stock in in a sense
+
+01:37:59.199 --> 01:38:03.119
+offers a platform as a service
+
+01:38:01.360 --> 01:38:05.040
+environment for
+
+01:38:03.119 --> 01:38:07.520
+deploying your application it doesn't
+
+01:38:05.040 --> 01:38:11.119
+provide an environment for developing
+
+01:38:07.520 --> 01:38:13.520
+but deploying them at at scale
+
+01:38:11.119 --> 01:38:14.639
+and there are two tiers web server tier
+
+01:38:13.520 --> 01:38:16.480
+is for
+
+01:38:14.639 --> 01:38:17.760
+is used to handle web facing
+
+01:38:16.480 --> 01:38:21.119
+applications
+
+01:38:17.760 --> 01:38:22.000
+the worker tier is it has only one
+
+01:38:21.119 --> 01:38:24.960
+purpose
+
+01:38:22.000 --> 01:38:25.360
+to supplement and to help the web server
+
+01:38:24.960 --> 01:38:27.920
+here
+
+01:38:25.360 --> 01:38:28.719
+in carrying out computationally
+
+01:38:27.920 --> 01:38:31.840
+intensive
+
+01:38:28.719 --> 01:38:32.560
+and time intensive operations so with
+
+01:38:31.840 --> 01:38:36.800
+that end
+
+01:38:32.560 --> 01:38:38.880
+i i mean i finished my lecture today
+
+01:38:36.800 --> 01:38:42.719
+i would be delighted to take any
+
+01:38:38.880 --> 01:38:42.719
+questions and answer them if you have
+
+01:38:42.840 --> 01:38:45.840
+any
+
+01:38:50.000 --> 01:39:00.639
+excuse me
+
+01:38:58.080 --> 01:39:02.159
+uh i'm just looking at some of the
+
+01:39:00.639 --> 01:39:04.480
+questions to see if there are any
+
+01:39:02.159 --> 01:39:07.119
+unanswered questions
+
+01:39:04.480 --> 01:39:08.719
+uh adnan could you please i hope that
+
+01:39:07.119 --> 01:39:09.440
+your question about the relationship
+
+01:39:08.719 --> 01:39:12.080
+between web
+
+01:39:09.440 --> 01:39:12.719
+web server tier and the worker tier is
+
+01:39:12.080 --> 01:39:16.560
+now
+
+01:39:12.719 --> 01:39:20.639
+clear now if not let me know um
+
+01:39:16.560 --> 01:39:22.400
+how is auto scaling unique to aws ec2 or
+
+01:39:20.639 --> 01:39:24.400
+is it available for
+
+01:39:22.400 --> 01:39:25.440
+cloud server platform there are a number
+
+01:39:24.400 --> 01:39:28.480
+of other
+
+01:39:25.440 --> 01:39:31.840
+aws resources like databases
+
+01:39:28.480 --> 01:39:36.000
+rds that make use of auto scaling by no
+
+01:39:31.840 --> 01:39:36.000
+means is it unique to ec2 only
+
+01:39:36.239 --> 01:39:40.719
+other platforms also have it in
+
+01:39:38.080 --> 01:39:46.159
+different names trunk that is correct
+
+01:39:40.719 --> 01:39:46.159
+azure also has it in different names
+
+01:39:52.639 --> 01:39:56.719
+david that's a good question that the
+
+01:39:54.400 --> 01:39:59.600
+fact that it locks you into
+
+01:39:56.719 --> 01:40:01.119
+using amazon web services uh you're
+
+01:39:59.600 --> 01:40:03.679
+questioning i wonder if
+
+01:40:01.119 --> 01:40:04.480
+microsoft and google offers the same
+
+01:40:03.679 --> 01:40:07.199
+services
+
+01:40:04.480 --> 01:40:08.080
+or not to the best of my knowledge i
+
+01:40:07.199 --> 01:40:11.199
+have not come
+
+01:40:08.080 --> 01:40:13.440
+across and
+
+01:40:11.199 --> 01:40:14.320
+a service which is equivalent in nature
+
+01:40:13.440 --> 01:40:17.520
+to uh
+
+01:40:14.320 --> 01:40:20.960
+to what um to what
+
+01:40:17.520 --> 01:40:24.239
+elastic bean stock offers i hope that
+
+01:40:20.960 --> 01:40:24.239
+that answers your question
+
+01:40:30.320 --> 01:40:34.840
+david i'm thinking of mining bitcoin who
+
+01:40:32.639 --> 01:40:37.840
+is with me
+
+01:40:34.840 --> 01:40:37.840
+um
+
+01:40:42.639 --> 01:40:48.480
+david uh yes again you're not about
+
+01:40:46.239 --> 01:40:50.480
+the fact that worker tier is cheaper
+
+01:40:48.480 --> 01:40:52.560
+than web server tier
+
+01:40:50.480 --> 01:40:53.840
+as it is not chewing up data traffic
+
+01:40:52.560 --> 01:40:56.639
+that is correct
+
+01:40:53.840 --> 01:40:57.760
+but remember that web server that that
+
+01:40:56.639 --> 01:41:01.040
+the worker nodes
+
+01:40:57.760 --> 01:41:04.159
+are specialized nodes for handling
+
+01:41:01.040 --> 01:41:06.159
+such intensive processes
+
+01:41:04.159 --> 01:41:07.840
+the web server nodes even if you make
+
+01:41:06.159 --> 01:41:10.000
+them handle it
+
+01:41:07.840 --> 01:41:11.360
+they they wouldn't be able to handle it
+
+01:41:10.000 --> 01:41:13.440
+so gracefully
+
+01:41:11.360 --> 01:41:15.679
+so the cost per unit works out to be
+
+01:41:13.440 --> 01:41:19.840
+much less in the case of
+
+01:41:15.679 --> 01:41:19.840
+worker nodes
+
+01:41:20.480 --> 01:41:24.560
+william can this queue and i believe
+
+01:41:23.119 --> 01:41:25.760
+you're talking about simple queue
+
+01:41:24.560 --> 01:41:28.159
+service can it
+
+01:41:25.760 --> 01:41:30.159
+can be bottlenecked or because you can
+
+01:41:28.159 --> 01:41:33.600
+have a lot of servers
+
+01:41:30.159 --> 01:41:36.400
+no no i mean sqs is a managed
+
+01:41:33.600 --> 01:41:37.840
+service i hope that video which which i
+
+01:41:36.400 --> 01:41:41.840
+have shown you all
+
+01:41:37.840 --> 01:41:44.159
+um it it's i mean irrespective of how
+
+01:41:41.840 --> 01:41:47.280
+much messages you throw at it
+
+01:41:44.159 --> 01:41:47.679
+it can still handle them with with with
+
+01:41:47.280 --> 01:41:51.040
+the
+
+01:41:47.679 --> 01:41:51.040
+i mean very gracefully
+
+01:41:53.040 --> 01:41:58.960
+linear does it mean that cues play a
+
+01:41:56.320 --> 01:42:01.199
+buffer role no it's not a buffer role
+
+01:41:58.960 --> 01:42:03.920
+it's just a queue it's like
+
+01:42:01.199 --> 01:42:06.960
+um it's like where you put a message and
+
+01:42:03.920 --> 01:42:06.960
+someone picks it up
+
+01:42:10.719 --> 01:42:15.119
+how tank is oh sorry you can you can
+
+01:42:13.840 --> 01:42:18.719
+just continue yeah
+
+01:42:15.119 --> 01:42:20.239
+i'll ask later how tang is sq is a
+
+01:42:18.719 --> 01:42:24.400
+mandatory service or an
+
+01:42:20.239 --> 01:42:26.719
+optional service it is
+
+01:42:24.400 --> 01:42:28.639
+i don't know what you mean i mean are
+
+01:42:26.719 --> 01:42:31.760
+you telling in the context of
+
+01:42:28.639 --> 01:42:33.760
+a worker environment if so
+
+01:42:31.760 --> 01:42:36.719
+i mean there is no way a worker can
+
+01:42:33.760 --> 01:42:40.560
+function without
+
+01:42:36.719 --> 01:42:40.560
+a cue simply not possible
+
+01:42:41.280 --> 01:42:45.199
+uh david yes you're very correct i mean
+
+01:42:43.679 --> 01:42:46.960
+you you use sqs
+
+01:42:45.199 --> 01:42:48.960
+only if you're working if you if you're
+
+01:42:46.960 --> 01:42:51.280
+running a worker here that's absolutely
+
+01:42:48.960 --> 01:42:51.280
+correct
+
+01:42:53.119 --> 01:42:57.679
+ansel is a limit on number of ec2 we can
+
+01:42:56.320 --> 01:43:01.119
+have
+
+01:42:57.679 --> 01:43:02.880
+no i mean
+
+01:43:01.119 --> 01:43:04.239
+you can you can you can think of any
+
+01:43:02.880 --> 01:43:06.239
+reasonable number and you
+
+01:43:04.239 --> 01:43:10.880
+and your environment would be able to
+
+01:43:06.239 --> 01:43:13.520
+easily handle that
+
+01:43:10.880 --> 01:43:15.600
+so i think we have i i've read through
+
+01:43:13.520 --> 01:43:17.840
+all the comments and questions
+
+01:43:15.600 --> 01:43:19.520
+but i couldn't see anything but if there
+
+01:43:17.840 --> 01:43:23.360
+are any other questions that
+
+01:43:19.520 --> 01:43:27.280
+either i have not answered or
+
+01:43:23.360 --> 01:43:31.280
+i i need to elaborate on please uh
+
+01:43:27.280 --> 01:43:34.639
+please let me know uh chris burn
+
+01:43:31.280 --> 01:43:38.159
+does sqs also run on a vm
+
+01:43:34.639 --> 01:43:40.320
+and is unique to each eb
+
+01:43:38.159 --> 01:43:41.840
+application that is an interesting
+
+01:43:40.320 --> 01:43:45.520
+question
+
+01:43:41.840 --> 01:43:45.520
+look i can
+
+01:43:46.480 --> 01:43:53.600
+the details about how sqs is
+
+01:43:50.080 --> 01:43:56.000
+managed and run is not public except the
+
+01:43:53.600 --> 01:43:57.920
+fact that its capabilities and its
+
+01:43:56.000 --> 01:43:59.600
+pricing and its those things have been
+
+01:43:57.920 --> 01:44:02.719
+made public
+
+01:43:59.600 --> 01:44:05.040
+um but
+
+01:44:02.719 --> 01:44:06.239
+when we as you have seen just now when
+
+01:44:05.040 --> 01:44:09.199
+we set up
+
+01:44:06.239 --> 01:44:10.159
+a worker environment you are given a
+
+01:44:09.199 --> 01:44:12.960
+queue
+
+01:44:10.159 --> 01:44:21.840
+so yes that queue is specific to your
+
+01:44:12.960 --> 01:44:25.920
+worker environment
+
+01:44:21.840 --> 01:44:28.960
+saga uh i will i will answer the i mean
+
+01:44:25.920 --> 01:44:31.440
+i i can see this as a as a as a
+
+01:44:28.960 --> 01:44:33.760
+recurring question about minimum and
+
+01:44:31.440 --> 01:44:34.320
+maximum number page limit for assignment
+
+01:44:33.760 --> 01:44:37.199
+one
+
+01:44:34.320 --> 01:44:37.600
+can i just say that i am i'm not a big
+
+01:44:37.199 --> 01:44:41.840
+fan
+
+01:44:37.600 --> 01:44:44.880
+of perhaps prescribing number of pages
+
+01:44:41.840 --> 01:44:47.360
+but i would much rather see
+
+01:44:44.880 --> 01:44:50.239
+that you have learned something as a way
+
+01:44:47.360 --> 01:44:52.239
+of doing this assignment
+
+01:44:50.239 --> 01:44:54.480
+the maximum number of pages have been
+
+01:44:52.239 --> 01:44:55.119
+specified in the assignment description
+
+01:44:54.480 --> 01:44:58.159
+so
+
+01:44:55.119 --> 01:44:59.840
+if my memory serves me correct
+
+01:44:58.159 --> 01:45:02.480
+look i don't remember but they have been
+
+01:44:59.840 --> 01:45:05.199
+specified in the assignment description
+
+01:45:02.480 --> 01:45:06.480
+each one has a maximum number of pages
+
+01:45:05.199 --> 01:45:08.960
+so
+
+01:45:06.480 --> 01:45:10.320
+whilst i would recommend you to adhere
+
+01:45:08.960 --> 01:45:14.159
+to that but what
+
+01:45:10.320 --> 01:45:15.119
+i am very keen on is not number of pages
+
+01:45:14.159 --> 01:45:19.119
+certainly no
+
+01:45:15.119 --> 01:45:20.960
+i'm very keen on you showing
+
+01:45:19.119 --> 01:45:22.159
+what you have learned as a result of
+
+01:45:20.960 --> 01:45:25.520
+doing this
+
+01:45:22.159 --> 01:45:26.400
+assignment and if that's that's what i
+
+01:45:25.520 --> 01:45:29.920
+can see
+
+01:45:26.400 --> 01:45:32.080
+i'm very happy i hope that answers your
+
+01:45:29.920 --> 01:45:35.520
+question saga and also i can see
+
+01:45:32.080 --> 01:45:37.760
+a number of you asking about
+
+01:45:35.520 --> 01:45:39.679
+number of words and those things i
+
+01:45:37.760 --> 01:45:41.520
+wouldn't have a word limit
+
+01:45:39.679 --> 01:45:43.280
+but there is a limit on the number of
+
+01:45:41.520 --> 01:45:46.800
+pages
+
+01:45:43.280 --> 01:45:49.840
+but as i said i would not necessarily
+
+01:45:46.800 --> 01:45:50.080
+uh look at number of pages as a as a as
+
+01:45:49.840 --> 01:45:52.400
+a
+
+01:45:50.080 --> 01:45:53.920
+guide for determining if it's a good or
+
+01:45:52.400 --> 01:45:56.159
+a bad assignment
+
+01:45:53.920 --> 01:45:58.159
+i would look at the assessment criteria
+
+01:45:56.159 --> 01:46:00.960
+which has been provided to you
+
+01:45:58.159 --> 01:46:02.800
+number one and number two as a result of
+
+01:46:00.960 --> 01:46:05.280
+you doing this assignment
+
+01:46:02.800 --> 01:46:13.840
+i'm very keen that you learn something
+
+01:46:05.280 --> 01:46:16.880
+out of it
+
+01:46:13.840 --> 01:46:20.719
+uh malini yes that is correct
+
+01:46:16.880 --> 01:46:21.679
+uh um after we launch ec2 do we need to
+
+01:46:20.719 --> 01:46:24.560
+terminate
+
+01:46:21.679 --> 01:46:27.360
+uh whenever we finish slash close that's
+
+01:46:24.560 --> 01:46:29.679
+a good question um
+
+01:46:27.360 --> 01:46:31.440
+for those of you who are here i mean all
+
+01:46:29.679 --> 01:46:33.920
+of you
+
+01:46:31.440 --> 01:46:36.239
+i believe everyone in the class with
+
+01:46:33.920 --> 01:46:38.880
+perhaps the exception of maybe
+
+01:46:36.239 --> 01:46:39.760
+one or two students should be in the aws
+
+01:46:38.880 --> 01:46:42.080
+classroom
+
+01:46:39.760 --> 01:46:44.320
+and should have a very generous limit of
+
+01:46:42.080 --> 01:46:48.560
+about 200 dollars
+
+01:46:44.320 --> 01:46:50.400
+i would urge you all to use it wisely
+
+01:46:48.560 --> 01:46:52.639
+so what i mean by that is when you
+
+01:46:50.400 --> 01:46:54.719
+finish your lab please terminate
+
+01:46:52.639 --> 01:46:57.040
+all the activities that you have done
+
+01:46:54.719 --> 01:46:58.880
+the reason why i'm urging you all to use
+
+01:46:57.040 --> 01:47:02.320
+it wisely is
+
+01:46:58.880 --> 01:47:05.600
+your assessment item 3 or assignment 3
+
+01:47:02.320 --> 01:47:07.679
+is based on aws so please
+
+01:47:05.600 --> 01:47:09.440
+make sure that you need enough credits
+
+01:47:07.679 --> 01:47:12.880
+for the last activity
+
+01:47:09.440 --> 01:47:16.480
+200 is a very generous amount
+
+01:47:12.880 --> 01:47:17.679
+but please don't use the credits just
+
+01:47:16.480 --> 01:47:19.760
+here and there i mean
+
+01:47:17.679 --> 01:47:20.960
+by all means use it for your learning
+
+01:47:19.760 --> 01:47:23.920
+purposes
+
+01:47:20.960 --> 01:47:25.360
+use it for your labs use it to practice
+
+01:47:23.920 --> 01:47:31.199
+but when you finish
+
+01:47:25.360 --> 01:47:31.199
+close everything or terminate everything
+
+01:47:34.719 --> 01:47:39.840
+any other questions for today ladies and
+
+01:47:37.760 --> 01:47:41.760
+gentlemen
+
+01:47:39.840 --> 01:47:43.360
+i understand that some of you may have
+
+01:47:41.760 --> 01:47:46.800
+to run for
+
+01:47:43.360 --> 01:47:47.520
+a lab or or perhaps they already have
+
+01:47:46.800 --> 01:47:51.040
+left which is
+
+01:47:47.520 --> 01:47:52.960
+perfectly fine of course yes the final
+
+01:47:51.040 --> 01:47:56.000
+question is
+
+01:47:52.960 --> 01:47:56.560
+so we only have the working environment
+
+01:47:56.000 --> 01:48:00.320
+here
+
+01:47:56.560 --> 01:48:01.760
+if we run the web server here right
+
+01:48:00.320 --> 01:48:04.000
+like if we don't have the web server
+
+01:48:01.760 --> 01:48:06.400
+here so we don't we are not going to use
+
+01:48:04.000 --> 01:48:07.119
+the worker environment here of course
+
+01:48:06.400 --> 01:48:11.360
+not
+
+01:48:07.119 --> 01:48:14.719
+okay i mean there is no purpose
+
+01:48:11.360 --> 01:48:17.600
+for a worker here
+
+01:48:14.719 --> 01:48:18.960
+without a web server environment here
+
+01:48:17.600 --> 01:48:21.280
+all right
+
+01:48:18.960 --> 01:48:21.280
+thanks
+
+01:48:24.960 --> 01:48:28.000
+any other question ladies and gentlemen
+
+01:48:27.360 --> 01:48:30.719
+look i'm
+
+01:48:28.000 --> 01:48:31.679
+i'm very keen if you have got any issues
+
+01:48:30.719 --> 01:48:34.480
+any concerns
+
+01:48:31.679 --> 01:48:35.840
+any doubts any feedback i understand
+
+01:48:34.480 --> 01:48:39.199
+that the early
+
+01:48:35.840 --> 01:48:41.520
+feedback efs is open please take
+
+01:48:39.199 --> 01:48:42.400
+some time out to fill it out i'm keen to
+
+01:48:41.520 --> 01:48:45.520
+hear
+
+01:48:42.400 --> 01:48:48.320
+your perspectives into what we are doing
+
+01:48:45.520 --> 01:48:49.280
+well what we could do better so please
+
+01:48:48.320 --> 01:48:52.000
+by all means
+
+01:48:49.280 --> 01:48:54.239
+do that or please feel free to contact
+
+01:48:52.000 --> 01:48:58.159
+me directly
+
+01:48:54.239 --> 01:49:00.639
+just tag me on teams send me a message
+
+01:48:58.159 --> 01:49:03.440
+and i should be able to respond to you
+
+01:49:00.639 --> 01:49:03.440
+fairly quickly
+
+01:49:07.520 --> 01:49:12.560
+okay so i take it that perhaps there are
+
+01:49:09.600 --> 01:49:14.960
+no more questions for today unless
+
+01:49:12.560 --> 01:49:15.920
+if i've left something that unanswered
+
+01:49:14.960 --> 01:49:19.360
+please
+
+01:49:15.920 --> 01:49:22.080
+interrupt me and ask me now next week
+
+01:49:19.360 --> 01:49:22.400
+what we would be doing is today we were
+
+01:49:22.080 --> 01:49:25.440
+just
+
+01:49:22.400 --> 01:49:26.320
+launching environments next week we will
+
+01:49:25.440 --> 01:49:29.199
+learn them
+
+01:49:26.320 --> 01:49:31.280
+how to customize environments as well so
+
+01:49:29.199 --> 01:49:32.719
+i can specify a whole host of different
+
+01:49:31.280 --> 01:49:35.280
+parameters
+
+01:49:32.719 --> 01:49:35.920
+so until next week i wish you all very
+
+01:49:35.280 --> 01:49:43.310
+well
+
+01:49:35.920 --> 01:49:46.379
+stay safe and stay healthy bye
+
+01:49:43.310 --> 01:49:46.379
+[Music]
+
+01:49:54.840 --> 01:49:57.840
+hmm
+
