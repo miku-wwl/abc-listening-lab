@@ -201,7 +201,6 @@
 | cut a miserable figure | 显得非常狼狈、可怜或不得体 | Franklin 淋雨步行后被怀疑是逃跑的仆人 | After the overnight journey, he cut a miserable figure. | 中 | 2026-07-01 新收录 |
 | draw someone on by artful questions | 用巧妙问题引导某人继续透露信息 | 老 Bradford 诱导 Keimer 说出经营计划 | The interviewer drew him on by artful questions until the assumptions became clear. | 中 | 2026-07-01 新收录 |
 | ready at hand | 就在手边；随时可获得 | Pine 说人们四处寻找成功秘诀，却忽略手边的 Franklin 榜样 | A useful example may already be ready at hand. | 高 | 2026-07-02 新收录 |
-| not so much A as B | 与其说是 A，不如说是 B | 自传提供的不是成功公式，而是真实人物的陪伴 | The book is not so much a manual as a conversation with an experienced mentor. | 高 | 重复出现；2026-06-25 已收录，本次用于书评语境 |
 | a means to an end | 实现目标的手段，而非目的本身 | Franklin 把写作当作服务科学、政治和社会目标的工具 | Automation is a means to an end, not the purpose of the platform. | 高 | 2026-07-02 新收录 |
 | put something down in writing | 把某事写下来并保存 | Franklin 通过写作让人生回忆更持久 | Put the decision down in writing before the team disperses. | 高 | 2026-07-02 新收录 |
 | give something fair quarter | 宽容对待；不全盘排斥 | Franklin 承认 vanity 有时也能产生积极作用 | He gave the unpopular suggestion fair quarter before judging it. | 中 | 2026-07-02 新收录 |
@@ -342,3 +341,239 @@
 | mix and match skills | 搭配不同技能背景的成员 | 2026-07-20：Wireless Sensor Networks course introduction: schedule and assessment, research facilities, labs and hardware, teamwork, energy/resource management, IoT scale and opportunities, and introductory IoT examples | The speaker used **mix and match skills** while explaining the course topic. | 高 | 2026-07-20 新收录或模块重复 |
 | industry-funded project | 行业资助项目 | 2026-07-20：Wireless Sensor Networks course introduction: schedule and assessment, research facilities, labs and hardware, teamwork, energy/resource management, IoT scale and opportunities, and introductory IoT examples | The speaker used **industry-funded project** while explaining the course topic. | 高 | 2026-07-20 新收录或模块重复 |
 | connected devices | 联网设备 | 2026-07-20：Wireless Sensor Networks course introduction: schedule and assessment, research facilities, labs and hardware, teamwork, energy/resource management, IoT scale and opportunities, and introductory IoT examples | The speaker used **connected devices** while explaining the course topic. | 高 | 2026-07-20 新收录或模块重复 |
+| head back | 返回刚才的位置或基地 | 2026-07-21：探索后返回营地，同时顺路继续采集材料 | Let's head back towards the campfire, grabbing a few more things on the way. | 高 | 游戏实况中重复 |
+| hold off on doing something | 暂缓做某事 | 2026-07-22：暂时不让新角色正式上场，或延后制作催化剂 | We'll hold off on putting her in the party for now. | 高 | 2026-07-22、07-24 重复 |
+| pick something up | 捡取、取得某物 | 2026-07-23：回程途中收集制作背包所需的布料和其他材料 | We need to pick up some more hand-woven cloth. | 高 | 游戏采集场景高频 |
+| keep an eye out for | 留意寻找 | 2026-07-23：采集木材时同时寻找特定怪物或动物材料 | We'll keep an eye out for those rabbit things. | 高 | 2026-07-23、07-24 重复 |
+| end up doing something | 最终不得不或结果做了某事 | 2026-07-23：估算制作需求后发现最终需要大量木材 | We're probably going to end up needing a bunch of that. | 高 | 游戏即时规划高频 |
+| set something up | 设置、搭建某物 | 2026-07-23：讨论炼金系统中的配方、材料条件及录制设备 | That might not be the easiest thing to set up. | 高 | 游戏与技术材料均重复 |
+| take something into account | 把某因素考虑进去 | 2026-07-24：船只设计没有考虑重量，导致推进力可能不足 | You haven't taken weight into account at all. | 高 | 高价值论证表达 |
+| due to | 由于；原因是 | 2026-07-24：解释船只因重量过大而可能缺少推进力 | The ship may not have enough propulsion due to its weight. | 高 | 新闻与说明材料重复 |
+| go ahead and do something | 继续、直接去做某事 | 2026-07-22：决定再打一只怪物后才回去交任务 | I want to go ahead and fight one more of these things. | 中 | 自然口语高频 |
+| take on an enemy | 迎战、挑战敌人 | 2026-07-27：判断队伍是否足以挑战不同颜色的 Puni 怪物 | We can still take on at least the blue and green Punis. | 高 | 战斗场景重复 |
+| come to think of it | 这么一想；回头想到 | 2026-07-25：角色临时想到对方不擅长体力活动 | Come to think of it, you don't seem very good with physical tasks. | 高 | 2026-07-25、07-27 重复 |
+| take care of something | 处理、解决某事或敌人 | 2026-07-25：接受训练任务并去解决村庄附近的怪物 | Go take care of those monsters quickly. | 高 | 游戏战斗场景重复 |
+| get rid of | 除掉、清除 | 2026-07-26：尝试用炼金物品清除阻碍，或清理水源附近的怪物 | We may be able to make an item to get rid of it. | 高 | 2026-07-26、07-28 重复 |
+| figure something out | 想明白、找出解决办法 | 2026-07-23：尚未掌握推进炉配方，需要找出制作方法 | I need to figure out how to make the propulsion furnace. | 高 | 游戏和技术问答重复 |
+| work out | 成功奏效；产生预期结果 | 2026-07-21：一次炼金或战斗操作没有得到预期颜色效果 | No, that didn't quite work out. | 高 | 自然口语高频 |
+| catch up to someone | 赶上某人的水平 | 2026-07-25：谈论 Firis 的炼金能力何时能赶上 Sophie | The day you catch up to Sophie might not be too far away. | 中 | 人物成长场景 |
+| for the time being | 暂时；眼下 | 2026-07-28：在信息不足时先去拜访炼金工房 | For the time being, I guess we'll visit the atelier. | 高 | 2026-07-28、07-29 重复 |
+| at this point | 到这个阶段；此时 | 2026-07-21：敌人只剩少量 HP，因此改变战斗策略 | It's down to 49 HP, so we can probably attack it at this point. | 高 | 即时判断表达 |
+| as far as something is concerned | 就某方面而言 | 2026-07-21：查看当前区域能采集到哪些材料 | Let's see what we can find as far as materials in this area. | 中 | 自然口语表达 |
+| have access to | 能够进入或使用 | 2026-07-23：放置容器后，从地图另一侧也能访问其中物品 | That way, we have access to it on this side of the world. | 高 | 游戏与技术语境重复 |
+| give up halfway through | 半途放弃 | 2026-07-23：角色鼓励对方坚持完成重要任务 | I won't forgive you if you give up halfway through. | 中 | 剧情鼓励表达 |
+| come into effect | 开始生效 | 2026-08-05：英国与欧盟贸易协议将在明确日期生效 | The agreement will come into effect on the first of January. | 高 | 政策新闻高频 |
+| rule something out | 排除某种可能 | 2026-08-12：专家说明即使采取预防措施，也无法完全排除疫情暴发 | We can never fully rule out that an outbreak might occur. | 高 | 2026-08-12、08-21 重复 |
+| be poised to | 准备好、即将做某事 | 2026-08-05：堪培拉年轻舞者即将接受昆士兰芭蕾舞团训练 | A young dancer from Canberra is poised to receive world-class training. | 高 | 新闻预告表达 |
+| take a closer look at | 进一步审视、详细了解 | 2026-08-24：节目从国际疫苗进展切换到澳洲接种策略 | Let's take a closer look at Australia's vaccination strategy. | 高 | 节目转场高频 |
+| remain on alert | 继续保持警戒 | 2026-08-13：紧急新闻提醒受影响地区居民持续关注火情和官方信息 | Residents should remain on alert and stay connected. | 高 | 灾害新闻表达 |
+| be put on alert | 被置于警戒状态、收到风险通知 | 2026-08-19：多家俱乐部因病例暴露点被列入警戒名单 | The Avalon RSL Club and other venues have been put on alert. | 高 | 公共卫生语境 |
+| be subject to cancellation | 可能被取消；受取消处分约束 | 2026-08-05：临时签证持有人若违反公共卫生令，签证可能被取消 | Your visa conditions will be reviewed and you are subject to cancellation. | 高 | 法律与政策限定 |
+| be on track to | 有望按计划达到 | 2026-08-05：芒果季预计可完成数百万托盘的采摘量 | Farm workers are on track to pick 7.5 million trays. | 高 | 2026-08-05、08-06 重复 |
+| stand down | 辞职、卸任 | 2026-08-29：俱乐部主席宣布将在下一年年底卸任 | I will stand down at the end of next year. | 高 | 政治与体育治理表达 |
+| roll out a vaccine | 推出、实施疫苗接种计划 | 2026-08-06：比较美国、英国和澳洲的疫苗审批与接种时间 | The US and UK are already seeing vaccination plans roll out. | 高 | 2026-08-06、08-17 重复 |
+| lock down | 实施封锁 | 2026-08-07：政府在其他措施无效后把局部封锁作为最后手段 | If everything else is failing, the last resort is to lock down the area. | 高 | 公共卫生高频 |
+| shut something down | 关闭、使停止运作 | 2026-08-05：疫情集群导致悉尼北部海滩地区关闭 | The Avalon cluster shut down Sydney's northern beaches. | 高 | 新闻高频 |
+| open up | 解除限制、重新开放 | 2026-08-07：连续零新增后，州政府判断可以开始开放 | We are able to say that now is the time to open up. | 高 | 政策转折表达 |
+| put measures in place | 实施、建立措施 | 2026-08-05：记者询问政府是否已针对年轻临时签证持有人采取措施 | Have measures been put in place to explain the restrictions? | 高 | 政策新闻高频 |
+| get underway | 开始进行 | 2026-08-13：议会质询传统活动即将开始 | The parliamentary proceedings were about to get underway. | 中 | 2026-08-13、09-25 重复 |
+| understand what's at stake | 理解事情的利害与风险 | 2026-08-05：政府强调违反规则会威胁公共卫生安全 | People know the rules and understand what's at stake. | 高 | 风险表达 |
+| in the wake of | 在……之后；作为……的后续影响 | 2026-08-10：新生儿死亡事件后启动独立审查 | An independent report was commissioned in the wake of the babies' deaths. | 高 | 新闻高频 |
+| amid concerns | 在对……的担忧之中 | 2026-08-31：医学专家担忧健身文化使增强表现药物正常化 | The program examined young athletes amid concerns from medical experts. | 高 | 压缩新闻句式 |
+| as a result of | 由于……；作为……的结果 | 2026-08-05：大型聚会后，移民部长警告违规者可能被取消签证 | As a result of these events, the minister issued a warning. | 高 | 因果新闻表达 |
+| call on someone to do something | 呼吁某人采取行动 | 2026-08-06：专家呼吁公布更多数据，再决定疫苗是否达标 | Experts are calling on the authorities to release the new data. | 高 | 政策与倡议高频 |
+| warn that | 警告说…… | 2026-08-14：网球官员警告违反隔离规则者将被逐出赛事和国家 | Officials warned that any breach would result in expulsion. | 高 | 新闻立场表达 |
+| at the height of | 在……最严重、最鼎盛的时候 | 2026-08-05：记者在武汉疫情最严重时期记录现场混乱 | She documented the chaos at the height of the coronavirus outbreak. | 高 | 新闻叙事表达 |
+| pay tribute to | 向……致敬、赞扬 | 2026-08-11：官员在严重刑事案件判决后向受害者及相关人员致意 | I also want to pay tribute to the victims and their families. | 高 | 正式讲话高频 |
+| pro bono | 无偿地；为公共利益免费服务 | 2026-08-05：悼词说明 Michael Jeffrey 晚年仍持续无偿公共服务 | He continued to work pro bono until a few months before his death. | 高 | 正式人物报道 |
+| work through an issue | 逐步处理、协商解决问题 | 2026-08-05：澳洲和印尼当局协商船员隔离及返乡安排 | The authorities and the ship owners will work through the process. | 高 | 记者会高频 |
+| go through a stage | 经历、进入某个程序阶段 | 2026-08-07：法案通过二读后进入委员会和三读阶段 | The bill is going through the committee stage. | 高 | 政治程序表达 |
+| step through | 逐项讲解、逐步检查 | 2026-08-19：记者逐个梳理不同病例的感染来源 | Let's step through the cases one by one. | 高 | 新闻与技术讲解重复 |
+| make a decision | 作出决定 | 2026-08-12：政府在信息不断变化时尽量推迟最终决定 | We should leave it to the last possible moment before making a decision. | 高 | 政策判断高频 |
+| in terms of | 就……而言；从……方面看 | 2026-08-05：部长讨论临时签证条件下可采取的处罚选项 | There are plenty of options in terms of visa conditions. | 高 | 口语说明高频 |
+| be responsible for | 负责；对某结果负有责任 | 2026-08-06：TGA 负责判断哪些药品和疫苗可在澳洲安全使用 | The TGA is responsible for determining which vaccines are safe to use. | 高 | 机构职责表达 |
+| on behalf of | 代表…… | 2026-08-26：新西兰在全球层面代表太平洋小岛国发声 | New Zealand is speaking on behalf of small island states. | 高 | 外交新闻表达 |
+| in response to | 作为对……的回应 | 2026-08-11：多地针对英国出现的新病毒毒株调整旅行限制 | The restrictions were introduced in response to a new strain. | 高 | 新闻因果高频 |
+| take effect | 生效 | 2026-08-08：南澳、西澳和北领地的边境关闭措施当天生效 | Border closures take effect today. | 高 | 2026-08-08、08-31 重复 |
+| be set to | 预计、安排将要发生 | 2026-08-10：返澳人员将在 Howard Springs 隔离中心度过圣诞节 | More than 500 Australians are set to spend Christmas in quarantine. | 高 | 新闻预告高频 |
+| be likely to | 很可能 | 2026-08-05：气象员判断北部和东部湿热天气仍将持续 | Wet and stormy weather is likely to continue. | 高 | 预测表达 |
+| remain to be seen | 尚待观察、仍未确定 | 2026-08-13：财政部仍在模拟疫情对预算的完整影响 | The full effect on the budget remains to be seen. | 高 | 2026-08-13、08-17 重复 |
+| define a function | 定义函数 | 2026-09-17：Swift 课堂说明使用 `func`、函数名、参数和花括号定义函数 | To define a function, use the keyword `func` followed by the function name. | 高 | Swift 核心表达 |
+| call a function | 调用函数 | 2026-09-17：区分函数定义和实际使用函数的动作 | To use the function, you need to call it by its name. | 高 | Swift 核心表达 |
+| input parameter | 输入参数 | 2026-09-17：函数括号中声明传入的数据 | This function has two input parameters. | 高 | 编程课程高频 |
+| return a value | 返回一个值 | 2026-09-17：函数执行后把结果交回调用位置 | When you call the function, it will return a value. | 高 | 编程课程高频 |
+| assign a value to a variable | 给变量赋值 | 2026-09-17：把函数计算结果存入变量供后续使用 | We assign the returned value to a variable. | 高 | 编程课程高频 |
+| inherit from a superclass | 从父类继承 | 2026-09-17：讲解 class、inheritance 和 superclass 的关系 | A subclass can inherit properties and methods from a superclass. | 高 | 面向对象核心表达 |
+| constant versus variable | 常量与变量的区别 | 2026-09-26：Swift 入门课比较不能修改的常量和可重新赋值的变量 | The lecturer explained the difference between a constant and a variable. | 高 | Swift 入门核心 |
+| syntax error | 语法错误 | 2026-09-26：现场运行代码时发现并删除导致程序不能执行的错误 | There is a syntax error here; let me delete that and run it again. | 高 | 调试高频 |
+| run the code | 运行代码 | 2026-09-26：点击 Xcode Playground 的蓝色运行按钮查看代码结果 | Press the blue play button to run the code. | 高 | 屏幕演示高频 |
+| work through an example | 逐步完成一个例子 | 2026-09-26：师生一起在 Xcode 中编写变量、条件和函数示例 | Let's work through some coding examples together. | 高 | 课堂讲解高频 |
+| meet the project requirements | 满足项目要求 | 2026-09-27：项目答疑中区分必须交付内容和可选实现 | Make sure your application meets the project requirements. | 高 | 项目课程高频 |
+| handle user input | 处理用户输入 | 2026-09-28：界面按钮或输入控件触发函数并改变显示内容 | The application needs to handle user input from the screen. | 高 | iOS 界面编程 |
+| set a property | 设置属性 | 2026-09-28：给界面组件指定数值或显示属性 | Set the component's property to the required value. | 高 | iOS 界面编程 |
+| go back | 返回 | 2026-07-22：游戏实况中围绕探索、任务、炼金或战斗使用 `go back` | oh that reminds me rin said that she passed the license exam maybe she can write a letter of recommendation for me should i go back now but do whatever you want fear us pondering where to go next is part of the thrill of traveling all right we're going to go back and get | 高 | 2026-07-22 新收录 |
+| come back | 回来；恢复 | 2026-07-24：游戏实况中围绕探索、任务、炼金或战斗使用 `come back` | well it'll probably be more than three days before we come back and check [Music] okay so | 高 | 2026-07-24 新收录 |
+| look around | 四处查看 | 2026-07-26：游戏实况中围绕探索、任务、炼金或战斗使用 `look around` | a while you could have taken your time getting here oh really then maybe we'll go look around at other places however it'll be difficult going from this town now impossible in fact what no way | 高 | 2026-07-26 新收录 |
+| look for | 寻找 | 2026-07-26：游戏实况中围绕探索、任务、炼金或战斗使用 `look for` | wouldn't it be better to look for a solution with everyone's help i think so too but my brother insists on hiding it no matter what he says that this town was built around shipping and tourism most of our income comes from that | 高 | 2026-07-26 新收录 |
+| find out | 弄清楚、发现 | 2026-07-27：游戏实况中围绕探索、任务、炼金或战斗使用 `find out` | about it what happened to make you so mad and something about a sailor i don't have to tell you i'm sure you'll find out for yourself real soon i'm tired i'll just go sleep at the end see you later [Music] | 高 | 2026-07-27 新收录 |
+| figure out | 想出、弄明白 | 2026-07-27：游戏实况中围绕探索、任务、炼金或战斗使用 `figure out` | little filling hp recovery hp and every medium sloppy [Music] and we got alchemy level up i don't think i can no i need two leather for that so i need to figure out what i need to do to get leather | 高 | 2026-07-27 新收录 |
+| go ahead | 继续、着手做 | 2026-07-28：游戏实况中围绕探索、任务、炼金或战斗使用 `go ahead` | interesting okay let's go ahead and make that autonomous solve what was the quality on that 74 okay [Music] | 高 | 2026-07-28 新收录 |
+| keep going | 继续进行 | 2026-07-28：游戏实况中围绕探索、任务、炼金或战斗使用 `keep going` | next time uh i hope you are enjoying we've got a lot more plot done we've got our first tasks to get our first letter of recommendation we should have plenty of time left if things keep going at this rate hahaha but i hope you enjoy thanks for watching and i will see you next time | 高 | 2026-07-28 新收录 |
+| end up doing | 最终做了某事 | 2026-07-29：游戏实况中围绕探索、任务、炼金或战斗使用 `end up doing` | that we will take a look at [Music] hey you must be tired since we're here why not rest for a while huh i'm still fine i can still walk so let's keep moving nope if you don't risk well you can you'll end up collapsing got that | 高 | 2026-07-29 新收录 |
+| grab something | 快速拿取、收集 | 2026-07-29：游戏实况中围绕探索、任务、炼金或战斗使用 `grab something` | okay back this way [Music] so that's the like the uh lighting effect that that does i should grab a plant while i'm here | 高 | 2026-07-29 新收录 |
+| gather materials | 采集材料 | 2026-07-29：游戏实况中围绕探索、任务、炼金或战斗使用 `gather materials` | okay well there's no sense in resting right now let's make sure that i don't have anything i can't check my basket here all right well let's go gather up some materials that was dangerous | 高 | 2026-07-29 新收录 |
+| give up | 放弃 | 2026-07-30：游戏实况中围绕探索、任务、炼金或战斗使用 `give up` | you must give up ongoing so how does it sound simple to understand yes i understand i'll do it yes very well | 高 | 2026-07-30 新收录 |
+| be out of something | 某物用完或缺少 | 2026-07-30：游戏实况中围绕探索、任务、炼金或战斗使用 `be out of something` | thanks to alchemy i can make all kinds of things that includes this tent and what i used to fix the door so what do you think do you understand now it can destroy doors and fix them and unexpected things pop out of | 高 | 2026-07-30 新收录 |
+| do synthesis | 进行炼金合成 | 2026-07-30：游戏实况中围绕探索、任务、炼金或战斗使用 `do synthesis` | need the recipe first select that and make from one of the recipes you learned [Music] you require material for synthesis you can see what you can make with symbols on the left of the recipe resistance immediately can | 高 | 2026-07-30 新收录 |
+| hold off on | 暂缓 | 2026-07-31：游戏实况中围绕探索、任务、炼金或战斗使用 `hold off on` | so let's see it has 15 12. i'm gonna hold off on the items and probably hold off on the mp you just attack and you | 高 | 2026-07-31 新收录 |
+| restore HP | 恢复生命值 | 2026-07-31：游戏实况中围绕探索、任务、炼金或战斗使用 `restore HP` | and we just about finished that off all right we're just gonna attack and that should be that you want to heal up monica between fights but that's okay oh right i have uh well grinding for money i got some | 高 | 2026-07-31 新收录 |
+| deal damage | 造成伤害 | 2026-07-31：游戏实况中围绕探索、任务、炼金或战斗使用 `deal damage` | drilling shovel work on do that mp next round now she does [Music] sophie and clockton now do a lot of damage and don't take very much damage | 高 | 2026-07-31 新收录 |
+| go material hunting | 外出采集材料 | 2026-08-01：游戏实况中围绕探索、任务、炼金或战斗使用 `go material hunting` | and go material hunting and hopefully not run into anything that utterly slaughters me [Music] i have to fight you again slightly | 高 | 2026-08-01 新收录 |
+| improve the quality | 提高物品品质 | 2026-08-01：游戏实况中围绕探索、任务、炼金或战斗使用 `improve the quality` | because the quality of the materials and the strength of that boss is any indication we are way over our heads here um let me go ahead and why is that not getting all of them | 高 | 2026-08-01 新收录 |
+| take care of an enemy | 解决敌人或问题 | 2026-08-01：游戏实况中围绕探索、任务、炼金或战斗使用 `take care of an enemy` | quick and we'll head out into the world and take care of that rumor okay nothing there [Music] sir julio hello sophie do you need | 高 | 2026-08-01 新收录 |
+| be resistant to | 对……有抗性 | 2026-08-02：游戏实况中围绕探索、任务、炼金或战斗使用 `be resistant to` | make sure to use the uh element resist this is | 高 | 2026-08-02 新收录 |
+| take an enemy out | 击败敌人 | 2026-08-02：游戏实况中围绕探索、任务、炼金或战斗使用 `take an enemy out` | we have destruction up plus on that so if we take that out use that one that's slightly higher quality now here [Music] | 高 | 2026-08-02 新收录 |
+| launch an attack | 发动攻击 | 2026-08-02：游戏实况中围绕探索、任务、炼金或战斗使用 `launch an attack` | so that is going to be our attack item [Music] and if we check its encyclopedia entry let's see i do want two of them uh just actually probably maybe even more than two [Music] | 高 | 2026-08-02 新收录 |
+| sort by quality | 按品质排序 | 2026-08-03：游戏实况中围绕探索、任务、炼金或战斗使用 `sort by quality` | let's sort by quality think i'll use some of these [Music] and what we want if we happen to see any what do we have here that's not going to matter | 高 | 2026-08-03 新收录 |
+| accept a request | 接受委托 | 2026-08-03：游戏实况中围绕探索、任务、炼金或战斗使用 `accept a request` | welcome which request will you accept yeah i'll turn that in i can always make another i think i only made that to make it | 高 | 2026-08-03 新收录 |
+| turn a quest item in | 提交任务物品 | 2026-08-03：游戏实况中围绕探索、任务、炼金或战斗使用 `turn a quest item in` | welcome which request will you accept yeah i'll turn that in i can always make another i think i only made that to make it | 高 | 2026-08-03 新收录 |
+| unlock a recipe idea | 解锁配方灵感 | 2026-08-04：游戏实况中围绕探索、任务、炼金或战斗使用 `unlock a recipe idea` | don't see spirit crystal not sure where that is unless it's a recipe idea let's see do any of these say spirit crystal [Music] | 高 | 2026-08-04 新收录 |
+| equip an item | 装备物品 | 2026-08-04：游戏实况中围绕探索、任务、炼金或战斗使用 `equip an item` | yeah we'll replace the add all cloth i guess or the spruce we're gonna replace the spruce that one i need to remember to equip too [Music] | 高 | 2026-08-04 新收录 |
+| be able to | 能够 | 2026-08-04：游戏实况中围绕探索、任务、炼金或战斗使用 `be able to` | welcome [Music] i might be able to take that on with some of my healing stuff now especially that auto one it's kind of tempting | 高 | 2026-08-04 新收录 |
+| border closure | 边境关闭 | 2026-08-08：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `border closure` | life as we know it and the freedoms we took for granted are fast becoming a memory border closures take effect in south australia wa and the northern territory today if you're flying back in and you don't isolate for 14 days you'll get a thousand dollar on the spot wants people to stay inside | 高 | 2026-08-08 新收录 |
+| state of emergency | 紧急状态 | 2026-08-08：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `state of emergency` | we are declaring a state of emergency in victoria this week's shutdowns across the country have all been done with one thing in mind to flatten the curve | 高 | 2026-08-08 新收录 |
+| raise one's alchemy level | 提升炼金等级 | 2026-08-09：游戏实况中围绕探索、任务、炼金或战斗使用 `raise one's alchemy level` | pendle green for that and i should increase my alchemy level more but that's it for now um hope you enjoy thanks for watching and i will see you next time | 高 | 2026-08-09 新收录 |
+| defeat a monster | 击败怪物 | 2026-08-09：游戏实况中围绕探索、任务、炼金或战斗使用 `defeat a monster` | and that was kind of pathetic all right now [Music] i do want to see if i can defeat a great demon [Music] but that's not them | 高 | 2026-08-09 新收录 |
+| complete a quest | 完成任务 | 2026-08-09：游戏实况中围绕探索、任务、炼金或战斗使用 `complete a quest` | okay let's stop by home real quick let's report in the quest or request refill our lp drop off the stuff | 高 | 2026-08-09 新收录 |
+| be expected to | 预计将 | 2026-08-10：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be expected to` | street where uk prime minister boris johnson is expected to reveal details of a deal shortly and we'll bring you updates throughout the evening here on abc news | 高 | 2026-08-10 新收录 |
+| be subject to | 受……约束；可能遭受 | 2026-08-11：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be subject to` | the scene but sadly died his family say the officers that chased him were in plain clothes although police could not confirm that this incident will now be subject to an internal police investigation tragically unfortunately that male has | 高 | 2026-08-11 新收录 |
+| call on someone to | 呼吁某人 | 2026-08-12：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `call on someone to` | christmas holiday now premiere has said that she's going to wait till wednesday to make a final call on that she said she was mindful of the importance of this holiday but for the for the community in general things go up and down | 高 | 2026-08-12 新收录 |
+| according to | 根据 | 2026-08-14：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `according to` | videos from nearby countries according to the chinese government | 高 | 2026-08-14 新收录 |
+| public health order | 公共卫生令 | 2026-08-14：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `public health order` | not that you could tell at manly beach the only clue everyone here is exercising otherwise they risk a one thousand dollar fine but the public health order just reinforces how serious the situation is and allows us if we need to to undertake | 高 | 2026-08-14 新收录 |
+| keep up with | 跟上；应付 | 2026-08-15：游戏实况中围绕探索、任务、炼金或战斗使用 `keep up with` | how we doing on there 1190 uh use that bomb again yeah we'll just keep up with these for right now um let's throw on the spirit weave | 高 | 2026-08-15 新收录 |
+| turn out | 结果是；产生结果 | 2026-08-15：游戏实况中围绕探索、任务、炼金或战斗使用 `turn out` | yeah once we finish it it's good what trick should we take oh right it's done there we go [Music] hey plopta i tried making the item you two made in the past how did it turn out | 高 | 2026-08-15 新收录 |
+| guard against an attack | 防御攻击 | 2026-08-15：游戏实况中围绕探索、任务、炼金或战斗使用 `guard against an attack` | maybe if i pick up a few of these things [Music] oh there's one i think where are you yep there you are [Music] on your guard everyone this won't be easy oh there's two guys now great demon i want that 720. | 高 | 2026-08-15 新收录 |
+| on the way | 在途中 | 2026-08-16：游戏实况中围绕探索、任务、炼金或战斗使用 `on the way` | area so i do need to fight some of these guys i can fight them on the way out [Music] or possibly in this area so what i need to do [Music] i use that | 高 | 2026-08-16 新收录 |
+| as far as ... is concerned | 就……而言 | 2026-08-16：游戏实况中围绕探索、任务、炼金或战斗使用 `as far as ... is concerned` | [Music] what do we have as far as | 高 | 2026-08-16 新收录 |
+| make sure | 确保 | 2026-08-16：游戏实况中围绕探索、任务、炼金或战斗使用 `make sure` | we'll do that category value but i also want to make sure we do blue here [Music] | 高 | 2026-08-16 新收录 |
+| roll something out | 推出、实施 | 2026-08-17：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `roll something out` | particularly once a vaccine does roll out and focus can really turn to some of those pressing social issues um you would expect along with things like aged care for them to be a pretty key priority of the morrison government if it's going to retain the faith of | 高 | 2026-08-17 新收录 |
+| community transmission | 社区传播 | 2026-08-17：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `community transmission` | community transmission there's no risk it's okay i think now that we've had this cluster people are going to have a bit of a wake-up call and i would strongly encourage everyone particularly in the the sydney area the greater sydney area and and in in fact anywhere in australia | 高 | 2026-08-17 新收录 |
+| severe weather warning | 恶劣天气警报 | 2026-08-17：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `severe weather warning` | and also western australia flood watches and severe weather warnings are in place particularly around the kimberley in the western part to the top end a severe weather warning covers most of the northern parts of the northern territory still got some showers and thunderstorms through the eastern states for queensland they're pretty much likely | 高 | 2026-08-17 新收录 |
+| get stronger | 变得更强 | 2026-08-18：游戏实况中围绕探索、任务、炼金或战斗使用 `get stronger` | really tired from carrying around sir julio's sword you really would get stronger if you were always swinging that thing around it's that heavy sir julia was really amazing | 高 | 2026-08-18 新收录 |
+| unemployment rate | 失业率 | 2026-08-19：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `unemployment rate` | subsidy program has had less demand than expected so fewer workers than forecast are actually accessing that wage subsidy meaning the government is saving a few billion dollars on that program the unemployment rate too it's largely | 高 | 2026-08-19 新收录 |
+| close contact | 密切接触者 | 2026-08-20：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `close contact` | but for those who are having to isolate because they're in close contact | 高 | 2026-08-20 新收录 |
+| quarantine facility | 隔离设施 | 2026-08-20：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `quarantine facility` | three infants landed at darwin's rwaf base they've been taken to the howard springs quarantine facility it comes as a further two people test positive to coronavirus at howard springs and 16 year old girl arrived on a flight | 高 | 2026-08-20 新收录 |
+| travel restriction | 旅行限制 | 2026-08-20：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `travel restriction` | travel restrictions with fears the holiday plans of thousands of people could be ruined a week before christmas many would have been expecting to cure the shops not for a clover test there we go but as the number of confirmed cases | 高 | 2026-08-20 新收录 |
+| urge someone to | 敦促某人 | 2026-08-21：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `urge someone to` | rebound relies on the free movement of people in australia confidence relies on us moving around of me being able to visit your home state of queensland do you urge state premiers to keep their borders open despite what we're seeing as a mini mini | 高 | 2026-08-21 新收录 |
+| maintain momentum | 保持势头 | 2026-08-21：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `maintain momentum` | absolutely a really good piece of data i do think one of the big questions is can we maintain that momentum because some of the benefit has come from opening of restrictions in victoria so obviously that's sort of a one-off uh positive impact that you get but look the economy looks good and if | 高 | 2026-08-21 新收录 |
+| raise concerns that | 引发担忧 | 2026-08-21：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `raise concerns that` | was the you know the broad impression i had was this was a kind of stereotypical response there were security concerns that that justified this well we we looked for those security concerns and you know broadly the you know the if you look at the you know the levels | 高 | 2026-08-21 新收录 |
+| flash flooding | 山洪、突发性洪水 | 2026-08-22：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `flash flooding` | because they are widespread we're seeing them around parts of melbourne extending all the way up through new south wales into the southeastern and central parts of queensland at the moment and the key feature with these thunderstorms is the potential of flash flooding with heavy rainfall | 高 | 2026-08-22 新收录 |
+| be under investigation | 正在接受调查 | 2026-08-23：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be under investigation` | infections is currently under investigation no known link to any previously identified case has been found so far new south wales health have put out a public health alert this afternoon uh relating to a number of locations on the northern beaches over the weekend | 高 | 2026-08-23 新收录 |
+| self-isolate | 自我隔离 | 2026-08-23：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `self-isolate` | staff go into short-term quarantine rather than continue the current policy of self-isolation in hotels to make sure that they do it in a safe way a way that keeps our new south wales community safe and preferably away from the | 高 | 2026-08-23 新收录 |
+| be found guilty | 被判有罪 | 2026-08-24：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be found guilty` | people injured okay james carmody reporting there from sydney a sydney man who fatally bashed the son of rock singer angry anderson while high on drugs has been sentenced to 80 years in prison matthew flame was last month found guilty by a jury of the | 高 | 2026-08-24 新收录 |
+| be sentenced to | 被判处 | 2026-08-24：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be sentenced to` | people injured okay james carmody reporting there from sydney a sydney man who fatally bashed the son of rock singer angry anderson while high on drugs has been sentenced to 80 years in prison matthew flame was last month found guilty by a jury of the | 高 | 2026-08-24 新收录 |
+| federal government | 联邦政府 | 2026-08-25：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `federal government` | a van driver transporting international airline crews to and from sydney airport additional testing is being done to confirm whether he caught the virus at work new south wales health says he did attend a sporting event in peakhurst while infectious the federal government | 高 | 2026-08-25 新收录 |
+| supply chain | 供应链 | 2026-08-27：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `supply chain` | factories for example will outsource to somewhere else in southeast asia so the company let's say a company in australia that says well my factory is in china i'm working with this factory it's only now that you can start working out the transparency of this supply chain right because it any item of clothing has | 高 | 2026-08-27 新收录 |
+| clearer guidelines | 更明确的指导 | 2026-08-30：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `clearer guidelines` | is lawful and it's called on the politicians to provide clearer guidelines they've made recommendations that parliament really does need to step in and step up because it's really not fair to leave at all to the police almost half of those | 高 | 2026-08-30 新收录 |
+| move towards | 逐步转向 | 2026-08-31：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `move towards` | take some online now as we move towards 2021 the big festival names around the country are getting ready to come back and give us the irl culture we've been craving but of course there's still a big covety barrier between us and beloved | 高 | 2026-08-31 新收录 |
+| Therapeutic Goods Administration | 澳洲药品监管机构 | 2026-08-31：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `Therapeutic Goods Administration` | vaccines that is on order to come to australia next year and we'll be indeed going through the reg the full regulatory process through our own world-class regulator the therapeutic goods administration so quite a different situation in the uk | 高 | 2026-08-31 新收录 |
+| national security | 国家安全 | 2026-09-03：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `national security` | december here are top stories the us closes in on approved covered vaccine as the death toll continues to mount hong kong media tycoon jimmy ly charged under controversial national security laws islamic state claims the murder of an | 高 | 2026-09-03 新收录 |
+| run out of | 用完 | 2026-09-04：游戏实况中围绕探索、任务、炼金或战斗使用 `run out of` | all right now we've run out of things all right let's take these together so let's do a couple fights [Music] | 高 | 2026-09-04 新收录 |
+| cross the bridge | 过桥 | 2026-09-05：游戏实况中围绕探索、任务、炼金或战斗使用 `cross the bridge` | if we look into recipe ideas oh we got a new category here investigating a bridge using a bomb a magic item and a medicine i can try making that which i'll definitely want to do | 高 | 2026-09-05 新收录 |
+| be careful not to | 小心不要…… | 2026-09-05：游戏实况中围绕探索、任务、炼金或战斗使用 `be careful not to` | be careful it's very far away and dangerous okay i will thank you elise [Music] okay another place to go | 高 | 2026-09-05 新收录 |
+| stock up on | 补充、囤积 | 2026-09-06：游戏实况中围绕探索、任务、炼金或战斗使用 `stock up on` | and i may as well go ahead and stock up on these [Music] thank you very much thank you | 高 | 2026-09-06 新收录 |
+| deal with | 处理、应对 | 2026-09-06：游戏实况中围绕探索、任务、炼金或战斗使用 `deal with` | a good chunk of money not much xp and we got the next memory and now we got these guys to deal with | 高 | 2026-09-06 新收录 |
+| be charged with | 被控 | 2026-09-09：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `be charged with` | a pre previous mass casualty shooting that had occurred internationally police have stressed that nothing specific was planned but they say that they judged the risk too great and they moved to execute a search warrant at his home they expect the 18 year old to be charged with a number of terrorism | 高 | 2026-09-09 新收录 |
+| collectively bargain | 集体谈判 | 2026-09-09：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `collectively bargain` | unilaterally set a price and therefore circumvent collective bargaining and breach the fair work act so in court today you'll be serving that paperwork but the next step is then a hearing in front of a federal court judge and then a determination as to whether | 高 | 2026-09-09 新收录 |
+| state government | 州政府 | 2026-09-09：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `state government` | with any house that has unpaid rates over a significant period of time the next step is to put a notice of intention to sell heritage advocates want the house protected brisbane city council and the state government should buy the property and it should be restored fully restored | 高 | 2026-09-09 新收录 |
+| get to the other side | 到达另一边 | 2026-09-13：游戏实况中围绕探索、任务、炼金或战斗使用 `get to the other side` | [Music] okay [Music] yeah i haven't been in there because it's on the other side of this border | 高 | 2026-09-13 新收录 |
+| no longer | 不再 | 2026-09-13：游戏实况中围绕探索、任务、炼金或战斗使用 `no longer` | creates a knight who can truly protect others you also need a lot of strength to swing around a great sword with that in mind i trained hard and eventually my body grew stronger it's no longer as difficult as it was before i see but it still sounds like a lot of | 高 | 2026-09-13 新收录 |
+| get used to | 习惯于 | 2026-09-14：游戏实况中围绕探索、任务、炼金或战斗使用 `get used to` | one sword at a time there's a lot of people who use a shield with it too and if you're gonna hold two at once you're better off holding one sword that's bigger now that you mention it monica and julio do that once you get used to it using two swords | 高 | 2026-09-14 新收录 |
+| try out | 试用、尝试 | 2026-09-16：游戏实况中围绕探索、任务、炼金或战斗使用 `try out` | sophie are you home sir julio what is it there's something i wanted to try out in battle try out that's right you can now use special support from now on you can use multi support without | 高 | 2026-09-16 新收录 |
+| catch up to | 赶上 | 2026-09-19：游戏实况中围绕探索、任务、炼金或战斗使用 `catch up to` | the first time i have no idea why in any case what i decided to hear basically is just catch up on some synthesis that i haven't done yet starting with [Music] i don't even remember what i started with probably should have watched this | 高 | 2026-09-19 新收录 |
+| have a profound impact | 产生深远影响 | 2026-09-23：ABC 新闻中用于报道政策、公共卫生、天气、司法或经济事件的 `have a profound impact` | uh yeah we've kind of been really involved in the fire so it had really a profound impact because the album and the songs were so influenced by this area and these people um i kind of i had to i had to like talk about it it had to be mentioned and and so yeah it became | 高 | 2026-09-23 新收录 |
+| Swift programming language | Swift 编程语言 | 2026-09-27：Swift/iOS 课堂中讲解代码、界面或项目要求时使用 `Swift programming language` | then we will learn the swift programming language actually this is the language we are using for developing our app i was wondering whether any or you have learned the swift before if you have learned this | 高 | 2026-09-27 新收录 |
+| Xcode | 苹果开发环境 | 2026-09-27：Swift/iOS 课堂中讲解代码、界面或项目要求时使用 `Xcode` | completes the iphone apps and then i will introduce how these apps made then i will show you um briefly work through the xcode i hope all you have installed the s-code in your computer if you haven't | 高 | 2026-09-27 新收录 |
+| assign a value | 赋值 | 2026-09-28：Swift/iOS 课堂中讲解代码、界面或项目要求时使用 `assign a value` | assign a name with a value and but you need to define um different with python that is very free language you don't need to define a variable before you use it but in this uh in the swift | 高 | 2026-09-28 新收录 |
+| use the Fairy Cauldron | 使用 Fairy Cauldron 炼金釜 | 2026-08-18：在多个炼金釜中选择 Fairy Cauldron | We'll use the Fairy Cauldron again. | 中 | 游戏机制术语 |
+| get the full reward | 获得完整奖励 | 2026-08-18：决定先完成击杀任务的全部条件 | I want to get the full reward for that kill quest. | 高 | 任务表达 |
+| kill quest | 击杀类任务 | 2026-08-18：追踪要求击败指定怪物的任务 | We are going there for the kill quest. | 中 | 游戏任务术语 |
+| break even | 达到收支平衡 | 2026-08-22：市场从疫情暴跌中恢复到年初水平以上 | We've more than broken even now. | 高 | 商业新闻表达 |
+| ASX 200 | 澳洲证券交易所 200 指数 | 2026-08-22：报道澳洲股市上涨超过百分之一 | The ASX 200 is up by more than one percent. | 高 | 澳洲财经术语 |
+| exercise extreme caution | 保持极度谨慎 | 2026-08-22：英国首相呼吁公众减少社交接触 | People were urged to exercise extreme caution. | 高 | 公共卫生表达 |
+| a string of inquiries | 一连串调查或听证 | 2026-08-23：皇家委员会安排多个专题调查 | There is going to be a string of other inquiries. | 高 | 正式新闻表达 |
+| out-of-home care system | 家庭外照护体系 | 2026-08-23：调查教育、原住民儿童及家庭外照护 | The inquiry will examine the out-of-home care system. | 高 | 社会政策术语 |
+| the future of air travel | 航空旅行的未来 | 2026-08-23：讨论疫情后航空业可能发生的变化 | The future of air travel could be very different. | 中 | 新闻主题表达 |
+| across the board | 全面地、各方面地 | 2026-08-25：残障知识应纳入各类医护人员培训 | It should be covered in their training across the board. | 高 | 高频正式表达 |
+| allied health | 辅助医疗专业体系 | 2026-08-25：列举护士、牙医及 allied health 从业人员 | Training should include nurses, allied health workers and dentists. | 高 | 澳洲医疗术语 |
+| be granted refugee status | 获批难民身份 | 2026-08-25：前 Manus Island 被拘留者在新西兰获得身份 | He has now been granted refugee status in New Zealand. | 高 | 移民新闻表达 |
+| repatriation flight | 撤侨、遣返或回国航班 | 2026-08-26：从法兰克福抵达的回国人员接受隔离 | They arrived on a repatriation flight from Frankfurt. | 高 | 国际新闻术语 |
+| a new flashpoint | 新的冲突焦点 | 2026-08-26：镍出口成为澳中关系的新摩擦点 | Nickel exports are the new flashpoint in the relationship. | 高 | 地缘政治表达 |
+| front-line workers | 一线工作人员 | 2026-08-27：美国医护人员首批接种疫苗 | Doctors and nurses on the front line received the first shots. | 高 | 公共卫生高频 |
+| forced labour | 强迫劳动 | 2026-08-27：出口商可能需要证明产品未使用强迫劳动 | You may have to prove it wasn't made with forced labour. | 高 | 贸易与人权术语 |
+| a formality in the democratic process | 民主程序中的例行手续 | 2026-08-28：分析美国选举确认程序 | The vote was described as a formality in the democratic process. | 高 | 政治新闻表达 |
+| an unofficial ban | 非正式禁令 | 2026-08-28：澳洲煤船在中国港口长期无法卸货 | Their entry had been blocked by an unofficial ban. | 高 | 贸易新闻表达 |
+| severe weather battering the coast | 恶劣天气袭击海岸地区 | 2026-08-28：洪水和暴雨再次冲击旅游业 | Severe weather is battering the country's east coast. | 高 | 灾害新闻表达 |
+| be reluctant to | 不愿意做某事 | 2026-08-29：部分居民不愿或无法去看全科医生 | Some people are reluctant to go to their GP. | 高 | 高频正式表达 |
+| Nurse-on-Call | 澳洲电话护士咨询服务 | 2026-08-29：救护车工会建议居民先电话咨询 | People were urged to call Nurse-on-Call. | 中 | 澳洲医疗服务名 |
+| have a conviction overturned | 原判被推翻 | 2026-08-29：受 Lawyer X 丑闻影响的定罪被撤销 | One of the convictions was overturned. | 高 | 司法新闻表达 |
+| be on the verge of | 濒临、即将进入某状态 | 2026-08-30：报道 ACT 可能出现心理健康危机 | The ACT is on the verge of a mental health crisis. | 高 | 新闻高频 |
+| turn away patients | 拒绝接收、劝离患者 | 2026-08-30：急诊部门因容量压力无法接收部分患者 | The emergency department was forced to turn away patients. | 高 | 医疗新闻表达 |
+| entry restrictions | 入境限制 | 2026-08-30：人员离境时间取决于澳洲疫情入境政策 | The timing depends on Australia's COVID entry restrictions. | 高 | 边境政策术语 |
+| get the all clear | 获准开始；得到安全确认 | 2026-09-01：美国获准开始新冠疫苗接种 | The United States got the all clear to begin vaccinating. | 高 | 新闻高频 |
+| be out of step globally | 与全球趋势脱节 | 2026-09-01：反对党批评总理在减排问题上的立场 | The prime minister was accused of being out of step globally. | 高 | 政治评论表达 |
+| emissions reductions | 减排、排放削减 | 2026-09-01：太平洋岛国论坛讨论气候目标 | The criticism focused on emissions reductions. | 高 | 气候政策术语 |
+| voluntarily suspend sales | 自愿暂停销售 | 2026-09-02：维州屠宰场暂停对华出口后仍等待恢复 | Two abattoirs voluntarily suspended their sales to China. | 高 | 贸易新闻表达 |
+| regional tech hub | 地区技术支持中心 | 2026-09-02：联邦政府改善偏远地区网络服务 | A new regional tech hub will help with connection problems. | 高 | 澳洲区域政策术语 |
+| damaging winds | 破坏性大风 | 2026-09-02：新州恶劣天气警报列出主要风险 | Heavy rain and damaging winds were forecast. | 高 | 天气预报高频 |
+| the death toll continues to mount | 死亡人数持续上升 | 2026-09-03：美国等待疫苗批准时死亡人数继续增加 | The death toll continues to mount. | 高 | 新闻压缩表达 |
+| false positive | 假阳性结果 | 2026-09-03：疫苗试验导致检测出现理论上的假阳性风险 | Everyone who had the vaccine returned a false positive. | 高 | 医学检测术语 |
+| gain an alchemy level | 提升一个炼金等级 | 2026-09-04：完成合成后角色炼金等级上升 | We gained another alchemy level from that. | 中 | 游戏机制术语 |
+| turn in a Puni Missile | 提交 Puni Missile 任务物品 | 2026-09-04：在委托柜台提交不再常用的物品 | I can turn in a Puni Missile. | 中 | 游戏任务表达 |
+| use something up | 把某物消耗完 | 2026-09-05：炼金时不舍得消耗稀有材料 | I hate to use one of these up. | 高 | 自然口语高频 |
+| choose a cauldron | 选择炼金釜 | 2026-09-06：开始合成前选择合适的 cauldron | Which cauldron should I use? | 中 | 游戏机制表达 |
+| synthesize Aries's Brooch | 合成 Aries's Brooch | 2026-09-07：任务要求交付零件并合成饰品 | I have to deliver those parts and synthesize Aries's Brooch. | 中 | 具体配方任务 |
+| craft Traveler's Shoes | 制作 Traveler's Shoes | 2026-09-07：查看当前可完成的制作委托 | I need to make Traveler's Shoes. | 中 | 具体制作任务 |
+| combine healing and attack | 同时结合治疗和攻击效果 | 2026-09-07：评价某个 rain skill 的双重作用 | The skill does a good amount of both healing and attack. | 高 | 战斗机制表达 |
+| underground lake | 地下湖 | 2026-09-08：NPC 指引玩家前往可采集矿物的区域 | You'll find an underground lake north of this town. | 中 | 地点表达 |
+| materials for alchemy | 炼金用材料 | 2026-09-08：地下湖矿石可用于炼金 | You might be able to use them as materials for alchemy. | 高 | 游戏机制表达 |
+| crafting request | 制作类委托 | 2026-09-08：委托列表中的任务都要求制作物品 | Those are all crafting requests. | 中 | 任务术语 |
+| alchemy cauldron | 炼金釜 | 2026-09-10：角色把凝视炼金釜水面描述为爱好 | I enjoy gazing at the surface of alchemy cauldrons. | 中 | 游戏专名 |
+| turn in several items | 一次提交多个物品 | 2026-09-10：在委托柜台批量交付物品 | I can turn in some of these. | 中 | 任务表达 |
+| regular attack | 普通攻击 | 2026-09-10：比较 quick throw 与普通攻击的行动顺序 | Will your regular attack do it? | 高 | 战斗术语 |
+| alchemy drops | 炼金液滴材料 | 2026-09-11：制作 flame powder 需要两个 alchemy drops | I need two alchemy drops for that. | 中 | 材料名 |
+| flame powder | 火焰粉末 | 2026-09-11：检查制作所需的前置材料 | We need to make a flame powder. | 中 | 配方物品 |
+| stack buffs and debuffs | 叠加增益与减益效果 | 2026-09-11：战斗中规划道具和状态效果 | I'd really like to stack buffs and debuffs. | 高 | 游戏战斗表达 |
+| the halfway point | 中途点、完成一半的阶段 | 2026-09-12：角色判断恢复记忆任务只进行到一半 | This is still the halfway point. | 高 | 自然表达 |
+| reclaim one's memories | 找回某人的记忆 | 2026-09-12：剧情最终目标是恢复 Sophie 的全部记忆 | My final goal is to reclaim all your memories. | 高 | 剧情表达 |
+| attack with items | 使用道具攻击 | 2026-09-12：战斗中选择炼金道具作为攻击方式 | It's time to attack with items. | 中 | 战斗机制 |
+| ask someone about alchemy | 向某人请教炼金术 | 2026-09-13：角色来工房询问炼金问题 | There's something we want to ask you about alchemy. | 高 | 自然交流表达 |
+| choose the best cauldron | 选择最合适的炼金釜 | 2026-09-14：合成前比较不同 cauldron | Which cauldron is best? | 中 | 游戏机制表达 |
+| turn in several requests | 一次交付多个委托 | 2026-09-14：检查委托后发现可轻松提交几项 | I can turn in a few requests easily. | 中 | 任务表达 |
+| be blocked off | 被封锁、无法进入 | 2026-09-15：菜单或区域中的部分内容暂不可用 | Some things are blocked off. | 高 | 游戏与现实均可用 |
+| fixed power | 固定威力效果 | 2026-09-15：查看攻击物品的效果说明 | What does fixed power do? | 中 | 游戏机制术语 |
+| damage absorption | 伤害吸收效果 | 2026-09-15：给攻击物品加入少量吸收效果 | We'll put a little damage absorption on there. | 中 | 战斗效果术语 |
+| synthesize Stahl Metal | 合成 Stahl Metal | 2026-09-16：为后续装备制作准备金属材料 | We can synthesize Stahl Metal now. | 中 | 配方表达 |
+| turn in completed requests | 提交已完成委托 | 2026-09-16：返回柜台批量领取奖励 | Let's go back and turn in those requests. | 高 | 任务表达 |
+| make honey | 制作蜂蜜 | 2026-09-18：解锁配方后首次制作蜂蜜 | We'll make some honey because we haven't done that yet. | 中 | 配方表达 |
+| quest monster | 任务指定怪物 | 2026-09-18：决定先击败任务怪再去打鱼 | I should fight the quest monster first. | 中 | 游戏任务术语 |
+| make progress on | 在某事上取得进展 | 2026-09-18：即使不确定方法，也会自然推进怪物回忆任务 | I'll end up making progress on that regardless. | 高 | 高频表达 |
+| gain a level | 升级 | 2026-09-19：炼金活动后获得等级提升 | I got an alchemy level out of that. | 中 | 游戏高频 |
+| check the request status | 检查委托状态 | 2026-09-19：进入商店前先查看当前任务进度 | First, let's check the request status. | 高 | 任务管理表达 |
+| reference book for alchemy | 炼金术参考书 | 2026-09-20：发现一本后半部分为空白的炼金书 | This is a reference book for alchemy. | 中 | 剧情物品 |
+| gather materials for synthesis | 采集合成材料 | 2026-09-20：因缺少材料而邀请同伴一起采集 | I don't have any materials for synthesis, so I want to gather some. | 高 | 游戏机制表达 |
+| reduce attack power | 降低攻击力 | 2026-09-20：查看技能附带的削弱效果 | The attack can reduce the enemy's attack power. | 高 | 战斗术语 |
+| have a case adjourned | 案件延期审理 | 2026-09-21：被告案件延期到 12 月 14 日 | Their cases were adjourned until the fourteenth of December. | 高 | 司法新闻表达 |
+| be the brains behind | 是……背后的主谋或核心人物 | 2026-09-21：以色列指控科学家是核计划核心人物 | He was accused of being the brains behind the nuclear program. | 高 | 新闻高频表达 |
+| a 24-point win | 以 24 分优势获胜 | 2026-09-21：WNBL 比赛报道 Southside Flyers 大胜 | The Flyers recorded a 24-point win. | 中 | 体育比分表达 |
+| footballing background | 足球运动背景 | 2026-09-22：讨论步行足球参与者需要适应的传球方式 | People from a footballing background still struggle with the adjustment. | 中 | 体育表达 |
+| property development | 房地产开发 | 2026-09-22：投资银行家回到中国从事房地产开发 | She returned to China to try her hand at property development. | 高 | 商业表达 |
+| clearing showers | 阵雨逐渐消散 | 2026-09-22：全国天气预报描述 Perth 天气 | There will be clearing showers in Perth. | 中 | 天气预报表达 |
+| test positive for coronavirus | 新冠检测呈阳性 | 2026-09-23：激进组织领导人的支持者中多人确诊 | Eighty of his supporters tested positive for coronavirus. | 高 | 公共卫生高频 |
+| brace for further trouble | 准备应对进一步骚乱或问题 | 2026-09-23：当局因大规模集会而提高警戒 | Authorities are bracing for further trouble. | 高 | 新闻高频表达 |
+| a fire hose of cash | 大量、猛烈投入的资金 | 2026-09-24：形容维州政府以巨额财政支出刺激经济 | The government got out a fire hose of cash. | 高 | 新闻形象表达 |
+| green shoots in the economy | 经济复苏的初步迹象 | 2026-09-24：财政刺激旨在推动经济出现复苏苗头 | The spending aimed to create green shoots in the economy. | 高 | 经济新闻表达 |
+| land values | 土地价值、地价总值 | 2026-09-24：讨论房地产繁荣期间土地价值增长 | Land values rose by more than 660 billion dollars. | 高 | 财经术语 |
+| reclassify the risk | 重新划分风险等级 | 2026-09-25：塔州把维州旅行风险由中等降为低 | Authorities reclassified the risk from medium to low. | 高 | 政策表达 |
+| a go-slow | 怠工式缓慢处理 | 2026-09-25：形容煤船在中国港口长期无法卸货 | It's not just a go-slow; it's going incredibly slowly. | 高 | 劳资与贸易表达 |
+| World Heritage-listed | 列入世界遗产名录的 | 2026-09-25：大火烧过世界遗产岛屿大片土地 | The fire burned through 72,000 hectares of the World Heritage-listed island. | 高 | 环境新闻表达 |

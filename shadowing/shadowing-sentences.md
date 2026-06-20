@@ -2637,3 +2637,4342 @@
 - 连读 / 弱读提示：强读核心技术词和逻辑词；功能词可能弱读。此处为常见发音规律推测。
 - 中文意思：本次材料的核心概念、条件或操作说明。
 - 跟读次数建议：16 次
+## 2026-07-21
+
+### 1
+
+- 日期：2026-07-21
+- 时间戳：00:01:43–00:02:01
+- 原句：recipe okay so we can get more of that weird creepy green stuff still distant view tower huh
+- 慢速拆解：recipe okay so we can get more of / that weird creepy green stuff still distant view / tower huh
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-21
+- 时间戳：00:07:44–00:07:51
+- 原句：see what these give i thought okay well we came up with a recipe for something
+- 慢速拆解：see what these give i thought okay well / we came up with a recipe for something
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“即时计划修正”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-21
+- 时间戳：00:04:03–00:04:19
+- 原句：yeah that was kind of painful [Music] it says it'll resist that but it's down to 49 hp so we can probably just attack it down at this point let's coordinate yeah we can take care
+- 慢速拆解：yeah that was kind of painful [Music] it / says it'll resist that but it's down to / 49 hp so we can probably just attack / it down at this point let's coordinate yeah
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-21
+- 时间戳：00:18:48–00:19:07
+- 原句：so if i use this and do the effect plus two green okay let's start now i can't do that because i don't have green which catalyst [Music]
+- 慢速拆解：so if i use this and do the / effect plus two green okay let's start now / i can't do that because i don't have / green which catalyst [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-21
+- 时间戳：00:15:59–00:16:18
+- 原句：all right let's head back over in the general direction of the campfire grabbing just a few more things on the way
+- 慢速拆解：all right let's head back over in the / general direction of the campfire grabbing just a / few more things on the way
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-21
+- 时间戳：00:29:53–00:30:08
+- 原句：can't you tell a reference book for alchemy wow it's filled with difficult stuff so this is what you're always reading yeah if i'm going to be a respectable alchemist soon i can't forget my daily studies what i think you're really respectable already oh are you kidding there's...
+- 慢速拆解：can't you tell a reference book for alchemy / wow it's filled with difficult stuff so this / is what you're always reading yeah if i'm / going to be a respectable alchemist soon i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-22
+
+### 1
+
+- 日期：2026-07-22
+- 时间戳：00:05:42–00:05:59
+- 原句：what should i make so what should we [Music] don't make pure oil for that let's uh take a look and see if there's any recipe ideas that need us to craft
+- 慢速拆解：what should i make so what should we / [Music] don't make pure oil for that let's / uh take a look and see if there's / any recipe ideas that need us to craft
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-22
+- 时间戳：00:13:50–00:14:07
+- 原句：all the alchemists i know are like that that goes for the ones i knew in the past and you i guess you're right but this is great now you'll be able to reach your goal right do your best i'll be cheering for you
+- 慢速拆解：all the alchemists i know are like that / that goes for the ones i knew in / the past and you i guess you're right / but this is great now you'll be able
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-22
+- 时间戳：00:30:42–00:30:59
+- 原句：synthesized it with great care i give you a passing score for workmanship let's move on then your next assignment is to go use this bomb any monster can be your target just make sure to use this bomb in combat huh all i have to do is use it really correct that would be all as...
+- 慢速拆解：synthesized it with great care i give you / a passing score for workmanship let's move on / then your next assignment is to go use / this bomb any monster can be your target
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-22
+- 时间戳：00:48:07–00:48:22
+- 原句：rest up maybe [Music] it's not turning out the way the recipe says huh here let me see oh i get it you probably skipped a step didn't you oops i forgot to put in this material but you can tell right away you're incredible ill
+- 慢速拆解：rest up maybe [Music] it's not turning out / the way the recipe says huh here let / me see oh i get it you probably / skipped a step didn't you oops i forgot
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-22
+- 时间戳：00:54:10–00:54:25
+- 原句：not that it likely matters for this but the principle of the thing you know [Music] okay got some good xp out of that too let's go over here
+- 慢速拆解：not that it likely matters for this but / the principle of the thing you know [Music] / okay got some good xp out of that / too let's go over here
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-22
+- 时间戳：01:05:40–01:06:02
+- 原句：probably should do more healing between battles like some people said yeah that's painful [Music]
+- 慢速拆解：probably should do more healing between battles like / some people said yeah that's painful [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-23
+
+### 1
+
+- 日期：2026-07-23
+- 时间戳：00:04:08–00:04:29
+- 原句：hmm i'm curious what bren was talking about but i need to concentrate on making the ship parts right now i'll leave the cauldron to everyone else and i'll do what i can i thought of a new item all right back to uh synthesizing vlog items
+- 慢速拆解：hmm i'm curious what bren was talking about / but i need to concentrate on making the / ship parts right now i'll leave the cauldron / to everyone else and i'll do what i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-23
+- 时间戳：00:21:56–00:22:12
+- 原句：okay please drop ah there's a chest back here or something i think why is it lighting up oh maybe it's on another level okay um i don't think i need to be exploring
+- 慢速拆解：okay please drop ah there's a chest back / here or something i think why is it / lighting up oh maybe it's on another level / okay um i don't think i need to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“即时计划修正”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-23
+- 时间戳：00:35:54–00:36:10
+- 原句：those guys um well let's check our ideas and see [Music] defeat six ghosts okay i'd rather not
+- 慢速拆解：those guys um well let's check our ideas / and see [Music] defeat six ghosts okay i'd / rather not
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-23
+- 时间戳：00:55:29–00:55:48
+- 原句：this is fine we'll turn it oh it's those are just component parts okay so what does that do [Music] knocking down fruit and other things from trees okay
+- 慢速拆解：this is fine we'll turn it oh it's / those are just component parts okay so what / does that do [Music] knocking down fruit and / other things from trees okay
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-23
+- 时间戳：01:03:16–01:03:33
+- 原句：and then that one there let's put that there and this one up actually let's do this let's put that here this one here so over here nothing that matters and
+- 慢速拆解：and then that one there let's put that / there and this one up actually let's do / this let's put that here this one here / so over here nothing that matters and
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-23
+- 时间戳：01:19:04–01:19:20
+- 原句：well i'm glad i didn't try to cut the time close i mean i know everyone said it's generous but having to go back and gather these tons of materials it really does put a dent in how how much extra time i have did not have nearly as much extra time as i thought i would because
+- 慢速拆解：well i'm glad i didn't try to cut / the time close i mean i know everyone / said it's generous but having to go back / and gather these tons of materials it really
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-24
+
+### 1
+
+- 日期：2026-07-24
+- 时间戳：00:13:20–00:13:46
+- 原句：um could make another ingot make some uh let's see let's do this let's take a look and see if we have any recipe ideas
+- 慢速拆解：um could make another ingot make some uh / let's see let's do this let's take a / look and see if we have any recipe / ideas
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-24
+- 时间戳：00:24:13–00:24:30
+- 原句：so what is it about this cave that i got the that pop-up or the the quest about it that was unexpected oh let's defeat the loom that guards the treasure chest
+- 慢速拆解：so what is it about this cave that / i got the that pop-up or the the / quest about it that was unexpected oh let's / defeat the loom that guards the treasure chest
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-24
+- 时间戳：00:33:56–00:34:12
+- 原句：okay the other would [Music] defeat more animals all right have any more animals right here no [Music]
+- 慢速拆解：okay the other would [Music] defeat more animals / all right have any more animals right here / no [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-24
+- 时间戳：00:50:13–00:50:29
+- 原句：i'm going to start out with a lower quality quality one because i want to level up my rock
+- 慢速拆解：i'm going to start out with a lower / quality quality one because i want to level / up my rock
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-24
+- 时间戳：01:04:54–01:05:14
+- 原句：here we go so yeah it says we have to go to the suite to to have scenes it looks like so i guess we won't be doing that so let's go back to the outlier
+- 慢速拆解：here we go so yeah it says we / have to go to the suite to to / have scenes it looks like so i guess / we won't be doing that so let's go
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-24
+- 时间戳：01:18:04–01:18:22
+- 原句：anything having to do with it really i'm not even gonna worry too much about getting the quality i'm just crafting it to craft it yeah oh well not a big deal [Applause]
+- 慢速拆解：anything having to do with it really i'm / not even gonna worry too much about getting / the quality i'm just crafting it to craft / it yeah oh well not a big deal
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-25
+
+### 1
+
+- 日期：2026-07-25
+- 时间戳：00:06:20–00:06:37
+- 原句：came up with a new recipe deliver 10 pieces of wood all right oh there's the boy yeah it's kind of obvious that there's a water spot over there wonder if we can find woman around here
+- 慢速拆解：came up with a new recipe deliver 10 / pieces of wood all right oh there's the / boy yeah it's kind of obvious that there's / a water spot over there wonder if we
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-25
+- 时间戳：00:04:55–00:05:11
+- 原句：but i'm not sure exactly where he is the quest item the quest uh description was kind of vague on that i don't see him down here although can i go in that door now what's this okay i found some more
+- 慢速拆解：but i'm not sure exactly where he is / the quest item the quest uh description was / kind of vague on that i don't see / him down here although can i go in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-25
+- 时间戳：00:58:04–00:58:17
+- 原句：all right the monster whatever this the monster is this reminds me of my childhood i was always swinging sticks around okay so it's up there
+- 慢速拆解：all right the monster whatever this the monster / is this reminds me of my childhood i / was always swinging sticks around okay so it's / up there
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-25
+- 时间戳：01:09:40–01:09:56
+- 原句：i thought of a new item the tree popping out if you get too close that whole cutscene was kind of there and it goes away if we get too close that probably could have been adjusted a bit
+- 慢速拆解：i thought of a new item the tree / popping out if you get too close that / whole cutscene was kind of there and it / goes away if we get too close that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-25
+- 时间戳：01:32:43–01:32:57
+- 原句：[Music] i thought i made one of these now i have seven oh i can i can make them it's another one like the spirit stone where i can make them or find them
+- 慢速拆解：[Music] i thought i made one of these / now i have seven oh i can i / can make them it's another one like the / spirit stone where i can make them or
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-25
+- 时间戳：01:51:34–01:51:39
+- 原句：string is really useful bring five flowers to the woods by the water
+- 慢速拆解：string is really useful bring five flowers to / the woods by the water
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-26
+
+### 1
+
+- 日期：2026-07-26
+- 时间戳：00:02:13–00:02:29
+- 原句：keep looking for the plot recipe hints updated huh [Music]
+- 慢速拆解：keep looking for the plot recipe hints updated / huh [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-26
+- 时间戳：00:25:14–00:25:35
+- 原句：and it's just some general water wait no that's quality 99 i don't want to face that just make kind of a generic one for quest or something we end up needing one for a quest [Music]
+- 慢速拆解：and it's just some general water wait no / that's quality 99 i don't want to face / that just make kind of a generic one / for quest or something we end up needing
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-26
+- 时间戳：00:36:12–00:36:29
+- 原句：but i do not have the 3000 call needed thanks okay then i'll tell you about this town as promised it happened not too long ago the lake by
+- 慢速拆解：but i do not have the 3000 call / needed thanks okay then i'll tell you about / this town as promised it happened not too / long ago the lake by
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“菜单/画面指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-26
+- 时间戳：00:51:36–00:51:51
+- 原句：is this okay [Music] ah you've made it for me let me take a look [Music] yeah this is well made alchemy really is amazing there won't be any issue using this as a smithing material
+- 慢速拆解：is this okay [Music] ah you've made it / for me let me take a look [Music] / yeah this is well made alchemy really is / amazing there won't be any issue using this
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-26
+- 时间戳：01:02:04–01:02:23
+- 原句：i thought of a new item okay now what i can make a where is there it is okay so let's make let's make that bait
+- 慢速拆解：i thought of a new item okay now / what i can make a where is there / it is okay so let's make let's make / that bait
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-26
+- 时间戳：01:19:28–01:19:45
+- 原句：i found some more finding easy for me shanty street oh okay [Music] uh i really shouldn't push it this much um whoa
+- 慢速拆解：i found some more finding easy for me / shanty street oh okay [Music] uh i really / shouldn't push it this much um whoa
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-27
+
+### 1
+
+- 日期：2026-07-27
+- 时间戳：00:09:53–00:10:09
+- 原句：wow i didn't know it's hard work being an alchemist hey in that case i'll give you this do you like it isn't it great i picked it up the other day i thought it might make a good material for alchemy think of it as a thank you for showing me alchemy the other day i hope you can...
+- 慢速拆解：wow i didn't know it's hard work being / an alchemist hey in that case i'll give / you this do you like it isn't it / great i picked it up the other day
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-27
+- 时间戳：00:22:55–00:23:13
+- 原句：[Music] if we put that one there oh not there there why am i doing this this is a quest item it doesn't matter
+- 慢速拆解：[Music] if we put that one there oh / not there there why am i doing this / this is a quest item it doesn't matter
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-27
+- 时间戳：00:38:32–00:38:47
+- 原句：[Music] okay you attack the one that has three hp left and you attack the one that has 22 hp left and has a broken guard [Music]
+- 慢速拆解：[Music] okay you attack the one that has / three hp left and you attack the one / that has 22 hp left and has a / broken guard [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-27
+- 时间戳：00:52:26–00:52:44
+- 原句：this was really helpful i didn't realize there were portable atliers we all need to help others in need you're really good at alchemy ill you fixed your staff before i knew it you've already made other items [Music] that's what i told you earlier i'm a super amazing genius alc...
+- 慢速拆解：this was really helpful i didn't realize there / were portable atliers we all need to help / others in need you're really good at alchemy / ill you fixed your staff before i knew
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-27
+- 时间戳：01:05:56–01:06:09
+- 原句：all right let's take a look over here there's a person yes looking for a new to make medicine they should be located in this area okay so we need to find some unu
+- 慢速拆解：all right let's take a look over here / there's a person yes looking for a new / to make medicine they should be located in / this area okay so we need to find
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-27
+- 时间戳：01:22:24–01:22:41
+- 原句：an n or something maybe i'm supposed to go the other way i don't know well he's blocking that door [Music]
+- 慢速拆解：an n or something maybe i'm supposed to / go the other way i don't know well / he's blocking that door [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-28
+
+### 1
+
+- 日期：2026-07-28
+- 时间戳：00:07:21–00:07:35
+- 原句：the other bomb the uni bag and the artana salve because some of these will probably be give uh recipe ideas as we use them
+- 慢速拆解：the other bomb the uni bag and the / artana salve because some of these will probably / be give uh recipe ideas as we use / them
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-28
+- 时间戳：00:27:12–00:27:29
+- 原句：and we've been recording about half an hour we explored some new areas figured out a few things and there's a campfire right here so next time i think we will continue to head east [Music] now let's see check quest
+- 慢速拆解：and we've been recording about half an hour / we explored some new areas figured out a / few things and there's a campfire right here / so next time i think we will continue
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-28
+- 时间戳：00:42:05–00:42:22
+- 原句：increases attack defense and speed by 30 when the weather is clear okay now let's take a look okay so it doesn't look like we get to do travel between and maybe we can eventually but it looks like right now
+- 慢速拆解：increases attack defense and speed by 30 when / the weather is clear okay now let's take / a look okay so it doesn't look like / we get to do travel between and maybe
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-28
+- 时间戳：00:54:21–00:54:39
+- 原句：material set material [Music] over there so it doesn't overwrite stuff
+- 慢速拆解：material set material [Music] over there so it / doesn't overwrite stuff
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-28
+- 时间戳：01:09:54–01:10:13
+- 原句：that was one strange girl she didn't seem like a bad kid though well for the time being i guess we'll go visit the atlea she told us see in the outlier games no one can be really mean [Music] let's go to the atlear the licensed alchemist named dion living in matin
+- 慢速拆解：that was one strange girl she didn't seem / like a bad kid though well for the / time being i guess we'll go visit the / atlea she told us see in the outlier
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-28
+- 时间戳：01:25:39–01:25:57
+- 原句：no we can't oh we might not be able to do it i was trying to see if we could get both of them but i don't think we can [Music] because if we do if we do that and
+- 慢速拆解：no we can't oh we might not be / able to do it i was trying to / see if we could get both of them / but i don't think we can [Music] because
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-29
+
+### 1
+
+- 日期：2026-07-29
+- 时间戳：00:07:19–00:07:37
+- 原句：i don't know that must be the um what's it called the the things that i the the base material synthesis thingies by mine's blanking out
+- 慢速拆解：i don't know that must be the um / what's it called the the things that i / the the base material synthesis thingies by mine's / blanking out
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-29
+- 时间戳：00:24:20–00:24:35
+- 原句：so [Music] [Applause] let's go to quest book and next up you came to the end looking really serious turns out he can't dig up a secret stash because there's some wild pony the elder
+- 慢速拆解：so [Music] [Applause] let's go to quest book / and next up you came to the end / looking really serious turns out he can't dig / up a secret stash because there's some wild
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-29
+- 时间戳：00:26:25–00:26:41
+- 原句：this is the place the elder mentioned uh would you like to be the tutorial for battle yes i would it's always a little bit different in each one now last enemies take turns performing actions see the turnover on the right
+- 慢速拆解：this is the place the elder mentioned uh / would you like to be the tutorial for / battle yes i would it's always a little / bit different in each one now last enemies
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-29
+- 时间戳：00:54:43–00:54:58
+- 原句：oh what's that hundred quality one doing there uh we'll just use that one [Applause] and some of let's start their set material set
+- 慢速拆解：oh what's that hundred quality one doing there / uh we'll just use that one [Applause] and / some of let's start their set material set
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-29
+- 时间戳：01:11:45–01:12:01
+- 原句：got another no not quite well that reminds me if i recall you need three letters of recommendation to take the exam that is a recommendation so where do you obtain them [Music] apparently alchemists who pass the license and jam can write them
+- 慢速拆解：got another no not quite well that reminds / me if i recall you need three letters / of recommendation to take the exam that is / a recommendation so where do you obtain them
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-29
+- 时间戳：01:26:21–01:26:30
+- 原句：what should i make still need to get some more tona crystals [Music] probably could stand to make another bomb
+- 慢速拆解：what should i make still need to get / some more tona crystals [Music] probably could stand / to make another bomb
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-30
+
+### 1
+
+- 日期：2026-07-30
+- 时间戳：00:20:58–00:21:17
+- 原句：baskets groundwater and now i do see the size thing looks like we get to play tetris for alchemy again which is kind of cool [Music] got another place to go in over here
+- 慢速拆解：baskets groundwater and now i do see the / size thing looks like we get to play / tetris for alchemy again which is kind of / cool [Music] got another place to go in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-30
+- 时间戳：00:14:07–00:14:24
+- 原句：all right quest let's go back home started got carried away by leah's tales and didn't realize how late it was let's go home my house is in the north of town about the flight of stairs what could be for dinner tonight i'm so excited [Music]
+- 慢速拆解：all right quest let's go back home started / got carried away by leah's tales and didn't / realize how late it was let's go home / my house is in the north of town
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-30
+- 时间戳：00:52:26–00:52:44
+- 原句：it really seems like you can make anything great make medicine and bombs with medicine you can heal wounds and with bombs you can defeat monsters wait a second
+- 慢速拆解：it really seems like you can make anything / great make medicine and bombs with medicine you / can heal wounds and with bombs you can / defeat monsters wait a second
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-30
+- 时间戳：01:08:55–01:09:10
+- 原句：okay is this okay which catalyst should i use you don't have any items called catalyst right now so you won't use one for synthesis here okay catalyst i think is a new thing
+- 慢速拆解：okay is this okay which catalyst should i / use you don't have any items called catalyst / right now so you won't use one for / synthesis here okay catalyst i think is a
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-30
+- 时间戳：01:25:41–01:25:57
+- 原句：must use some kind of special bombs only quarry in the town also has its own firepowers but nowhere near that amount where to get it you're sure to find some when you break the stones at the end of the lining tunnel all right
+- 慢速拆解：must use some kind of special bombs only / quarry in the town also has its own / firepowers but nowhere near that amount where to / get it you're sure to find some when
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-30
+- 时间戳：01:35:57–01:36:15
+- 原句：lyanna as well ferris of course he is my big sister and i'm proud of her yeah they have a little bit of an interesting dynamic it seems
+- 慢速拆解：lyanna as well ferris of course he is / my big sister and i'm proud of her / yeah they have a little bit of an / interesting dynamic it seems
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-07-31
+
+### 1
+
+- 日期：2026-07-31
+- 时间戳：00:10:50–00:11:06
+- 原句：[Music] do you intend to kill me again no lord we're here to persuade you [Music] persuade me luard you need to stop using appalachian alchemy right now [Music] you've come all this way just to say
+- 慢速拆解：[Music] do you intend to kill me again / no lord we're here to persuade you [Music] / persuade me luard you need to stop using / appalachian alchemy right now [Music] you've come all
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-07-31
+- 时间戳：00:11:57–00:12:14
+- 原句：you would wait that long for me a chance uncertain futures do not concern me the most important time is the present and mastering this magnificent power my goal is mastery of this form of alchemy that goal has never changed
+- 慢速拆解：you would wait that long for me a / chance uncertain futures do not concern me the / most important time is the present and mastering / this magnificent power my goal is mastery of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-07-31
+- 时间戳：00:18:02–00:18:18
+- 原句：[Music] i think my battle against that fish was harder then again i did kind of boost up weapons and armor a little bit on but that was only half my party um oscar and monica still had the the same weapons and armor i had before
+- 慢速拆解：[Music] i think my battle against that fish / was harder then again i did kind of / boost up weapons and armor a little bit / on but that was only half my party
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-07-31
+- 时间戳：00:21:50–00:22:07
+- 原句：last area [Music] since i mean we couldn't exactly explore it there again we can just use the return item [Music]
+- 慢速拆解：last area [Music] since i mean we couldn't / exactly explore it there again we can just / use the return item [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-07-31
+- 时间戳：00:24:43–00:24:59
+- 原句：together yes okay then to the atlear [Music] and it put me back in the town entrance okay
+- 慢速拆解：together yes okay then to the atlear [Music] / and it put me back in the town / entrance okay
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-07-31
+- 时间戳：00:38:32–00:38:50
+- 原句：i am not sure whether i'm going to continue with the let's play part of this i will definitely now that i've finished the main story i'm okay with looking online for everything so i'm going to look up what it takes to get a platinum and see maybe about that um let's
+- 慢速拆解：i am not sure whether i'm going to / continue with the let's play part of this / i will definitely now that i've finished the / main story i'm okay with looking online for
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-01
+
+### 1
+
+- 日期：2026-08-01
+- 时间戳：00:07:42–00:07:58
+- 原句：wait this is a misunderstanding they didn't mean like that i'm just here for maintenance unplucked his body huh maintenance yeah doesn't matter if we use special alchemy materials to emphasize durability long use will cause wear you may have
+- 慢速拆解：wait this is a misunderstanding they didn't mean / like that i'm just here for maintenance unplucked / his body huh maintenance yeah doesn't matter if / we use special alchemy materials to emphasize durability
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-01
+- 时间戳：00:27:34–00:27:51
+- 原句：out [Music] he doesn't like spiders thread okay welcome thank you for which request will
+- 慢速拆解：out [Music] he doesn't like spiders thread okay / welcome thank you for which request will
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-01
+- 时间戳：00:46:49–00:47:05
+- 原句：you're correct i'm just getting started can you say that after the second question what status fix occurs when you attack the same enemy many times causing them to take critical hits break correct managed to get that one too
+- 慢速拆解：you're correct i'm just getting started can you / say that after the second question what status / fix occurs when you attack the same enemy / many times causing them to take critical hits
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-01
+- 时间戳：00:57:18–00:57:35
+- 原句：[Music] [Applause] [Music] [Applause] all right take this [Music] an offensive item
+- 慢速拆解：[Music] [Applause] [Music] [Applause] all right take this / [Music] an offensive item
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-01
+- 时间戳：01:22:38–01:22:54
+- 原句：[Music] that's nothing why did you have a bad feeling about that your bad feelings are not very reliable where are we going next now [Music]
+- 慢速拆解：[Music] that's nothing why did you have a / bad feeling about that your bad feelings are / not very reliable where are we going next / now [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-01
+- 时间戳：01:40:44–01:41:02
+- 原句：yeah i don't think this is gonna go well
+- 慢速拆解：yeah i don't think this is gonna go / well
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-02
+
+### 1
+
+- 日期：2026-08-02
+- 时间戳：00:11:04–00:11:19
+- 原句：[Music] now only that red one um we'll go with it really okay which cauldron is not something i would
+- 慢速拆解：[Music] now only that red one um we'll / go with it really okay which cauldron is / not something i would
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-02
+- 时间戳：00:27:41–00:27:53
+- 原句：welcome which request will you accept hmm [Music] yeah i'll turn that in i can always make another i think i only made that to make it
+- 慢速拆解：welcome which request will you accept hmm [Music] / yeah i'll turn that in i can always / make another i think i only made that / to make it
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-02
+- 时间戳：00:41:02–00:41:18
+- 原句：increase attack power and that no no not discard want to get maximum hp yeah not overly impressed i mean it's okay [Music]
+- 慢速拆解：increase attack power and that no no not / discard want to get maximum hp yeah not / overly impressed i mean it's okay [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-02
+- 时间戳：00:55:36–00:55:44
+- 原句：a challenge fair and square i'll use an item [Music]
+- 慢速拆解：a challenge fair and square i'll use an / item [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-02
+- 时间戳：01:10:23–01:10:44
+- 原句：where those chests that i see on the map i guess i have to go up and around there are a bunch of dragons here you look like you're guarding these [Music] can i nope
+- 慢速拆解：where those chests that i see on the / map i guess i have to go up / and around there are a bunch of dragons / here you look like you're guarding these [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-02
+- 时间戳：01:32:07–01:32:22
+- 原句：still you've been getting pretty amazing lately sophie you did a great job oh really yeah ever since plucked has showed up your alchemy has been getting really amazing sophie did you find some sort of secret trick pluckto told me to really think about
+- 慢速拆解：still you've been getting pretty amazing lately sophie / you did a great job oh really yeah / ever since plucked has showed up your alchemy / has been getting really amazing sophie did you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-03
+
+### 1
+
+- 日期：2026-08-03
+- 时间戳：00:05:49–00:05:56
+- 原句：is this good but we'll go ahead and give that a try we will want to use the fairy cauldron
+- 慢速拆解：is this good but we'll go ahead and / give that a try we will want to / use the fairy cauldron
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-03
+- 时间戳：00:27:47–00:27:55
+- 原句：welcome which request will you accept yeah i'll turn that in i can always make another i think i only made that to make it
+- 慢速拆解：welcome which request will you accept yeah i'll / turn that in i can always make another / i think i only made that to make / it
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-03
+- 时间戳：00:39:56–00:40:12
+- 原句：have you attack i want to see something oh she's broken she can't do anything um all right we'll just attack it's dead [Music] yeah that'll kill it anyway
+- 慢速拆解：have you attack i want to see something / oh she's broken she can't do anything um / all right we'll just attack it's dead [Music] / yeah that'll kill it anyway
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-03
+- 时间戳：00:55:28–00:55:46
+- 原句：do you think that 2000 helped before does this keep going up or what all right take this [Applause] a challenge fair and square i'll use an item [Music]
+- 慢速拆解：do you think that 2000 helped before does / this keep going up or what all right / take this [Applause] a challenge fair and square / i'll use an item [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-03
+- 时间戳：01:16:41–01:16:58
+- 原句：any other non-standard poonie around here i don't see any other non-standard puny and those guys just keep getting renewed every time so let's just head back out [Music]
+- 慢速拆解：any other non-standard poonie around here i don't / see any other non-standard puny and those guys / just keep getting renewed every time so let's / just head back out [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-03
+- 时间戳：01:28:41–01:28:57
+- 原句：well they talked together you'd always play with me yeah it's pretty rough babysitting you you were always up to mischief i was just a little kid you can't really blame me still you're sure i've grown up since then you're even running that out later by yourself
+- 慢速拆解：well they talked together you'd always play with / me yeah it's pretty rough babysitting you you / were always up to mischief i was just / a little kid you can't really blame me
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-04
+
+### 1
+
+- 日期：2026-08-04
+- 时间戳：00:10:21–00:10:36
+- 原句：[Music] [Applause] critical and [Applause] fixed recovery i guess which cauldron is
+- 慢速拆解：[Music] [Applause] critical and [Applause] fixed recovery i / guess which cauldron is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-04
+- 时间戳：00:25:22–00:25:37
+- 原句：i should double check that [Music] no which request will you accept no [Music] no no i'll see
+- 慢速拆解：i should double check that [Music] no which / request will you accept no [Music] no no / i'll see
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-04
+- 时间戳：01:12:22–01:12:39
+- 原句：okay uh that goes on blocked right away reduce attack power and now we're going to start spamming squall shot
+- 慢速拆解：okay uh that goes on blocked right away / reduce attack power and now we're going to / start spamming squall shot
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-04
+- 时间戳：01:02:20–01:02:39
+- 原句：to get an idea or something [Music] but i guess it's just material gathering no ideas or anything here [Music]
+- 慢速拆解：to get an idea or something [Music] but / i guess it's just material gathering no ideas / or anything here [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-04
+- 时间戳：01:31:56–01:32:13
+- 原句：[Music] and we'll just grab these [Music] uh there's one over here yes and what is this called
+- 慢速拆解：[Music] and we'll just grab these [Music] uh / there's one over here yes and what is / this called
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-04
+- 时间戳：01:50:01–01:50:19
+- 原句：[Music] and that one probably [Music] [Applause] and [Music] [Applause]
+- 慢速拆解：[Music] and that one probably [Music] [Applause] and / [Music] [Applause]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-05
+
+### 1
+
+- 日期：2026-08-05
+- 时间戳：00:10:10–00:10:27
+- 原句：given up some of its early gains but it's still uh in decent gains territory so i guess over the last month it's really been boosted by covert vaccine optimism and over the weekend what we had was uh us president donald trump not acting on his threat to veto a trillion dollar...
+- 慢速拆解：given up some of its early gains but / it's still uh in decent gains territory so / i guess over the last month it's really / been boosted by covert vaccine optimism and over
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-05
+- 时间戳：00:20:52–00:21:07
+- 原句：their conditions certainly in sydney there we have seen some breaches recently and in other places 10 months in i think australians expect that their government will act and we will act if people continue to breach their conditions and risk public health
+- 慢速拆解：their conditions certainly in sydney there we have / seen some breaches recently and in other places / 10 months in i think australians expect that / their government will act and we will act
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-05
+- 时间戳：00:36:30–00:36:46
+- 原句：just before lunch if they can get a little bit more of a total up and make it even closer to 80 that'd be that would be pretty impressive and pretty tough for india to have to deal with simon smale from abc sport thanks very much for the chat no problem time to check the weath...
+- 慢速拆解：just before lunch if they can get a / little bit more of a total up and / make it even closer to 80 that'd be / that would be pretty impressive and pretty tough
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-05
+- 时间戳：00:29:26–00:29:41
+- 原句：on about trying to get the volume off and off the market so um but it's been going well so far ian i've got to ask you this do you love your mangoes or do you get a little tired of them after a while no no no you never get tired of mangoes they're um
+- 慢速拆解：on about trying to get the volume off / and off the market so um but it's / been going well so far ian i've got / to ask you this do you love your
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-05
+- 时间戳：01:02:47–01:03:03
+- 原句：mild symptoms and sometimes people don't notice them so that's why we have the crew either in isolation on the ship or at the howard springs facility and that's why of course those other people have become contacts and are also in isolation earlier this year there was a federa...
+- 慢速拆解：mild symptoms and sometimes people don't notice them / so that's why we have the crew either / in isolation on the ship or at the / howard springs facility and that's why of course
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-05
+- 时间戳：00:34:22–00:34:37
+- 原句：shots he had to dig in a fair bit this is a very low scoring test in fact it's been a very low scoring series so far after 80 overs australia were just 149 and that's the lowest in a test match since 1989 for australia so
+- 慢速拆解：shots he had to dig in a fair / bit this is a very low scoring test / in fact it's been a very low scoring / series so far after 80 overs australia were
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-06
+
+### 1
+
+- 日期：2026-08-06
+- 时间戳：00:09:58–00:10:16
+- 原句：rising coronavirus infections in the uk are putting a severe strain on the nation's health system london's ambulance service says yesterday was its busiest 24-hour period since march as doctors warn health services could be overwhelmed as a result of relaxed christmas restrict...
+- 慢速拆解：rising coronavirus infections in the uk are putting / a severe strain on the nation's health system / london's ambulance service says yesterday was its busiest / 24-hour period since march as doctors warn health
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-06
+- 时间戳：00:32:49–00:33:11
+- 原句：nate thank you so much and that's abc news for now i'm selena edmonds coming up here on abc news channel we'll be crossing live to sydney for a coronavirus update from the new south wales premier gladys berejic stay with us
+- 慢速拆解：nate thank you so much and that's abc / news for now i'm selena edmonds coming up / here on abc news channel we'll be crossing / live to sydney for a coronavirus update from
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-06
+- 时间戳：00:32:34–00:32:49
+- 原句：is fine too some storms making it down into the gold fields 34 on the way for perth and up top lots of stormy weather selena with maybe severe heavy falls around tennant creek and catherine darwin though it's uh just a couple of showers maybe a storm top of 33.
+- 慢速拆解：is fine too some storms making it down / into the gold fields 34 on the way / for perth and up top lots of stormy / weather selena with maybe severe heavy falls around
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-06
+- 时间戳：01:02:02–01:02:19
+- 原句：no border is a absolute barrier we have to have people traveling for critical reasons and essential reasons so there was always a risk of a reseeding event and now we are you know as i said working as hard as we can and working with the community and business
+- 慢速拆解：no border is a absolute barrier we have / to have people traveling for critical reasons and / essential reasons so there was always a risk / of a reseeding event and now we are
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-06
+- 时间戳：01:27:40–01:27:56
+- 原句：public of the northern beaches for your cooperation and support can i thank our health workers the the people taking the swabs the pathologists our amazing contact races and also the associated um organizations like the police force service new south wales it's really been
+- 慢速拆解：public of the northern beaches for your cooperation / and support can i thank our health workers / the the people taking the swabs the pathologists / our amazing contact races and also the associated
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-06
+- 时间戳：01:54:01–01:54:18
+- 原句：activity by our team initially identified a likely suspect some expert work by the tennessee highway patrol subsequently uncovered a vehicle identification number from the remains of the suspect's rv that were positively matched to a
+- 慢速拆解：activity by our team initially identified a likely / suspect some expert work by the tennessee highway / patrol subsequently uncovered a vehicle identification number from / the remains of the suspect's rv that were
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-07
+
+### 1
+
+- 日期：2026-08-07
+- 时间戳：00:01:53–00:02:08
+- 原句：our patients too and for the time being but it's the other allied health that won't be able to access the building the damage bill has been estimated at one million dollars but the owners say there was two million dollars of stock and machinery inside they plan to relocate as...
+- 慢速拆解：our patients too and for the time being / but it's the other allied health that won't / be able to access the building the damage / bill has been estimated at one million dollars
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-07
+- 时间戳：00:16:14–00:16:29
+- 原句：incredible to say that incredible we've had 29 consecutive years of growth but now we're looking at a depression a depression the national cabinet the prime minister is referring to there is meeting as we speak well thank you for joining us
+- 慢速拆解：incredible to say that incredible we've had 29 / consecutive years of growth but now we're looking / at a depression a depression the national cabinet / the prime minister is referring to there is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-07
+- 时间戳：00:04:54–00:05:10
+- 原句：canberra partly cloudy in melbourne hobart in adelaide sunny in perth and showers with a possible storm for you there in darwin well that's the latest from abc news remember you can keep up to date at news.abc.net.u and on eyeview i'm maryam saab thank you
+- 慢速拆解：canberra partly cloudy in melbourne hobart in adelaide / sunny in perth and showers with a possible / storm for you there in darwin well that's / the latest from abc news remember you can
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-07
+- 时间戳：00:35:57–00:36:14
+- 原句：leading the eventual recovery but i mean probes spit early to be talking about the recovery because we're still in the midst of it and we still don't actually know what the pathway out of this coronavirus crisis is yeah so it's quite clear that the government thinks that it's...
+- 慢速拆解：leading the eventual recovery but i mean probes / spit early to be talking about the recovery / because we're still in the midst of it / and we still don't actually know what the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-07
+- 时间戳：00:50:46–00:51:02
+- 原句：you can see police presence on every access point it's scary it is traumatic and i live here you're going to go inside and sleep in your building you have no right and authority to tell me what to do [Music]
+- 慢速拆解：you can see police presence on every access / point it's scary it is traumatic and i / live here you're going to go inside and / sleep in your building you have no right
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-07
+- 时间戳：00:06:02–00:06:20
+- 原句：your summertime streaming is on abc eye view a league and w league football is on live and free every single weekend the rivalries the goals
+- 慢速拆解：your summertime streaming is on abc eye view / a league and w league football is on / live and free every single weekend the rivalries / the goals
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-08
+
+### 1
+
+- 日期：2026-08-08
+- 时间戳：00:03:24–00:03:40
+- 原句：breeding tubes in as this virus is getting excluded in the aerosol load there's a substantial amount and that's where one of the big risks are in italy last night there was a note came through 16 of the intensive care specialists have died well because they've run out of masks
+- 慢速拆解：breeding tubes in as this virus is getting / excluded in the aerosol load there's a substantial / amount and that's where one of the big / risks are in italy last night there was
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-08
+- 时间戳：00:11:23–00:11:41
+- 原句：coronaviruses that did cause big big problems the government says there's no need to panic after sars there was a fair bit of rigorous experimentation that went by looking at what off-the-shelf drugs
+- 慢速拆解：coronaviruses that did cause big big problems the / government says there's no need to panic after / sars there was a fair bit of rigorous / experimentation that went by looking at what off-the-shelf
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-08
+- 时间戳：00:13:50–00:14:08
+- 原句：board with the trial the quicker we'll get results overseas now the us president donald trump has called on regulators to expedite potential therapies aimed at treating covert 19. it showed very encouraging early results really encouraging i think it could be
+- 慢速拆解：board with the trial the quicker we'll get / results overseas now the us president donald trump / has called on regulators to expedite potential therapies / aimed at treating covert 19. it showed very
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“数字与时间口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-08
+- 时间戳：00:19:51–00:20:06
+- 原句：well from last friday to now this week so less than a week we've seen a massive shift worldwide and i think the world has changed irrevocably we cannot go back to business as usual
+- 慢速拆解：well from last friday to now this week / so less than a week we've seen a / massive shift worldwide and i think the world / has changed irrevocably we cannot go back to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-08
+- 时间戳：00:25:01–00:25:17
+- 原句：at first i thought it would be a lot better to be at home and safer for everyone especially my family but i'm finding it pretty hard to transition to online learning so i decided to come to school today hello people how are we one of the real obstacles we face is that for not...
+- 慢速拆解：at first i thought it would be a / lot better to be at home and safer / for everyone especially my family but i'm finding / it pretty hard to transition to online learning
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“专名/地名识别”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-08
+- 时间戳：00:13:33–00:13:50
+- 原句：months and we're planning to do it in a number of weeks one thing i really want to emphasize is how big a team effort this has been we've got at the moment 60 hospitals that want to participate and the sooner we get all of them on
+- 慢速拆解：months and we're planning to do it in / a number of weeks one thing i really / want to emphasize is how big a team / effort this has been we've got at the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-09
+
+### 1
+
+- 日期：2026-08-09
+- 时间戳：00:34:09–00:34:25
+- 原句：crimson stone [Music] [Applause] awesome now i want to well i'm thinking of it because it may be i'm not sure when i'll be able to synthesize it i'm going to go here and maybe register
+- 慢速拆解：crimson stone [Music] [Applause] awesome now i want / to well i'm thinking of it because it / may be i'm not sure when i'll be / able to synthesize it i'm going to go
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-09
+- 时间戳：00:43:38–00:43:55
+- 原句：[Music] well now that horse is back we can go turn in that quest [Music] oh and we got another conversation here [Music] give me a break mom i have something important to do now no excuses just go you keep this up
+- 慢速拆解：[Music] well now that horse is back we / can go turn in that quest [Music] oh / and we got another conversation here [Music] give / me a break mom i have something important
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-09
+- 时间戳：00:32:23–00:32:43
+- 原句：is it one of you guys i should be your opponent rebound skill brave soul rain shot and drilling shovel
+- 慢速拆解：is it one of you guys i should / be your opponent rebound skill brave soul rain / shot and drilling shovel
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-09
+- 时间戳：01:07:32–01:07:47
+- 原句：how about here yep hope recipes i don't have those three but those are probably event items
+- 慢速拆解：how about here yep hope recipes i don't / have those three but those are probably event / items
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-09
+- 时间戳：01:27:56–01:28:12
+- 原句：there should be something to investigate yeah i'm not worried about the materials [Music] trying to find where the investigation point is [Music]
+- 慢速拆解：there should be something to investigate yeah i'm / not worried about the materials [Music] trying to / find where the investigation point is [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-09
+- 时间戳：01:43:56–01:44:13
+- 原句：okay and it is now the weekend i think [Music] and we'll do stable effect and [Music]
+- 慢速拆解：okay and it is now the weekend i / think [Music] and we'll do stable effect and / [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-10
+
+### 1
+
+- 日期：2026-08-10
+- 时间戳：00:11:12–00:11:27
+- 原句：including the blue mountains and the central coast will now be able to travel freely to the nt the announcement comes after nine new local cases of coronavirus were recorded in new south wales following a record 60 000 tests in one day
+- 慢速拆解：including the blue mountains and the central coast / will now be able to travel freely to / the nt the announcement comes after nine new / local cases of coronavirus were recorded in new
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-10
+- 时间戳：00:31:34–00:31:50
+- 原句：eight-year ban earlier this year soon appealed to the swiss federal tribunal his lawyers presented evidence that a judge the former italian foreign minister franco fratini made anti-china comments on social media the world anti-dubbing agency says
+- 慢速拆解：eight-year ban earlier this year soon appealed to / the swiss federal tribunal his lawyers presented evidence / that a judge the former italian foreign minister / franco fratini made anti-china comments on social media
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-10
+- 时间戳：00:49:07–00:49:24
+- 原句：supreme court to keep the fire brand cleric in maximum security prison i am satisfied to a high degree of probability on the basis of admissible evidence that the defendant poses an unacceptable risk it comes more than a month after home affairs minister peter dutton stripped...
+- 慢速拆解：supreme court to keep the fire brand cleric / in maximum security prison i am satisfied to / a high degree of probability on the basis / of admissible evidence that the defendant poses an
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-10
+- 时间戳：01:03:17–01:03:32
+- 原句：what we've done as a business is ensured that the customers have a great choice in the way that they want to shop so we have got online that's open right now boxing day sales may never be the same again
+- 慢速拆解：what we've done as a business is ensured / that the customers have a great choice in / the way that they want to shop so / we have got online that's open right now
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-10
+- 时间戳：01:32:37–01:32:52
+- 原句：a group of uighurs without a dozen police and other officials intimidating them they're farmers seeking work in construction or as seasonal fruit
+- 慢速拆解：a group of uighurs without a dozen police / and other officials intimidating them they're farmers seeking / work in construction or as seasonal fruit
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-10
+- 时间戳：01:42:48–01:43:04
+- 原句：back in their communities three workers in the northeast of the cbd have tested positive and another three cases are linked to a circular key sports bar does mean there's potential chains of transmission that we're not on top of and that is a concern and some
+- 慢速拆解：back in their communities three workers in the / northeast of the cbd have tested positive and / another three cases are linked to a circular / key sports bar does mean there's potential chains
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-11
+
+### 1
+
+- 日期：2026-08-11
+- 时间戳：00:10:15–00:10:31
+- 原句：over his handling of the pandemic and he's also on trial for alleged corruption an agreement has been reached to lift the freight blockade at the british port of dover stranded truck drivers will soon begin receiving coronavirus tests that would allow them to cross the
+- 慢速拆解：over his handling of the pandemic and he's / also on trial for alleged corruption an agreement / has been reached to lift the freight blockade / at the british port of dover stranded truck
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-11
+- 时间戳：00:29:57–00:30:14
+- 原句：has proven to be very effective i think that the government the department of health gladys barry jacolian has managed to get the complete buy-in from the community and that's why we haven't had to have onerous and mandatory um requirements brought in she's been able to rely o...
+- 慢速拆解：has proven to be very effective i think / that the government the department of health gladys / barry jacolian has managed to get the complete / buy-in from the community and that's why we
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-11
+- 时间戳：00:46:40–00:46:55
+- 原句：of activity in central australia a little bit more widespread across the far north and darwin has recorded average december rainfall so far and we've still got a week of wet weather to go now looking at the lead up into christmas day queensland a trough over the inland is goin...
+- 慢速拆解：of activity in central australia a little bit / more widespread across the far north and darwin / has recorded average december rainfall so far and / we've still got a week of wet weather
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-11
+- 时间戳：01:20:50–01:21:05
+- 原句：what individuals and companies must do so that they can continue to do business in the northern territory but keep our communities safe and there is penalties it's at 5 000 for an individual and significantly uh many thousands of dollars for a company if they do the wrong thin...
+- 慢速拆解：what individuals and companies must do so that / they can continue to do business in the / northern territory but keep our communities safe and / there is penalties it's at 5 000 for
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-11
+- 时间戳：01:28:50–01:29:07
+- 原句：and western australia police will never give up in our quest to bring justice for sarah spears we must also never forget that the crimes that so terribly change the lives of other young women we owe a debt of
+- 慢速拆解：and western australia police will never give up / in our quest to bring justice for sarah / spears we must also never forget that the / crimes that so terribly change the lives of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-11
+- 时间戳：01:51:18–01:51:34
+- 原句：and at nine charlie pickering and zan rowe bring you australia's biggest stars there's only one place to be this new year's eve that's your place with the abc from 8 30 on abc and iview grandstand summer of cricket continues live and ad free
+- 慢速拆解：and at nine charlie pickering and zan rowe / bring you australia's biggest stars there's only one / place to be this new year's eve that's / your place with the abc from 8 30
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-12
+
+### 1
+
+- 日期：2026-08-12
+- 时间戳：00:08:27–00:08:44
+- 原句：into a hotel quarantine first of all can i thank former judge coat for her work and the work of all of her team made more challenging by the fact that of course with coronavirus restrictions that work had to be done in very unusual ways remotely and
+- 慢速拆解：into a hotel quarantine first of all can / i thank former judge coat for her work / and the work of all of her team / made more challenging by the fact that of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-12
+- 时间戳：00:25:35–00:25:50
+- 原句：billion dollars for investing in social housing for instance that itself paul has now leave daniel andrew speaking in melbourne to take you to canberra where the prime minister scott morrison is speaking uh selection process congratulations paul and but as you know he's been d...
+- 慢速拆解：billion dollars for investing in social housing for / instance that itself paul has now leave daniel / andrew speaking in melbourne to take you to / canberra where the prime minister scott morrison is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-12
+- 时间戳：00:24:20–00:24:44
+- 原句：accountable is very very important for instance the ses today are reporting flash flooding in a whole range of regional areas we're into the fire season we will have to confront tomorrow and and every day different challenges and that clarity is absolutely important
+- 慢速拆解：accountable is very very important for instance the / ses today are reporting flash flooding in a / whole range of regional areas we're into the / fire season we will have to confront tomorrow
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-12
+- 时间戳：01:00:16–01:00:32
+- 原句：disrupted again but they know that the government has been supporting them all the way through now there's not a place i go to in this country and my colleagues where business owners come to us and say job keeper kept my employees and jobs job keeper kept my business
+- 慢速拆解：disrupted again but they know that the government / has been supporting them all the way through / now there's not a place i go to / in this country and my colleagues where business
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-12
+- 时间戳：01:10:41–01:10:56
+- 原句：improvement in how they've run their crime team systems so also acknowledge the criticism made by justice code i do think we should remind ourselves that the other states same time frame just a different outcome how do you think the victorian public should feel about this find...
+- 慢速拆解：improvement in how they've run their crime team / systems so also acknowledge the criticism made by / justice code i do think we should remind / ourselves that the other states same time frame
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-12
+- 时间戳：01:37:15–01:37:30
+- 原句：how is that now being handled so this was expected to take place tomorrow and it's a result of scott morrison changing up his team slightly on friday he announced a reshuffle of his cabinet so we've got dan tien moving into the position of trade minister and alan tuj taking on
+- 慢速拆解：how is that now being handled so this / was expected to take place tomorrow and it's / a result of scott morrison changing up his / team slightly on friday he announced a reshuffle
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-13
+
+### 1
+
+- 日期：2026-08-13
+- 时间戳：00:07:52–00:08:13
+- 原句：could be moved because of the growing covert cluster there saying there's time to assess the evolving health situation and the preference remains to play the third test at the scg neil cross abc news adelaide
+- 慢速拆解：could be moved because of the growing covert / cluster there saying there's time to assess the / evolving health situation and the preference remains to / play the third test at the scg neil
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-13
+- 时间戳：00:29:57–00:30:11
+- 原句：it was a really emotional moment in the parliament uh and i think incredibly significant that it was addressed in our national parliament like this
+- 慢速拆解：it was a really emotional moment in the / parliament uh and i think incredibly significant that / it was addressed in our national parliament like / this
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-13
+- 时间戳：00:55:49–00:56:05
+- 原句：in london the southside flyers have capped off a dominant wnbl season by beating hometown favorites the townsville fire 99 points to 82 in the grand final it was an even contest until the flyers gained control in the second half icing the aim to claim their first championship...
+- 慢速拆解：in london the southside flyers have capped off / a dominant wnbl season by beating hometown favorites / the townsville fire 99 points to 82 in / the grand final it was an even contest
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-13
+- 时间戳：01:09:53–01:10:08
+- 原句：child like glee a magical space it's brilliant it's so silly but i just love it so much i've been to many wonderful places but none more extraordinary than here the slave trade was the main business still a feeling of anger for me
+- 慢速拆解：child like glee a magical space it's brilliant / it's so silly but i just love it / so much i've been to many wonderful places / but none more extraordinary than here the slave
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-13
+- 时间戳：01:00:35–01:00:51
+- 原句：district of northbridge early on saturday morning the 20 year old is already serving a 10-game suspension after being sent home from queensland in september for breaching the afl's hub arrangements he will appear in court in perth again tomorrow
+- 慢速拆解：district of northbridge early on saturday morning the / 20 year old is already serving a 10-game / suspension after being sent home from queensland in / september for breaching the afl's hub arrangements he
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-13
+- 时间戳：01:40:14–01:40:32
+- 原句：grandstand summer of cricket continues live and ad free as australia face off against fierce rivals indian all the rivalry called live at the grounds grandstand summer of cricket live on abc radio and the abc listen app
+- 慢速拆解：grandstand summer of cricket continues live and ad / free as australia face off against fierce rivals / indian all the rivalry called live at the / grounds grandstand summer of cricket live on abc
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-14
+
+### 1
+
+- 日期：2026-08-14
+- 时间戳：00:40:25–00:40:42
+- 原句：[Music] also ahead the united states gets its second vaccine approved and in adelaide annihilation india posts its lowest innings total on
+- 慢速拆解：[Music] also ahead the united states gets its / second vaccine approved and in adelaide annihilation india / posts its lowest innings total on
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-14
+- 时间戳：00:28:17–00:28:36
+- 原句：the government's message you think you can pressure us try this for pressure [Laughter] who are you where are you going how do you know each other
+- 慢速拆解：the government's message you think you can pressure / us try this for pressure [Laughter] who are / you where are you going how do you / know each other
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-14
+- 时间戳：00:45:16–00:45:31
+- 原句：felt like i've had the flu for a couple of days gotta develop a bit of a cough it was manly on friday so i thought oh you might as well do it yeah just in case in parramatta wet weather sent people indoors but across the city businesses have been receiving
+- 慢速拆解：felt like i've had the flu for a / couple of days gotta develop a bit of / a cough it was manly on friday so / i thought oh you might as well do
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-14
+- 时间戳：01:07:03–01:07:19
+- 原句：to really come on stream in colburn avenue the new store owners are relishing the return of tourists to the silo art trail we're kind of tying the whole community together rather than it just being a sort of one stop look at the solos and then people move on again it's a town...
+- 慢速拆解：to really come on stream in colburn avenue / the new store owners are relishing the return / of tourists to the silo art trail we're / kind of tying the whole community together rather
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-14
+- 时间戳：01:25:09–01:25:24
+- 原句：hardcore nationalist agenda will remain called to us mr murape used his numbers in parliament to adjourn it until april but the opposition has already indicated it plans to go to the supreme court to seek a recall of parliament so that
+- 慢速拆解：hardcore nationalist agenda will remain called to us / mr murape used his numbers in parliament to / adjourn it until april but the opposition has / already indicated it plans to go to the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-14
+- 时间戳：01:16:16–01:16:32
+- 原句：extradition order and she'll be able to jump onto a plane and head and head to melbourne to face trial one of the judges commented that there's no legal avenue that malcolm life's defence team has not pursued attempting to block her extradition this case had stalled for a numb...
+- 慢速拆解：extradition order and she'll be able to jump / onto a plane and head and head to / melbourne to face trial one of the judges / commented that there's no legal avenue that malcolm
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-15
+
+### 1
+
+- 日期：2026-08-15
+- 时间戳：00:08:52–00:09:08
+- 原句：reach i know you'll be able to bring happiness to many people using alchemy that's yet another reason why i want to protect your future sophie will you come with me to meet luard
+- 慢速拆解：reach i know you'll be able to bring / happiness to many people using alchemy that's yet / another reason why i want to protect your / future sophie will you come with me to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-15
+- 时间戳：00:21:03–00:21:18
+- 原句：interesting [Music] welcome which request will you accept well i'll [Music] all right
+- 慢速拆解：interesting [Music] welcome which request will you accept / well i'll [Music] all right
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-15
+- 时间戳：00:52:34–00:52:54
+- 原句：if we go to monster super poonie they're not rainbow ponies they're super poonies there's city of the lost [Music] okay oh and i can fight some of those things in open ruins on the way there
+- 慢速拆解：if we go to monster super poonie they're / not rainbow ponies they're super poonies there's city / of the lost [Music] okay oh and i / can fight some of those things in open
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-15
+- 时间戳：01:09:56–01:10:14
+- 原句：two let's see what does cutting thread do again that won't help with armor [Music] let's sort by quality here
+- 慢速拆解：two let's see what does cutting thread do / again that won't help with armor [Music] let's / sort by quality here
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-15
+- 时间戳：01:20:24–01:20:43
+- 原句：all right so let's go to the world map [Music] where can we go next now where is that [Music] where was prayless altar
+- 慢速拆解：all right so let's go to the world / map [Music] where can we go next now / where is that [Music] where was prayless altar
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-15
+- 时间戳：01:50:13–01:50:32
+- 原句：hmm [Music] maybe that all right this is going well now let's see
+- 慢速拆解：hmm [Music] maybe that all right this is / going well now let's see
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-16
+
+### 1
+
+- 日期：2026-08-16
+- 时间戳：00:09:08–00:09:21
+- 原句：need to go grab more generic water is this which cauldron should i use okay let's start yeah i guess it really doesn't matter here because i'm just giving it away so this is good yeah this looks
+- 慢速拆解：need to go grab more generic water is / this which cauldron should i use okay let's / start yeah i guess it really doesn't matter / here because i'm just giving it away so
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-16
+- 时间戳：00:24:02–00:24:18
+- 原句：goal but that means became his goal instead hey plopta what do you want to do about laward [Music] i need to kill him with my own hands no matter what it takes just like i did
+- 慢速拆解：goal but that means became his goal instead / hey plopta what do you want to do / about laward [Music] i need to kill him / with my own hands no matter what it
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-16
+- 时间戳：00:53:21–00:53:38
+- 原句：yeah i was right there do you even have any attack items yeah you have that
+- 慢速拆解：yeah i was right there do you even / have any attack items yeah you have that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-16
+- 时间戳：01:12:50–01:13:10
+- 原句：33 free let's go ahead and use this send back a bunch of items to clear off space [Music] i don't know if i needed to fight these guys or not [Music]
+- 慢速拆解：33 free let's go ahead and use this / send back a bunch of items to clear / off space [Music] i don't know if i / needed to fight these guys or not [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-16
+- 时间戳：01:32:16–01:32:32
+- 原句：is it not up here [Music] is it not up here is it at the other place i thought it was over here or
+- 慢速拆解：is it not up here [Music] is it / not up here is it at the other / place i thought it was over here or
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-16
+- 时间戳：01:50:53–01:51:09
+- 原句：[Applause] is this witch cauldron okay then oh right this is good all right this is going well i think something good will happen
+- 慢速拆解：[Applause] is this witch cauldron okay then oh / right this is good all right this is / going well i think something good will happen
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-17
+
+### 1
+
+- 日期：2026-08-17
+- 时间戳：00:10:53–00:11:08
+- 原句：coronavirus on sport and how it's changed our relationship with it i'm tracy holmes 2020 will certainly be remembered as a year of reckoning a pandemic that took so much from so many was certainly felt across all aspects of life as well as sport
+- 慢速拆解：coronavirus on sport and how it's changed our / relationship with it i'm tracy holmes 2020 will / certainly be remembered as a year of reckoning / a pandemic that took so much from so
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-17
+- 时间戳：00:30:21–00:30:36
+- 原句：critical that we got those back up and running as quickly as possible as well so uh you know whilst we um uh we tend to fund top down rather than bottom up um it was as soon as the government would allow our games to be back on the park it was
+- 慢速拆解：critical that we got those back up and / running as quickly as possible as well so / uh you know whilst we um uh we / tend to fund top down rather than bottom
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-17
+- 时间戳：00:44:41–00:44:57
+- 原句：there tonight that's right we're here at the avalon recreation center pop-up testing clinic where we've had a bit of rain in the last couple of minutes so we did see some people leave but there was a massive line that curved right around this building here
+- 慢速拆解：there tonight that's right we're here at the / avalon recreation center pop-up testing clinic where we've / had a bit of rain in the last / couple of minutes so we did see some
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-17
+- 时间戳：01:08:22–01:08:39
+- 原句：she considered putting it on airbnb to make more money but decided against it it just seemed a shame to take what was a rental property off the market and a family home for people off the market airbnb says there's never been a more crucial time to focus on tourism growth
+- 慢速拆解：she considered putting it on airbnb to make / more money but decided against it it just / seemed a shame to take what was a / rental property off the market and a family
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-17
+- 时间戳：01:30:06–01:30:21
+- 原句：marches for jan 26 you know so it is going back to that symbolism the black lives matter movement continues every day for people in america and in australia while people are dying at the hands of police so it's much bigger than just those times
+- 慢速拆解：marches for jan 26 you know so it / is going back to that symbolism the black / lives matter movement continues every day for people / in america and in australia while people are
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-17
+- 时间戳：01:39:55–01:40:10
+- 原句：joy claire hooper and luke mcgregor with team captains miff warhurst and alan bro see you very soon australia this fix and specs 2010 special sunday on abc and eye view
+- 慢速拆解：joy claire hooper and luke mcgregor with team / captains miff warhurst and alan bro see you / very soon australia this fix and specs 2010 / special sunday on abc and eye view
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-18
+
+### 1
+
+- 日期：2026-08-18
+- 时间戳：00:43:37–00:43:55
+- 原句：let's see do i not have any generic ones of these yeah kind of light we'll do that one and i just have a bunch of these that's fine which cauldron should i use and again we use the fairy cauldron
+- 慢速拆解：let's see do i not have any generic / ones of these yeah kind of light we'll / do that one and i just have a / bunch of these that's fine which cauldron should
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-18
+- 时间戳：00:31:32–00:32:02
+- 原句：where are we going next we are going up here because i want to get the full reward for that uh kill quest oh yeah this place
+- 慢速拆解：where are we going next we are going / up here because i want to get the / full reward for that uh kill quest oh / yeah this place
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-18
+- 时间戳：00:51:08–00:51:23
+- 原句：anything i need to do right now although horst needs fire dramas and needs some forgotten materials i need to make the key of truth now you need eternity scales goats defeat dragon air
+- 慢速拆解：anything i need to do right now although / horst needs fire dramas and needs some forgotten / materials i need to make the key of / truth now you need eternity scales goats defeat
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-18
+- 时间戳：01:02:18–01:02:36
+- 原句：make some of this what materials to use i don't have a lot of these gold steel webs and i only have three of these too [Music] i think i will hope to hold off on that
+- 慢速拆解：make some of this what materials to use / i don't have a lot of these gold / steel webs and i only have three of / these too [Music] i think i will hope
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-18
+- 时间戳：01:30:12–01:30:29
+- 原句：[Music] those thank you seven more vouchers up to 80 vouchers [Music] wait i do have one star power where did i get star powder
+- 慢速拆解：[Music] those thank you seven more vouchers up / to 80 vouchers [Music] wait i do have / one star power where did i get star / powder
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-18
+- 时间戳：01:49:57–01:50:12
+- 原句：let's get this event out of the way and then probably finish things up for right now hey did you hear some really dangerous monsters appeared near town really there's too many of them lately luckily no one's been hurt yet but we might need to start planning for the
+- 慢速拆解：let's get this event out of the way / and then probably finish things up for right / now hey did you hear some really dangerous / monsters appeared near town really there's too many
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-19
+
+### 1
+
+- 日期：2026-08-19
+- 时间戳：00:03:32–00:03:47
+- 原句：of these new cases here today the penrose rsl the avalon rsl club and the curability club have all been put on alert and anyone who visited the avalon rsl club on the 11th of december
+- 慢速拆解：of these new cases here today the penrose / rsl the avalon rsl club and the curability / club have all been put on alert and / anyone who visited the avalon rsl club on
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-19
+- 时间戳：00:10:14–00:10:30
+- 原句：jay norman has more from parliament house it's not super surprising given that in recent weeks we've seen lockdowns lifted restrictions being eased and borders reopening across the country as the treasurer said today australians are back spending back working and back travelin...
+- 慢速拆解：jay norman has more from parliament house it's / not super surprising given that in recent weeks / we've seen lockdowns lifted restrictions being eased and / borders reopening across the country as the treasurer
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-19
+- 时间戳：00:21:49–00:22:05
+- 原句：yasa is a category 5 storm that could easily surpass the record-breaking strength of cyclone winston the impact forecast for this latest superstorm
+- 慢速拆解：yasa is a category 5 storm that could / easily surpass the record-breaking strength of cyclone winston / the impact forecast for this latest superstorm
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-19
+- 时间戳：00:25:08–00:25:24
+- 原句：and a lot of houses were damaged so it was a lot of impact in terms of uh the livelihoods of people the economic stabilities as well and even there were a lot of uh outbreak of diseases so that is something that uh we are trying our best uh as as a humanitarian
+- 慢速拆解：and a lot of houses were damaged so / it was a lot of impact in terms / of uh the livelihoods of people the economic / stabilities as well and even there were a
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-19
+- 时间戳：00:30:22–00:30:38
+- 原句：find the source as queensland and western australia warn that hard borders could be imposed and we'll look at the black lives matter movement nearly seven months after george floyd's death under the knee of a white police officer what if anything has changed all that and
+- 慢速拆解：find the source as queensland and western australia / warn that hard borders could be imposed and / we'll look at the black lives matter movement / nearly seven months after george floyd's death under
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-19
+- 时间戳：00:32:14–00:32:31
+- 原句：changes myself it's definitely been accelerated with the support of other sports making like equal pay for women and surfing and tennis so sailing is following suit with that which is um you know i'm i'm a big supporter of and when i get to
+- 慢速拆解：changes myself it's definitely been accelerated with the / support of other sports making like equal pay / for women and surfing and tennis so sailing / is following suit with that which is um
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-20
+
+### 1
+
+- 日期：2026-08-20
+- 时间戳：00:10:07–00:10:23
+- 原句：haven't but i'm pretty sure our staff have they're looking to do whatever they can to assist and it's just one of those things but we are in the hands of new south wales health in this regard but we're this is such a tight-knit community on the northern beaches
+- 慢速拆解：haven't but i'm pretty sure our staff have / they're looking to do whatever they can to / assist and it's just one of those things / but we are in the hands of new
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-20
+- 时间戳：00:26:58–00:27:15
+- 原句：fact that 10 percent ultimately became infected with the virus but he admitted authorities could have been better prepared let's bring you breaking news now western australia's premier mark mcgowan has announced anyone who has been in new south wales
+- 慢速拆解：fact that 10 percent ultimately became infected with / the virus but he admitted authorities could have / been better prepared let's bring you breaking news / now western australia's premier mark mcgowan has announced
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-20
+- 时间戳：00:48:44–00:49:00
+- 原句：what have locals been telling you about and concerns leading up to this storm at the higher level yes after we um um our volunteers and you're receiving uh just
+- 慢速拆解：what have locals been telling you about and / concerns leading up to this storm at the / higher level yes after we um um our / volunteers and you're receiving uh just
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-20
+- 时间戳：01:11:11–01:11:27
+- 原句：[Music] benefit hours at the same time australia's economy is rebounding from the coronavirus crisis with new figures today confirming 90 000 jobs were created in the last schools of creation treasury is now forecasting the economy grow this financial year not shrink
+- 慢速拆解：[Music] benefit hours at the same time australia's / economy is rebounding from the coronavirus crisis with / new figures today confirming 90 000 jobs were / created in the last schools of creation treasury
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-20
+- 时间戳：01:29:20–01:29:36
+- 原句：with money laundering dealing with the process and recruiting people to entertain activity a 35 year old woman has been charged with dealing with the proceeds of crime and money laundering two men held a series of meetings to discuss how to launder the proceeds of crime
+- 慢速拆解：with money laundering dealing with the process and / recruiting people to entertain activity a 35 year / old woman has been charged with dealing with / the proceeds of crime and money laundering two
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-20
+- 时间戳：01:55:21–01:55:39
+- 原句：two early wickets to the australian paceman captain virat kohli has been struck several times as india prepares for the first night session of the match australian testimony we have a country here that's white it's a real
+- 慢速拆解：two early wickets to the australian paceman captain / virat kohli has been struck several times as / india prepares for the first night session of / the match australian testimony we have a country
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-21
+
+### 1
+
+- 日期：2026-08-21
+- 时间戳：00:03:14–00:03:30
+- 原句：to limit the spread of this pandemic they don't need the treasurer lecturing them for political purposes politicizing it making it a party political issue what we want to see is state leaders follow the health advice making good decisions in the interests of their people and the
+- 慢速拆解：to limit the spread of this pandemic they / don't need the treasurer lecturing them for political / purposes politicizing it making it a party political / issue what we want to see is state
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-21
+- 时间戳：00:10:07–00:10:23
+- 原句：this point i asked the questions of the treasurer is there's some i reckon some glaring emissions job seekers one issue that payment and how the government settles that in the longer term or even even shorter term beyond march and of course then then the aged care royal commis...
+- 慢速拆解：this point i asked the questions of the / treasurer is there's some i reckon some glaring / emissions job seekers one issue that payment and / how the government settles that in the longer
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-21
+- 时间戳：00:16:45–00:17:01
+- 原句：3 000 public housing tower residents because you say the sudden lockdown in july breached their human rights but as you just heard the government is refusing to do so what do you make of their response they're suggesting that they should not apologize for saving
+- 慢速拆解：3 000 public housing tower residents because you / say the sudden lockdown in july breached their / human rights but as you just heard the / government is refusing to do so what do
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“数字与时间口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-21
+- 时间戳：00:31:15–00:31:31
+- 原句：can't occur because you will stop community transmission when you achieve herd immunity and that's the best way to economic recovery professor rainer thanks for your time it's a pleasure professor rayna mcintyre is the head of the biosecurity at the kirby institute
+- 慢速拆解：can't occur because you will stop community transmission / when you achieve herd immunity and that's the / best way to economic recovery professor rainer thanks / for your time it's a pleasure professor rayna
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-21
+- 时间戳：00:22:05–00:22:21
+- 原句：stories by working on this and as ombudsman do you think some of these people have a case to take the government to court a class action is that potential here that's not a matter for me i mean what um what was important for me here
+- 慢速拆解：stories by working on this and as ombudsman / do you think some of these people have / a case to take the government to court / a class action is that potential here that's
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-21
+- 时间戳：00:39:41–00:39:58
+- 原句：here we go intensity action fascinating journeys with legends of australian sport streaming now on eye view we've made to help stop the spread need
+- 慢速拆解：here we go intensity action fascinating journeys with / legends of australian sport streaming now on eye / view we've made to help stop the spread / need
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-22
+
+### 1
+
+- 日期：2026-08-22
+- 时间戳：00:04:49–00:05:05
+- 原句：and it's reached a point where basically we've more than broke even now as you can see the asx 200 it's up by more than one percent and it's higher than where it was uh on january the first before the coronavirus sell-off and it's mainly being driven by optimism over covert va...
+- 慢速拆解：and it's reached a point where basically we've / more than broke even now as you can / see the asx 200 it's up by more / than one percent and it's higher than where
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-22
+- 时间戳：00:07:46–00:08:03
+- 原句：that's despite calls for family gatherings to be limited to stop the spread of coronavirus prime minister boris johnson has called for people to exercise extreme caution and to keep social contact low politicians gave a promise we'd be able to gather together at christmas
+- 慢速拆解：that's despite calls for family gatherings to be / limited to stop the spread of coronavirus prime / minister boris johnson has called for people to / exercise extreme caution and to keep social contact
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-22
+- 时间戳：00:16:39–00:16:56
+- 原句：significant winds and very destructive conditions flooding rain is expected in both the north and south already there's fairly widespread reports of flooding across both islands but we've also got significant weather across the continent at the moment so let's start off with t...
+- 慢速拆解：significant winds and very destructive conditions flooding rain / is expected in both the north and south / already there's fairly widespread reports of flooding across / both islands but we've also got significant weather
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-22
+- 时间戳：00:23:11–00:23:29
+- 原句：well we've seen company tax receipts up by 3.4 billion dollars compared to what was forecast at the budget just 10 weeks ago and iron oil prices have certainly contributed to that but in the economic numbers that we have presented today we've taken a pretty prudence assumption...
+- 慢速拆解：well we've seen company tax receipts up by / 3.4 billion dollars compared to what was forecast / at the budget just 10 weeks ago and / iron oil prices have certainly contributed to that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-22
+- 时间戳：00:00:02–00:00:19
+- 原句：enough hours in their work and uh in court there's a big variation across states and territories as well so tasmania had a 7.9 unemployment rate so it's the highest in the country and uh on the flip side the act always has the lowest unemployment rate at four percent now to br...
+- 慢速拆解：enough hours in their work and uh in / court there's a big variation across states and / territories as well so tasmania had a 7.9 / unemployment rate so it's the highest in the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-22
+- 时间戳：00:20:46–00:21:03
+- 原句：guests include kate miller heike vance joy claire hooper and luke mcgregor with team captains myth warhurst and alan bro see you very soon australia this fix and specs 2010 special sunday on abc and eye view
+- 慢速拆解：guests include kate miller heike vance joy claire / hooper and luke mcgregor with team captains myth / warhurst and alan bro see you very soon / australia this fix and specs 2010 special sunday
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-23
+
+### 1
+
+- 日期：2026-08-23
+- 时间戳：00:02:29–00:02:46
+- 原句：february over eight days and then there's going to be a string of um other inquiries after that things like education and first nations people and also the out of home care system the future of air travel could be very different in a post coronavirus world
+- 慢速拆解：february over eight days and then there's going / to be a string of um other inquiries / after that things like education and first nations / people and also the out of home care
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-23
+- 时间戳：00:25:48–00:26:04
+- 原句：cases of covert 19 a sydney airport driver and two others on the city's northern beaches [Music] the australian government takes its bali
+- 慢速拆解：cases of covert 19 a sydney airport driver / and two others on the city's northern beaches / [Music] the australian government takes its bali
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-23
+- 时间戳：00:19:20–00:19:38
+- 原句：but half centuries to alex kerry and jake wetherill ensured a comprehensive striker's victory the hurricane's next matches against the melbourne renegades at bell reeve on saturday in the nrl the canterbury bulldogs have pulled off a recruiting coup after signing melbourne sto...
+- 慢速拆解：but half centuries to alex kerry and jake / wetherill ensured a comprehensive striker's victory the hurricane's / next matches against the melbourne renegades at bell / reeve on saturday in the nrl the canterbury
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-23
+- 时间戳：00:29:16–00:29:35
+- 原句：the independent umpire he is rural reporter kath sullivan when these barley crops were planted growers expected to feed the lucrative chinese beverage market beijing's decision to impose hefty tariffs no small beer for australian farmers
+- 慢速拆解：the independent umpire he is rural reporter kath / sullivan when these barley crops were planted growers / expected to feed the lucrative chinese beverage market / beijing's decision to impose hefty tariffs no small
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-23
+- 时间戳：00:35:18–00:35:33
+- 原句：from the building have also been evacuated by queensland police more now on our top story two people from sydney's northern beaches have tested positive to cover 19. reporter tim swanson joins us now tim what do we know about the two new
+- 慢速拆解：from the building have also been evacuated by / queensland police more now on our top story / two people from sydney's northern beaches have tested / positive to cover 19. reporter tim swanson joins
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-23
+- 时间戳：00:37:27–00:37:44
+- 原句：the test was invented in brisbane by dr sean parsons a former emergency and intensive care clinician and his team at alum last night it was approved for sale by the united states food and drug administration and the first kits will be delivered next month it's new technology t...
+- 慢速拆解：the test was invented in brisbane by dr / sean parsons a former emergency and intensive care / clinician and his team at alum last night / it was approved for sale by the united
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-24
+
+### 1
+
+- 日期：2026-08-24
+- 时间戳：00:01:20–00:01:36
+- 原句：health has announced two new cases of covert 19 have been identified in sydney's northern beaches we'll bring you more on that in our next bulletin i will leave you with pictures from the factory fire still burning in brisbane there is an update on that and we'll bring you mor...
+- 慢速拆解：health has announced two new cases of covert / 19 have been identified in sydney's northern beaches / we'll bring you more on that in our / next bulletin i will leave you with pictures
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-24
+- 时间戳：00:10:42–00:10:57
+- 原句：issued for the public but the smoke is not as bad as it was a short time ago and all of the occupants just a few of them that were in the building when the fire broke out are all safe and accounted for to other news the federal government will appeal to the world trade
+- 慢速拆解：issued for the public but the smoke is / not as bad as it was a short / time ago and all of the occupants just / a few of them that were in the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-24
+- 时间戳：00:18:30–00:18:46
+- 原句：employment off the back of coven but we need to be able to grow at a rate that the industry and the sector can cope with we don't want to get into a situation where we've seen where we flood the sector uh so and create something like a pink bat situation where you have unsafe...
+- 慢速拆解：employment off the back of coven but we / need to be able to grow at a / rate that the industry and the sector can / cope with we don't want to get into
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-24
+- 时间戳：00:20:40–00:20:56
+- 原句：we can plan to bring in workers is important and as the minister said there's real opportunities off the back of some of the unemployment through covert for people to look at aged care and come in and work and do a really important job of supporting older australians how about...
+- 慢速拆解：we can plan to bring in workers is / important and as the minister said there's real / opportunities off the back of some of the / unemployment through covert for people to look at
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-24
+- 时间戳：00:28:56–00:29:11
+- 原句：with the rectification order on some cosmetic issues now that work still hasn't been done and they're due back in court next month now madison construction no longer has a license to build in the act but the problem is the act government can't force
+- 慢速拆解：with the rectification order on some cosmetic issues / now that work still hasn't been done and / they're due back in court next month now / madison construction no longer has a license to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-24
+- 时间戳：00:03:50–00:04:05
+- 原句：the rivalry called live at the grounds grandstand summer of cricket live on abc radio and the abc listen app the women's national basketball league [Music]
+- 慢速拆解：the rivalry called live at the grounds grandstand / summer of cricket live on abc radio and / the abc listen app the women's national basketball / league [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-25
+
+### 1
+
+- 日期：2026-08-25
+- 时间戳：00:01:45–00:02:01
+- 原句：you know one in five people in our population has a disability it should be something that's much more covered in their training across the board not just doctors but the nurses and allied health and dentists as well you know joshi went in for a dental appointment at the hospital
+- 慢速拆解：you know one in five people in our / population has a disability it should be something / that's much more covered in their training across / the board not just doctors but the nurses
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-25
+- 时间戳：00:10:20–00:10:36
+- 原句：and so you went to new zealand he's now been granted refugee status there after being detained on manus island by the australian government for more than six years more than six years uh so you went to new zealand to sit with him and paint what what sort of process was that li...
+- 慢速拆解：and so you went to new zealand he's / now been granted refugee status there after being / detained on manus island by the australian government / for more than six years more than six
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-25
+- 时间戳：00:16:48–00:17:04
+- 原句：cordoned off traffic diversions are in place and ses crews are getting some respite as weather conditions in northern new south wales start to ease the weather bureau has cancelled a severe weather warning for the northern rivers and mid north coast
+- 慢速拆解：cordoned off traffic diversions are in place and / ses crews are getting some respite as weather / conditions in northern new south wales start to / ease the weather bureau has cancelled a severe
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-25
+- 时间戳：00:23:16–00:23:31
+- 原句：as most of the samples are being taken here in australia it's a what we call a mid turbine which is the the middle part um and the results of the test really speak for themselves 96 accuracy in the clinical trial which we
+- 慢速拆解：as most of the samples are being taken / here in australia it's a what we call / a mid turbine which is the the middle / part um and the results of the test
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“记者转述与立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-25
+- 时间戳：00:29:41–00:29:58
+- 原句：company that built the apartment complex behind me has been in trouble for the kilcare apartment so last year they were summoned to court for allegedly failing to comply with rectification order on some cosmetic issues now that work still hasn't been done and they're due back...
+- 慢速拆解：company that built the apartment complex behind me / has been in trouble for the kilcare apartment / so last year they were summoned to court / for allegedly failing to comply with rectification order
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-25
+- 时间戳：00:36:36–00:36:53
+- 原句：we're gonna miss him down here in melbourne that's for sure now the first test against india starts tomorrow but we still don't know who made it into the australian team no so there's obviously been a lot of conjecture as to who's going to open the batting for australia there'...
+- 慢速拆解：we're gonna miss him down here in melbourne / that's for sure now the first test against / india starts tomorrow but we still don't know / who made it into the australian team no
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-26
+
+### 1
+
+- 日期：2026-08-26
+- 时间戳：00:02:52–00:03:09
+- 原句：coronavirus the 32 year old man and 63 year old woman arrived on a flight from frankfurt two days ago since repatriation flights began in october nearly one and a half thousand australians have arrived in the nt with 33 of them testing positive to
+- 慢速拆解：coronavirus the 32 year old man and 63 / year old woman arrived on a flight from / frankfurt two days ago since repatriation flights began / in october nearly one and a half thousand
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-26
+- 时间戳：00:11:17–00:11:33
+- 原句：deputy governor a week after a government prosecutor was shot on his way to work nicole exports are the new flashpoint in australia's deteriorating relationship with beijing reports out of china australia's biggest trade destination suggests
+- 慢速拆解：deputy governor a week after a government prosecutor / was shot on his way to work nicole / exports are the new flashpoint in australia's deteriorating / relationship with beijing reports out of china australia's
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-26
+- 时间戳：00:02:20–00:02:37
+- 原句：people you need to remain vigilant dams are overflowing and pearling brook falls at springbrook is a magical site as more rain heads our way lily knockling abc news brisbane 150 australians landed in darwin this
+- 慢速拆解：people you need to remain vigilant dams are / overflowing and pearling brook falls at springbrook is / a magical site as more rain heads our / way lily knockling abc news brisbane 150 australians
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-26
+- 时间戳：00:12:44–00:13:00
+- 原句：lose-lose here the other countries have 50 higher emissions than australian coal a 14 billion export market to china no longer looking so reliable or bountiful the latest play in beijing's hardening game of brinkmanship
+- 慢速拆解：lose-lose here the other countries have 50 higher / emissions than australian coal a 14 billion export / market to china no longer looking so reliable / or bountiful the latest play in beijing's hardening
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-26
+- 时间戳：00:29:50–00:30:06
+- 原句：the other one is clearly price to reduce emissions from transport australia needs more motorists buying electric vehicles but the push for cleaner cars has been politically charged it's a war on the weekend when it comes to the vehicle you drive
+- 慢速拆解：the other one is clearly price to reduce / emissions from transport australia needs more motorists buying / electric vehicles but the push for cleaner cars / has been politically charged it's a war on
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-26
+- 时间戳：00:37:22–00:37:40
+- 原句：whether you like to shout geronimo as you swing from the chandelier or you'd rather shake it off and get lucky we've got a show that'll hit you like a wrecking ball guests include kate miller heike vance joy claire hooper and luke mcgregor with team captains myth warhurst and...
+- 慢速拆解：whether you like to shout geronimo as you / swing from the chandelier or you'd rather shake / it off and get lucky we've got a / show that'll hit you like a wrecking ball
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-27
+
+### 1
+
+- 日期：2026-08-27
+- 时间戳：00:26:03–00:26:20
+- 原句：anticipation matched the scale of america's exposure after 16 million cases and climbing the fight back starts with a few sharp shots doctors nurses and supervisors on the front line spoke of a vaccine as a peace settlement
+- 慢速拆解：anticipation matched the scale of america's exposure after / 16 million cases and climbing the fight back / starts with a few sharp shots doctors nurses / and supervisors on the front line spoke of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-27
+- 时间戳：00:05:49–00:06:06
+- 原句：you have to prove it wasn't made with forced labor well that might be fine for likey and uniqlo but what if you're a small australian exporter what if you're a two person mum and dad sort of shop in australia and you're buying your materials and you've got great designs how ar...
+- 慢速拆解：you have to prove it wasn't made with / forced labor well that might be fine for / likey and uniqlo but what if you're a / small australian exporter what if you're a two
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-27
+- 时间戳：00:16:46–00:17:03
+- 原句：looks set to be floods as huge areas of new south wales and queensland are engulfed by severe weather in byron bay locals have watched in shock as their main beach disappeared under high tides and roaring waves on the gold coast the legendary sand strips have turned into foamy...
+- 慢速拆解：looks set to be floods as huge areas / of new south wales and queensland are engulfed / by severe weather in byron bay locals have / watched in shock as their main beach disappeared
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-27
+- 时间戳：00:23:18–00:23:35
+- 原句：china is not our biggest market for thermal coal that is in fact japan which is more than double the exports than we have to china and on metcal india is actually our biggest met coal export so our our coal mines and our coal exports have a a diverse customer base
+- 慢速拆解：china is not our biggest market for thermal / coal that is in fact japan which is / more than double the exports than we have / to china and on metcal india is actually
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-27
+- 时间戳：00:30:55–00:31:12
+- 原句：an investigation into the incident has been launched in russia poisoned kremlin critic alexis navalny has declared the mystery surrounding his assassination attempt has been solved following a joint media investigation implicating agents from russia's federal
+- 慢速拆解：an investigation into the incident has been launched / in russia poisoned kremlin critic alexis navalny has / declared the mystery surrounding his assassination attempt has / been solved following a joint media investigation implicating
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-27
+- 时间戳：00:21:42–00:21:59
+- 原句：no legal avenue that malka lifer's defence team has not pursued attempting to block her extradition this case had stalled for a number of years because she said that she was incapacitated by mental illness secretly filmed video uh by private
+- 慢速拆解：no legal avenue that malka lifer's defence team / has not pursued attempting to block her extradition / this case had stalled for a number of / years because she said that she was incapacitated
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-28
+
+### 1
+
+- 日期：2026-08-28
+- 时间戳：00:07:52–00:08:07
+- 原句：so so i think that the the thing to underscore there though is that it didn't happen um and that those cases are actually aberrations you know what we saw today is is truly a formality in the democratic process um where all of the none of the electors actually defected from uh...
+- 慢速拆解：so so i think that the the thing / to underscore there though is that it didn't / happen um and that those cases are actually / aberrations you know what we saw today is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-28
+- 时间戳：00:16:19–00:16:36
+- 原句：have been sitting off china's coast unable to be offloaded their entry has been blocked unofficially by the chinese government now after weeks of speculation it appears that coal will officially be banned along with australian beef barley and wine according to a report in the
+- 慢速拆解：have been sitting off china's coast unable to / be offloaded their entry has been blocked unofficially / by the chinese government now after weeks of / speculation it appears that coal will officially be
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-28
+- 时间戳：00:02:05–00:02:20
+- 原句：our high street purchases are so cheap and from fire to flood australia's tourism sector suffers another blow as severe weather batters the country's east coast joining me on the panel tonight ceo of advisory firm yetz and associates
+- 慢速拆解：our high street purchases are so cheap and / from fire to flood australia's tourism sector suffers / another blow as severe weather batters the country's / east coast joining me on the panel tonight
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-28
+- 时间戳：00:20:41–00:20:57
+- 原句：uh australian economy so we we really need to find a way to fix this any thoughts the only thing i could think of which is politically impossible is that now that unfortunately our own uh vaccine has hit a war if we were to
+- 慢速拆解：uh australian economy so we we really need / to find a way to fix this any / thoughts the only thing i could think of / which is politically impossible is that now that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-28
+- 时间戳：00:35:11–00:35:28
+- 原句：that there is no slavery in your supply chain for a starter i mean there's a case in the uk at the moment a major sort of online high street retailer um is under investigation for modern slavery out of the factories out of leicester they've
+- 慢速拆解：that there is no slavery in your supply / chain for a starter i mean there's a / case in the uk at the moment a / major sort of online high street retailer um
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-28
+- 时间戳：00:36:46–00:37:01
+- 原句：you can't do a deal you can't as an independent britain do a deal a trade deal with that country well this is all about the changing world we live in in terms of social license to operate um as we were just talking about consumers have power now
+- 慢速拆解：you can't do a deal you can't as / an independent britain do a deal a trade / deal with that country well this is all / about the changing world we live in in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“自然口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-29
+
+### 1
+
+- 日期：2026-08-29
+- 时间戳：00:35:27–00:35:44
+- 原句：here in victoria ended and the ambulance union says that some people are either reluctant to go or simply can't get in to see their gp so they are urging people to go and get that checkup or to call nurse on call and get on top of any health problem
+- 慢速拆解：here in victoria ended and the ambulance union / says that some people are either reluctant to / go or simply can't get in to see / their gp so they are urging people to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-29
+- 时间戳：00:12:11–00:12:28
+- 原句：one of underworld figure tony macbel's convictions for drug trafficking is overturned due to the lawyer x scandal actor craig mclaughlin expresses relief at being found not guilty of indecent assault and the prime minister calls for urgent dialogue with beijing over the future...
+- 慢速拆解：one of underworld figure tony macbel's convictions for / drug trafficking is overturned due to the lawyer / x scandal actor craig mclaughlin expresses relief at / being found not guilty of indecent assault and
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-29
+- 时间戳：00:25:11–00:25:27
+- 原句：might be other potential markets that we can go to but the question is price and volume so we've you know i'm very careful about uh suggesting that there's a silver bullet we can fire off here clearly these are complex things
+- 慢速拆解：might be other potential markets that we can / go to but the question is price and / volume so we've you know i'm very careful / about uh suggesting that there's a silver bullet
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-29
+- 时间戳：00:28:26–00:28:42
+- 原句：we've got our business reporter on location stephen long is at newcastle cole port so we'll get the reaction from there later this hour now notorious underworld figure tony macbel has had one of his drug convictions overturned because of the lawyer x
+- 慢速拆解：we've got our business reporter on location stephen / long is at newcastle cole port so we'll / get the reaction from there later this hour / now notorious underworld figure tony macbel has had
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-29
+- 时间戳：00:42:45–00:43:01
+- 原句：scandal in 2012 the melbourne underworld figure was jailed for 30 years for drug trafficking and launched a challenge earlier this year the court of appeal reserved its decision on whether to order a re-trial or that he receive an acquittal
+- 慢速拆解：scandal in 2012 the melbourne underworld figure was / jailed for 30 years for drug trafficking and / launched a challenge earlier this year the court / of appeal reserved its decision on whether to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-29
+- 时间戳：00:55:09–00:55:25
+- 原句：and if you want to read more about leanne's fight for justice the online team has posted an extensive feature article for our news website that's one of the top stories there on abc.net dot a u slash news check it out
+- 慢速拆解：and if you want to read more about / leanne's fight for justice the online team has / posted an extensive feature article for our news / website that's one of the top stories there
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-30
+
+### 1
+
+- 日期：2026-08-30
+- 时间戳：00:12:02–00:12:19
+- 原句：of awful relationships between aboriginal kids young people in the police there are fears the act is on the verge of a mental health crisis canberra hospital's emergency department was forced to turn away patients some in ambulances for several hours yesterday
+- 慢速拆解：of awful relationships between aboriginal kids young people / in the police there are fears the act / is on the verge of a mental health / crisis canberra hospital's emergency department was forced to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-30
+- 时间戳：00:07:41–00:07:57
+- 原句：state attorney that they have 60 days uh to get her on a plane uh out of the country and actually the timing of that depends on the australian government because of the covert entry restrictions uh into australia so they'll need to coordinate um with the department of home aff...
+- 慢速拆解：state attorney that they have 60 days uh / to get her on a plane uh out / of the country and actually the timing of / that depends on the australian government because of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-30
+- 时间戳：00:04:26–00:04:42
+- 原句：amid a lull in the weather that's expected to break overnight the prime minister scott morrison says a potential china trade ban on australian coal would be a lose-lose situation for all sides a chinese state-owned media outlet is claiming power plants have been ordered
+- 慢速拆解：amid a lull in the weather that's expected / to break overnight the prime minister scott morrison / says a potential china trade ban on australian / coal would be a lose-lose situation for all
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-30
+- 时间戳：00:24:19–00:24:35
+- 原句：jumped into second at the last last moment we enjoyed the win the other night had a relaxing day yesterday at the wmbl awards and today it's back back into business the adelaide lightning didn't make the finals but captain steph talbot has been named the league's
+- 慢速拆解：jumped into second at the last last moment / we enjoyed the win the other night had / a relaxing day yesterday at the wmbl awards / and today it's back back into business the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-30
+- 时间戳：00:28:53–00:29:09
+- 原句：top end of the territory we are also looking at the potential of some localized heavy falls let's recap our breaking news this hour israel's supreme court has rejected an appeal by former melbourne school principal malka lifer against a ruling to extradite her to
+- 慢速拆解：top end of the territory we are also / looking at the potential of some localized heavy / falls let's recap our breaking news this hour / israel's supreme court has rejected an appeal by
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-30
+- 时间戳：00:25:38–00:25:55
+- 原句：day a team has been working around the clock to complete an ambitious festive project a swiss alpine model train scene means one thing [Music] it's christmas who created this one and
+- 慢速拆解：day a team has been working around the / clock to complete an ambitious festive project a / swiss alpine model train scene means one thing / [Music] it's christmas who created this one and
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-08-31
+
+### 1
+
+- 日期：2026-08-31
+- 时间戳：00:08:23–00:08:43
+- 原句：[Music] today the us gets the green light to start using its first coronavirus vaccine we have delivered a safe and effective vaccine in just nine months this is one of the greatest scientific accomplishments in history
+- 慢速拆解：[Music] today the us gets the green light / to start using its first coronavirus vaccine we / have delivered a safe and effective vaccine in / just nine months this is one of the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-08-31
+- 时间戳：00:17:01–00:17:16
+- 原句：without the need to draw on our carryover credits that australians earned from overachieving on our kyoto era commitments the government is being warned it needs to better prepare for a transition to a green global economy or leave thousands
+- 慢速拆解：without the need to draw on our carryover / credits that australians earned from overachieving on our / kyoto era commitments the government is being warned / it needs to better prepare for a transition
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-08-31
+- 时间戳：00:34:30–00:34:46
+- 原句：their christmas decorations which they'd really only just put away a couple of days before the fire hit the family treasures reduced to charcoal and ash inspired a call out to crafters to make christmas decorations for families who lost everything last summer a lot of people
+- 慢速拆解：their christmas decorations which they'd really only just / put away a couple of days before the / fire hit the family treasures reduced to charcoal / and ash inspired a call out to crafters
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-08-31
+- 时间戳：01:00:19–01:00:34
+- 原句：i'm told by people who present festivals there they're paying more for talent than they have ever had to because the new zealand major acts now they've got the market all of themselves and they're charging for it why are you working so hard to have festivals up and running
+- 慢速拆解：i'm told by people who present festivals there / they're paying more for talent than they have / ever had to because the new zealand major / acts now they've got the market all of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-08-31
+- 时间戳：01:02:58–01:03:15
+- 原句：[Music] the police don't stand so close to me it's a very uh fitting song for these unusual and unprecedented times we live in at the moment i'll be getting a go to my favorite lasagna joint i'm wearing my lasagna maybe little focaccia for later on and there's somebody like ri...
+- 慢速拆解：[Music] the police don't stand so close to / me it's a very uh fitting song for / these unusual and unprecedented times we live in / at the moment i'll be getting a go
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-08-31
+- 时间戳：01:06:55–01:07:11
+- 原句：as australia face off against fierce rivals behind every test all the rivalry called live at the grounds grandstand summer of cricket live on abc radio and the abc listen app
+- 慢速拆解：as australia face off against fierce rivals behind / every test all the rivalry called live at / the grounds grandstand summer of cricket live on / abc radio and the abc listen app
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-01
+
+### 1
+
+- 日期：2026-09-01
+- 时间戳：00:13:10–00:13:26
+- 原句：news now today the united states gets the all clear to begin vaccinating against coronavirus we have delivered a safe and effective vaccine in just nine months this is one of the greatest
+- 慢速拆解：news now today the united states gets the / all clear to begin vaccinating against coronavirus we / have delivered a safe and effective vaccine in / just nine months this is one of the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-01
+- 时间戳：00:20:34–00:20:51
+- 原句：weekend opposition climate change spokesman mark butler has accused the prime minister of being out of step globally on emissions reductions last night at the pacific islands forum he expected some sort of award or commendation for giving a heavily qualified
+- 慢速拆解：weekend opposition climate change spokesman mark butler has / accused the prime minister of being out of / step globally on emissions reductions last night at / the pacific islands forum he expected some sort
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-01
+- 时间戳：00:37:51–00:38:06
+- 原句：walked away unharmed after his engine caught on fire late in the session earlier in the day michael schumacher's son mick schumacher took part in his maiden formula one session coming in 18th fastest for hus west ham have fought back
+- 慢速拆解：walked away unharmed after his engine caught on / fire late in the session earlier in the / day michael schumacher's son mick schumacher took part / in his maiden formula one session coming in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-01
+- 时间戳：00:59:01–00:59:18
+- 原句：by now hey hey and the response that i get from them when i walk into the chat especially when i feed them is oh here comes the person that gives us their feed centene does a range of jobs on the farm there you go
+- 慢速拆解：by now hey hey and the response that / i get from them when i walk into / the chat especially when i feed them is / oh here comes the person that gives us
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-01
+- 时间戳：01:13:39–01:13:55
+- 原句：northern new south wales brace for potential flooding more than a trillion dollars in trade on the line as brexit stalls once again and a program bridging the gap between indigenous youth and to the police in
+- 慢速拆解：northern new south wales brace for potential flooding / more than a trillion dollars in trade on / the line as brexit stalls once again and / a program bridging the gap between indigenous youth
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-01
+- 时间戳：01:12:04–01:12:19
+- 原句：grandstand summer of cricket continues live and ad free as australia face off against fierce rivals india taking the catch behind every test all the rivalry called live at the grounds grandstand summer of cricket live on abc radio
+- 慢速拆解：grandstand summer of cricket continues live and ad / free as australia face off against fierce rivals / india taking the catch behind every test all / the rivalry called live at the grounds grandstand
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-02
+
+### 1
+
+- 日期：2026-09-02
+- 时间戳：00:08:22–00:08:37
+- 原句：meat into china and learned that two victorian abattoirs which voluntarily suspended their sales with china in july have are still waiting to resume the trade that's despite no coronavirus detections in victoria
+- 慢速拆解：meat into china and learned that two victorian / abattoirs which voluntarily suspended their sales with china / in july have are still waiting to resume / the trade that's despite no coronavirus detections in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-02
+- 时间戳：00:20:03–00:20:19
+- 原句：this fire season on top of the boost to emergency communication the federal government is stepping up its efforts to improve services for regions including a new regional tech hub looking at everything from troubleshooting connection problems to helping people set up their int...
+- 慢速拆解：this fire season on top of the boost / to emergency communication the federal government is stepping / up its efforts to improve services for regions / including a new regional tech hub looking at
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-02
+- 时间戳：00:35:31–00:35:47
+- 原句：news know the meaning i in this country this country is me know the story with abc news today heavy rain damaging winds and dangerous surface severe weather warning is issued for parts of new south wales
+- 慢速拆解：news know the meaning i in this country / this country is me know the story with / abc news today heavy rain damaging winds and / dangerous surface severe weather warning is issued for
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-02
+- 时间戳：00:49:50–00:50:06
+- 原句：australians in lost jobs and lost investment [Music] [Applause] it's been a year since the first case of coronavirus was detected in wuhan china kovid 19 has since tested and stretched
+- 慢速拆解：australians in lost jobs and lost investment [Music] / [Applause] it's been a year since the first / case of coronavirus was detected in wuhan china / kovid 19 has since tested and stretched
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-02
+- 时间戳：00:54:59–00:55:16
+- 原句：with police through programs like netherway will not only help turn this around but actually make communities like ulgardi safer for these children breaking them relations between authorities has been a forever issue and it could well be the case for many years to come it's about
+- 慢速拆解：with police through programs like netherway will not / only help turn this around but actually make / communities like ulgardi safer for these children breaking / them relations between authorities has been a forever
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-02
+- 时间戳：01:04:40–01:05:04
+- 原句：if the situation deteriorates the hard border comes back go to news.abc.net.edu or download the news app grandstand summer of cricket continues live and ad free as
+- 慢速拆解：if the situation deteriorates the hard border comes / back go to news.abc.net.edu or download the news / app grandstand summer of cricket continues live and / ad free as
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-03
+
+### 1
+
+- 日期：2026-09-03
+- 时间戳：00:05:03–00:05:20
+- 原句：december here are top stories the us closes in on approved covered vaccine as the death toll continues to mount hong kong media tycoon jimmy ly charged under controversial national security laws islamic state claims the murder of an
+- 慢速拆解：december here are top stories the us closes / in on approved covered vaccine as the death / toll continues to mount hong kong media tycoon / jimmy ly charged under controversial national security laws
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-03
+- 时间戳：00:09:10–00:09:25
+- 原句：positive results there was a theoretical risk of this we thought all be at a very low risk in a shock result everyone who had the vaccine came up with the false positive the federal government was told on monday and jointly today with csl it
+- 慢速拆解：positive results there was a theoretical risk of / this we thought all be at a very / low risk in a shock result everyone who / had the vaccine came up with the false
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-03
+- 时间戳：00:07:48–00:08:05
+- 原句：bulk storage we can control the temperature completely so it doesn't fall or rise by using lng as refrigerant is low such a massive distribution needs the stable bulk storage we can provide so far south korea has arranged to buy
+- 慢速拆解：bulk storage we can control the temperature completely / so it doesn't fall or rise by using / lng as refrigerant is low such a massive / distribution needs the stable bulk storage we can
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-03
+- 时间戳：00:19:56–00:20:12
+- 原句：group has found nearly one-third of rape of women and girls they've helped committed by a family member the issue has been exacerbated by the pandemic with schools closed and rising unemployment tasha uibawa has more seija was just eight years old when she
+- 慢速拆解：group has found nearly one-third of rape of / women and girls they've helped committed by a / family member the issue has been exacerbated by / the pandemic with schools closed and rising unemployment
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-03
+- 时间戳：00:24:15–00:24:31
+- 原句：from dysfunction to collapse they have not been charged eric torject there now tensions over the future of new caledonia's valet nickel plant have erupted into violent protests on the streets of numer with cars torched shops vandalized and police and
+- 慢速拆解：from dysfunction to collapse they have not been / charged eric torject there now tensions over the / future of new caledonia's valet nickel plant have / erupted into violent protests on the streets of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-03
+- 时间戳：00:10:27–00:10:42
+- 原句：options from the start in hindsight you know the uq team of course it's a wonderful thing we would look back and perhaps change the molecular clamp that they'll be using because there are other options but you know they went ahead with this and they you know everyone knew that...
+- 慢速拆解：options from the start in hindsight you know / the uq team of course it's a wonderful / thing we would look back and perhaps change / the molecular clamp that they'll be using because
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-04
+
+### 1
+
+- 日期：2026-09-04
+- 时间戳：00:04:18–00:04:37
+- 原句：yeah got another alchemy level out of that which materials we'll make some of this too we'll just use the generic ones here uh sure
+- 慢速拆解：yeah got another alchemy level out of that / which materials we'll make some of this too / we'll just use the generic ones here uh / sure
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-04
+- 时间戳：00:27:25–00:27:41
+- 原句：[Music] welcome hey which request will you accept i can turn in a puny missile i don't really use those many much anymore [Music]
+- 慢速拆解：[Music] welcome hey which request will you accept / i can turn in a puny missile i / don't really use those many much anymore [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-04
+- 时间戳：00:56:14–00:56:30
+- 原句：plants okay i shall be your opponent uh you go ahead and relaxing herb on plata and everyone else just attack you'll be
+- 慢速拆解：plants okay i shall be your opponent uh / you go ahead and relaxing herb on plata / and everyone else just attack you'll be
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-04
+- 时间戳：01:07:15–01:07:26
+- 原句：i needed to make another one of these which material should i choose these just a couple of the generic ones
+- 慢速拆解：i needed to make another one of these / which material should i choose these just a / couple of the generic ones
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-04
+- 时间戳：01:28:35–01:28:49
+- 原句：let's see that gets me 13 if it's there 13 if it's there yeah i think it's going to be 13 regardless of where i put it this looks good
+- 慢速拆解：let's see that gets me 13 if it's / there 13 if it's there yeah i think / it's going to be 13 regardless of where / i put it this looks good
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-04
+- 时间戳：01:44:44–01:45:01
+- 原句：i don't even know how to explain my thoughts on this alchemy really is amazing i agree i'm blocked this might be a rude question but may i ask i don't mind did you dislike being a book
+- 慢速拆解：i don't even know how to explain my / thoughts on this alchemy really is amazing i / agree i'm blocked this might be a rude / question but may i ask i don't mind
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-05
+
+### 1
+
+- 日期：2026-09-05
+- 时间戳：00:09:14–00:09:28
+- 原句：i hate to use one of these up but we'll use that one and that wow which cauldron okay i'll try it so we'll start out by putting one of those there this looks kind of amazing
+- 慢速拆解：i hate to use one of these up / but we'll use that one and that wow / which cauldron okay i'll try it so we'll / start out by putting one of those there
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-05
+- 时间戳：01:05:39–01:05:59
+- 原句：materials i should ask a bunch of people [Music] so we have some more gathering fields and a quest to talk to everybody plot to learn knowledge of all well that sounds fun
+- 慢速拆解：materials i should ask a bunch of people / [Music] so we have some more gathering fields / and a quest to talk to everybody plot / to learn knowledge of all well that sounds
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-05
+- 时间戳：00:43:25–00:43:45
+- 原句：and we'll just have you attack take this [Applause] ooh that was maybe i should use the ice bomb next turn yeah i will definitely use the ice bomb next turn i can't stop now
+- 慢速拆解：and we'll just have you attack take this / [Applause] ooh that was maybe i should use / the ice bomb next turn yeah i will / definitely use the ice bomb next turn i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-05
+- 时间戳：01:01:29–01:01:47
+- 原句：but this is definitely a new area with some nice quality materials it's a little dark though
+- 慢速拆解：but this is definitely a new area with / some nice quality materials it's a little dark / though
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-05
+- 时间戳：01:15:59–01:16:15
+- 原句：really yes but where did i hear about it i'm sorry i can't remember no don't worry about it it's not your fault i'm sorry i couldn't be of any use it's fine really don't worry about it i'll see you later
+- 慢速拆解：really yes but where did i hear about / it i'm sorry i can't remember no don't / worry about it it's not your fault i'm / sorry i couldn't be of any use it's
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-05
+- 时间戳：01:35:26–01:35:44
+- 原句：[Music] hmm so [Music] i don't think i can make
+- 慢速拆解：[Music] hmm so [Music] i don't think i / can make
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-06
+
+### 1
+
+- 日期：2026-09-06
+- 时间戳：00:02:05–00:02:15
+- 原句：is this good which cauldron should i use okay let's start
+- 慢速拆解：is this good which cauldron should i use / okay let's start
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-06
+- 时间戳：00:07:09–00:07:25
+- 原句：those flowers which are supposed to be [Music] somewhere in this area [Music] at least according to that quest oh hello inferior creatures let's end this
+- 慢速拆解：those flowers which are supposed to be [Music] / somewhere in this area [Music] at least according / to that quest oh hello inferior creatures let's / end this
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-06
+- 时间戳：00:55:05–00:55:22
+- 原句：monster feathers okay town has a long history is that rumor okay let's go ahead and check this one out
+- 慢速拆解：monster feathers okay town has a long history / is that rumor okay let's go ahead and / check this one out
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-06
+- 时间戳：01:05:45–01:06:00
+- 原句：i actually have something to tell you today sophie [Music] what is it starting next time i'll be refilling your items for free what no you don't have to do that that would be too much
+- 慢速拆解：i actually have something to tell you today / sophie [Music] what is it starting next time / i'll be refilling your items for free what / no you don't have to do that that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-06
+- 时间戳：01:27:33–01:27:51
+- 原句：i didn't yeah it was in this somewhere around here [Music] [Applause] just going to go to the next area as fast as i can don't want to bother gathering in case
+- 慢速拆解：i didn't yeah it was in this somewhere / around here [Music] [Applause] just going to go / to the next area as fast as i / can don't want to bother gathering in case
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-06
+- 时间戳：01:49:42–01:50:03
+- 原句：um [Applause] we have any others [Music] that are blue that would work there maybe one of these [Music]
+- 慢速拆解：um [Applause] we have any others [Music] that / are blue that would work there maybe one / of these [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-07
+
+### 1
+
+- 日期：2026-09-07
+- 时间戳：00:18:21–00:18:33
+- 原句：i have to deliver those parts and synthesize aries brooch oh yeah and i was reading through some of my pre or watching some of my previous footage and i happened to note when i was going through
+- 慢速拆解：i have to deliver those parts and synthesize / aries brooch oh yeah and i was reading / through some of my pre or watching some / of my previous footage and i happened to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-07
+- 时间戳：00:30:23–00:30:38
+- 原句：make travelers shoes let's go and turn in those though welcome which request will you accept oh i need to make more pure water [Music]
+- 慢速拆解：make travelers shoes let's go and turn in / those though welcome which request will you accept / oh i need to make more pure water / [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-07
+- 时间戳：01:16:12–01:16:35
+- 原句：okay so that rain skill she has takes until the next turn but does do a good amount of both healing and attack which is quite useful
+- 慢速拆解：okay so that rain skill she has takes / until the next turn but does do a / good amount of both healing and attack which / is quite useful
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-07
+- 时间戳：01:12:28–01:12:47
+- 原句：may as well get those to be higher quality if i can get around these guys [Music] well that wasn't a lot [Music] [Applause]
+- 慢速拆解：may as well get those to be higher / quality if i can get around these guys / [Music] well that wasn't a lot [Music] [Applause]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-07
+- 时间戳：01:33:13–01:33:33
+- 原句：still not sure where to find those [Music] make two supreme hot milks for 5 18. nah welcome what rumored is that rumor thank you
+- 慢速拆解：still not sure where to find those [Music] / make two supreme hot milks for 5 18. / nah welcome what rumored is that rumor thank / you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-07
+- 时间戳：01:49:41–01:49:54
+- 原句：well that's a cave i probably wouldn't have flowers they don't look very strong yeah we can take care of these guys although actually i might hold off
+- 慢速拆解：well that's a cave i probably wouldn't have / flowers they don't look very strong yeah we / can take care of these guys although actually / i might hold off
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-08
+
+### 1
+
+- 日期：2026-09-08
+- 时间戳：00:12:03–00:12:21
+- 原句：fine telling you about this now about what if you go north from this town you'll find an underground lake you can collect great oars and minerals there you might be able to use them as materials for alchemy too huh there's a place like that but
+- 慢速拆解：fine telling you about this now about what / if you go north from this town you'll / find an underground lake you can collect great / oars and minerals there you might be able
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-08
+- 时间戳：00:15:39–00:15:56
+- 原句：thing later [Music] let's see if there's anything in here i need to it's worth picking up welcome which request will you accept well those are all crafting things i'll see you
+- 慢速拆解：thing later [Music] let's see if there's anything / in here i need to it's worth picking / up welcome which request will you accept well / those are all crafting things i'll see you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-08
+- 时间戳：00:34:47–00:35:02
+- 原句：kerry's seat can go on attack on we'll do that yeah this is all done now that we've done that we need to make [Music] a bomb because i'm going to be making this
+- 慢速拆解：kerry's seat can go on attack on we'll / do that yeah this is all done now / that we've done that we need to make / [Music] a bomb because i'm going to be
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-08
+- 时间戳：01:04:54–01:05:10
+- 原句：what does golden radiance do yeah price when selling [Music] i guess we'll do that just for the quality choose the traits you want to add
+- 慢速拆解：what does golden radiance do yeah price when / selling [Music] i guess we'll do that just / for the quality choose the traits you want / to add
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-08
+- 时间戳：01:22:39–01:22:55
+- 原句：there [Music] okay got some variety of stuff there a lot of stuff we already have but that nitro water is new where are we going next now let's check
+- 慢速拆解：there [Music] okay got some variety of stuff / there a lot of stuff we already have / but that nitro water is new where are / we going next now let's check
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-08
+- 时间戳：01:41:46–01:42:01
+- 原句：totally captivated by dolls so much so that i quit my mercenary work and became a doll maker i see i would have liked to see that puppet show oh really i can't say it'll be exactly the same but i can put on a similar show
+- 慢速拆解：totally captivated by dolls so much so that / i quit my mercenary work and became a / doll maker i see i would have liked / to see that puppet show oh really i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-09
+
+### 1
+
+- 日期：2026-09-09
+- 时间戳：00:08:56–00:09:12
+- 原句：britons are being told not to let their guard down after the launch of the world's first mass covert 19 vaccination program thousands of people in the uk have now been injected with the fisa vaccine and it's hoped four million will receive the jab by the end of this month
+- 慢速拆解：britons are being told not to let their / guard down after the launch of the world's / first mass covert 19 vaccination program thousands of / people in the uk have now been injected
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-09
+- 时间戳：00:25:04–00:25:21
+- 原句：connectivity to emergency services the government's been under pressure to spend this money and really we're only seeing the details of this money now well into the next fire season there have been members of the government's own front bench who
+- 慢速拆解：connectivity to emergency services the government's been under / pressure to spend this money and really we're / only seeing the details of this money now / well into the next fire season there have
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-09
+- 时间戳：00:37:45–00:38:02
+- 原句：widespread severe weather warnings up across much of the kimberley into the parts of the pilbara and interior this is for the potential of heavy rainfall that now extends through into the southwest of the northern territory and the northeast of south australia that rain will p...
+- 慢速拆解：widespread severe weather warnings up across much of / the kimberley into the parts of the pilbara / and interior this is for the potential of / heavy rainfall that now extends through into the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-09
+- 时间戳：00:58:22–00:58:39
+- 原句：skeptical about the reason that's been offered this is pretty clearly a now a widely escalating campaign of economic punishment which is being meted out by beijing and it means that every single trade action that's taken against australian products is inevitably seen
+- 慢速拆解：skeptical about the reason that's been offered this / is pretty clearly a now a widely escalating / campaign of economic punishment which is being meted / out by beijing and it means that every
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-09
+- 时间戳：01:14:39–01:14:57
+- 原句：with police alleging he tried to access instructions to make bombs on the internet the 18 year old is alleged to have an extreme right-wing ideology linked to white supremacy the teenager was arrested in albury in the state south earlier today
+- 慢速拆解：with police alleging he tried to access instructions / to make bombs on the internet the 18 / year old is alleged to have an extreme / right-wing ideology linked to white supremacy the teenager
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-09
+- 时间戳：01:31:21–01:31:38
+- 原句：example so um sorry migraine with head trauma so um we really gotta involve the players as part of this research and decision making around protocols yeah so what what more can the sports and the governing bodies be doing here well now is the time so obviously we're
+- 慢速拆解：example so um sorry migraine with head trauma / so um we really gotta involve the players / as part of this research and decision making / around protocols yeah so what what more can
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-10
+
+### 1
+
+- 日期：2026-09-10
+- 时间戳：00:11:24–00:11:43
+- 原句：i'm glad you understand okay first i want you to tell me about your hobbies hobbies let's see i enjoy gazing at the surface of the water in alchemy cauldrons i see that's a strange hobby okay next what's your favorite color
+- 慢速拆解：i'm glad you understand okay first i want / you to tell me about your hobbies hobbies / let's see i enjoy gazing at the surface / of the water in alchemy cauldrons i see
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-10
+- 时间戳：00:59:07–00:59:33
+- 原句：[Music] which request will you accept [Music] i can turn in some of these certainly
+- 慢速拆解：[Music] which request will you accept [Music] i / can turn in some of these certainly
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-10
+- 时间戳：00:41:41–00:41:58
+- 原句：and you alive so both those should happen before they do anything [Music] quick throw actually will your regular attack do it now your regular attack will go later so
+- 慢速拆解：and you alive so both those should happen / before they do anything [Music] quick throw actually / will your regular attack do it now your / regular attack will go later so
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-10
+- 时间戳：01:02:53–01:03:11
+- 原句：i don't have anything i think that will wake up or revive so just attack for right now sorry corey this item is really
+- 慢速拆解：i don't have anything i think that will / wake up or revive so just attack for / right now sorry corey this item is really
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-10
+- 时间戳：01:21:47–01:22:05
+- 原句：actually i don't know if i have weapons for him yet let's go to the blacksmith i've got some new wear what are you buying
+- 慢速拆解：actually i don't know if i have weapons / for him yet let's go to the blacksmith / i've got some new wear what are you / buying
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-10
+- 时间戳：01:41:52–01:42:11
+- 原句：see your debut um no that's not really necessary anyway i'll be back in a little while [Music] she really does go out of her way [Music] [Applause]
+- 慢速拆解：see your debut um no that's not really / necessary anyway i'll be back in a little / while [Music] she really does go out of / her way [Music] [Applause]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-11
+
+### 1
+
+- 日期：2026-09-11
+- 时间戳：00:06:48–00:07:09
+- 原句：clear drops that we need to make a flame powder which we need to [Applause] i need two alchemy drops for that that might be marginally annoying i might register all can be dropped temporarily to do that
+- 慢速拆解：clear drops that we need to make a / flame powder which we need to [Applause] i / need two alchemy drops for that that might / be marginally annoying i might register all can
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-11
+- 时间戳：00:22:15–00:22:28
+- 原句：[Music] welcome which request will you accept that would take all my dawn fur
+- 慢速拆解：[Music] welcome which request will you accept that / would take all my dawn fur
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-11
+- 时间戳：00:39:57–00:40:14
+- 原句：time to attack with items leave it to me uh because i would really like to stack buffs and debuffs let's see if i use that with you
+- 慢速拆解：time to attack with items leave it to / me uh because i would really like to / stack buffs and debuffs let's see if i / use that with you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-11
+- 时间戳：00:54:08–00:54:24
+- 原句：no it's not all right because what i want to do here and we do want that and here we will do quality up choose the traits you want to add is this all right what does that do fifteen percent yeah
+- 慢速拆解：no it's not all right because what i / want to do here and we do want / that and here we will do quality up / choose the traits you want to add is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-11
+- 时间戳：01:09:35–01:09:50
+- 原句：the frozen lake thing oh no don't need to go to the cut scene right now we'll deal with that cut scene later for right now let's go to the dressing room okay so we can choose that uh between
+- 慢速拆解：the frozen lake thing oh no don't need / to go to the cut scene right now / we'll deal with that cut scene later for / right now let's go to the dressing room
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-11
+- 时间戳：01:28:22–01:28:38
+- 原句：and won't move there seems to be a small machine inside wow there's tiny gears in here it's almost like a clock what could it possibly be hmm if only we could press the switch i
+- 慢速拆解：and won't move there seems to be a / small machine inside wow there's tiny gears in / here it's almost like a clock what could / it possibly be hmm if only we could
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-12
+
+### 1
+
+- 日期：2026-09-12
+- 时间戳：00:09:55–00:10:14
+- 原句：i guess i can say this is still the halfway point my final goal is to reclaim all your memories i've made a promise after all sophie so to do that i'm going to work even harder with alchemy
+- 慢速拆解：i guess i can say this is still / the halfway point my final goal is to / reclaim all your memories i've made a promise / after all sophie so to do that i'm
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-12
+- 时间戳：00:24:44–00:25:02
+- 原句：welcome which request will you accept that i can turn in [Music] you've gone
+- 慢速拆解：welcome which request will you accept that i / can turn in [Music] you've gone
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-12
+- 时间戳：01:02:06–01:02:32
+- 原句：time to attack with items [Music] [Applause] oh yeah this is this is done [Applause] those things do a lot of damage [Music]
+- 慢速拆解：time to attack with items [Music] [Applause] oh / yeah this is this is done [Applause] those / things do a lot of damage [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-12
+- 时间戳：01:06:49–01:07:05
+- 原句：through to grab a couple more items before i head home [Music] all right that should be good [Music]
+- 慢速拆解：through to grab a couple more items before / i head home [Music] all right that should / be good [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-12
+- 时间戳：01:29:01–01:29:08
+- 原句：[Music] so i'm not sure where to get the good water
+- 慢速拆解：[Music] so i'm not sure where to get / the good water
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-12
+- 时间戳：01:49:22–01:49:37
+- 原句：in other words sophie's personality has been like that for a long time that's right she was about the same back when she was a child too that's actually really easy to imagine sophie hasn't changed much since long ago
+- 慢速拆解：in other words sophie's personality has been like / that for a long time that's right she / was about the same back when she was / a child too that's actually really easy to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-13
+
+### 1
+
+- 日期：2026-09-13
+- 时间戳：00:11:30–00:11:45
+- 原句：oh yes who could that be hello sophie meklid atomina welcome do you need something there's something we want to ask you about alchemy ask me that's fine but i don't know if i would be able to answer it's fine if you don't know anyway
+- 慢速拆解：oh yes who could that be hello sophie / meklid atomina welcome do you need something there's / something we want to ask you about alchemy / ask me that's fine but i don't know
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-13
+- 时间戳：00:29:49–00:30:03
+- 原句：time to get started on operation humanize plota sophie could you do something about that name at least [Music] so we have a new goal
+- 慢速拆解：time to get started on operation humanize plota / sophie could you do something about that name / at least [Music] so we have a new / goal
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-13
+- 时间戳：00:36:23–00:36:38
+- 原句：i need to check with those skills are you can check hers too twin action increased chain attack chance
+- 慢速拆解：i need to check with those skills are / you can check hers too twin action increased / chain attack chance
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-13
+- 时间戳：00:52:27–00:52:45
+- 原句：[Music] not even worth the time [Music] and we will drop one of these well no those are good quality uh what's weak
+- 慢速拆解：[Music] not even worth the time [Music] and / we will drop one of these well no / those are good quality uh what's weak
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-13
+- 时间戳：01:05:33–01:05:48
+- 原句：i'd invite my friends but we're all really busy and can't get our schedules to match i see oh i have a good idea tess would you like to go together sometime huh is it okay yeah i'm interested to see it and it would be fun going somewhere with
+- 慢速拆解：i'd invite my friends but we're all really / busy and can't get our schedules to match / i see oh i have a good idea / tess would you like to go together sometime
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-13
+- 时间戳：01:20:29–01:20:45
+- 原句：and we will register this this seems really amazing i can't register we will replace that neutralizer
+- 慢速拆解：and we will register this this seems really / amazing i can't register we will replace that / neutralizer
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-14
+
+### 1
+
+- 日期：2026-09-14
+- 时间戳：00:23:12–00:23:29
+- 原句：and one of these is this real which cauldron is best okay then let's start this should go here this is great [Music]
+- 慢速拆解：and one of these is this real which / cauldron is best okay then let's start this / should go here this is great [Music]
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-14
+- 时间戳：00:28:53–00:29:11
+- 原句：[Music] how about you good morning no scenes from you well let's check and see if we have any [Music] which request requests those i can turn in a few easily
+- 慢速拆解：[Music] how about you good morning no scenes / from you well let's check and see if / we have any [Music] which request requests those / i can turn in a few easily
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-14
+- 时间戳：00:48:59–00:49:10
+- 原句：[Music] [Applause] i'll just have you attack for right now you will definitely do this though no not having a soul step
+- 慢速拆解：[Music] [Applause] i'll just have you attack for / right now you will definitely do this though / no not having a soul step
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-14
+- 时间戳：01:00:33–01:00:56
+- 原句：grab one of those and we'd already got quality up so [Music] we'll do that
+- 慢速拆解：grab one of those and we'd already got / quality up so [Music] we'll do that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-14
+- 时间戳：01:12:36–01:12:51
+- 原句：all right let's go over to the street welcome to my cup yeah you don't have anything new where is are they just not around this time of day they might not be around this time of day
+- 慢速拆解：all right let's go over to the street / welcome to my cup yeah you don't have / anything new where is are they just not / around this time of day they might not
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-14
+- 时间戳：01:35:15–01:35:32
+- 原句：huh what's wrong you don't seem very happy that's not true i'm perfectly normal hmm no you aren't happy at all we've been living together i would know i see are you worried about something it seems
+- 慢速拆解：huh what's wrong you don't seem very happy / that's not true i'm perfectly normal hmm no / you aren't happy at all we've been living / together i would know i see are you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-15
+
+### 1
+
+- 日期：2026-09-15
+- 时间戳：00:08:55–00:09:12
+- 原句：that's interesting some things are blocked off okay let's start interesting uh we'll use this cauldron
+- 慢速拆解：that's interesting some things are blocked off okay / let's start interesting uh we'll use this cauldron
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-15
+- 时间戳：00:27:48–00:28:06
+- 原句：welcome which request will you accept [Music] can't make those yet don't know where those are welcome thank you for i'll see um
+- 慢速拆解：welcome which request will you accept [Music] can't / make those yet don't know where those are / welcome thank you for i'll see um
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-15
+- 时间戳：00:45:51–00:46:08
+- 原句：what does fixed power do that's attack item that's not going to be doing that a little damage absorb on there just to make sure we have that and
+- 慢速拆解：what does fixed power do that's attack item / that's not going to be doing that a / little damage absorb on there just to make / sure we have that and
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-15
+- 时间戳：01:03:28–01:03:32
+- 原句：what materials to use anything here that carries heat
+- 慢速拆解：what materials to use anything here that carries / heat
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-15
+- 时间戳：01:22:47–01:23:04
+- 原句：but i will investigate that ancient kitchen instead which i'm pretty sure where do you intend to go next is in
+- 慢速拆解：but i will investigate that ancient kitchen instead / which i'm pretty sure where do you intend / to go next is in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-15
+- 时间戳：01:40:56–01:41:19
+- 原句：is this okay three of them [Music] i think i will do then yeah we'll go ahead and do that then it's done it looks great which materials should i use we'll make another one of these
+- 慢速拆解：is this okay three of them [Music] i / think i will do then yeah we'll go / ahead and do that then it's done it / looks great which materials should i use we'll
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-16
+
+### 1
+
+- 日期：2026-09-16
+- 时间戳：00:11:02–00:11:21
+- 原句：some stall metal now where we can synthesize stall metal i'm gonna beat you up okay hey they look pretty strong [Music] i'll go ahead and use that mini bag
+- 慢速拆解：some stall metal now where we can synthesize / stall metal i'm gonna beat you up okay / hey they look pretty strong [Music] i'll go / ahead and use that mini bag
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-16
+- 时间戳：00:28:14–00:28:30
+- 原句：and let's see let's go back in here and turn in those requests welcome thank you for coming sophie which request will you accept okay well let's turn on some of these too so i got a ton of them
+- 慢速拆解：and let's see let's go back in here / and turn in those requests welcome thank you / for coming sophie which request will you accept / okay well let's turn on some of these
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-16
+- 时间戳：00:53:17–00:53:32
+- 原句：to add we'll do ecoskill increase sharpness and cost compress that's increase skill power by seven and reduce np consumption attack causes five percent more increases skill power by five all right it goes awesome i think it's
+- 慢速拆解：to add we'll do ecoskill increase sharpness and / cost compress that's increase skill power by seven / and reduce np consumption attack causes five percent / more increases skill power by five all right
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-16
+- 时间戳：01:09:30–01:09:45
+- 原句：let's see we will have we will attack uh that one [Music] and some aoes [Music] the sword hit multiples yes this item is
+- 慢速拆解：let's see we will have we will attack / uh that one [Music] and some aoes [Music] / the sword hit multiples yes this item is
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-16
+- 时间戳：01:22:15–01:22:30
+- 原句：i feel stronger i can apply this experience to the future the path ahead is still long all right go over here and grab these
+- 慢速拆解：i feel stronger i can apply this experience / to the future the path ahead is still / long all right go over here and grab / these
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-16
+- 时间戳：01:40:57–01:41:13
+- 原句：really you finally remembered that so where's this cauldron unfortunately it's not about its location but i can remember what the cauldron is oh right now that i think about it i still have no idea exactly what the
+- 慢速拆解：really you finally remembered that so where's this / cauldron unfortunately it's not about its location but / i can remember what the cauldron is oh / right now that i think about it i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-17
+
+### 1
+
+- 日期：2026-09-17
+- 时间戳：00:05:47–00:06:05
+- 原句：value to do the next calculation and we need the return to help us to get the result of the function calculation okay let's this is the function
+- 慢速拆解：value to do the next calculation and we / need the return to help us to get / the result of the function calculation okay let's / this is the function
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“变量、参数与属性”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-17
+- 时间戳：00:21:29–00:21:46
+- 原句：and we can uh actually this process is called in the uh instantiate extension instantiation and then this is instance of this structure and we assign this structure to a constant
+- 慢速拆解：and we can uh actually this process is / called in the uh instantiate extension instantiation and / then this is instance of this structure and / we assign this structure to a constant
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“类、对象与继承”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-17
+- 时间戳：00:37:22–00:37:37
+- 原句：is what we do we write the init function inside structure here at the very beginning we define a variable uh like what we did just now but here we define a function named
+- 慢速拆解：is what we do we write the init / function inside structure here at the very beginning / we define a variable uh like what we / did just now but here we define a
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“函数调用与返回”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-17
+- 时间戳：01:19:00–01:19:19
+- 原句：i think now you have we have learned the loop the structure and the class and i think this you can finish your assignment one and for some tasks we always need to store our data
+- 慢速拆解：i think now you have we have learned / the loop the structure and the class and / i think this you can finish your assignment / one and for some tasks we always need
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“循环与控制流”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-17
+- 时间戳：01:06:00–01:06:16
+- 原句：this chain subclass in the super class we call steal the old function make noise view still an active function because this only is active
+- 慢速拆解：this chain subclass in the super class we / call steal the old function make noise view / still an active function because this only is / active
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“iOS 界面组件与状态”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-17
+- 时间戳：01:17:14–01:17:31
+- 原句：and to help you do more exercise especially uh to understand and familiar with our template for assignment one okay sometimes then you will ask when i because class and squash are quite similar especially for the
+- 慢速拆解：and to help you do more exercise especially / uh to understand and familiar with our template / for assignment one okay sometimes then you will / ask when i because class and squash are
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“项目要求与调试”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-18
+
+### 1
+
+- 日期：2026-09-18
+- 时间戳：00:07:55–00:08:03
+- 原句：another recipe honey hmm what to make we will make some honey because we haven't done that yet what materials to use
+- 慢速拆解：another recipe honey hmm what to make we / will make some honey because we haven't done / that yet what materials to use
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-18
+- 时间戳：00:13:32–00:13:54
+- 原句：i should now i'm gonna go and fight that fish actually i should fight whatever this where to quest monster is first then the fish
+- 慢速拆解：i should now i'm gonna go and fight / that fish actually i should fight whatever this / where to quest monster is first then the / fish
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-18
+- 时间戳：00:26:16–00:26:34
+- 原句：hmm slaying silent beast monster from memories i'm not sure what i can do with that i'll just kind of end up making progress on that regardless but i need to make some more simple sweets
+- 慢速拆解：hmm slaying silent beast monster from memories i'm / not sure what i can do with that / i'll just kind of end up making progress / on that regardless but i need to make
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-18
+- 时间戳：00:38:24–00:38:40
+- 原句：and some four gold thread so this cuts mp consume and skill enhance that's not bad that enhances item according to strength of traits only putting one trait on at the
+- 慢速拆解：and some four gold thread so this cuts / mp consume and skill enhance that's not bad / that enhances item according to strength of traits / only putting one trait on at the
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-18
+- 时间戳：00:48:24–00:48:41
+- 原句：[Music] and what's over here hmm there's probably more gatherables there i don't know about i will see if i can sneak into here and get some gatherables
+- 慢速拆解：[Music] and what's over here hmm there's probably / more gatherables there i don't know about i / will see if i can sneak into here / and get some gatherables
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-18
+- 时间戳：01:00:26–01:00:42
+- 原句：i'm tempted to craft the well let's look at what it it requires to craft the cauldron it requires oh colin requires the previous cauldron to or clean secret power it probably
+- 慢速拆解：i'm tempted to craft the well let's look / at what it it requires to craft the / cauldron it requires oh colin requires the previous / cauldron to or clean secret power it probably
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-19
+
+### 1
+
+- 日期：2026-09-19
+- 时间戳：00:05:00–00:05:03
+- 原句：all right got an alchemy level out of that
+- 慢速拆解：all right got an alchemy level out of / that
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-19
+- 时间戳：00:43:05–00:43:19
+- 原句：so we needed to check if there are any requests oh we can go in the clock shop we'll have to do that in a moment but first let's check the request status you are at the bunny girl
+- 慢速拆解：so we needed to check if there are / any requests oh we can go in the / clock shop we'll have to do that in / a moment but first let's check the request
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-19
+- 时间戳：00:43:23–00:43:40
+- 原句：which request will you accept so let's report these thank you very much [Music] i need to still find some monster feathers i'm sure i'll find some got them thank you very much
+- 慢速拆解：which request will you accept so let's report / these thank you very much [Music] i need / to still find some monster feathers i'm sure / i'll find some got them thank you very
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-19
+- 时间戳：01:01:45–01:02:01
+- 原句：yeah i see the skip on skip off i don't know what that means the button changes it to mean that or what down on the lower right corner there but it doesn't seem to have much of an effect on standard attacks anyway
+- 慢速拆解：yeah i see the skip on skip off / i don't know what that means the button / changes it to mean that or what down / on the lower right corner there but it
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-19
+- 时间戳：01:20:21–01:20:39
+- 原句：that before i thought the colors of the squares are more had to do with what you place down but it looks like the outlines around the colors of the squares are basically preset which is interesting and something that i'll need to remember when i'm actually doing crafting where...
+- 慢速拆解：that before i thought the colors of the / squares are more had to do with what / you place down but it looks like the / outlines around the colors of the squares are
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-19
+- 时间戳：01:38:08–01:38:25
+- 原句：nope nothing here maybe over here [Music] nope no cut scene there how about here
+- 慢速拆解：nope nothing here maybe over here [Music] nope / no cut scene there how about here
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-20
+
+### 1
+
+- 日期：2026-09-20
+- 时间戳：00:10:08–00:10:24
+- 原句：let's take a look i see i see ah this is a reference book for alchemy but only the beginning is the rest of it is all blank pages
+- 慢速拆解：let's take a look i see i see / ah this is a reference book for alchemy / but only the beginning is the rest of / it is all blank pages
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“炼金/配方机制”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-20
+- 时间戳：00:31:53–00:32:09
+- 原句：monica will you come gathering with me why are you asking all of a sudden i don't have any materials for synthesis i want to go gather some but i'm scared to go alone ah i see of course i'll go besides you help me with meister horse request
+- 慢速拆解：monica will you come gathering with me why / are you asking all of a sudden i / don't have any materials for synthesis i want / to go gather some but i'm scared to
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“任务与目标”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-20
+- 时间戳：00:43:45–00:44:04
+- 原句：okay so i see when i do that on the left that moves down to show when it's going to happen single target attack and reduce attack power and if i do attack that will do happen then okay
+- 慢速拆解：okay so i see when i do that / on the left that moves down to show / when it's going to happen single target attack / and reduce attack power and if i do
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“战斗动作链”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-20
+- 时间戳：01:01:31–01:01:48
+- 原句：usable items [Applause] this just shows all the things i've got so far what was that one normally okay [Music] i remember for uh mirror i went so far
+- 慢速拆解：usable items [Applause] this just shows all the / things i've got so far what was that / one normally okay [Music] i remember for uh / mirror i went so far
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“材料、品质与效果”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-20
+- 时间戳：01:18:25–01:18:42
+- 原句：[Music] okay i'm going to run away where are we going next we are going to run away uh actually let's grab this hey what's up
+- 慢速拆解：[Music] okay i'm going to run away where / are we going next we are going to / run away uh actually let's grab this hey / what's up
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“路线与空间指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-20
+- 时间戳：01:34:33–01:34:48
+- 原句：ideally [Music] i want to get something else of those that i can make on my own let's see if we can make this i'm going to be probably making
+- 慢速拆解：ideally [Music] i want to get something else / of those that i can make on my / own let's see if we can make this / i'm going to be probably making
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“推测、计划与口语重启”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-21
+
+### 1
+
+- 日期：2026-09-21
+- 时间戳：00:02:30–00:02:48
+- 原句：police were called to the townsville university hospital yesterday afternoon where the girl had been taken by the pair the 37 year old mother laura pavaro and her 29 year old partner aaron hill have had their cases adjourned until the 14th of december
+- 慢速拆解：police were called to the townsville university hospital / yesterday afternoon where the girl had been taken / by the pair the 37 year old mother / laura pavaro and her 29 year old partner
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-21
+- 时间戳：00:10:46–00:11:02
+- 原句：he possessed a high scientific status and a long background in the country's defence advances the israeli government had already accused him of being the brains behind iran's attempt to build a nuclear bomb which the israeli prime minister warned two years ago had not stopped
+- 慢速拆解：he possessed a high scientific status and a / long background in the country's defence advances the / israeli government had already accused him of being / the brains behind iran's attempt to build a
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-21
+- 时间戳：00:17:09–00:17:25
+- 原句：one day or on sunday could run into monday peter lusted abc news a dominant 26 points from opel star liz cambage has led the south side flyers to a 24 point win over the townsville fire in the wnbl
+- 慢速拆解：one day or on sunday could run into / monday peter lusted abc news a dominant 26 / points from opel star liz cambage has led / the south side flyers to a 24 point
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-21
+- 时间戳：00:13:43–00:13:59
+- 原句：aboriginal land trust are starting up a joint carbon abatement business creating more jobs for other ad stations community like more ranges and to work at country you know like get them at bush i saw them little
+- 慢速拆解：aboriginal land trust are starting up a joint / carbon abatement business creating more jobs for other / ad stations community like more ranges and to / work at country you know like get them
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-21
+- 时间戳：00:33:44–00:34:00
+- 原句：but even them uh some of them get so caught up in one side of politics or the other that they undermine their own credibility here with the youngest taylor matter as well that and again i'll ask you about the federal police in a moment and your views around around them but the...
+- 慢速拆解：but even them uh some of them get / so caught up in one side of politics / or the other that they undermine their own / credibility here with the youngest taylor matter as
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-21
+- 时间戳：00:32:24–00:32:41
+- 原句：around governance too that go to campaign donations in know political donations it just seems there's no appetite on either side of the major party to do anything about that there's a sort of a reluctance to have a corruption commission there the sports grants thing that has e...
+- 慢速拆解：around governance too that go to campaign donations / in know political donations it just seems there's / no appetite on either side of the major / party to do anything about that there's a
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-22
+
+### 1
+
+- 日期：2026-09-22
+- 时间戳：00:03:22–00:03:37
+- 原句：but there's one adjustment people from a long footballing background still struggle with passing to people who can't run you can't put the ball three yards in front of them it's got to be to their feet and regardless of the experience level the enjoyment factor is there for ev...
+- 慢速拆解：but there's one adjustment people from a long / footballing background still struggle with passing to people / who can't run you can't put the ball / three yards in front of them it's got
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“节目边界与主题重置”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-22
+- 时间戳：00:21:36–00:21:53
+- 原句：investment banker and returned to china in the 1990s to try her hand at property developing she remembers the early discussions with government officials about what beijing was going to be like they were talking about the future the
+- 慢速拆解：investment banker and returned to china in the / 1990s to try her hand at property developing / she remembers the early discussions with government officials / about what beijing was going to be like
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-22
+- 时间戳：00:05:46–00:06:01
+- 原句：and canberra clearing showers in perth and a hot day for adelaide a possible storm expected for you in darwin you are up to date here with abc news remember you can connect with us further at news.abc.net.edu and on iview
+- 慢速拆解：and canberra clearing showers in perth and a / hot day for adelaide a possible storm expected / for you in darwin you are up to / date here with abc news remember you can
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-22
+- 时间戳：00:27:31–00:27:47
+- 原句：well this isn't bad is it i'm sitting on a private jet flying in between beijing and shanghai i've got my champagne and it's pretty comfortable now i'm sitting here with jean-michel jacob from daso and it's his business to sell these jets to chinese people so
+- 慢速拆解：well this isn't bad is it i'm sitting / on a private jet flying in between beijing / and shanghai i've got my champagne and it's / pretty comfortable now i'm sitting here with jean-michel
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-22
+- 时间戳：00:38:41–00:38:58
+- 原句：tonight federal police crack an alleged child care fraud ring worth millions [Music] temperature records broken as new south wales south australia and victoria swelter through a weekend heatwave
+- 慢速拆解：tonight federal police crack an alleged child care / fraud ring worth millions [Music] temperature records broken / as new south wales south australia and victoria / swelter through a weekend heatwave
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-22
+- 时间戳：00:35:32–00:35:47
+- 原句：is very cagey about where his and his family's money has come from he says he's an investor in the service industry if so he's been very successful because his collection of sports cars is worth a not so small fortune
+- 慢速拆解：is very cagey about where his and his / family's money has come from he says he's / an investor in the service industry if so / he's been very successful because his collection of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-23
+
+### 1
+
+- 日期：2026-09-23
+- 时间戳：00:04:38–00:04:55
+- 原句：and 80 of raziq's supporters tested positive for coronavirus the leader of indonesia's radical islamic defenders front already has authorities worried with his plans for a so-called moral revolution in the world's biggest muslim nation
+- 慢速拆解：and 80 of raziq's supporters tested positive for / coronavirus the leader of indonesia's radical islamic defenders / front already has authorities worried with his plans / for a so-called moral revolution in the world's
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-23
+- 时间戳：00:06:00–00:06:17
+- 原句：of the pandemic but given the huge crowds raziq has drawn since his return authorities are bracing for further trouble ann barker abc news returning home a parliament of mast owls has been discovered in a part of western australia which is
+- 慢速拆解：of the pandemic but given the huge crowds / raziq has drawn since his return authorities are / bracing for further trouble ann barker abc news / returning home a parliament of mast owls has
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-23
+- 时间戳：00:51:51–00:52:08
+- 原句：you know it's hot so fire weather we're pretty concerned about elevated fire dangers across the state we're already seeing severe fire danger through inland new south wales the river arena in particular it's very windy out there already 40 degrees expected to get up to
+- 慢速拆解：you know it's hot so fire weather we're / pretty concerned about elevated fire dangers across the / state we're already seeing severe fire danger through / inland new south wales the river arena in
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-23
+- 时间戳：01:08:11–01:08:26
+- 原句：the university semester may be over but many international students still have a nervous few months ahead of them they're one of the hardest hit groups during the pandemic with many losing their jobs and unable to return home food bank australia has set up an initiative in mel...
+- 慢速拆解：the university semester may be over but many / international students still have a nervous few months / ahead of them they're one of the hardest / hit groups during the pandemic with many losing
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-23
+- 时间戳：01:28:18–01:28:33
+- 原句：another but it certainly is going to drop off in a big way bill the investigation out of china is still ongoing do you think this will be the full extent of the ramifications of that inquiry
+- 慢速拆解：another but it certainly is going to drop / off in a big way bill the investigation / out of china is still ongoing do you / think this will be the full extent of
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-23
+- 时间戳：01:46:53–01:47:08
+- 原句：live and ad free as australia face off against fierce rivals india get all the action from the one day internationals the t20s and the test series grandstand summer of cricket live on abc radio
+- 慢速拆解：live and ad free as australia face off / against fierce rivals india get all the action / from the one day internationals the t20s and / the test series grandstand summer of cricket live
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-24
+
+### 1
+
+- 日期：2026-09-24
+- 时间戳：00:08:32–00:08:48
+- 原句：final coronavirus patient from hospital and the government got out essentially a fire hose of cash to douse the flames of recession and try and create some green shoots in the economy yes in incredible figures coming out of the victorian government about what
+- 慢速拆解：final coronavirus patient from hospital and the government / got out essentially a fire hose of cash / to douse the flames of recession and try / and create some green shoots in the economy
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-24
+- 时间戳：00:20:04–00:20:21
+- 原句：the stadium itself in the last year of our property boom in 2017-18 land values in australia went up over 660 billion dollars in one single year now if just a tiny skerrick of that went back to government we'd be able to build all the
+- 慢速拆解：the stadium itself in the last year of / our property boom in 2017-18 land values in / australia went up over 660 billion dollars in / one single year now if just a tiny
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-24
+- 时间戳：00:49:31–00:49:46
+- 原句：dear humans we need to talk there's pollution in my air and plastic in my oceans my trees and animals are disappearing and my temperature is rising my climate is changing i think i can fix it but i can't fix it
+- 慢速拆解：dear humans we need to talk there's pollution / in my air and plastic in my oceans / my trees and animals are disappearing and my / temperature is rising my climate is changing i
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-24
+- 时间戳：01:02:30–01:02:47
+- 原句：japan's finest cinema and fauzi it's all for free it is amazing i'm really looking forward to this i mean you can watch this in the comfort from the comforts of your own couch making some beautiful japanese films as well one of my favorite documentaries on the tsujuki fish mar...
+- 慢速拆解：japan's finest cinema and fauzi it's all for / free it is amazing i'm really looking forward / to this i mean you can watch this / in the comfort from the comforts of your
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-24
+- 时间戳：01:19:32–01:19:49
+- 原句：does it send a strong enough message though to other telcos and corporations well i certainly hope so a 50 million dollar fine which we were aware of that they provisioned for that in their financials for 220 and that's got to be ratified by the federal court of course
+- 慢速拆解：does it send a strong enough message though / to other telcos and corporations well i certainly / hope so a 50 million dollar fine which / we were aware of that they provisioned for
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-24
+- 时间戳：01:39:49–01:40:04
+- 原句：louise ransom and she joins us now to talk more sport and lou the water polo players must be very excited because they're about to jump back in the pool for competition yeah that's right kath what a year 2020 has been for so many athletes and it's not going to be water polo as...
+- 慢速拆解：louise ransom and she joins us now to / talk more sport and lou the water polo / players must be very excited because they're about / to jump back in the pool for competition
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-25
+
+### 1
+
+- 日期：2026-09-25
+- 时间戳：00:03:02–00:03:18
+- 原句：numbers visiting the state now given victoria's success in containing its outbreak tasmanian authorities have reclassified the risk from medium to low travelers into tasmania will still have to register their details and like other arrivals will be health
+- 慢速拆解：numbers visiting the state now given victoria's success / in containing its outbreak tasmanian authorities have reclassified / the risk from medium to low travelers into / tasmania will still have to register their details
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“公共卫生与统计口径”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-25
+- 时间戳：00:22:08–00:22:25
+- 原句：able to unload their cargo it's not just a go slow it's it's a go incredibly slow and some of those ships have been there for many many months now yesterday or two days ago china's government claimed that inspections had found environmental
+- 慢速拆解：able to unload their cargo it's not just / a go slow it's it's a go incredibly / slow and some of those ships have been / there for many many months now yesterday or
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“政治主体与政策立场”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-25
+- 时间戳：00:30:55–00:31:11
+- 原句：island as authorities struggle to control the large bushfire that's expected to spread over the coming days the fire has already burned through 72 000 hectares of the world heritage listed ireland since it broke out last month just a reminder we are standing by to
+- 慢速拆解：island as authorities struggle to control the large / bushfire that's expected to spread over the coming / days the fire has already burned through 72 / 000 hectares of the world heritage listed ireland
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“天气、灾害与地点”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-25
+- 时间戳：00:57:36–00:57:54
+- 原句：china's a massive market isn't it yeah more than 1.2 billion dollars worth of australian wine was sold to china last year uh this year a huge amount of it was actually being exported to china up until recent restrictions the local industry
+- 慢速拆解：china's a massive market isn't it yeah more / than 1.2 billion dollars worth of australian wine / was sold to china last year uh this / year a huge amount of it was actually
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“经济指标与商业新闻”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-25
+- 时间戳：01:15:39–01:15:55
+- 原句：and the chief public health officer nicolas spurrier also said that uh the the investigation into hotel quarantine is ongoing and they're looking at a ventilation and movement right now that's not air conditioning conditioning but the ventilation and
+- 慢速拆解：and the chief public health officer nicolas spurrier / also said that uh the the investigation into / hotel quarantine is ongoing and they're looking at / a ventilation and movement right now that's not
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“司法、警方与法律表达”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-25
+- 时间戳：01:32:52–01:33:09
+- 原句：professional video gaming known as esports is a massive industry with big prize money and that's attracting match fixing there's been a big spike in reports of fraud with one of australia's highest profile teams targeted here's ian smith who's head of the esports integrity com...
+- 慢速拆解：professional video gaming known as esports is a / massive industry with big prize money and that's / attracting match fixing there's been a big spike / in reports of fraud with one of australia's
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“体育比分与人物”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-26
+
+### 1
+
+- 日期：2026-09-26
+- 时间戳：00:27:28–00:27:46
+- 原句：uh constant variable so maybe you you're wondering uh what is the difference between swift const co and st versus variable swift const or variable okay and once you search you'll find
+- 慢速拆解：uh constant variable so maybe you you're wondering / uh what is the difference between swift const / co and st versus variable swift const or / variable okay and once you search you'll find
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“变量、参数与属性”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-26
+- 时间戳：00:29:23–00:29:40
+- 原句：you okay i'm i might as much as i want to help you 24 7 i'm human i need to sleep right i'm not monitoring the chat all the time but chances are maybe when i'm sleeping somewhere someone else might be awake and they might see your message and once
+- 慢速拆解：you okay i'm i might as much as / i want to help you 24 7 i'm / human i need to sleep right i'm not / monitoring the chat all the time but chances
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“课堂组织与问答”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-26
+- 时间戳：00:57:34–00:57:51
+- 原句：things we've learned variables and constants we've learned operators we learned if else we've left switch we've learned function okay so what i'm gonna do is uh i'll type this out and let's try to write some examples for
+- 慢速拆解：things we've learned variables and constants we've learned / operators we learned if else we've left switch / we've learned function okay so what i'm gonna / do is uh i'll type this out and
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“函数调用与返回”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-26
+- 时间戳：01:10:04–01:10:20
+- 原句：hey hello everyone let's continue with the class let me share my screen making sure it's the right screen screen too okay and uh let's continue alright okay so in the first half we work through how the lab is gonna look like uh
+- 慢速拆解：hey hello everyone let's continue with the class / let me share my screen making sure it's / the right screen screen too okay and uh / let's continue alright okay so in the first
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“课堂流程与等待”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-26
+- 时间戳：01:22:22–01:22:53
+- 原句：see what your code does so once you have once you have written the variable and constant please give this uh please give this little blue uh blue play button a try okay full play button try
+- 慢速拆解：see what your code does so once you / have once you have written the variable and / constant please give this uh please give this / little blue uh blue play button a try
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“iOS 界面组件与状态”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-26
+- 时间戳：01:43:28–01:43:43
+- 原句：syntax error here let me delete that let's try to run that okay so now that we've run that if h is greater than 30 then we're gonna print opening linkedin finding jobs okay finding jobs and as you can see
+- 慢速拆解：syntax error here let me delete that let's / try to run that okay so now that / we've run that if h is greater than / 30 then we're gonna print opening linkedin finding
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“项目要求与调试”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-27
+
+### 1
+
+- 日期：2026-09-27
+- 时间戳：00:05:27–00:05:43
+- 原句：and the phone app the test is also very important because your app is designed for customers you need to make sure your app can run smoothly on different devices for different customers so test and prototyping is also very
+- 慢速拆解：and the phone app the test is also / very important because your app is designed for / customers you need to make sure your app / can run smoothly on different devices for different
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“课程术语与屏幕指代”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-27
+- 时间戳：00:17:33–00:17:49
+- 原句：okay for this subject we have some prerequisites we hope you have ever learned some object oriented programming and also i hope you are comfortable with coding because in this subject most of the time except designing our app
+- 慢速拆解：okay for this subject we have some prerequisites / we hope you have ever learned some object / oriented programming and also i hope you are / comfortable with coding because in this subject most
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“类、对象与继承”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-27
+- 时间戳：00:45:48–00:46:06
+- 原句：to access the data that is relevant to alice then after the system has obtained the data of alice then it will return to the screen this is how the apps work if general has
+- 慢速拆解：to access the data that is relevant to / alice then after the system has obtained the / data of alice then it will return to / the screen this is how the apps work
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“函数调用与返回”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-27
+- 时间戳：00:37:55–00:38:11
+- 原句：there is a discount for the academic use and this is but you need to pay this by yourself for our class it only has three or four months so you need to rent that
+- 慢速拆解：there is a discount for the academic use / and this is but you need to pay / this by yourself for our class it only / has three or four months so you need
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“课堂流程与等待”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-27
+- 时间戳：00:48:18–00:48:35
+- 原句：what is the relation between them and you need to figure this very clearly later i will show you this when we learn the navigation controller when we have multiple views how to toggle between all these pages how to
+- 慢速拆解：what is the relation between them and you / need to figure this very clearly later i / will show you this when we learn the / navigation controller when we have multiple views how
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“iOS 界面组件与状态”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-27
+- 时间戳：00:59:47–01:00:05
+- 原句：you can learn and master a storyboard you can listen to ui very quickly later maybe i will use well to one hour uh about sweet ui but most of the time we will just focus on the storyboard after we help you all the project information
+- 慢速拆解：you can learn and master a storyboard you / can listen to ui very quickly later maybe / i will use well to one hour uh / about sweet ui but most of the time
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“项目要求与调试”和自然语流分组。
+- 跟读次数建议：16 次
+
+## 2026-09-28
+
+### 1
+
+- 日期：2026-09-28
+- 时间戳：00:01:42–00:01:59
+- 原句：change or modify them but most of the time we just keep the default values for this vetted for this settings okay and now let's look at this page and generally this page can be um divided into
+- 慢速拆解：change or modify them but most of the / time we just keep the default values for / this vetted for this settings okay and now / let's look at this page and generally this
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“变量、参数与属性”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 2
+
+- 日期：2026-09-28
+- 时间戳：00:23:02–00:23:17
+- 原句：and the the full loop and some also the structures and classes this is what we will learn in the next lecture and also some how to handle the error when you
+- 慢速拆解：and the the full loop and some also / the structures and classes this is what we / will learn in the next lecture and also / some how to handle the error when you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“类、对象与继承”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 3
+
+- 日期：2026-09-28
+- 时间戳：00:22:42–00:22:59
+- 原句：what is that you can just follow these examples and try them in your program file and also you can see it also includes functions the control flow
+- 慢速拆解：what is that you can just follow these / examples and try them in your program file / and also you can see it also includes / functions the control flow
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“函数调用与返回”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 4
+
+- 日期：2026-09-28
+- 时间戳：00:23:02–00:23:17
+- 原句：and the the full loop and some also the structures and classes this is what we will learn in the next lecture and also some how to handle the error when you
+- 慢速拆解：and the the full loop and some also / the structures and classes this is what we / will learn in the next lecture and also / some how to handle the error when you
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“循环与控制流”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-28
+- 时间戳：00:56:30–00:56:47
+- 原句：are the body audio function you can define the actions the like what i said you can define the uh behaviors of the components in your screen you can define the behaviors one attempt a bubble
+- 慢速拆解：are the body audio function you can define / the actions the like what i said you / can define the uh behaviors of the components / in your screen you can define the behaviors
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“iOS 界面组件与状态”和自然语流分组。
+- 跟读次数建议：16 次
+
+### 6
+
+- 日期：2026-09-28
+- 时间戳：01:03:54–01:04:09
+- 原句：introduce to explain how to finish your assignment one please make sure you will join tomorrow's tutorial and follow our first assignment
+- 慢速拆解：introduce to explain how to finish your assignment / one please make sure you will join tomorrow's / tutorial and follow our first assignment
+- 连读 / 弱读提示：强读信息词，功能词和重启部分可能弱化；无原音频，此处为潜在规律。
+- 中文意思：训练“项目要求与调试”和自然语流分组。
+- 跟读次数建议：16 次
