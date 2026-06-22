@@ -577,3 +577,13 @@
 | reclassify the risk | 重新划分风险等级 | 2026-09-25：塔州把维州旅行风险由中等降为低 | Authorities reclassified the risk from medium to low. | 高 | 政策表达 |
 | a go-slow | 怠工式缓慢处理 | 2026-09-25：形容煤船在中国港口长期无法卸货 | It's not just a go-slow; it's going incredibly slowly. | 高 | 劳资与贸易表达 |
 | World Heritage-listed | 列入世界遗产名录的 | 2026-09-25：大火烧过世界遗产岛屿大片土地 | The fire burned through 72,000 hectares of the World Heritage-listed island. | 高 | 环境新闻表达 |
+| go generally available | 正式 GA，进入通用可用状态 | 2026-09-29：Code Quality 从 preview 进入 GA | The code quality toolkit is going to go generally available on July 20th. | 高 | 2026-09-29 新增，技术发布高频 |
+| active committer | 活跃提交者 | 2026-09-29：费用按启用仓库中的活跃提交者计算 | The license is charged per active committer. | 高 | 2026-09-29 新增，GitHub 计费口径 |
+| worktree / work tree | Git 工作树；同一仓库多个工作目录 | 2026-09-29：解释多个 agent session 独立工作 | Work trees are a Git feature. | 高 | 2026-09-29 重复强化 |
+| run something agentic | 运行一个 agentic 任务 | 2026-09-29：automations pane 定期触发任务 | We can set up regular triggers to run something agentic. | 高 | 2026-09-29 新增 |
+| predefined prompt | 预定义提示词 | 2026-09-29：security review command 的本质 | The security review command is a predefined prompt. | 高 | 2026-09-29 新增 |
+| isolate shell commands | 隔离 shell 命令 | 2026-09-29：sandbox 限制 agent 执行命令 | The sandbox isolates the shell commands that get run. | 高 | 2026-09-29 新增，安全边界 |
+| treat input as untrusted | 把输入视为不可信 | 2026-09-29：web content 和 GitHub issues 可能包含 prompt injection | Treat web content and issues as untrusted input. | 高 | 2026-09-29 新增，agent security 核心 |
+| governance layer | 治理层 | 2026-09-29：Foundry IQ 按权限控制知识访问 | Foundry IQ provides a unified governance layer. | 高 | 2026-09-29 重复强化 |
+| evaluator categories | 评估器类别 | 2026-09-29：Foundry 中比较模型和 agent 效果 | Evaluator categories help verify which model works better. | 高 | 2026-09-29 新增，agent evaluation |
+| one-shot implementation | 一次性实现 | 2026-09-29：plan mode 后 autopilot 直接实现 | A strong plan can lead to one-shot implementation. | 中 | 2026-09-29 新增 |
