@@ -7049,3 +7049,76 @@
 - 连读 / 弱读提示：`web search / issues / untrusted source` 三个重音块必须保住。
 - 中文意思：来自网页搜索和 GitHub issues 的内容都应作为不可信来源处理。
 - 跟读次数建议：20 次
+
+
+## 2026-09-30
+
+### 1
+
+- 日期：2026-09-30
+- 时间戳：00:00:44–00:01:04
+- 原句：today we're going to cover one specific topic around evaluation
+- 慢速拆解：today we're going to cover / one specific topic / around evaluation
+- 连读 / 弱读提示：`we're going to` 可能弱读成一团；重读 `specific topic` 和 `evaluation`。
+- 中文意思：今天会集中讲一个具体主题：评估。
+- 跟读次数建议：15 次
+
+### 2
+
+- 日期：2026-09-30
+- 时间戳：00:02:11–00:02:32
+- 原句：swapping a model is going to change your agent behavior
+- 慢速拆解：swapping a model / is going to change / your agent behavior
+- 连读 / 弱读提示：`is going to` 弱读；`model` 和 `agent behavior` 要强读区分对象。
+- 中文意思：替换模型会改变 agent 的行为。
+- 跟读次数建议：18 次
+
+### 3
+
+- 日期：2026-09-30
+- 时间戳：00:02:54–00:03:14
+- 原句：you have to have observability in place for evaluation to work
+- 慢速拆解：you have to have observability / in place / for evaluation to work
+- 连读 / 弱读提示：`have to have` 容易被压缩；核心是 `observability` 和 `evaluation`。
+- 中文意思：要让评估有效，必须先有可观测性基础。
+- 跟读次数建议：18 次
+
+### 4
+
+- 日期：2026-09-30
+- 时间戳：00:09:02–00:09:22
+- 原句：sometimes we don't really have a golden dataset
+- 慢速拆解：sometimes / we don't really have / a golden dataset
+- 连读 / 弱读提示：`don't really have a` 功能词弱化，`golden dataset` 要整体重读。
+- 中文意思：有时我们并没有黄金数据集。
+- 跟读次数建议：16 次
+
+### 5
+
+- 日期：2026-09-30
+- 时间戳：00:24:06–00:24:28
+- 原句：the accuracy of AI is a function of descriptions that are available
+- 慢速拆解：the accuracy of AI / is a function of / descriptions / that are available
+- 连读 / 弱读提示：`is a function of` 要作为固定表达读；不要把它拆成零散单词。
+- 中文意思：AI 的准确率取决于可用的数据描述。
+- 跟读次数建议：20 次
+
+### 6
+
+- 日期：2026-09-30
+- 时间戳：00:35:52–00:36:14
+- 原句：the one most important person needed is the subject matter expert
+- 慢速拆解：the one most important person needed / is the subject matter expert
+- 连读 / 弱读提示：`most important person needed` 信息密，`subject matter expert` 要整体读。
+- 中文意思：最关键的人是领域专家。
+- 跟读次数建议：18 次
+
+### 7
+
+- 日期：2026-09-30
+- 时间戳：01:00:00–01:00:21
+- 原句：unless you do manual you don't know what is required
+- 慢速拆解：unless you do manual / you don't know / what is required
+- 连读 / 弱读提示：`unless you`、`what is` 弱读；重读 `manual` 和 `required`。
+- 中文意思：除非先人工做过，否则不知道真正需要什么。
+- 跟读次数建议：18 次

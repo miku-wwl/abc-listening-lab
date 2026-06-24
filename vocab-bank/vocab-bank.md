@@ -587,3 +587,13 @@
 | governance layer | 治理层 | 2026-09-29：Foundry IQ 按权限控制知识访问 | Foundry IQ provides a unified governance layer. | 高 | 2026-09-29 重复强化 |
 | evaluator categories | 评估器类别 | 2026-09-29：Foundry 中比较模型和 agent 效果 | Evaluator categories help verify which model works better. | 高 | 2026-09-29 新增，agent evaluation |
 | one-shot implementation | 一次性实现 | 2026-09-29：plan mode 后 autopilot 直接实现 | A strong plan can lead to one-shot implementation. | 中 | 2026-09-29 新增 |
+| agent loop | agent 执行任务时的尝试、失败、重试循环 | 2026-09-30：解释 Codex 类工具如何完成任务 | The agent goes through an agent loop and tries again. | 高 | 2026-09-30 新增 |
+| foundational observability | 基础可观测性 | 2026-09-30：evaluation 需要 tracing/observability 作基础 | You need foundational observability for evaluation to work. | 高 | 2026-09-30 新增 |
+| LLM-as-judge | 用 LLM 作为评判器 | 2026-09-30：缺少黄金数据集时辅助判断输出好坏 | LLM-as-judge can help when there is no golden dataset. | 高 | 2026-09-30 新增 |
+| golden dataset | 黄金数据集、标准答案集 | 2026-09-30：用来计算准确率或验证模型输出 | We need a golden dataset for this task. | 高 | 2026-09-30 新增 |
+| a function of | 取决于……；是……的函数 | 2026-09-30：准确率取决于可用描述质量 | Accuracy is a function of the descriptions available. | 高 | 2026-09-30 新增 |
+| subject matter expert | 领域专家 | 2026-09-30：评估定性任务时需要会计/CFO 等专家 | The subject matter expert defines what good looks like. | 高 | 2026-09-30 重复强化 |
+| confidence interval | 置信区间 | 2026-09-30：讨论准确率和 latency 的评估结果 | The report includes a confidence interval. | 中 | 2026-09-30 新增 |
+| beta release | 测试发布、Beta 版本 | 2026-09-30：用真实用户反馈校准产品和评估 | A beta release helps reveal what users actually do. | 高 | 2026-09-30 新增 |
+| context caching | 上下文缓存 | 2026-09-30：Q&A 中讨论是否影响 latency 和 performance | Context caching mostly affects latency and performance. | 中 | 2026-09-30 新增 |
+| sampling | 抽样 | 2026-09-30：用部分数据做人类评估或质量检查 | Use sampling thoughtfully when manual review is not scalable. | 高 | 2026-09-30 重复强化 |
